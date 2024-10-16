@@ -1,0 +1,121 @@
+[Adblock Plus]
+! Title: HaGeZi's The World's Most Abused TLDs
+! Description: The Top Most Abused Top Level Domains. Only TLDs that do not have any exclusions!
+! Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
+!         https://radar.cloudflare.com/email-security
+!         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+!         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+! Homepage: https://github.com/hagezi/dns-blocklists
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Expires: 1 day
+! Last modified: 15 Oct 2024 08:48 UTC
+! Version: 2024.1015.0848.45
+! Syntax: AdBlock
+! Number of latin TLDs: 105/198
+!
+||actor^
+||auction^
+||autos^
+||baby^
+||band^
+||bet^
+||bid^
+||bingo^
+||boats^
+||bond^
+||boo^
+||boston^
+||boutique^
+||builders^
+||cam^
+||careers^
+||cash^
+||charity^
+||christmas^
+||claims^
+||clothing^
+||cool^
+||coupons^
+||cymru^
+||dance^
+||dating^
+||dental^
+||eco^
+||expert^
+||fashion^
+||finance^
+||financial^
+||fishing^
+||fitness^
+||forsale^
+||fund^
+||gent^
+||gives^
+||giving^
+||gold^
+||golf^
+||gratis^
+||green^
+||hair^
+||haus^
+||healthcare^
+||international^
+||kim^
+||lat^
+||llp^
+||loan^
+||loans^
+||love^
+||luxe^
+||management^
+||markets^
+||men^
+||miami^
+||mom^
+||motorcycles^
+||name^
+||navy^
+||non^
+||okinawa^
+||ong^
+||parts^
+||photo^
+||pink^
+||poker^
+||post^
+||promo^
+||realtor^
+||recipes^
+||rehab^
+||rent^
+||restaurant^
+||review^
+||rich^
+||rodeo^
+||rugby^
+||sale^
+||sew^
+||shopping^
+||skin^
+||sport^
+||style^
+||support^
+||tattoo^
+||tax^
+||taxi^
+||tokyo^
+||trading^
+||uno^
+||vegas^
+||ventures^
+||vin^
+||vision^
+||vlaanderen^
+||vote^
+||voto^
+||wang^
+||webcam^
+||wedding^
+||xin^
+||you^

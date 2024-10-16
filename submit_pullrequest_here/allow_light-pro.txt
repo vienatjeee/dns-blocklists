@@ -1,0 +1,54 @@
+# Unblocking for relaxed and balanced lists (non-aggressive) only.
+
+# https://github.com/hagezi/dns-blocklists/issues/3573
+heartbeats.prd.data.s.joyn.de
+# https://github.com/AdguardTeam/AdguardFilters/issues/183277
+event-collector.prd.data.s.joyn.de
+event-collector.stg.data.s.joyn.de
+
+# Referral
+engagements.appsflyer.com
+
+# Slow loading of the top images (tiles) in the new Windows 11 App Store
+*.bat.bing.com
+
+# Office365 - Save documents to the cloud
+# https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+ecs.nel.measure.office.net
+
+# Videos on https://www.tv8.it/streaming
+cdn.speedcurve.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2754
+telemetry.banuba.cloud
+stats.sdk.banuba.net
+
+# https://github.com/hagezi/dns-blocklists/issues/2757
+sdk-01.moengage.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2437#issuecomment-2053875051
+a0.app.xiaomi.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2582
+karavel.112.2o7.net
+
+# Unsubscribe from newsletters (e.g. RND)
+api.pushwoosh.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2260
+webhook.logentries.com
+
+# Possible fix for the data octopus Tiktok: 
+#  - You can't follow anyone
+#  - Random content doesn't load
+#  - Profiles remains empty
+#  - The app shows a network error
+#  - The same videos are often suggested
+# These errors are not reproducible and occur very rarely.
+# This Tiktoktupus app is the absolute privacy plague!
+# The domains will remain blocked in the native and aggressive lists for the time being.
+log*-applog*.tiktok*.com
+log*-checkout*.tiktok*.com
+log*-normal*.tiktok*.com
+log*-platform*.tiktok*.com
+log*-tmp*.tiktok*.com

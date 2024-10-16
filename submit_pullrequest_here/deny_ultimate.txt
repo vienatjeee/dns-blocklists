@@ -1,0 +1,125 @@
+# Domains to be added only to the ultimate list.
+
+# https://github.com/hagezi/dns-blocklists/issues/2676
+# https://github.com/hagezi/dns-blocklists/issues/2791
+# https://github.com/hagezi/dns-blocklists/issues/2803
+# https://github.com/hagezi/dns-blocklists/issues/3264
+crash-analysis.mozilla.com
+crash-reports-xpsp2.mozilla.com
+crash-reports-xpsp2s.mozilla.com
+crash-reports.allizom.org
+crash-reports.build.mozilla.org
+crash-reports.maven.mozilla.org
+crash-reports.mozilla.com
+crash-reports.nightly.mozilla.org
+crash-reports.security.mozilla.org
+crash-reports.stage.mozilla.com
+crash-stacks.mozilla.com
+crash-stats-dev.allizom.org
+crash-stats-django.allizom.org
+crash-stats-django.mozilla.org
+crash-stats-new-dev.allizom.org
+crash-stats.allizom.org
+crash-stats.mozilla.com
+crash-stats.mozilla.org
+crash-stats.stage.mozilla.com
+crash.addons.mozilla.org
+crash.mozilla.com
+crash.planet.mozilla.org
+crash.reporting.build.mozilla.org
+crash.reporting.mozilla.org
+crash.reporting.planet.mozilla.org
+crash.reporting.svn.mozilla.org
+crash.services.mozilla.com
+crash.svn.mozilla.org
+crash.vpn.mozilla.org
+crashplan.addons.mozilla.org
+crashplan.planet.mozilla.org
+crashplan.svn.mozilla.org
+crashplan.vpn.mozilla.org
+crashstats.mozilla.com
+socorro.nonprod.webservices.mozgcp.net
+socorro.prod.webservices.mozgcp.net
+
+# https://github.com/hagezi/dns-blocklists/issues/3166
+fscdn.eppo.cloud
+
+# https://github.com/hagezi/dns-blocklists/issues/3006
+device-api.urbanairship.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2945
+basicattentiontoken.org
+creators.brave.com
+publishers.brave.com
+rewards.brave.com
+rewards.brave.software
+rewards.bravesoftware.com
+# https://github.com/hagezi/dns-blocklists/issues/3261
+rewards-stg.bravesoftware.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2900
+datasaver.googleapis.com
+feedback-pa.googleapis.com
+feedback-pa.clients6.google.com
+locationhistory-pa.googleapis.com
+locationhistoryaggregates-pa.googleapis.com
+searchpromo-pa.googleapis.com
+searchlabspartnerservice-pa.googleapis.com
+xgapromomanager-pa.googleapis.com
+glsfrontend-pa.googleapis.com
+localservices.googleapis.com
+scone-pa.clients6.google.com
+scone-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2179224519
+lamssettings-pa.googleapis.com
+infinitedata-pa.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2179314278
+audit.googleapis.com
+appenginereporting.googleapis.com
+chromeuxreport.googleapis.com
+cloudaudit.googleapis.com
+cloudlatencytest.googleapis.com
+cloudprofiler.googleapis.com
+cloudtrace.googleapis.com
+content-partnersbadge-pa.googleapis.com
+dfareporting.googleapis.com
+doubleclickbidmanager.googleapis.com
+doubleclicksearch.googleapis.com
+federatedcompute-pa.googleapis.com
+firebasepredictions.googleapis.com
+firewallinsights.googleapis.com
+gapromomanager-pa.googleapis.com
+xgapromomanager-pa.googleapis.com
+logging.googleapis.com
+marketingplatformadmin.googleapis.com
+meshtelemetry.googleapis.com
+mobilenetworkscoring-pa.googleapis.com
+monitoring.googleapis.com
+pagespeedmobilizer.com
+pagespeedonline.googleapis.com
+partners-json.googleapis.com
+recommendationengine.googleapis.com
+recommender.googleapis.com
+stackdriver.googleapis.com
+surveys.googleapis.com
+tagmanager.googleapis.com
+timeseriesinsights.googleapis.com
+wirelessdevicestats.googleapis.com
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2187152126
+tracedepot-pa.googleapis.com
+https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2319169147
+optimizationguide-pa.googleapis.com
+
+# Already blocked via the base domains in the build DB
+geomobileservices-pa.googleapis.com
+playmoviesdfe-pa.googleapis.com
+semanticlocation-pa.googleapis.com
+userlocation.googleapis.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2730
+lf-cdn-tos.bytescm.com
+
+log.tailscale.io
+
+# https://github.com/hagezi/dns-blocklists/issues/2520
+a.klaviyo.com

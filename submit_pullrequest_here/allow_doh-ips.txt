@@ -1,0 +1,21 @@
+# IPs to be removed from the DoH IP list.
+
+# ideas.mozilla.org
+35.190.14.201
+
+# cloudflare.com
+104.16.132.229
+104.16.133.229
+
+44.208.124.139
+
+# https://github.com/hagezi/dns-blocklists/issues/2799
+37.19.207.34
+
+172.67.139.99
+172.64.80.1
+104.16.0.132
+
+# https://github.com/hagezi/dns-blocklists/issues/2455
+# cname.vercel-dns.com, breaks a lot of sites
+76.76.21

@@ -1,0 +1,13 @@
+# Domains to be removed from the tif and tif medium/mini list.
+
+# https://github.com/hagezi/dns-blocklists/issues/3385
+crash.syncthing.net
+
+# https://github.com/hagezi/dns-blocklists/issues/2436
+keen.com
+
+# Not malicious, analytics, moved to normal lists
+analytics.arpae.it
+www.arpae.it # CNAME
+
+jjpool.fr

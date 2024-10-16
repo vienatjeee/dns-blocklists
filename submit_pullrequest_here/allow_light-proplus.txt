@@ -1,0 +1,49 @@
+# Unblocking for relaxed, balanced and aggressive (pro++) lists only
+
+# Adblock detection on bild.de and others
+tags.tiqcdn.com
+tags-eu.tiqcdn.com
+www.asadcdn.com
+cdn.opecloud.com
+
+# https://github.com/hagezi/dns-blocklists/issues/3610
+cstat.cdn-apple.com
+cstat-lb.apple.com.akadns.net
+cstat.g.aaplimg.com
+
+# https://github.com/hagezi/dns-blocklists/issues/3599
+px-conf.perimeterx.net
+
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2319169147
+optimizationguide-pa.googleapis.com 
+
+# https://github.com/hagezi/dns-blocklists/issues/3521
+captcha.px-cdn.net
+captcha.px-cloud.net
+client.px-cdn.net
+client.px-cloud.net
+
+# Whatsapp Avatars and Helpcenter
+graph.whatsapp.com
+graph.whatsapp.net
+
+# https://github.com/hagezi/dns-blocklists/issues/3025
+lloydsbankinggroup.*.omtrdc.net
+adobetarget.data.adobedc.net
+*.lloydsbankinggroup.com.data.adobedc.net
+
+# https://github.com/hagezi/dns-blocklists/issues/3023
+seat.sc.omtrdc.net
+
+# https://github.com/hagezi/dns-blocklists/issues/2956
+centricabritishgas.sc.omtrdc.net
+
+# https://github.com/hagezi/dns-blocklists/issues/3007
+wingify.com
+
+# https://github.com/hagezi/dns-blocklists/issues/2853
+fundingchoices.google.com
+fundingchoicesmessages.google.com # Breaks also some mobile Apps/Games
+
+# API for Developers
+api.bigdatacloud.net

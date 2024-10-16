@@ -1,0 +1,25 @@
+{
+  "group": {
+    "group": "Analytics allow",
+    "action": {
+      "do": 1,
+      "status": 1
+    }
+  },
+  "rules": [
+    {
+      "PK": "analytics.controld.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*-dnsotls-ds.metric.gstatic.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    }
+  ]
+}
