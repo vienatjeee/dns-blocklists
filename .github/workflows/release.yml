@@ -41,7 +41,7 @@ jobs:
         run: |
           baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
           urls=""
-          for f in `find . -name "*.txt" -o -name "*.pac" -type f`; do
+          for f in `find adblock controld dnsmasq domains hosts ips pac rpz wildcard -name "*.txt" -o -name "*.pac" -o -name "*.json" -type f`; do
             urls+="${baseUrl}/${f},"
           done
           echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
