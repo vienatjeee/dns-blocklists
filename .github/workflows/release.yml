@@ -22,8 +22,8 @@ jobs:
       - name: Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          tag: ${{ steps.generate_release_tag.outputs.release_tag }}
-          name: ${{ steps.generate_release_tag.outputs.release_tag }}
+          tag: ${{ env.release_tag }}
+          name: ${{ env.release_tag }}
 
   purge:
     runs-on: ubuntu-latest
