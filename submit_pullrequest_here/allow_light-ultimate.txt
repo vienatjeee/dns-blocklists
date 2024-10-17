@@ -16,7 +16,9 @@ mtv.video-tracking.a2d.tv
 
 # Xiaomi newsfeed
 *.newsfeed.api.intl.miui.com
-# Xisomi games widget
+*.api.newsfeed.intl.miui.com
+
+# Xiaomi games widget
 *.h5.app.intl.miui.com
 
 # Images in mails, unsubscribe from newsletters, referral
