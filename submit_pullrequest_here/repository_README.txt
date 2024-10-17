@@ -79,12 +79,13 @@ Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking
 > [!NOTE]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** light_dh domains/hosts - light_cp compressed domains
+**Entries:** light_dh domains/hosts - light_dhc compressed hosts - light_cp compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/light.txt) [Mirror](lnkgl_d/light.txt) [Mirror](lnkjd_d/light.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [Link](lnkgh_h/light.txt) [Mirror](lnkgl_h/light.txt) [Mirror](lnkjd_h/light.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile, Windows |
+| Hosts | [Link](lnkgh_h/light.txt) [Mirror](lnkgl_h/light.txt) [Mirror](lnkjd_h/light.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts<br>Compressed | [Link](lnkgh_h/light-compressed.txt) [Mirror](lnkgl_h/light-compressed.txt) [Mirror](lnkjd_h/light-compressed.txt) | Hostfile, Linux, Windows |
 | Adblock | [Link](lnkgh_a/light.txt) [Mirror](lnkgl_a/light.txt) [Mirror](lnkjd_a/light.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | DNSMasq | [Link](lnkgh_m/light.txt) [Mirror](lnkgl_m/light.txt) [Mirror](lnkjd_m/light.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/light.txt) [Mirror](lnkgl_w/light.txt) [Mirror](lnkjd_w/light.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
@@ -99,12 +100,13 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 > [!NOTE]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** multi_dh domains/hosts - multi_cp compressed domains
+**Entries:** multi_dh domains/hosts - multi_dhc compressed hosts - multi_cp compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/multi.txt) [Mirror](lnkgl_d/multi.txt) [Mirror](lnkjd_d/multi.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [Link](lnkgh_h/multi.txt) [Mirror](lnkgl_h/multi.txt) [Mirror](lnkjd_h/multi.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile, ~~Windows~~ (too big!) |
+| Hosts | [Link](lnkgh_h/multi.txt) [Mirror](lnkgl_h/multi.txt) [Mirror](lnkjd_h/multi.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts<br>Compressed | [Link](lnkgh_h/multi-compressed.txt) [Mirror](lnkgl_h/multi-compressed.txt) [Mirror](lnkjd_h/multi-compressed.txt) | Hostfile, Linux, Windows |
 | Adblock | [Link](lnkgh_a/multi.txt) [Mirror](lnkgl_a/multi.txt) [Mirror](lnkjd_a/multi.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | DNSMasq | [Link](lnkgh_m/multi.txt) [Mirror](lnkgl_m/multi.txt) [Mirror](lnkjd_m/multi.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/multi.txt) [Mirror](lnkgl_w/multi.txt) [Mirror](lnkjd_w/multi.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
@@ -115,12 +117,13 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 
 Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".
 
-**Entries:** pro_dh domains/hosts - pro_cp compressed domains
+**Entries:** pro_dh domains/hosts - pro_dhc compressed hosts - pro_cp compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/pro.txt) [Mirror](lnkgl_d/pro.txt) [Mirror](lnkjd_d/pro.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [Link](lnkgh_h/pro.txt) [Mirror](lnkgl_h/pro.txt) [Mirror](lnkjd_h/pro.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile, ~~Windows~~ (too big!) |
+| Hosts | [Link](lnkgh_h/pro.txt) [Mirror](lnkgl_h/pro.txt) [Mirror](lnkjd_h/pro.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts<br>Compressed | [Link](lnkgh_h/pro-compressed.txt) [Mirror](lnkgl_h/pro-compressed.txt) [Mirror](lnkjd_h/pro-compressed.txt) | Hostfile, Linux, Windows |
 | Adblock | [Link](lnkgh_a/pro.txt) [Mirror](lnkgl_a/pro.txt) [Mirror](lnkjd_a/pro.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | DNSMasq | [Link](lnkgh_m/pro.txt) [Mirror](lnkgl_m/pro.txt) [Mirror](lnkjd_m/pro.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/pro.txt) [Mirror](lnkgl_w/pro.txt) [Mirror](lnkjd_w/pro.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
@@ -148,12 +151,13 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 > [!NOTE]
 > More aggressive version of the Multi PRO blocklist. It may contain a few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!
 
-**Entries:** proplus_dh domains/hosts - proplus_cp compressed domains
+**Entries:** proplus_dh domains/hosts - proplus_dhc compressed hosts - proplus_cp compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/pro.plus.txt) [Mirror](lnkgl_d/pro.plus.txt) [Mirror](lnkjd_d/pro.plus.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [Link](lnkgh_h/pro.plus.txt) [Mirror](lnkgl_h/pro.plus.txt) [Mirror](lnkjd_h/pro.plus.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile, ~~Windows~~ (too big!) |
+| Hosts | [Link](lnkgh_h/pro.plus.txt) [Mirror](lnkgl_h/pro.plus.txt) [Mirror](lnkjd_h/pro.plus.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts<br>Compressed | [Link](lnkgh_h/pro.plus-compressed.txt) [Mirror](lnkgl_h/pro.plus-compressed.txt) [Mirror](lnkjd_h/pro.plus-compressed.txt) | Hostfile, Linux, Windows |
 | Adblock | [Link](lnkgh_a/pro.plus.txt) [Mirror](lnkgl_a/pro.plus.txt) [Mirror](lnkjd_a/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | DNSMasq | [Link](lnkgh_m/pro.plus.txt) [Mirror](lnkgl_m/pro.plus.txt) [Mirror](lnkjd_m/pro.plus.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/pro.plus.txt) [Mirror](lnkgl_w/pro.plus.txt) [Mirror](lnkjd_w/pro.plus.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
@@ -184,12 +188,13 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 > [!WARNING]
 > META trackers are blocked in Ultimate. This restricts the use of Facebook and Facebook Messenger apps. Furthermore, the Whatsapp graph trackers are blocked, which leads to restrictions when creating avatars and using the in-app helpcenter. Otherwise, blocking has no effect on Whatsapp functionalities. To use META apps with Ultimate, unblock the following domains if necessary: [META Tracker](share/facebook.txt)
 
-**Entries:** ultimate_dh domains/hosts - ultimate_cp compressed domains
+**Entries:** ultimate_dh domains/hosts - ultimate_dhc compressed hosts - ultimate_cp compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/ultimate.txt) [Mirror](lnkgl_d/ultimate.txt) [Mirror](lnkjd_d/ultimate.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [Link](lnkgh_h/ultimate.txt) [Mirror](lnkgl_h/ultimate.txt) [Mirror](lnkjd_h/ultimate.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile, ~~Windows~~ (too big!) |
+| Hosts | [Link](lnkgh_h/ultimate.txt) [Mirror](lnkgl_h/ultimate.txt) [Mirror](lnkjd_h/ultimate.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts<br>Compressed | [Link](lnkgh_h/ultimate-compressed.txt) [Mirror](lnkgl_h/ultimate-compressed.txt) [Mirror](lnkjd_h/ultimate-compressed.txt) | Hostfile, Linux, Windows |
 | Adblock | [Link](lnkgh_a/ultimate.txt) [Mirror](lnkgl_a/ultimate.txt) [Mirror](lnkjd_a/ultimate.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
 | DNSMasq | [Link](lnkgh_m/ultimate.txt) [Mirror](lnkgl_m/ultimate.txt) [Mirror](lnkjd_m/ultimate.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/ultimate.txt) [Mirror](lnkgl_w/ultimate.txt) [Mirror](lnkjd_w/ultimate.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
@@ -275,12 +280,13 @@ A blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** tif_dh domains/hosts - tif_cp compressed domains
+**Entries:** tif_dh domains/hosts - tif_dhc compressed hosts - tif_cp compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/tif.txt) [Mirror](lnkgl_d/tif.txt) [Mirror](lnkjd_d/tif.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [Link](lnkgh_h/tif.txt) [Mirror](lnkgl_h/tif.txt) [Mirror](lnkjd_h/tif.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile, ~~Windows~~ (too big!) |
+| Hosts | [Link](lnkgh_h/tif.txt) [Mirror](lnkgl_h/tif.txt) [Mirror](lnkjd_h/tif.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts<br>Compressed | [Link](lnkgh_h/tif-compressed.txt) [Mirror](lnkgl_h/tif-compressed.txt) [Mirror](lnkjd_h/tif-compressed.txt) | Hostfile, Linux, Windows |
 | Adblock | [Link](lnkgh_a/tif.txt) [Mirror](lnkgl_a/tif.txt) [Mirror](lnkjd_a/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
 | DNSMasq | [Link](lnkgh_m/tif.txt) [Mirror](lnkgl_m/tif.txt) [Mirror](lnkjd_m/tif.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/tif.txt) [Mirror](lnkgl_w/tif.txt) [Mirror](lnkjd_w/tif.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
@@ -387,12 +393,13 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** bypassdns_dh domains/hosts - bypassdns_cp compressed domains
+**Entries:** bypassdns_dh domains/hosts - bypassdns_dhc compressed hosts - bypassdns_cp compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/doh.txt) [Mirror](lnkgl_d/doh.txt) [Mirror](lnkjd_d/doh.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [Link](lnkgh_h/doh.txt) [Mirror](lnkgl_h/doh.txt) [Mirror](lnkjd_h/doh.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile, Windows |
+| Hosts | [Link](lnkgh_h/doh.txt) [Mirror](lnkgl_h/doh.txt) [Mirror](lnkjd_h/doh.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts<br>Compressed | [Link](lnkgh_h/doh-compressed.txt) [Mirror](lnkgl_h/doh-compressed.txt) [Mirror](lnkjd_h/doh-compressed.txt) | Hostfile, Linux, Windows |
 | Adblock | [Link](lnkgh_a/doh.txt) [Mirror](lnkgl_a/doh.txt) [Mirror](lnkjd_a/doh.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | DNSMasq | [Link](lnkgh_m/doh.txt) [Mirror](lnkgl_m/doh.txt) [Mirror](lnkjd_m/doh.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/doh.txt) [Mirror](lnkgl_w/doh.txt) [Mirror](lnkjd_w/doh.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
