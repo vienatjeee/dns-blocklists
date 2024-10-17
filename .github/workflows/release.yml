@@ -29,7 +29,29 @@ jobs:
         with:
           tag: ${{ steps.generate_release_tag.outputs.release_tag }}
           name: ${{ steps.generate_release_tag.outputs.release_tag }}
-          
+
+  purge-jsdelivr-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: URLs
+        id: purge_urls
+        run: |
+          baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
+          urls=""
+          for f in `find . -name "*.txt" -o -name "*.pac" -type f`; do
+            urls+="${baseUrl}/${f},"
+          done
+          echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
+
+      - name: Purge
+        uses: egad13/purge-jsdelivr-cache@v1.1.0
+        with:
+          url: ${{ steps.purge_urls.outputs.urls }}
+    needs: release
+         
   releasecleanup:
     name: ReleaseCleanup
     runs-on: ubuntu-latest
