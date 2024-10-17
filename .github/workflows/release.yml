@@ -30,7 +30,7 @@ jobs:
           tag: ${{ steps.generate_release_tag.outputs.release_tag }}
           name: ${{ steps.generate_release_tag.outputs.release_tag }}
 
-  purge-jsdelivr-cache:
+  purge:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -64,7 +64,7 @@ jobs:
           release-drop-tag: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
-    needs: release
+    needs: [release, purge]
     
   workflowcleanup:
     name: WorkflowCleanup
@@ -77,4 +77,4 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 1
           keep_minimum_runs: 1
-    needs: [release, releasecleanup]
+    needs: [release, purge, releasecleanup]
