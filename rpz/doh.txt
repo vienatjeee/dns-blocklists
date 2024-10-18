@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729117500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729203360 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 16 Oct 2024 22:25 UTC
-; Version: 2024.1016.2225.02
+; Last modified: 17 Oct 2024 22:16 UTC
+; Version: 2024.1017.2216.11
 ; Syntax: RPZ
-; Number of entries: 2834
+; Number of entries: 2826
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -436,8 +436,6 @@ dot.libredns.gr.com CNAME .
 *.dot.libredns.gr.com CNAME .
 adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
-dns.hannielzhang.com CNAME .
-*.dns.hannielzhang.com CNAME .
 resolver-eu.haringstad.com CNAME .
 *.resolver-eu.haringstad.com CNAME .
 dns.hellozhao.com CNAME .
@@ -500,8 +498,6 @@ dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 adguard.konikoni428.com CNAME .
 *.adguard.konikoni428.com CNAME .
-dns.kugoapps.com CNAME .
-*.dns.kugoapps.com CNAME .
 dns.lepilleur.com CNAME .
 *.dns.lepilleur.com CNAME .
 dns2.lezainski.com CNAME .
@@ -818,8 +814,6 @@ dns.dnshome.de CNAME .
 *.dns.dnshome.de CNAME .
 dukun.de CNAME .
 *.dukun.de CNAME .
-dns.dyn1.de CNAME .
-*.dns.dyn1.de CNAME .
 opennic1.eth-services.de CNAME .
 *.opennic1.eth-services.de CNAME .
 dns.farshidhakimy.de CNAME .
@@ -1860,8 +1854,6 @@ kiri.nonexiste.net CNAME .
 *.kiri.nonexiste.net CNAME .
 dns.novg.net CNAME .
 *.dns.novg.net CNAME .
-dnscache0.ns71.net CNAME .
-*.dnscache0.ns71.net CNAME .
 dns.nullgate.net CNAME .
 *.dns.nullgate.net CNAME .
 dns.ofdoom.net CNAME .

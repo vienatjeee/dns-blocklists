@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Oct 2024 22:23 UTC
-# Version: 2024.1016.2223.25
+# Last modified: 17 Oct 2024 22:14 UTC
+# Version: 2024.1017.2214.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3422
+# Number of entries: 3418
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -915,7 +915,6 @@ local=/tungdnsne.duckdns.org/
 local=/vpschito.duckdns.org/
 local=/dukun.de/
 local=/dutchproxy.nl/
-local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/gustamadh.dynv6.net/
 local=/vpn.dzarlax.dev/
@@ -1259,7 +1258,6 @@ local=/dns.hanahira.dev/
 local=/adguard.haneulo.com/
 local=/dns.hanmey.de/
 local=/hanniel.tech/
-local=/dns.hannielzhang.com/
 local=/happy-vpn.com/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
@@ -1558,7 +1556,6 @@ local=/adblock.krctech.dev/
 local=/xray.krnl.eu/
 local=/kryptovpn.kryptotel.net/
 local=/adguard.kss.ovh/
-local=/dns.kugoapps.com/
 local=/dns.kukal.cz/
 local=/dns.kuuhaku.moe/
 local=/kx-97795-tr.xyz/
@@ -1938,7 +1935,6 @@ local=/nqma.net/
 local=/ns3.com/
 local=/ns3.cx/
 local=/ns3.link/
-local=/dnscache0.ns71.net/
 local=/ns8469rfvth42.xyz/
 local=/nslookup.io/
 local=/dns.nullgate.net/

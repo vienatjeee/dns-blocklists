@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Oct 2024 22:28 UTC
-# Version: 2024.1016.2228.37
+# Last modified: 17 Oct 2024 22:19 UTC
+# Version: 2024.1017.2219.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9899
+# Number of entries: 9900
 #
 local=/tracker.guguan.000.pe/
 local=/blink-stresser.000webhostapp.com/
@@ -9653,6 +9653,7 @@ local=/yesmovies.vc/
 local=/yesmovies.zone/
 local=/yesnetcommunication.com/
 local=/yeyemo.info/
+local=/ygg.re/
 local=/yggtorrent.com/
 local=/yggtorrent.fi/
 local=/yggtorrent.is/

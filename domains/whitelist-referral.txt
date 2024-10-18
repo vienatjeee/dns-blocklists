@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 16 Oct 2024 21:47 UTC
-# Version: 2024.1016.2147.01
+# Last modified: 17 Oct 2024 21:38 UTC
+# Version: 2024.1017.2138.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2048
+# Number of entries: 2050
 #
 l.1mp.ru
 t.1und1.de
@@ -805,6 +805,7 @@ alt31.adservice.google.com
 www.adservice.google.com
 www.googleadservices.com
 gopjn.com
+gotrackier.com
 track.grove.co
 webflow.grsm.io
 creators.gumroad.com
@@ -1379,6 +1380,7 @@ mkto-h0035.com
 mkto-h0043-2.com
 fls.mkto-h0043-2.com
 mkto-h0125.com
+mkto-h0143.com
 mkto-h0163.com
 mkto-i0028.com
 mkto-i0106.com

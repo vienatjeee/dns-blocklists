@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Oct 2024 23:24 UTC
-# Version: 2024.1016.2324.46
+# Last modified: 17 Oct 2024 23:15 UTC
+# Version: 2024.1017.2315.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12250
+# Number of entries: 12248
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -757,7 +757,6 @@ local=/autoreifen-lemke.com/
 local=/autoreifen-miller.com/
 local=/autoreifen-mohr.com/
 local=/autoreifen-pfaff.com/
-local=/autoreifen-pohl.shop/
 local=/autoreifen-rohde.com/
 local=/autoreifen-schade.shop/
 local=/autoreifen-scheffler.com/
@@ -1146,6 +1145,7 @@ local=/bestfiinanz.com/
 local=/bestgamestopshop.de/
 local=/bestgenericonline.com/
 local=/bestgenericpills24.com/
+local=/besthunny.com/
 local=/bestknifeworld.com/
 local=/bestmarkt24.com/
 local=/bestmedicineservice.com/
@@ -4017,6 +4017,7 @@ local=/freva-handel.de/
 local=/frey-versand.net/
 local=/fribbler.de/
 local=/friboo-de.com/
+local=/fricke-reifenversand.shop/
 local=/friedrich-betz.de/
 local=/friedshop.com/
 local=/frilufgebote.de/
@@ -7673,7 +7674,6 @@ local=/nuran24.de/
 local=/nurseryfurnitures.com/
 local=/nursingaccessoriesstore.com/
 local=/nutripurde.com/
-local=/nuubu.com/
 local=/nuxxu.de/
 local=/nvgtndeutschland.de/
 local=/nvgtnosterreich.at/
@@ -10134,7 +10134,6 @@ local=/starwarslover.com/
 local=/statehills.com/
 local=/stationeryopt.com/
 local=/stationerythe.com/
-local=/stationsparty.de/
 local=/staubsauger-deals.com/
 local=/staubsauger-spar-deals.com/
 local=/staubsaugerhaus.de/
@@ -11567,7 +11566,6 @@ local=/vibeheat.com/
 local=/vibekehvilsom.com/
 local=/vibramshoes-usa.com/
 local=/viceregale.com/
-local=/vicidola.com/
 local=/vicotoris.com/
 local=/victoryshop.shop/
 local=/videforex.com/
