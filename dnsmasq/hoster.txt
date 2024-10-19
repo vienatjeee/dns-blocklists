@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Oct 2024 22:27 UTC
-# Version: 2024.1016.2227.29
+# Last modified: 19 Oct 2024 15:18 UTC
+# Version: 2024.1019.1518.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1856
+# Number of entries: 1858
 #
 local=/000a.de/
 local=/000space.com/
@@ -1179,6 +1179,7 @@ local=/madmouseblog.com/
 local=/mail.ht/
 local=/maktoobblog.com/
 local=/maminforum.com/
+local=/marshost.info/
 local=/master.com/
 local=/mastertopforum.org/
 local=/mdkblog.com/
@@ -1816,6 +1817,7 @@ local=/xaper.com/
 local=/xbl0g.com/
 local=/xblog.in/
 local=/xbloggers.com/
+local=/xl.lc/
 local=/xl8.eu/
 local=/xml.in/
 local=/xn.pl/

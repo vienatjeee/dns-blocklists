@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729203540 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729338420 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 17 Oct 2024 22:19 UTC
-; Version: 2024.1017.2219.41
+; Last modified: 19 Oct 2024 11:47 UTC
+; Version: 2024.1019.1147.31
 ; Syntax: RPZ
-; Number of entries: 19800
+; Number of entries: 20266
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -79,6 +79,8 @@ putlockers.ag CNAME .
 *.putlockers.ag CNAME .
 rezka.ag CNAME .
 *.rezka.ag CNAME .
+tvbox.ag CNAME .
+*.tvbox.ag CNAME .
 voirfilms.ag CNAME .
 *.voirfilms.ag CNAME .
 yesmovies.ag CNAME .
@@ -99,6 +101,8 @@ filmstreaming.al CNAME .
 *.filmstreaming.al CNAME .
 libertyland.al CNAME .
 *.libertyland.al CNAME .
+voirfilms.al CNAME .
+*.voirfilms.al CNAME .
 zone-telechargement.al CNAME .
 *.zone-telechargement.al CNAME .
 1337x.am CNAME .
@@ -285,6 +289,8 @@ eurostreaming.archi CNAME .
 *.123movies.army CNAME .
 aaa.army CNAME .
 *.aaa.army CNAME .
+guardaserie.army CNAME .
+*.guardaserie.army CNAME .
 piratebay.army CNAME .
 *.piratebay.army CNAME .
 streamingcommunity.army CNAME .
@@ -317,6 +323,8 @@ juraganfilm.asia CNAME .
 *.juraganfilm.asia CNAME .
 limetorrents.asia CNAME .
 *.limetorrents.asia CNAME .
+streamingcommunity.asia CNAME .
+*.streamingcommunity.asia CNAME .
 tantifilm.asia CNAME .
 *.tantifilm.asia CNAME .
 terbit21.asia CNAME .
@@ -363,6 +371,8 @@ yts.autos CNAME .
 *.yts.autos CNAME .
 tracker.qu.ax CNAME .
 *.tracker.qu.ax CNAME .
+fmovies.baby CNAME .
+*.fmovies.baby CNAME .
 guardaserie.baby CNAME .
 *.guardaserie.baby CNAME .
 streamingcommunity.band CNAME .
@@ -383,6 +393,8 @@ unblocked.bar CNAME .
 *.unblocked.bar CNAME .
 watchseries.bar CNAME .
 *.watchseries.bar CNAME .
+altadefinizione.bargains CNAME .
+*.altadefinizione.bargains CNAME .
 cb01.bargains CNAME .
 *.cb01.bargains CNAME .
 bdix.com.bd CNAME .
@@ -541,6 +553,8 @@ altadefinizione.bet CNAME .
 *.altadefinizione.bet CNAME .
 altadefinizione01.bet CNAME .
 *.altadefinizione01.bet CNAME .
+cineblog01.bet CNAME .
+*.cineblog01.bet CNAME .
 eurostreaming.bet CNAME .
 *.eurostreaming.bet CNAME .
 filmpertutti.bet CNAME .
@@ -553,6 +567,8 @@ streamingcommunity.bet CNAME .
 *.streamingcommunity.bet CNAME .
 tantifilm.bet CNAME .
 *.tantifilm.bet CNAME .
+newalbumreleases.unblockit.bet CNAME .
+*.newalbumreleases.unblockit.bet CNAME .
 wiflix.bet CNAME .
 *.wiflix.bet CNAME .
 btkitty.bid CNAME .
@@ -575,6 +591,8 @@ guardaserie.bike CNAME .
 *.guardaserie.bike CNAME .
 streamingcommunity.bike CNAME .
 *.streamingcommunity.bike CNAME .
+123movies.bio CNAME .
+*.123movies.bio CNAME .
 1337x.bio CNAME .
 *.1337x.bio CNAME .
 eurostreaming.bio CNAME .
@@ -681,8 +699,12 @@ hdsource.biz CNAME .
 *.hdsource.biz CNAME .
 heavens-above.biz CNAME .
 *.heavens-above.biz CNAME .
+kinogo.biz CNAME .
+*.kinogo.biz CNAME .
 kinogo-cx.biz CNAME .
 *.kinogo-cx.biz CNAME .
+kinozapas.biz CNAME .
+*.kinozapas.biz CNAME .
 layarindo21.biz CNAME .
 *.layarindo21.biz CNAME .
 layarkacaxxi.biz CNAME .
@@ -803,6 +825,8 @@ filmsenzalimiti.bond CNAME .
 *.filmsenzalimiti.bond CNAME .
 guardaserie.bond CNAME .
 *.guardaserie.bond CNAME .
+mrunblock.bond CNAME .
+*.mrunblock.bond CNAME .
 tantifilm.bond CNAME .
 *.tantifilm.bond CNAME .
 altadefinizione.boo CNAME .
@@ -825,6 +849,8 @@ streamingcommunity.boo CNAME .
 *.streamingcommunity.boo CNAME .
 altadefinizione01.boutique CNAME .
 *.altadefinizione01.boutique CNAME .
+streamingcommunity.boutique CNAME .
+*.streamingcommunity.boutique CNAME .
 www.aenianos.com.br CNAME .
 *.www.aenianos.com.br CNAME .
 aruacfilmes.com.br CNAME .
@@ -851,8 +877,12 @@ altadefinizione01.builders CNAME .
 *.altadefinizione01.builders CNAME .
 cb01.builders CNAME .
 *.cb01.builders CNAME .
+guardaserie.builders CNAME .
+*.guardaserie.builders CNAME .
 1337x.buzz CNAME .
 *.1337x.buzz CNAME .
+4kfilm.buzz CNAME .
+*.4kfilm.buzz CNAME .
 5movies.buzz CNAME .
 *.5movies.buzz CNAME .
 filmstreaming.buzz CNAME .
@@ -913,6 +943,8 @@ goldesel.bz CNAME .
 *.goldesel.bz CNAME .
 itera.bz CNAME .
 *.itera.bz CNAME .
+kinokong.bz CNAME .
+*.kinokong.bz CNAME .
 myboerse.bz CNAME .
 *.myboerse.bz CNAME .
 openloadmovies.bz CNAME .
@@ -923,6 +955,10 @@ proxybay.bz CNAME .
 *.proxybay.bz CNAME .
 putlockers.bz CNAME .
 *.putlockers.bz CNAME .
+thebox.bz CNAME .
+*.thebox.bz CNAME .
+thegeeks.bz CNAME .
+*.thegeeks.bz CNAME .
 theoccult.bz CNAME .
 *.theoccult.bz CNAME .
 theplace.bz CNAME .
@@ -1045,6 +1081,8 @@ unblocked.casa CNAME .
 *.unblocked.casa CNAME .
 eurostreaming.cash CNAME .
 *.eurostreaming.cash CNAME .
+altadefinizione.casino CNAME .
+*.altadefinizione.casino CNAME .
 mkvcinemas.cat CNAME .
 *.mkvcinemas.cat CNAME .
 nzb.cat CNAME .
@@ -1399,8 +1437,12 @@ what.cd CNAME .
 *.what.cd CNAME .
 filmpertutti.center CNAME .
 *.filmpertutti.center CNAME .
+indoxxi.center CNAME .
+*.indoxxi.center CNAME .
 myflixer.center CNAME .
 *.myflixer.center CNAME .
+streamingcommunity.center CNAME .
+*.streamingcommunity.center CNAME .
 tantifilm.center CNAME .
 *.tantifilm.center CNAME .
 tracker.kmzs123.cf CNAME .
@@ -1409,6 +1451,8 @@ tr.kxmp.cf CNAME .
 *.tr.kxmp.cf CNAME .
 cb01.cfd CNAME .
 *.cb01.cfd CNAME .
+filmpertutti.cfd CNAME .
+*.filmpertutti.cfd CNAME .
 pirateproxy.cfd CNAME .
 *.pirateproxy.cfd CNAME .
 sharespark.cfd CNAME .
@@ -1507,6 +1551,8 @@ chilewarez.cl CNAME .
 *.chilewarez.cl CNAME .
 tracker.dump.cl CNAME .
 *.tracker.dump.cl CNAME .
+futemax.cl CNAME .
+*.futemax.cl CNAME .
 multicanais.cl CNAME .
 *.multicanais.cl CNAME .
 tracker.cl CNAME .
@@ -1747,6 +1793,8 @@ terbit21.club CNAME .
 *.terbit21.club CNAME .
 uakino.club CNAME .
 *.uakino.club CNAME .
+uaserial.club CNAME .
+*.uaserial.club CNAME .
 ultimatestremioaddons.club CNAME .
 *.ultimatestremioaddons.club CNAME .
 newalbumreleases.unblockit.club CNAME .
@@ -1797,6 +1845,8 @@ hdbits.cn CNAME .
 *.hdbits.cn CNAME .
 tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
+jshdtv.cn CNAME .
+*.jshdtv.cn CNAME .
 tracker.kmzs123.cn CNAME .
 *.tracker.kmzs123.cn CNAME .
 tracker.loligirl.cn CNAME .
@@ -1843,6 +1893,8 @@ burningseries.co CNAME .
 *.burningseries.co CNAME .
 c1ne.co CNAME .
 *.c1ne.co CNAME .
+calibrecompanion.co CNAME .
+*.calibrecompanion.co CNAME .
 cb01.co CNAME .
 *.cb01.co CNAME .
 tracker.chdbits.co CNAME .
@@ -2125,6 +2177,8 @@ altadefinizione.coach CNAME .
 *.altadefinizione.coach CNAME .
 cb01.coach CNAME .
 *.cb01.coach CNAME .
+guardaserie.coach CNAME .
+*.guardaserie.coach CNAME .
 tantifilm.coach CNAME .
 *.tantifilm.coach CNAME .
 altadefinizione.codes CNAME .
@@ -2205,6 +2259,8 @@ w4.123moviefree4u.com CNAME .
 *.123moviesbq.com CNAME .
 123moviesfreez.com CNAME .
 *.123moviesfreez.com CNAME .
+123moviesget.com CNAME .
+*.123moviesget.com CNAME .
 123movieshubz.com CNAME .
 *.123movieshubz.com CNAME .
 123moviestofree.com CNAME .
@@ -2693,6 +2749,8 @@ autobitx.com CNAME .
 *.autobitx.com CNAME .
 autocadbmjes.com CNAME .
 *.autocadbmjes.com CNAME .
+autocadbmsa.com CNAME .
+*.autocadbmsa.com CNAME .
 autocadbnaqk.com CNAME .
 *.autocadbnaqk.com CNAME .
 autocadgou.com CNAME .
@@ -2711,6 +2769,8 @@ avetorrents.com CNAME .
 *.avetorrents.com CNAME .
 avistaz.com CNAME .
 *.avistaz.com CNAME .
+azibtorrent.com CNAME .
+*.azibtorrent.com CNAME .
 b2s-share.com CNAME .
 *.b2s-share.com CNAME .
 baberepublic.com CNAME .
@@ -3159,6 +3219,8 @@ cboku.com CNAME .
 *.cboku.com CNAME .
 ccracks.com CNAME .
 *.ccracks.com CNAME .
+cdkeysgames.com CNAME .
+*.cdkeysgames.com CNAME .
 cdromance.com CNAME .
 *.cdromance.com CNAME .
 celerystresser.com CNAME .
@@ -3463,6 +3525,8 @@ dbzdivx.com CNAME .
 *.dbzdivx.com CNAME .
 dctorrent.com CNAME .
 *.dctorrent.com CNAME .
+ddl2.com CNAME .
+*.ddl2.com CNAME .
 ddlcenter.com CNAME .
 *.ddlcenter.com CNAME .
 ddlicious.com CNAME .
@@ -3675,6 +3739,8 @@ dpfilmz.com CNAME .
 *.dpfilmz.com CNAME .
 dr-farfar.com CNAME .
 *.dr-farfar.com CNAME .
+dragons-dungeon.com CNAME .
+*.dragons-dungeon.com CNAME .
 drakula-stream.com CNAME .
 *.drakula-stream.com CNAME .
 dramacoolfirst.com CNAME .
@@ -3777,6 +3843,8 @@ empire-stream.com CNAME .
 *.empire-stream.com CNAME .
 empresstorrents.com CNAME .
 *.empresstorrents.com CNAME .
+emtorrent.com CNAME .
+*.emtorrent.com CNAME .
 emule-box.com CNAME .
 *.emule-box.com CNAME .
 encodeking.com CNAME .
@@ -3803,6 +3871,8 @@ esporteone.com CNAME .
 *.esporteone.com CNAME .
 estrenoslatinos.com CNAME .
 *.estrenoslatinos.com CNAME .
+etorrentsmexico.com CNAME .
+*.etorrentsmexico.com CNAME .
 etproxy.com CNAME .
 *.etproxy.com CNAME .
 ettvcentral.com CNAME .
@@ -3881,6 +3951,8 @@ kazenokoefansubs.fansub-torrents.com CNAME .
 *.kazenokoefansubs.fansub-torrents.com CNAME .
 faragski.com CNAME .
 *.faragski.com CNAME .
+fs1.fasttrackbd.com CNAME .
+*.fs1.fasttrackbd.com CNAME .
 fboxtv.com CNAME .
 *.fboxtv.com CNAME .
 fddbits.com CNAME .
@@ -3961,6 +4033,8 @@ filmsofts.com CNAME .
 *.filmsofts.com CNAME .
 filmstreaming.com CNAME .
 *.filmstreaming.com CNAME .
+filmstreamingx1.com CNAME .
+*.filmstreamingx1.com CNAME .
 filmyone.com CNAME .
 *.filmyone.com CNAME .
 filmzie.com CNAME .
@@ -4225,6 +4299,8 @@ ggbases.com CNAME .
 *.ggbases.com CNAME .
 media.ghurionline.com CNAME .
 *.media.ghurionline.com CNAME .
+gidonline2.com CNAME .
+*.gidonline2.com CNAME .
 giga-down.com CNAME .
 *.giga-down.com CNAME .
 gigabitwarez.com CNAME .
@@ -4479,6 +4555,8 @@ icoonet.com CNAME .
 *.icoonet.com CNAME .
 icrackmac.com CNAME .
 *.icrackmac.com CNAME .
+sensation.id-t.com CNAME .
+*.sensation.id-t.com CNAME .
 idealtorrent.com CNAME .
 *.idealtorrent.com CNAME .
 idmserialkeycrack.com CNAME .
@@ -4495,6 +4573,8 @@ ihackedit.com CNAME .
 *.ihackedit.com CNAME .
 ihavenotv.com CNAME .
 *.ihavenotv.com CNAME .
+ikkyonline.com CNAME .
+*.ikkyonline.com CNAME .
 ilefilms.com CNAME .
 *.ilefilms.com CNAME .
 ilgeniodellostreaming.com CNAME .
@@ -4725,6 +4805,8 @@ kinofrost.com CNAME .
 *.kinofrost.com CNAME .
 kinoger.com CNAME .
 *.kinoger.com CNAME .
+kinogo-ua.com CNAME .
+*.kinogo-ua.com CNAME .
 kinomavic.com CNAME .
 *.kinomavic.com CNAME .
 kinomisto.com CNAME .
@@ -4749,6 +4831,8 @@ kolompc.com CNAME .
 *.kolompc.com CNAME .
 kraytracker.com CNAME .
 *.kraytracker.com CNAME .
+bt.ktkj.com CNAME .
+*.bt.ktkj.com CNAME .
 ktorrents.com CNAME .
 *.ktorrents.com CNAME .
 bt.ktrackers.com CNAME .
@@ -4783,6 +4867,8 @@ layer-4.com CNAME .
 *.layer-4.com CNAME .
 layer7-stresser.com CNAME .
 *.layer7-stresser.com CNAME .
+le-gibus.com CNAME .
+*.le-gibus.com CNAME .
 leeapk.com CNAME .
 *.leeapk.com CNAME .
 leecherslair.com CNAME .
@@ -4969,6 +5055,8 @@ me-4u.com CNAME .
 *.me-4u.com CNAME .
 mechopirate.com CNAME .
 *.mechopirate.com CNAME .
+media-sharing.com CNAME .
+*.media-sharing.com CNAME .
 mediaboxbd.com CNAME .
 *.mediaboxbd.com CNAME .
 mediafire.com CNAME .
@@ -5153,6 +5241,8 @@ movreel.com CNAME .
 *.movreel.com CNAME .
 mozbd.com CNAME .
 *.mozbd.com CNAME .
+mp3-find.com CNAME .
+*.mp3-find.com CNAME .
 mp3guild.com CNAME .
 *.mp3guild.com CNAME .
 mp3indexer.com CNAME .
@@ -5173,6 +5263,8 @@ mscracks.com CNAME .
 *.mscracks.com CNAME .
 msmonlinebd.com CNAME .
 *.msmonlinebd.com CNAME .
+mt-fun.com CNAME .
+*.mt-fun.com CNAME .
 mtbsl.com CNAME .
 *.mtbsl.com CNAME .
 multiapkclub.com CNAME .
@@ -5427,6 +5519,8 @@ nzbvortex.com CNAME .
 *.nzbvortex.com CNAME .
 nzone.com CNAME .
 *.nzone.com CNAME .
+oabt06.com CNAME .
+*.oabt06.com CNAME .
 oakmovies.com CNAME .
 *.oakmovies.com CNAME .
 oakvilleorthotics.com CNAME .
@@ -5493,6 +5587,8 @@ openloadmov.com CNAME .
 *.openloadmov.com CNAME .
 openwebtorrent.com CNAME .
 *.openwebtorrent.com CNAME .
+opgemmje.com CNAME .
+*.opgemmje.com CNAME .
 orangetorrent.com CNAME .
 *.orangetorrent.com CNAME .
 orasai.com CNAME .
@@ -5615,6 +5711,8 @@ piratebaylive.com CNAME .
 *.piratebaylive.com CNAME .
 piratebayproxyz.com CNAME .
 *.piratebayproxyz.com CNAME .
+piratebayy.com CNAME .
+*.piratebayy.com CNAME .
 piratebrowser.com CNAME .
 *.piratebrowser.com CNAME .
 pirateiro.com CNAME .
@@ -5663,6 +5761,8 @@ pluspremieres.com CNAME .
 *.pluspremieres.com CNAME .
 plygig.com CNAME .
 *.plygig.com CNAME .
+pmtorrents.com CNAME .
+*.pmtorrents.com CNAME .
 pobreflix.com CNAME .
 *.pobreflix.com CNAME .
 podtropolis.com CNAME .
@@ -5753,6 +5853,10 @@ psystation.com CNAME .
 *.psystation.com CNAME .
 tracker.pterclub.com CNAME .
 *.tracker.pterclub.com CNAME .
+bt.ptlsp.com CNAME .
+*.bt.ptlsp.com CNAME .
+trackers.ptlsp.com CNAME .
+*.trackers.ptlsp.com CNAME .
 publicdomaintorrents.com CNAME .
 *.publicdomaintorrents.com CNAME .
 punkoiska.com CNAME .
@@ -5991,6 +6095,8 @@ scene-project.com CNAME .
 *.scene-project.com CNAME .
 scene-rush.com CNAME .
 *.scene-rush.com CNAME .
+scenenzb.com CNAME .
+*.scenenzb.com CNAME .
 scenenzbs.com CNAME .
 *.scenenzbs.com CNAME .
 scenep2p.com CNAME .
@@ -6033,6 +6139,8 @@ serialbay.com CNAME .
 *.serialbay.com CNAME .
 serialcoded.com CNAME .
 *.serialcoded.com CNAME .
+serialfan.com CNAME .
+*.serialfan.com CNAME .
 serialheaven.com CNAME .
 *.serialheaven.com CNAME .
 serialkeysoftware.com CNAME .
@@ -6203,6 +6311,8 @@ softserialskey.com CNAME .
 *.softserialskey.com CNAME .
 softwarecrackworks.com CNAME .
 *.softwarecrackworks.com CNAME .
+softwarezon.com CNAME .
+*.softwarezon.com CNAME .
 softzspot.com CNAME .
 *.softzspot.com CNAME .
 sokrostream.com CNAME .
@@ -6331,6 +6441,10 @@ stremio.com CNAME .
 *.stremio.com CNAME .
 stremiomovies.com CNAME .
 *.stremiomovies.com CNAME .
+stuckgamer.com CNAME .
+*.stuckgamer.com CNAME .
+studentsharez.com CNAME .
+*.studentsharez.com CNAME .
 ddoser-online.studyfund.com CNAME .
 *.ddoser-online.studyfund.com CNAME .
 su-data.com CNAME .
@@ -6501,6 +6615,8 @@ theskyiscrape.com CNAME .
 *.theskyiscrape.com CNAME .
 vvv.thesoap2day.com CNAME .
 *.vvv.thesoap2day.com CNAME .
+thewtd.com CNAME .
+*.thewtd.com CNAME .
 thinkkers.com CNAME .
 *.thinkkers.com CNAME .
 thiweb.com CNAME .
@@ -6529,6 +6645,8 @@ tntmac.com CNAME .
 *.tntmac.com CNAME .
 to123movies.com CNAME .
 *.to123movies.com CNAME .
+to2to2.com CNAME .
+*.to2to2.com CNAME .
 todaum.com CNAME .
 *.todaum.com CNAME .
 todaytvseries6.com CNAME .
@@ -6625,6 +6743,8 @@ torrentdia99.com CNAME .
 *.torrentdia99.com CNAME .
 torrentdump.com CNAME .
 *.torrentdump.com CNAME .
+torrentesx.com CNAME .
+*.torrentesx.com CNAME .
 torrentfactory.com CNAME .
 *.torrentfactory.com CNAME .
 torrentfrancais.com CNAME .
@@ -6705,6 +6825,8 @@ torrentqq49.com CNAME .
 *.torrentqq49.com CNAME .
 torrentqq50.com CNAME .
 *.torrentqq50.com CNAME .
+torrentqq71.com CNAME .
+*.torrentqq71.com CNAME .
 torrentqq72.com CNAME .
 *.torrentqq72.com CNAME .
 torrentquest.com CNAME .
@@ -6723,6 +6845,8 @@ torrents2hell.com CNAME .
 *.torrents2hell.com CNAME .
 torrentsafe.com CNAME .
 *.torrentsafe.com CNAME .
+torrentscan.com CNAME .
+*.torrentscan.com CNAME .
 torrentsearch.com CNAME .
 *.torrentsearch.com CNAME .
 torrentseeker.com CNAME .
@@ -6855,6 +6979,8 @@ tuttostream.com CNAME .
 *.tuttostream.com CNAME .
 tuxdistro.com CNAME .
 *.tuxdistro.com CNAME .
+tv0800.com CNAME .
+*.tv0800.com CNAME .
 tv24bd.com CNAME .
 *.tv24bd.com CNAME .
 tvchaosuk.com CNAME .
@@ -6865,6 +6991,8 @@ tvpinto.com CNAME .
 *.tvpinto.com CNAME .
 tvsboy.com CNAME .
 *.tvsboy.com CNAME .
+tvseriesnmovies.com CNAME .
+*.tvseriesnmovies.com CNAME .
 tvspring.com CNAME .
 *.tvspring.com CNAME .
 tvtorrents.com CNAME .
@@ -6873,6 +7001,8 @@ tvzion.com CNAME .
 *.tvzion.com CNAME .
 tweakspy.com CNAME .
 *.tweakspy.com CNAME .
+twilightkisses.com CNAME .
+*.twilightkisses.com CNAME .
 twilightsporn.com CNAME .
 *.twilightsporn.com CNAME .
 u2torrents.com CNAME .
@@ -6883,10 +7013,14 @@ ua-warez.com CNAME .
 *.ua-warez.com CNAME .
 uachan.com CNAME .
 *.uachan.com CNAME .
+uakino-lu.com CNAME .
+*.uakino-lu.com CNAME .
 uakinogo.com CNAME .
 *.uakinogo.com CNAME .
 uapkpro.com CNAME .
 *.uapkpro.com CNAME .
+uaserials.com CNAME .
+*.uaserials.com CNAME .
 uatyan.com CNAME .
 *.uatyan.com CNAME .
 uplay.ubi.com CNAME .
@@ -6915,6 +7049,8 @@ uknova.com CNAME .
 *.uknova.com CNAME .
 ukpiratebayproxy.com CNAME .
 *.ukpiratebayproxy.com CNAME .
+ukr-sub.com CNAME .
+*.ukr-sub.com CNAME .
 ultradownloads.com CNAME .
 *.ultradownloads.com CNAME .
 ummagurau.com CNAME .
@@ -7073,6 +7209,8 @@ voirseries.com CNAME .
 *.voirseries.com CNAME .
 volokit.com CNAME .
 *.volokit.com CNAME .
+vongolafamily.com CNAME .
+*.vongolafamily.com CNAME .
 vostfrstreaming.com CNAME .
 *.vostfrstreaming.com CNAME .
 vpnmentor.com CNAME .
@@ -7539,6 +7677,8 @@ tantifilm.cool CNAME .
 *.tantifilm.cool CNAME .
 tpb.cool CNAME .
 *.tpb.cool CNAME .
+altadefinizione.coupons CNAME .
+*.altadefinizione.coupons CNAME .
 dognzb.cr CNAME .
 *.dognzb.cr CNAME .
 dsroms.fr.cr CNAME .
@@ -7567,6 +7707,8 @@ eurostreaming.credit CNAME .
 *.eurostreaming.credit CNAME .
 guardaserie.credit CNAME .
 *.guardaserie.credit CNAME .
+streamingcommunity.credit CNAME .
+*.streamingcommunity.credit CNAME .
 crichd.cricket CNAME .
 *.crichd.cricket CNAME .
 p2p.0g.cx CNAME .
@@ -7597,6 +7739,8 @@ aam-bt.dyns.cx CNAME .
 *.aam-bt.dyns.cx CNAME .
 fmovies2.cx CNAME .
 *.fmovies2.cx CNAME .
+gidonline.cx CNAME .
+*.gidonline.cx CNAME .
 hdfilme.cx CNAME .
 *.hdfilme.cx CNAME .
 kino.cx CNAME .
@@ -7625,6 +7769,8 @@ altadefinizione.cyou CNAME .
 *.altadefinizione.cyou CNAME .
 cineblog01.cyou CNAME .
 *.cineblog01.cyou CNAME .
+cinevood.cyou CNAME .
+*.cinevood.cyou CNAME .
 filmpertutti.cyou CNAME .
 *.filmpertutti.cyou CNAME .
 limetorrents.cyou CNAME .
@@ -7637,6 +7783,8 @@ thepb.cyou CNAME .
 *.thepb.cyou CNAME .
 kristof.bartanet.cz CNAME .
 *.kristof.bartanet.cz CNAME .
+besttracker.cz CNAME .
+*.besttracker.cz CNAME .
 hd-cztorrent.cz CNAME .
 *.hd-cztorrent.cz CNAME .
 jopa.cz CNAME .
@@ -7733,6 +7881,8 @@ filmpertutti.de CNAME .
 *.filmpertutti.de CNAME .
 filmstreaming.de CNAME .
 *.filmstreaming.de CNAME .
+filmy4wap.de CNAME .
+*.filmy4wap.de CNAME .
 vpn.flying-datacenter.de CNAME .
 *.vpn.flying-datacenter.de CNAME .
 fussballlivestreams.de CNAME .
@@ -7871,6 +8021,8 @@ dramaqu.digital CNAME .
 *.dramaqu.digital CNAME .
 eurostreaming.digital CNAME .
 *.eurostreaming.digital CNAME .
+filmpertutti.digital CNAME .
+*.filmpertutti.digital CNAME .
 guardaserie.digital CNAME .
 *.guardaserie.digital CNAME .
 kinox.digital CNAME .
@@ -7883,6 +8035,8 @@ metromedia.digital CNAME .
 *.metromedia.digital CNAME .
 putlocker.digital CNAME .
 *.putlocker.digital CNAME .
+serien.digital CNAME .
+*.serien.digital CNAME .
 smartbox.digital CNAME .
 *.smartbox.digital CNAME .
 smartflix.digital CNAME .
@@ -7957,6 +8111,8 @@ wawacity.ec CNAME .
 *.wawacity.ec CNAME .
 webcast.berkeley.edu CNAME .
 *.webcast.berkeley.edu CNAME .
+diva.sfsu.edu CNAME .
+*.diva.sfsu.edu CNAME .
 guardaserie.education CNAME .
 *.guardaserie.education CNAME .
 isohunt.ee CNAME .
@@ -7977,6 +8133,8 @@ streamingcommunity.email CNAME .
 *.streamingcommunity.email CNAME .
 tantifilm.email CNAME .
 *.tantifilm.email CNAME .
+cineblog01.energy CNAME .
+*.cineblog01.energy CNAME .
 tantifilm.energy CNAME .
 *.tantifilm.energy CNAME .
 alldebrid.es CNAME .
@@ -8057,6 +8215,8 @@ freecztorrent.eu CNAME .
 *.freecztorrent.eu CNAME .
 gamecopyworld.eu CNAME .
 *.gamecopyworld.eu CNAME .
+gidonline.eu CNAME .
+*.gidonline.eu CNAME .
 gostream.eu CNAME .
 *.gostream.eu CNAME .
 guardaserie.eu CNAME .
@@ -8177,8 +8337,12 @@ tracker.tcp.exchange CNAME .
 *.tracker.tcp.exchange CNAME .
 eurostreaming.expert CNAME .
 *.eurostreaming.expert CNAME .
+filmpertutti.expert CNAME .
+*.filmpertutti.expert CNAME .
 guardaserie.expert CNAME .
 *.guardaserie.expert CNAME .
+streamingcommunity.expert CNAME .
+*.streamingcommunity.expert CNAME .
 cb01.express CNAME .
 *.cb01.express CNAME .
 kinox.express CNAME .
@@ -8199,12 +8363,16 @@ filmpertutti.fan CNAME .
 *.filmpertutti.fan CNAME .
 guardaserie.fan CNAME .
 *.guardaserie.fan CNAME .
+kinokrad.fan CNAME .
+*.kinokrad.fan CNAME .
 multicanais.fans CNAME .
 *.multicanais.fans CNAME .
 uhdmovies.fans CNAME .
 *.uhdmovies.fans CNAME .
 altadefinizione.farm CNAME .
 *.altadefinizione.farm CNAME .
+cb01.farm CNAME .
+*.cb01.farm CNAME .
 eurostreaming.farm CNAME .
 *.eurostreaming.farm CNAME .
 usenet.farm CNAME .
@@ -8221,6 +8389,8 @@ yggtorrent.fi CNAME .
 *.yggtorrent.fi CNAME .
 altadefinizione.film CNAME .
 *.altadefinizione.film CNAME .
+baskino.film CNAME .
+*.baskino.film CNAME .
 cb01.film CNAME .
 *.cb01.film CNAME .
 kinogo.film CNAME .
@@ -8315,6 +8485,8 @@ tuttostream.fm CNAME .
 *.tuttostream.fm CNAME .
 waffles.fm CNAME .
 *.waffles.fm CNAME .
+xmovies8.fm CNAME .
+*.xmovies8.fm CNAME .
 fmovies.fo CNAME .
 *.fmovies.fo CNAME .
 altadefinizione.forsale CNAME .
@@ -8473,6 +8645,10 @@ filmix.fun CNAME .
 *.filmix.fun CNAME .
 ettv.g3g.fun CNAME .
 *.ettv.g3g.fun CNAME .
+gidonlines.fun CNAME .
+*.gidonlines.fun CNAME .
+guardarefilm.fun CNAME .
+*.guardarefilm.fun CNAME .
 guardaserie.fun CNAME .
 *.guardaserie.fun CNAME .
 higotv.fun CNAME .
@@ -8567,6 +8743,8 @@ torrentred.games CNAME .
 *.torrentred.games CNAME .
 devops.gay CNAME .
 *.devops.gay CNAME .
+streamingcommunity.gay CNAME .
+*.streamingcommunity.gay CNAME .
 braflix.gd CNAME .
 *.braflix.gd CNAME .
 fmovies.gd CNAME .
@@ -8611,6 +8789,8 @@ seriesonline.gg CNAME .
 *.seriesonline.gg CNAME .
 torrent9.gg CNAME .
 *.torrent9.gg CNAME .
+yesmovies.gg CNAME .
+*.yesmovies.gg CNAME .
 eurostreaming.gives CNAME .
 *.eurostreaming.gives CNAME .
 tantifilm.gives CNAME .
@@ -8639,6 +8819,8 @@ guardaserie.gold CNAME .
 *.guardaserie.gold CNAME .
 movierulzhd.gold CNAME .
 *.movierulzhd.gold CNAME .
+streamingcommunity.gold CNAME .
+*.streamingcommunity.gold CNAME .
 altadefinizione.golf CNAME .
 *.altadefinizione.golf CNAME .
 altadefinizione01.golf CNAME .
@@ -8721,6 +8903,8 @@ cineblog01.haus CNAME .
 *.cineblog01.haus CNAME .
 eurostreaming.haus CNAME .
 *.eurostreaming.haus CNAME .
+ilgeniodellostreaming.haus CNAME .
+*.ilgeniodellostreaming.haus CNAME .
 yts.health CNAME .
 *.yts.health CNAME .
 cineblog01.help CNAME .
@@ -8791,10 +8975,14 @@ uid.hu CNAME .
 *.uid.hu CNAME .
 nox.warez.hu CNAME .
 *.nox.warez.hu CNAME .
+xider.hu CNAME .
+*.xider.hu CNAME .
 ztracker.hu CNAME .
 *.ztracker.hu CNAME .
 altadefinizione.icu CNAME .
 *.altadefinizione.icu CNAME .
+altadefinizione01.icu CNAME .
+*.altadefinizione01.icu CNAME .
 tracker-zhuqiy.dgj055.icu CNAME .
 *.tracker-zhuqiy.dgj055.icu CNAME .
 filmpertutti.icu CNAME .
@@ -9027,6 +9215,8 @@ anidb.info CNAME .
 *.anidb.info CNAME .
 anidex.info CNAME .
 *.anidex.info CNAME .
+azshare.info CNAME .
+*.azshare.info CNAME .
 batmanstream.info CNAME .
 *.batmanstream.info CNAME .
 best-movies.info CNAME .
@@ -9047,6 +9237,8 @@ casacinema.info CNAME .
 *.casacinema.info CNAME .
 cb01.info CNAME .
 *.cb01.info CNAME .
+cracks-serials-rox.info CNAME .
+*.cracks-serials-rox.info CNAME .
 cyberwarez.info CNAME .
 *.cyberwarez.info CNAME .
 bt.davka.info CNAME .
@@ -9113,6 +9305,8 @@ gamato.info CNAME .
 *.gamato.info CNAME .
 game-torrent.info CNAME .
 *.game-torrent.info CNAME .
+gameloo.info CNAME .
+*.gameloo.info CNAME .
 tracker-udp.gbitt.info CNAME .
 *.tracker-udp.gbitt.info CNAME .
 getcomics.info CNAME .
@@ -9205,6 +9399,8 @@ nzbgeek.info CNAME .
 *.nzbgeek.info CNAME .
 nzblnk.info CNAME .
 *.nzblnk.info CNAME .
+pirate-bay.info CNAME .
+*.pirate-bay.info CNAME .
 piratebay1.info CNAME .
 *.piratebay1.info CNAME .
 piratebayproxy.info CNAME .
@@ -9273,6 +9469,8 @@ thehiddenbay.info CNAME .
 *.thehiddenbay.info CNAME .
 thekat.info CNAME .
 *.thekat.info CNAME .
+thepiratebay9.info CNAME .
+*.thepiratebay9.info CNAME .
 thepiratebays.info CNAME .
 *.thepiratebays.info CNAME .
 thzhd.info CNAME .
@@ -9325,6 +9523,8 @@ warezdownloads.info CNAME .
 *.warezdownloads.info CNAME .
 warezforum.info CNAME .
 *.warezforum.info CNAME .
+warlog.info CNAME .
+*.warlog.info CNAME .
 watchkobe.info CNAME .
 *.watchkobe.info CNAME .
 loulou.webrpg.info CNAME .
@@ -9359,6 +9559,8 @@ pirate-proxy.ink CNAME .
 *.pirate-proxy.ink CNAME .
 pirateproxy.ink CNAME .
 *.pirateproxy.ink CNAME .
+solarmovie.ink CNAME .
+*.solarmovie.ink CNAME .
 streamingcommunity.ink CNAME .
 *.streamingcommunity.ink CNAME .
 torrentkitty.ink CNAME .
@@ -9457,6 +9659,8 @@ gamestorrents.io CNAME .
 *.gamestorrents.io CNAME .
 getmod.io CNAME .
 *.getmod.io CNAME .
+gidonline.io CNAME .
+*.gidonline.io CNAME .
 abir0dev.github.io CNAME .
 *.abir0dev.github.io CNAME .
 fmhy.github.io CNAME .
@@ -9737,6 +9941,8 @@ yifytv.unblckd.ist CNAME .
 *.yifytv.unblckd.ist CNAME .
 putlocker.unblocked.ist CNAME .
 *.putlocker.unblocked.ist CNAME .
+newalbumreleases.unblockit.ist CNAME .
+*.newalbumreleases.unblockit.ist CNAME .
 vegamovies.ist CNAME .
 *.vegamovies.ist CNAME .
 123movieshub.it CNAME .
@@ -9835,6 +10041,8 @@ mathkangaroo.jp CNAME .
 *.mathkangaroo.jp CNAME .
 cb01.kaufen CNAME .
 *.cb01.kaufen CNAME .
+megatorrents.kg CNAME .
+*.megatorrents.kg CNAME .
 corsflix.us.kg CNAME .
 *.corsflix.us.kg CNAME .
 valhallastream.us.kg CNAME .
@@ -9937,6 +10145,10 @@ cineblog01.legal CNAME .
 *.cineblog01.legal CNAME .
 altadefinizione.li CNAME .
 *.altadefinizione.li CNAME .
+ask4movie.li CNAME .
+*.ask4movie.li CNAME .
+audiobookbay.li CNAME .
+*.audiobookbay.li CNAME .
 cb01.li CNAME .
 *.cb01.li CNAME .
 filmpertutti.li CNAME .
@@ -9969,6 +10181,10 @@ yggtorrent.li CNAME .
 *.1movies.life CNAME .
 altadefinizione.life CNAME .
 *.altadefinizione.life CNAME .
+casacinema.life CNAME .
+*.casacinema.life CNAME .
+cb01.life CNAME .
+*.cb01.life CNAME .
 cineblog01.life CNAME .
 *.cineblog01.life CNAME .
 filmsrip.life CNAME .
@@ -9993,6 +10209,8 @@ serien.life CNAME .
 *.serien.life CNAME .
 seriesflix.life CNAME .
 *.seriesflix.life CNAME .
+streamingcommunity.life CNAME .
+*.streamingcommunity.life CNAME .
 superadultgame.life CNAME .
 *.superadultgame.life CNAME .
 voirseries.life CNAME .
@@ -10045,6 +10263,8 @@ allsports4free.live CNAME .
 *.allsports4free.live CNAME .
 altadefinizione.live CNAME .
 *.altadefinizione.live CNAME .
+anytv.live CNAME .
+*.anytv.live CNAME .
 baked.live CNAME .
 *.baked.live CNAME .
 bdixtv.live CNAME .
@@ -10055,10 +10275,14 @@ bobd.live CNAME .
 *.bobd.live CNAME .
 bonsaihd.live CNAME .
 *.bonsaihd.live CNAME .
+bossbd.live CNAME .
+*.bossbd.live CNAME .
 cb01.live CNAME .
 *.cb01.live CNAME .
 cineblog01.live CNAME .
 *.cineblog01.live CNAME .
+cinemacity.live CNAME .
+*.cinemacity.live CNAME .
 citynet.live CNAME .
 *.citynet.live CNAME .
 criaflix.live CNAME .
@@ -10117,6 +10341,8 @@ movies123.live CNAME .
 *.movies123.live CNAME .
 multicanais.live CNAME .
 *.multicanais.live CNAME .
+mycricketlive.live CNAME .
+*.mycricketlive.live CNAME .
 nagordola.live CNAME .
 *.nagordola.live CNAME .
 nflstreams.live CNAME .
@@ -10203,6 +10429,8 @@ cb01.llc CNAME .
 *.cb01.llc CNAME .
 fmovies.llc CNAME .
 *.fmovies.llc CNAME .
+gidonline.llc CNAME .
+*.gidonline.llc CNAME .
 1337x.unblocked.llc CNAME .
 *.1337x.unblocked.llc CNAME .
 2ddl.unblocked.llc CNAME .
@@ -10531,6 +10759,10 @@ altadefinizione.market CNAME .
 *.altadefinizione.market CNAME .
 cb01.marketing CNAME .
 *.cb01.marketing CNAME .
+guardaserie.markets CNAME .
+*.guardaserie.markets CNAME .
+eurostreaming.mba CNAME .
+*.eurostreaming.mba CNAME .
 123moviesfull.me CNAME .
 *.123moviesfull.me CNAME .
 123moviestv.me CNAME .
@@ -10643,6 +10875,8 @@ flixwave.me CNAME .
 *.flixwave.me CNAME .
 freecoursesonline.me CNAME .
 *.freecoursesonline.me CNAME .
+gdekino.me CNAME .
+*.gdekino.me CNAME .
 ip.getcrazy.me CNAME .
 *.ip.getcrazy.me CNAME .
 cinetide.glitch.me CNAME .
@@ -10877,6 +11111,8 @@ tvshows.me CNAME .
 *.tvshows.me CNAME .
 typhoontv.me CNAME .
 *.typhoontv.me CNAME .
+uakino.me CNAME .
+*.uakino.me CNAME .
 newalbumreleases.unblockit.me CNAME .
 *.newalbumreleases.unblockit.me CNAME .
 trackeropenbittorrent.uni.me CNAME .
@@ -11071,6 +11307,8 @@ cb01.motorcycles CNAME .
 *.cb01.motorcycles CNAME .
 streamingcommunity.motorcycles CNAME .
 *.streamingcommunity.motorcycles CNAME .
+tantifilm.motorcycles CNAME .
+*.tantifilm.motorcycles CNAME .
 dunia21.mov CNAME .
 *.dunia21.mov CNAME .
 ssrmovies.mov CNAME .
@@ -11107,6 +11345,8 @@ yts.ms CNAME .
 *.yts.ms CNAME .
 123movies.mx CNAME .
 *.123movies.mx CNAME .
+cb01.mx CNAME .
+*.cb01.mx CNAME .
 zenkimex.com.mx CNAME .
 *.zenkimex.com.mx CNAME .
 french-stream.mx CNAME .
@@ -11499,6 +11739,8 @@ blitzwarez.net CNAME .
 *.blitzwarez.net CNAME .
 blu-torrents.net CNAME .
 *.blu-torrents.net CNAME .
+blueseries.net CNAME .
+*.blueseries.net CNAME .
 bmtorrents.net CNAME .
 *.bmtorrents.net CNAME .
 bootyou.net CNAME .
@@ -11671,6 +11913,8 @@ darksoftware.net CNAME .
 *.darksoftware.net CNAME .
 data-bg.net CNAME .
 *.data-bg.net CNAME .
+data-force.net CNAME .
+*.data-force.net CNAME .
 datascene.net CNAME .
 *.datascene.net CNAME .
 ddlbase.net CNAME .
@@ -11753,6 +11997,8 @@ dpstreamiz.net CNAME .
 *.dpstreamiz.net CNAME .
 mikrotik2.draatman.net CNAME .
 *.mikrotik2.draatman.net CNAME .
+dragons-den.net CNAME .
+*.dragons-den.net CNAME .
 dramaqu.net CNAME .
 *.dramaqu.net CNAME .
 dubbedanime.net CNAME .
@@ -11861,6 +12107,8 @@ filmstreaming.net CNAME .
 *.filmstreaming.net CNAME .
 filmvf.net CNAME .
 *.filmvf.net CNAME .
+findanime.net CNAME .
+*.findanime.net CNAME .
 findnzb.net CNAME .
 *.findnzb.net CNAME .
 firebit.net CNAME .
@@ -11987,6 +12235,8 @@ guardaserie.net CNAME .
 *.guardaserie.net CNAME .
 guardoserie.net CNAME .
 *.guardoserie.net CNAME .
+guiks.net CNAME .
+*.guiks.net CNAME .
 gun-land.net CNAME .
 *.gun-land.net CNAME .
 hackerbot.net CNAME .
@@ -12045,6 +12295,8 @@ imodzone.net CNAME .
 *.imodzone.net CNAME .
 imonlineisp.net CNAME .
 *.imonlineisp.net CNAME .
+indiankino.net CNAME .
+*.indiankino.net CNAME .
 inetisp.net CNAME .
 *.inetisp.net CNAME .
 media.infobd.net CNAME .
@@ -12109,8 +12361,16 @@ kinofox.net CNAME .
 *.kinofox.net CNAME .
 kinogo-720.net CNAME .
 *.kinogo-720.net CNAME .
+kinogo4ua.net CNAME .
+*.kinogo4ua.net CNAME .
+kinogruz.net CNAME .
+*.kinogruz.net CNAME .
+kinoindian.net CNAME .
+*.kinoindian.net CNAME .
 kinokong.net CNAME .
 *.kinokong.net CNAME .
+kinonadzor.net CNAME .
+*.kinonadzor.net CNAME .
 kmnbd.net CNAME .
 *.kmnbd.net CNAME .
 komodoisland.net CNAME .
@@ -12629,6 +12889,8 @@ mail.segso.net CNAME .
 *.mail.segso.net CNAME .
 selezen.net CNAME .
 *.selezen.net CNAME .
+serialiv.net CNAME .
+*.serialiv.net CNAME .
 serialnews.net CNAME .
 *.serialnews.net CNAME .
 serie-streaming.net CNAME .
@@ -12723,6 +12985,8 @@ speed4you.net CNAME .
 *.speed4you.net CNAME .
 speedplusisp.net CNAME .
 *.speedplusisp.net CNAME .
+spiricomtracks.net CNAME .
+*.spiricomtracks.net CNAME .
 spisoft.net CNAME .
 *.spisoft.net CNAME .
 sport-scene.net CNAME .
@@ -12825,6 +13089,8 @@ themicrotech.net CNAME .
 *.themicrotech.net CNAME .
 themoviebay.net CNAME .
 *.themoviebay.net CNAME .
+thenightfilmes.net CNAME .
+*.thenightfilmes.net CNAME .
 tracker.theoks.net CNAME .
 *.tracker.theoks.net CNAME .
 thepiratebay9.net CNAME .
@@ -12943,6 +13209,8 @@ ts3booter.net CNAME .
 *.ts3booter.net CNAME .
 tuaserie.net CNAME .
 *.tuaserie.net CNAME .
+tugaleech.net CNAME .
+*.tugaleech.net CNAME .
 turbobit.net CNAME .
 *.turbobit.net CNAME .
 turkeytorrent.net CNAME .
@@ -12957,8 +13225,14 @@ twilighttorrents.net CNAME .
 *.twilighttorrents.net CNAME .
 two-movies.net CNAME .
 *.two-movies.net CNAME .
+ua-tv.net CNAME .
+*.ua-tv.net CNAME .
 uaflix.net CNAME .
 *.uaflix.net CNAME .
+uakino-bay.net CNAME .
+*.uakino-bay.net CNAME .
+uaserials.net CNAME .
+*.uaserials.net CNAME .
 uatracker.net CNAME .
 *.uatracker.net CNAME .
 ubucks.net CNAME .
@@ -13205,6 +13479,8 @@ tantifilm.network CNAME .
 *.tantifilm.network CNAME .
 altadefinizione.news CNAME .
 *.altadefinizione.news CNAME .
+cb01.news CNAME .
+*.cb01.news CNAME .
 eurostreaming.news CNAME .
 *.eurostreaming.news CNAME .
 italia-film.news CNAME .
@@ -13233,6 +13509,8 @@ putlockers.ninja CNAME .
 *.putlockers.ninja CNAME .
 wawacity.ninja CNAME .
 *.wawacity.ninja CNAME .
+wearethereal.ninja CNAME .
+*.wearethereal.ninja CNAME .
 1movies.nl CNAME .
 *.1movies.nl CNAME .
 altadefinizione.nl CNAME .
@@ -13253,6 +13531,8 @@ cyclingtorrents.nl CNAME .
 *.cyclingtorrents.nl CNAME .
 dbz-media.nl CNAME .
 *.dbz-media.nl CNAME .
+tracker.deadorbit.nl CNAME .
+*.tracker.deadorbit.nl CNAME .
 eddie4.nl CNAME .
 *.eddie4.nl CNAME .
 elitetorrent.nl CNAME .
@@ -13271,6 +13551,8 @@ shizzle.hammetjus.nl CNAME .
 *.shizzle.hammetjus.nl CNAME .
 katmoviehd.nl CNAME .
 *.katmoviehd.nl CNAME .
+keygens.nl CNAME .
+*.keygens.nl CNAME .
 prestige.minimafia.nl CNAME .
 *.prestige.minimafia.nl CNAME .
 private.minimafia.nl CNAME .
@@ -13291,6 +13573,8 @@ s2dfree.nl CNAME .
 *.s2dfree.nl CNAME .
 seehd.nl CNAME .
 *.seehd.nl CNAME .
+streamingcommunity.nl CNAME .
+*.streamingcommunity.nl CNAME .
 tantifilm.nl CNAME .
 *.tantifilm.nl CNAME .
 alpha.torrenttracker.nl CNAME .
@@ -13343,6 +13627,8 @@ kisscartoon.nz CNAME .
 *.kisscartoon.nz CNAME .
 mega.nz CNAME .
 *.mega.nz CNAME .
+multicanais.nz CNAME .
+*.multicanais.nz CNAME .
 torrent.nz CNAME .
 *.torrent.nz CNAME .
 torrentz2.nz CNAME .
@@ -13377,6 +13663,8 @@ filmywap.one CNAME .
 *.filmywap.one CNAME .
 fmovies.one CNAME .
 *.fmovies.one CNAME .
+gidonline.one CNAME .
+*.gidonline.one CNAME .
 go123movies.one CNAME .
 *.go123movies.one CNAME .
 gokumovies.one CNAME .
@@ -13397,6 +13685,8 @@ piratebay.one CNAME .
 *.piratebay.one CNAME .
 pubfilm.one CNAME .
 *.pubfilm.one CNAME .
+shikimori.one CNAME .
+*.shikimori.one CNAME .
 solarmovie.one CNAME .
 *.solarmovie.one CNAME .
 stream2watch.one CNAME .
@@ -13499,6 +13789,8 @@ filmzenstream.online CNAME .
 *.filmzenstream.online CNAME .
 financasnow.online CNAME .
 *.financasnow.online CNAME .
+gidonlinehd.online CNAME .
+*.gidonlinehd.online CNAME .
 guardaserie.online CNAME .
 *.guardaserie.online CNAME .
 iboxbd.online CNAME .
@@ -13521,6 +13813,8 @@ movierr.online CNAME .
 *.movierr.online CNAME .
 movitime.online CNAME .
 *.movitime.online CNAME .
+mp3fast.online CNAME .
+*.mp3fast.online CNAME .
 multicanaishd.online CNAME .
 *.multicanaishd.online CNAME .
 netfreex.online CNAME .
@@ -13641,16 +13935,22 @@ anime5stars.org CNAME .
 *.anime5stars.org CNAME .
 animeforever.org CNAME .
 *.animeforever.org CNAME .
+animefox.org CNAME .
+*.animefox.org CNAME .
 animeholics.org CNAME .
 *.animeholics.org CNAME .
 animelatino.org CNAME .
 *.animelatino.org CNAME .
+animestars.org CNAME .
+*.animestars.org CNAME .
 animetoon.org CNAME .
 *.animetoon.org CNAME .
 animetosho.org CNAME .
 *.animetosho.org CNAME .
 animeyume.org CNAME .
 *.animeyume.org CNAME .
+anistar.org CNAME .
+*.anistar.org CNAME .
 anonymouse.org CNAME .
 *.anonymouse.org CNAME .
 antsmarching.org CNAME .
@@ -13777,6 +14077,8 @@ btor.org CNAME .
 *.btor.org CNAME .
 btsay.org CNAME .
 *.btsay.org CNAME .
+btwarehouse.org CNAME .
+*.btwarehouse.org CNAME .
 btzone.org CNAME .
 *.btzone.org CNAME .
 bulextorrent.org CNAME .
@@ -13943,6 +14245,8 @@ downloademule.org CNAME .
 *.downloademule.org CNAME .
 downloadinfo.org CNAME .
 *.downloadinfo.org CNAME .
+downloadjet.org CNAME .
+*.downloadjet.org CNAME .
 downloadmart.org CNAME .
 *.downloadmart.org CNAME .
 downloadspace.org CNAME .
@@ -14065,8 +14369,12 @@ torrent.fedoraproject.org CNAME .
 *.torrent.fedoraproject.org CNAME .
 ffbox.org CNAME .
 *.ffbox.org CNAME .
+filebag.org CNAME .
+*.filebag.org CNAME .
 filebits.org CNAME .
 *.filebits.org CNAME .
+filedot.org CNAME .
+*.filedot.org CNAME .
 filedown.org CNAME .
 *.filedown.org CNAME .
 filelist.org CNAME .
@@ -14079,6 +14387,8 @@ files4you.org CNAME .
 *.files4you.org CNAME .
 filmfans.org CNAME .
 *.filmfans.org CNAME .
+filmisland.org CNAME .
+*.filmisland.org CNAME .
 filmpertutti.org CNAME .
 *.filmpertutti.org CNAME .
 filmplay.org CNAME .
@@ -14127,6 +14437,8 @@ funfile.org CNAME .
 *.funfile.org CNAME .
 galacticcentral.org CNAME .
 *.galacticcentral.org CNAME .
+gamegui.org CNAME .
+*.gamegui.org CNAME .
 gameofbay.org CNAME .
 *.gameofbay.org CNAME .
 gamepciso.org CNAME .
@@ -14237,6 +14549,8 @@ tracker.ilibr.org CNAME .
 *.tracker.ilibr.org CNAME .
 imojado.org CNAME .
 *.imojado.org CNAME .
+indiankino.org CNAME .
+*.indiankino.org CNAME .
 indytorrents.org CNAME .
 *.indytorrents.org CNAME .
 infohash.org CNAME .
@@ -14283,6 +14597,8 @@ kickass2.org CNAME .
 *.kickass2.org CNAME .
 kinoclub.org CNAME .
 *.kinoclub.org CNAME .
+kinotochka.org CNAME .
+*.kinotochka.org CNAME .
 kinozavr.org CNAME .
 *.kinozavr.org CNAME .
 kisssub.org CNAME .
@@ -14733,6 +15049,8 @@ sabnzbd.org CNAME .
 *.sabnzbd.org CNAME .
 tracker.tntvillage.scambioetico.org CNAME .
 *.tracker.tntvillage.scambioetico.org CNAME .
+scanbytes.org CNAME .
+*.scanbytes.org CNAME .
 sceneaccess.org CNAME .
 *.sceneaccess.org CNAME .
 scenehd.org CNAME .
@@ -14837,6 +15155,8 @@ streamway.org CNAME .
 *.streamway.org CNAME .
 streamzone.org CNAME .
 *.streamzone.org CNAME .
+stresser.org CNAME .
+*.stresser.org CNAME .
 subsplease.org CNAME .
 *.subsplease.org CNAME .
 sumotracker.org CNAME .
@@ -15017,6 +15337,8 @@ trupornolabs.org CNAME .
 *.trupornolabs.org CNAME .
 tracker.tryhackx.org CNAME .
 *.tracker.tryhackx.org CNAME .
+tvonlinehd.org CNAME .
+*.tvonlinehd.org CNAME .
 tvshows4mobile.org CNAME .
 *.tvshows4mobile.org CNAME .
 two-movies.org CNAME .
@@ -15469,6 +15791,10 @@ streamingcommunity.plus CNAME .
 *.streamingcommunity.plus CNAME .
 tracker.breizh.pm CNAME .
 *.tracker.breizh.pm CNAME .
+tor.rev.pm CNAME .
+*.tor.rev.pm CNAME .
+tracker.rev.pm CNAME .
+*.tracker.rev.pm CNAME .
 worldfree4u.pm CNAME .
 *.worldfree4u.pm CNAME .
 yesmovies.pm CNAME .
@@ -15493,6 +15819,8 @@ thepiratebay.press CNAME .
 *.123moviesto.pro CNAME .
 altadefinizione.pro CNAME .
 *.altadefinizione.pro CNAME .
+anidub.pro CNAME .
+*.anidub.pro CNAME .
 animewarrior.pro CNAME .
 *.animewarrior.pro CNAME .
 aovivo.pro CNAME .
@@ -15541,6 +15869,8 @@ juraganfilm.pro CNAME .
 *.juraganfilm.pro CNAME .
 keygens.pro CNAME .
 *.keygens.pro CNAME .
+kinokong.pro CNAME .
+*.kinokong.pro CNAME .
 kinoua.pro CNAME .
 *.kinoua.pro CNAME .
 limetor.pro CNAME .
@@ -15579,6 +15909,8 @@ superflix.pro CNAME .
 *.superflix.pro CNAME .
 tantifilm.pro CNAME .
 *.tantifilm.pro CNAME .
+themagnetbay.pro CNAME .
+*.themagnetbay.pro CNAME .
 themfire.pro CNAME .
 *.themfire.pro CNAME .
 torrent-tracker.pro CNAME .
@@ -15589,6 +15921,8 @@ torrentor.pro CNAME .
 *.torrentor.pro CNAME .
 totalsportek.pro CNAME .
 *.totalsportek.pro CNAME .
+uafilm.pro CNAME .
+*.uafilm.pro CNAME .
 uaserials.pro CNAME .
 *.uaserials.pro CNAME .
 unblockit.pro CNAME .
@@ -15661,6 +15995,8 @@ kickasstorrents.pw CNAME .
 *.kickasstorrents.pw CNAME .
 home.kray.pw CNAME .
 *.home.kray.pw CNAME .
+layer7.pw CNAME .
+*.layer7.pw CNAME .
 leechinghell.pw CNAME .
 *.leechinghell.pw CNAME .
 mlwbd.pw CNAME .
@@ -15743,6 +16079,8 @@ eztv.re CNAME .
 *.eztv.re CNAME .
 french-stream.re CNAME .
 *.french-stream.re CNAME .
+gidonline.re CNAME .
+*.gidonline.re CNAME .
 tracker.htp.re CNAME .
 *.tracker.htp.re CNAME .
 ilgeniodellostreaming.re CNAME .
@@ -15915,6 +16253,10 @@ streamiz.rip CNAME .
 *.streamiz.rip CNAME .
 sudo-flix.rip CNAME .
 *.sudo-flix.rip CNAME .
+thepiratebay.rip CNAME .
+*.thepiratebay.rip CNAME .
+tirexo.rip CNAME .
+*.tirexo.rip CNAME .
 vodfilms.rip CNAME .
 *.vodfilms.rip CNAME .
 voirseries.rip CNAME .
@@ -16029,6 +16371,8 @@ yts.rs CNAME .
 *.yts.rs CNAME .
 hdrezka.rsvp CNAME .
 *.hdrezka.rsvp CNAME .
+unblockit.rsvp CNAME .
+*.unblockit.rsvp CNAME .
 wawacity.rsvp CNAME .
 *.wawacity.rsvp CNAME .
 123moviess.ru CNAME .
@@ -16065,8 +16409,12 @@ ads-team.ru CNAME .
 *.ads-team.ru CNAME .
 aegp.ru CNAME .
 *.aegp.ru CNAME .
+aimweb.ru CNAME .
+*.aimweb.ru CNAME .
 retracker.akado-ural.ru CNAME .
 *.retracker.akado-ural.ru CNAME .
+alex-warez.ru CNAME .
+*.alex-warez.ru CNAME .
 altadefinizione.ru CNAME .
 *.altadefinizione.ru CNAME .
 androeed.ru CNAME .
@@ -16175,6 +16523,8 @@ flactor.ru CNAME .
 *.flactor.ru CNAME .
 foff.ru CNAME .
 *.foff.ru CNAME .
+freerus.ru CNAME .
+*.freerus.ru CNAME .
 freshremix.ru CNAME .
 *.freshremix.ru CNAME .
 freshtool.ru CNAME .
@@ -16185,8 +16535,16 @@ bt-tracker.gamexp.ru CNAME .
 *.bt-tracker.gamexp.ru CNAME .
 gaytorrent.ru CNAME .
 *.gaytorrent.ru CNAME .
+gid-online.ru CNAME .
+*.gid-online.ru CNAME .
+gidonline-film.ru CNAME .
+*.gidonline-film.ru CNAME .
+gidonline720.ru CNAME .
+*.gidonline720.ru CNAME .
 gold-films.ru CNAME .
 *.gold-films.ru CNAME .
+retracker.gorcomnet.ru CNAME .
+*.retracker.gorcomnet.ru CNAME .
 goucod.ru CNAME .
 *.goucod.ru CNAME .
 gtorrent.ru CNAME .
@@ -16223,6 +16581,8 @@ kimanime.ru CNAME .
 *.kimanime.ru CNAME .
 kinomall.ru CNAME .
 *.kinomall.ru CNAME .
+kinozapas.ru CNAME .
+*.kinozapas.ru CNAME .
 kissanime.ru CNAME .
 *.kissanime.ru CNAME .
 klub777.ru CNAME .
@@ -16267,6 +16627,8 @@ multi-torrent.ru CNAME .
 *.multi-torrent.ru CNAME .
 multreactor.ru CNAME .
 *.multreactor.ru CNAME .
+myflixer.ru CNAME .
+*.myflixer.ru CNAME .
 myflixerhd.ru CNAME .
 *.myflixerhd.ru CNAME .
 mytracker.ru CNAME .
@@ -16423,6 +16785,8 @@ retracker2.x2k.ru CNAME .
 *.retracker2.x2k.ru CNAME .
 xcine.ru CNAME .
 *.xcine.ru CNAME .
+xmovies8.ru CNAME .
+*.xmovies8.ru CNAME .
 xparadise.ru CNAME .
 *.xparadise.ru CNAME .
 z-torrents.ru CNAME .
@@ -16449,6 +16813,8 @@ trackers.run CNAME .
 *.123movies.sale CNAME .
 altadefinizione.sale CNAME .
 *.altadefinizione.sale CNAME .
+cineblog01.sale CNAME .
+*.cineblog01.sale CNAME .
 eurostreaming.sale CNAME .
 *.eurostreaming.sale CNAME .
 filmpertutti.sale CNAME .
@@ -16631,6 +16997,8 @@ mexa.sh CNAME .
 *.mexa.sh CNAME .
 warezz.now.sh CNAME .
 *.warezz.now.sh CNAME .
+popcorntime.sh CNAME .
+*.popcorntime.sh CNAME .
 putlockers.sh CNAME .
 *.putlockers.sh CNAME .
 soap2day.sh CNAME .
@@ -16745,6 +17113,8 @@ freeebies.site CNAME .
 *.freeebies.site CNAME .
 funxd.site CNAME .
 *.funxd.site CNAME .
+gidonline.site CNAME .
+*.gidonline.site CNAME .
 gostream.site CNAME .
 *.gostream.site CNAME .
 guardaserie.site CNAME .
@@ -16875,6 +17245,8 @@ altadefinizione.solutions CNAME .
 *.altadefinizione.solutions CNAME .
 cb01.solutions CNAME .
 *.cb01.solutions CNAME .
+guardaserie.solutions CNAME .
+*.guardaserie.solutions CNAME .
 altadefinizione.soy CNAME .
 *.altadefinizione.soy CNAME .
 altadefinizione01.soy CNAME .
@@ -16917,6 +17289,8 @@ moviesmod.space CNAME .
 *.moviesmod.space CNAME .
 mrunlock.space CNAME .
 *.mrunlock.space CNAME .
+tracker.ololosh.space CNAME .
+*.tracker.ololosh.space CNAME .
 tracker-de.ololosh.space CNAME .
 *.tracker-de.ololosh.space CNAME .
 zooqle.p4y.space CNAME .
@@ -16959,6 +17333,8 @@ free.open.tracker.4.starka.st CNAME .
 *.free.open.tracker.4.starka.st CNAME .
 tracker.xor.st CNAME .
 *.tracker.xor.st CNAME .
+yts.st CNAME .
+*.yts.st CNAME .
 androeed.store CNAME .
 *.androeed.store CNAME .
 doodstreamfiles.store CNAME .
@@ -16971,6 +17347,8 @@ guardaserie.store CNAME .
 *.guardaserie.store CNAME .
 italia-film.store CNAME .
 *.italia-film.store CNAME .
+lookmovie.store CNAME .
+*.lookmovie.store CNAME .
 rarbg.store CNAME .
 *.rarbg.store CNAME .
 ytsmx.store CNAME .
@@ -17029,6 +17407,8 @@ ymovies.stream CNAME .
 *.ymovies.stream CNAME .
 yoursports.stream CNAME .
 *.yoursports.stream CNAME .
+cb01.studio CNAME .
+*.cb01.studio CNAME .
 guardaserie.studio CNAME .
 *.guardaserie.studio CNAME .
 indoxxi.studio CNAME .
@@ -17109,6 +17489,8 @@ gomovies.sx CNAME .
 *.gomovies.sx CNAME .
 himovies.sx CNAME .
 *.himovies.sx CNAME .
+kinox.sx CNAME .
+*.kinox.sx CNAME .
 kukaj.sx CNAME .
 *.kukaj.sx CNAME .
 liveru.sx CNAME .
@@ -17149,6 +17531,8 @@ streamingcommunity.tattoo CNAME .
 *.streamingcommunity.tattoo CNAME .
 tantifilm.tattoo CNAME .
 *.tantifilm.tattoo CNAME .
+filmpertutti.tax CNAME .
+*.filmpertutti.tax CNAME .
 guardaserie.tax CNAME .
 *.guardaserie.tax CNAME .
 streamingcommunity.tax CNAME .
@@ -17169,12 +17553,16 @@ guardaserie.taxi CNAME .
 *.guardaserie.taxi CNAME .
 streamingcommunity.taxi CNAME .
 *.streamingcommunity.taxi CNAME .
+cineblog01.team CNAME .
+*.cineblog01.team CNAME .
 eurostreaming.team CNAME .
 *.eurostreaming.team CNAME .
 ilgeniodellostreaming.team CNAME .
 *.ilgeniodellostreaming.team CNAME .
 serienjunkies.team CNAME .
 *.serienjunkies.team CNAME .
+streamingcommunity.team CNAME .
+*.streamingcommunity.team CNAME .
 123movieshub.tech CNAME .
 *.123movieshub.tech CNAME .
 altadefinizione.tech CNAME .
@@ -17231,6 +17619,8 @@ cb01.tips CNAME .
 *.cb01.tips CNAME .
 filmpertutti.tips CNAME .
 *.filmpertutti.tips CNAME .
+guardaserie.tips CNAME .
+*.guardaserie.tips CNAME .
 thepiratebay.tips CNAME .
 *.thepiratebay.tips CNAME .
 eurostreaming.tires CNAME .
@@ -17399,6 +17789,8 @@ fmovies.to CNAME .
 *.fmovies.to CNAME .
 fmovies-hd.to CNAME .
 *.fmovies-hd.to CNAME .
+fmoviesz.to CNAME .
+*.fmoviesz.to CNAME .
 footballstream.to CNAME .
 *.footballstream.to CNAME .
 free-movies.to CNAME .
@@ -17419,6 +17811,8 @@ glodls.to CNAME .
 *.glodls.to CNAME .
 gog-games.to CNAME .
 *.gog-games.to CNAME .
+gogoanimex.to CNAME .
+*.gogoanimex.to CNAME .
 gogomovies.to CNAME .
 *.gogomovies.to CNAME .
 goldesel.to CNAME .
@@ -17455,6 +17849,8 @@ housemovie.to CNAME .
 *.housemovie.to CNAME .
 hs-scene.to CNAME .
 *.hs-scene.to CNAME .
+huramovies.to CNAME .
+*.huramovies.to CNAME .
 hurawatchz.to CNAME .
 *.hurawatchz.to CNAME .
 ibit.to CNAME .
@@ -17513,6 +17909,8 @@ m4ufree.to CNAME .
 *.m4ufree.to CNAME .
 mafia-linkz.to CNAME .
 *.mafia-linkz.to CNAME .
+mamahd.to CNAME .
+*.mamahd.to CNAME .
 mazepa.to CNAME .
 *.mazepa.to CNAME .
 mflix.to CNAME .
@@ -17551,6 +17949,8 @@ mp3juices.to CNAME .
 *.mp3juices.to CNAME .
 mp3skulls.to CNAME .
 *.mp3skulls.to CNAME .
+myasiantv.to CNAME .
+*.myasiantv.to CNAME .
 myauto.to CNAME .
 *.myauto.to CNAME .
 myflixer.to CNAME .
@@ -17643,6 +18043,8 @@ skytorrents.to CNAME .
 *.skytorrents.to CNAME .
 soap2day.to CNAME .
 *.soap2day.to CNAME .
+soap2dayx.to CNAME .
+*.soap2dayx.to CNAME .
 solarmovie.to CNAME .
 *.solarmovie.to CNAME .
 solarmoviez.to CNAME .
@@ -17749,6 +18151,8 @@ yts.to CNAME .
 *.yts.to CNAME .
 zonetelechargement.to CNAME .
 *.zonetelechargement.to CNAME .
+zorox.to CNAME .
+*.zorox.to CNAME .
 altadefinizione.today CNAME .
 *.altadefinizione.today CNAME .
 eurostreaming.today CNAME .
@@ -17769,6 +18173,8 @@ altadefinizione.tokyo CNAME .
 *.altadefinizione.tokyo CNAME .
 indoxxi.tokyo CNAME .
 *.indoxxi.tokyo CNAME .
+ddos.tools CNAME .
+*.ddos.tools CNAME .
 123movies.top CNAME .
 *.123movies.top CNAME .
 1stream.top CNAME .
@@ -17829,6 +18235,8 @@ tracker.hdpost.top CNAME .
 *.tracker.hdpost.top CNAME .
 highteahop.top CNAME .
 *.highteahop.top CNAME .
+hulkpop.top CNAME .
+*.hulkpop.top CNAME .
 idope.top CNAME .
 *.idope.top CNAME .
 ilgeniodellostreaming.top CNAME .
@@ -17845,6 +18253,8 @@ tracker.kmzs123.top CNAME .
 *.tracker.kmzs123.top CNAME .
 linkr.top CNAME .
 *.linkr.top CNAME .
+mathanosto.top CNAME .
+*.mathanosto.top CNAME .
 maxseries.top CNAME .
 *.maxseries.top CNAME .
 mirrorbay.top CNAME .
@@ -17901,6 +18311,8 @@ cb01.tours CNAME .
 *.cb01.tours CNAME .
 guardaserie.tours CNAME .
 *.guardaserie.tours CNAME .
+cineblog01.town CNAME .
+*.cineblog01.town CNAME .
 eurostreaming.town CNAME .
 *.eurostreaming.town CNAME .
 ilgeniodellostreaming.town CNAME .
@@ -17967,6 +18379,8 @@ streamingcommunity.tube CNAME .
 *.123moviesgo.tv CNAME .
 123moviesx.tv CNAME .
 *.123moviesx.tv CNAME .
+24h.tv CNAME .
+*.24h.tv CNAME .
 4k-hd-movies.tv CNAME .
 *.4k-hd-movies.tv CNAME .
 4kvod.tv CNAME .
@@ -18003,6 +18417,8 @@ animeid.tv CNAME .
 *.animeid.tv CNAME .
 animekisa.tv CNAME .
 *.animekisa.tv CNAME .
+animerush.tv CNAME .
+*.animerush.tv CNAME .
 animesaturn.tv CNAME .
 *.animesaturn.tv CNAME .
 animeshow.tv CNAME .
@@ -18075,8 +18491,12 @@ clientsportals.tv CNAME .
 *.clientsportals.tv CNAME .
 cloudvideo.tv CNAME .
 *.cloudvideo.tv CNAME .
+coflix.tv CNAME .
+*.coflix.tv CNAME .
 comiks.tv CNAME .
 *.comiks.tv CNAME .
+convert2mp3.tv CNAME .
+*.convert2mp3.tv CNAME .
 crackedstream.tv CNAME .
 *.crackedstream.tv CNAME .
 cricfree.tv CNAME .
@@ -18153,6 +18573,8 @@ hdtoday.tv CNAME .
 *.hdtoday.tv CNAME .
 hdtodaytv.tv CNAME .
 *.hdtodaytv.tv CNAME .
+hdwatch.tv CNAME .
+*.hdwatch.tv CNAME .
 heimdallur.tv CNAME .
 *.heimdallur.tv CNAME .
 hejo.tv CNAME .
@@ -18217,6 +18639,8 @@ laola1.tv CNAME .
 *.laola1.tv CNAME .
 lesliestone.tv CNAME .
 *.lesliestone.tv CNAME .
+letflix.tv CNAME .
+*.letflix.tv CNAME .
 live-stream.tv CNAME .
 *.live-stream.tv CNAME .
 liveonscore.tv CNAME .
@@ -18317,6 +18741,8 @@ pie321.tv CNAME .
 *.pie321.tv CNAME .
 piratebay.tv CNAME .
 *.piratebay.tv CNAME .
+playdede.tv CNAME .
+*.playdede.tv CNAME .
 playersklub.tv CNAME .
 *.playersklub.tv CNAME .
 playturk.tv CNAME .
@@ -18325,6 +18751,8 @@ plusbox.tv CNAME .
 *.plusbox.tv CNAME .
 polstacja.tv CNAME .
 *.polstacja.tv CNAME .
+primemovies.tv CNAME .
+*.primemovies.tv CNAME .
 pron.tv CNAME .
 *.pron.tv CNAME .
 proncams.tv CNAME .
@@ -18367,6 +18795,8 @@ simplywatch.tv CNAME .
 *.simplywatch.tv CNAME .
 simpsonai.tv CNAME .
 *.simpsonai.tv CNAME .
+simpsonsua.tv CNAME .
+*.simpsonsua.tv CNAME .
 siro.tv CNAME .
 *.siro.tv CNAME .
 smo3.tv CNAME .
@@ -18445,6 +18875,8 @@ tinyzone.tv CNAME .
 *.tinyzone.tv CNAME .
 topcartoons.tv CNAME .
 *.topcartoons.tv CNAME .
+topstreamfilm.tv CNAME .
+*.topstreamfilm.tv CNAME .
 torrentdosfilmes.tv CNAME .
 *.torrentdosfilmes.tv CNAME .
 torrentkitty.tv CNAME .
@@ -18459,6 +18891,8 @@ turkplay.tv CNAME .
 *.turkplay.tv CNAME .
 turkserials.tv CNAME .
 *.turkserials.tv CNAME .
+uafilm.tv CNAME .
+*.uafilm.tv CNAME .
 uaserial.tv CNAME .
 *.uaserial.tv CNAME .
 uateam.tv CNAME .
@@ -18559,6 +18993,10 @@ tracker.ex.ua CNAME .
 *.tracker.ex.ua CNAME .
 anitube.in.ua CNAME .
 *.anitube.in.ua CNAME .
+friends.in.ua CNAME .
+*.friends.in.ua CNAME .
+tracker.0day.kiev.ua CNAME .
+*.tracker.0day.kiev.ua CNAME .
 torrent.share.net.ua CNAME .
 *.torrent.share.net.ua CNAME .
 gabber.od.ua CNAME .
@@ -18781,6 +19219,8 @@ gogoanime.vc CNAME .
 *.gogoanime.vc CNAME .
 myflixer.vc CNAME .
 *.myflixer.vc CNAME .
+primewire.vc CNAME .
+*.primewire.vc CNAME .
 putlocker.vc CNAME .
 *.putlocker.vc CNAME .
 streamingcommunity.vc CNAME .
@@ -18889,6 +19329,8 @@ katmoviehd.vin CNAME .
 *.katmoviehd.vin CNAME .
 megakino.vin CNAME .
 *.megakino.vin CNAME .
+streamingcommunity.vin CNAME .
+*.streamingcommunity.vin CNAME .
 thepiratebay.vin CNAME .
 *.thepiratebay.vin CNAME .
 apkmody.vip CNAME .
@@ -18925,6 +19367,8 @@ findmovies.vip CNAME .
 *.findmovies.vip CNAME .
 fmovieshd.vip CNAME .
 *.fmovieshd.vip CNAME .
+gidonline.vip CNAME .
+*.gidonline.vip CNAME .
 guardaserie.vip CNAME .
 *.guardaserie.vip CNAME .
 ilgeniodellostreaming.vip CNAME .
@@ -19087,6 +19531,8 @@ pirateproxy.win CNAME .
 *.pirateproxy.win CNAME .
 seriesvault.win CNAME .
 *.seriesvault.win CNAME .
+softpilot.win CNAME .
+*.softpilot.win CNAME .
 solarmovies.win CNAME .
 *.solarmovies.win CNAME .
 ssrmovies.win CNAME .
@@ -19129,6 +19575,8 @@ streamingcommunity.work CNAME .
 *.streamingcommunity.work CNAME .
 tantifilm.work CNAME .
 *.tantifilm.work CNAME .
+altadefinizione.works CNAME .
+*.altadefinizione.works CNAME .
 ettv.123unblock.world CNAME .
 *.ettv.123unblock.world CNAME .
 altadefinizione.world CNAME .
@@ -19245,6 +19693,8 @@ freeline.ws CNAME .
 *.freeline.ws CNAME .
 games4u.ws CNAME .
 *.games4u.ws CNAME .
+gidonline.ws CNAME .
+*.gidonline.ws CNAME .
 gigatorrents.ws CNAME .
 *.gigatorrents.ws CNAME .
 guardaflix.ws CNAME .
@@ -19275,6 +19725,8 @@ kickass.ws CNAME .
 *.kickass.ws CNAME .
 kinozal.ws CNAME .
 *.kinozal.ws CNAME .
+kinozapas.ws CNAME .
+*.kinozapas.ws CNAME .
 kiss-anime.ws CNAME .
 *.kiss-anime.ws CNAME .
 labaia.ws CNAME .
@@ -19547,6 +19999,8 @@ gdrivedl.xyz CNAME .
 *.gdrivedl.xyz CNAME .
 gdrivemovies.xyz CNAME .
 *.gdrivemovies.xyz CNAME .
+gidonline.xyz CNAME .
+*.gidonline.xyz CNAME .
 gmovies.xyz CNAME .
 *.gmovies.xyz CNAME .
 gostream-hd.xyz CNAME .
@@ -19559,6 +20013,10 @@ tracker.iamhansen.xyz CNAME .
 *.tracker.iamhansen.xyz CNAME .
 idope.xyz CNAME .
 *.idope.xyz CNAME .
+ilgeniodellostreaming.xyz CNAME .
+*.ilgeniodellostreaming.xyz CNAME .
+ind-unblock.xyz CNAME .
+*.ind-unblock.xyz CNAME .
 ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
 tracker.iperson.xyz CNAME .
@@ -19633,6 +20091,8 @@ piratenow.xyz CNAME .
 *.piratenow.xyz CNAME .
 pirateportal.xyz CNAME .
 *.pirateportal.xyz CNAME .
+piratetoday.xyz CNAME .
+*.piratetoday.xyz CNAME .
 pobieramy24.xyz CNAME .
 *.pobieramy24.xyz CNAME .
 projectfreetv.xyz CNAME .
@@ -19723,6 +20183,8 @@ ukpirateproxy.xyz CNAME .
 *.ukpirateproxy.xyz CNAME .
 tracker.uw0.xyz CNAME .
 *.tracker.uw0.xyz CNAME .
+warezlover.xyz CNAME .
+*.warezlover.xyz CNAME .
 watch-movies-sinup.xyz CNAME .
 *.watch-movies-sinup.xyz CNAME .
 wawacity.xyz CNAME .
@@ -19791,8 +20253,12 @@ altadefinizione01.zone CNAME .
 *.altadefinizione01.zone CNAME .
 cineblog01.zone CNAME .
 *.cineblog01.zone CNAME .
+eurostreaming.zone CNAME .
+*.eurostreaming.zone CNAME .
 filmitastreaming.zone CNAME .
 *.filmitastreaming.zone CNAME .
+kinogoo.zone CNAME .
+*.kinogoo.zone CNAME .
 limetorrents.zone CNAME .
 *.limetorrents.zone CNAME .
 myflixer.zone CNAME .
