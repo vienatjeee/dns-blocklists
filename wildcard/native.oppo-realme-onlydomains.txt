@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Oct 2024 11:37 UTC
-# Version: 2024.1018.1137.11
+# Last modified: 20 Oct 2024 05:36 UTC
+# Version: 2024.1020.0536.40
 # Syntax: Domains (without subdomains)
-# Number of entries: 297
+# Number of entries: 319
 #
 calculator-api-fr.allawnos.com
 calculator-api-in.allawnos.com
@@ -219,6 +219,10 @@ mdp-appconf-vn.heytapdl.com
 mdp-appconf-za.heytapdl.com
 appconf.heytapdownload.com
 adsfs-sdkconfig.heytapimage.com
+dhfs-id.heytapimage.com
+dhfs-in.heytapimage.com
+dhfs-my.heytapimage.com
+dhfs-ph.heytapimage.com
 ads.heytapmobi.com
 logforward.browser.heytapmobi.com
 stat.browser.heytapmobi.com
@@ -266,6 +270,19 @@ iflow-in.browser.heytapmobile.com
 iflow-sg.browser.heytapmobile.com
 iflow-th.browser.heytapmobile.com
 iflow-vn.browser.heytapmobile.com
+browser-api-br.heytapmobile.com
+browser-api-fr.heytapmobile.com
+browser-api-gl.heytapmobile.com
+browser-api-id.heytapmobile.com
+browser-api-in.heytapmobile.com
+browser-api-my.heytapmobile.com
+browser-api-ph.heytapmobile.com
+browser-api-ru.heytapmobile.com
+browser-api-th.heytapmobile.com
+browser-api-us.heytapmobile.com
+browser-api-vn.heytapmobile.com
+browser-api-za.heytapmobile.com
+browserfiles.heytapmobile.com
 api-gl.cdo.heytapmobile.com
 api-id.cdo.heytapmobile.com
 api-in.cdo.heytapmobile.com
@@ -306,3 +323,8 @@ bsf.sc.heytapmobile.com
 slb-apisnd-in.heytapmobile.com
 api-id.theme.heytapmobile.com
 report-sg.uc.heytapmobile.com
+dhfs-id.oppomobile.com
+dhfs-in.oppomobile.com
+dhfs-th.oppomobile.com
+dhfs-vn.oppomobile.com
+dhfsf.oppomobile.com
