@@ -1,6 +1,9 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif list.
 
+# https://github.com/hagezi/dns-blocklists/issues/3825#issuecomment-2424691633
+geomobileservices-pa.googleapis.com
+
 # Videos on various sites, e.g. 20min.ch
 tdn.da-services.ch
 
