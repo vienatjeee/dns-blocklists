@@ -70,6 +70,6 @@ jobs:
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
-          retain_days: 3
-          keep_minimum_runs: 3
+          retain_days: 2
+          keep_minimum_runs: 0
     needs: [release, purge, releasecleanup]
