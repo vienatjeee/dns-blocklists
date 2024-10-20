@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Oct 2024 15:18 UTC
-# Version: 2024.1019.1518.00
+# Last modified: 20 Oct 2024 16:04 UTC
+# Version: 2024.1020.1604.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1858
+# Number of entries: 1847
 #
 local=/000a.de/
 local=/000space.com/
@@ -650,16 +650,13 @@ local=/com24.at/
 local=/comeze.com/
 local=/comhem.se/
 local=/comli.com/
-local=/comlu.com/
 local=/community.lc/
 local=/community24.eu/
-local=/comoj.com/
 local=/comuf.com/
 local=/comule.com/
 local=/comunidades.net/
 local=/comuv.com/
 local=/comxa.com/
-local=/comyr.com/
 local=/comze.com/
 local=/cookpad-blog.jp/
 local=/cool.hn/
@@ -894,7 +891,6 @@ local=/freehostingeu.com/
 local=/freehostplace.com/
 local=/freehostyou.com/
 local=/freehyperspace5.com/
-local=/freeiz.com/
 local=/freeoda.com/
 local=/freepe.com/
 local=/freeservers.com/
@@ -1002,8 +998,6 @@ local=/hostinger.de/
 local=/hostingfailov.com/
 local=/hostingsiteforfree.com/
 local=/hostkda.com/
-local=/hostoi.com/
-local=/hostzi.com/
 local=/hot.lc/
 local=/hotusa.org/
 local=/howeweb.com/
@@ -1260,7 +1254,6 @@ local=/prima.net.ar/
 local=/vpn.net.br/
 local=/net16.net/
 local=/net23.net/
-local=/net46.net/
 local=/net63.net/
 local=/net76.net/
 local=/net84.net/
@@ -1478,12 +1471,9 @@ local=/simdif.com/
 local=/simplesite.com/
 local=/simpsite.nl/
 local=/site.pro/
-local=/site11.com/
 local=/site123.me/
 local=/site40.net/
-local=/site50.net/
 local=/site88.net/
-local=/site90.com/
 local=/site90.net/
 local=/sitego.fr/
 local=/sitegoz.com/
@@ -1705,7 +1695,6 @@ local=/web-clan.de/
 local=/web-log.nl/
 local=/web1000.com/
 local=/web1337.net/
-local=/web44.net/
 local=/web4free.eu/
 local=/web99.eu/
 local=/webatu.com/

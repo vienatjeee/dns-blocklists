@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729351080 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729440240 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Oct 2024 15:18 UTC
-; Version: 2024.1019.1518.00
+; Last modified: 20 Oct 2024 16:04 UTC
+; Version: 2024.1020.1604.12
 ; Syntax: RPZ
-; Number of entries: 3716
+; Number of entries: 3694
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -773,10 +773,6 @@ comeze.com CNAME .
 *.comeze.com CNAME .
 comli.com CNAME .
 *.comli.com CNAME .
-comlu.com CNAME .
-*.comlu.com CNAME .
-comoj.com CNAME .
-*.comoj.com CNAME .
 comuf.com CNAME .
 *.comuf.com CNAME .
 comule.com CNAME .
@@ -785,8 +781,6 @@ comuv.com CNAME .
 *.comuv.com CNAME .
 comxa.com CNAME .
 *.comxa.com CNAME .
-comyr.com CNAME .
-*.comyr.com CNAME .
 comze.com CNAME .
 *.comze.com CNAME .
 coolfreepages.com CNAME .
@@ -995,8 +989,6 @@ freehostyou.com CNAME .
 *.freehostyou.com CNAME .
 freehyperspace5.com CNAME .
 *.freehyperspace5.com CNAME .
-freeiz.com CNAME .
-*.freeiz.com CNAME .
 freeoda.com CNAME .
 *.freeoda.com CNAME .
 freepe.com CNAME .
@@ -1099,10 +1091,6 @@ hostingsiteforfree.com CNAME .
 *.hostingsiteforfree.com CNAME .
 hostkda.com CNAME .
 *.hostkda.com CNAME .
-hostoi.com CNAME .
-*.hostoi.com CNAME .
-hostzi.com CNAME .
-*.hostzi.com CNAME .
 howeweb.com CNAME .
 *.howeweb.com CNAME .
 hoxty.com CNAME .
@@ -1429,10 +1417,6 @@ simdif.com CNAME .
 *.simdif.com CNAME .
 simplesite.com CNAME .
 *.simplesite.com CNAME .
-site11.com CNAME .
-*.site11.com CNAME .
-site90.com CNAME .
-*.site90.com CNAME .
 sitegoz.com CNAME .
 *.sitegoz.com CNAME .
 sitepalace.com CNAME .
@@ -3051,8 +3035,6 @@ net16.net CNAME .
 *.net16.net CNAME .
 net23.net CNAME .
 *.net23.net CNAME .
-net46.net CNAME .
-*.net46.net CNAME .
 net63.net CNAME .
 *.net63.net CNAME .
 net76.net CNAME .
@@ -3095,8 +3077,6 @@ serv00.net CNAME .
 *.serv00.net CNAME .
 site40.net CNAME .
 *.site40.net CNAME .
-site50.net CNAME .
-*.site50.net CNAME .
 site88.net CNAME .
 *.site88.net CNAME .
 site90.net CNAME .
@@ -3137,8 +3117,6 @@ vollidiot.net CNAME .
 *.vollidiot.net CNAME .
 web1337.net CNAME .
 *.web1337.net CNAME .
-web44.net CNAME .
-*.web44.net CNAME .
 webfreehosting.net CNAME .
 *.webfreehosting.net CNAME .
 webself.net CNAME .
