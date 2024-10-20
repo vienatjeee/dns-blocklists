@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Oct 2024 22:17 UTC
-# Version: 2024.1018.2217.15
+# Last modified: 19 Oct 2024 21:45 UTC
+# Version: 2024.1019.2145.27
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1416
+# Number of entries: 1458
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -19,6 +19,7 @@
 *.123000123.xyz
 *.dns.13evl.com
 *.cloud.198.games
+*.1and1-dns.de
 *.dns.23-4.cn
 *.233py.com
 *.dns.240527.xyz
@@ -49,6 +50,9 @@
 *.dns.a47.me
 *.doh.aaaab3n.moe
 *.adb.aadityakushwaha.com
+*.dns.aaflalo.me
+*.dns-gcp.aaflalo.me
+*.dns-nyc.aaflalo.me
 *.doh.dns.apple.com.v.aaplimg.com
 *.adguard.abd.ong
 *.dns.abdullahabas.de
@@ -82,6 +86,9 @@
 *.blitz-setup.ahadns.com
 *.ahoj.email
 *.dns.albony.xyz
+*.dns.alekberg.net
+*.dns2.alekberg.net
+*.dnses.alekberg.net
 *.dnsnl.alekberg.net
 *.dnsnl-noads.alekberg.net
 *.dnsse.alekberg.net
@@ -177,13 +184,22 @@
 *.tky-dns.bitdefender.net
 *.dns.bitservices.io
 *.dns-tls.bitwiseshift.net
+*.2.dnscrypt-cert.blahdns.com
+*.doh.blahdns.com
+*.doh-ch.blahdns.com
 *.doh-de.blahdns.com
+*.doh-fi.blahdns.com
+*.doh-jp.blahdns.com
 *.doh-sg.blahdns.com
 *.doh1.blahdns.com
 *.doh2.blahdns.com
+*.dot-ch.blahdns.com
 *.dot-de.blahdns.com
+*.dot-fi.blahdns.com
+*.dot-jp.blahdns.com
 *.dot-sg.blahdns.com
 *.dns.blaumer.dev
+*.dns.blaze-sk.ru
 *.us1.blissdns.net
 *.doh.blockerdns.com
 *.adguard.blogssl.com
@@ -214,12 +230,14 @@
 *.dns.cabbage.zone
 *.dns.cahlen.com
 *.callies-online.site
+*.2.dnscrypt-cert.captnemo.in
 *.doh.captnemo.in
 *.console.carestyle.org
 *.dns.carson-family.com
 *.dns.carter.me
 *.dns.caspervk.net
 *.catchen121299.top
+*.catdns.org
 *.alidns.cb1999.top
 *.alidns2.cb1999.top
 *.dns2.cbio.top
@@ -243,18 +261,18 @@
 *.oraclejp2.chungyu.com
 *.c.cicitt.ch
 *.doh.cippapp.com
-*.family.canadianshield.cira.ca
-*.private.canadianshield.cira.ca
-*.protected.canadianshield.cira.ca
+*.canadianshield.cira.ca
 *.dns.circl.lu
 *.dns.clanless.ovh
 *.dns.clanto.cloud
 *.cleanbrowsing.org
 *.dns.cloudfiction.eu
+*.dns.233py.com.cdn.cloudflare.net
 *.dns.cloudflare.com
 *.cloudflare-dns.com
 *.cloudflare-gateway.com
 *.api.cloudflareclient.com
+*.cloudflareresolve.com
 *.voyage-s01.cloudku.technology
 *.adguard.cloudmini.net
 *.dns-fr-psv1.cloudsides.com
@@ -268,6 +286,7 @@
 *.www.dnsadguard.co.uk
 *.dns.gayanalysing.co.uk
 *.dns.gi.co.id
+*.ag.hostme.co.il
 *.dns.neilzone.co.uk
 *.ns.nerdytechgeeks.co.za
 *.dns.oliviertv.co.za
@@ -363,12 +382,14 @@
 *.dns3.dns-ga.de
 *.doh.dns-ga.de
 *.secure-dns.dns-ga.de
+*.dns.dns-over-https.com
 *.dns0.eu
 *.doh.dns4all.eu
 *.dns4me.net
 *.dns8.org
 *.ns1.recursive.dnsbycomodo.com
 *.ns2.recursive.dnsbycomodo.com
+*.2.dnscrypt-cert.shield-2.dnsbycomodo.com
 *.abe01.dnscry.pt
 *.abn01.dnscry.pt
 *.ams01.dnscry.pt
@@ -456,14 +477,25 @@
 *.dnsforge.de
 *.bahopir188.dnshome.de
 *.dns.dnshome.de
+*.doh.dnslify.com
+*.a.ns.dnslify.com
+*.b.ns.dnslify.com
+*.a.family.ns.dnslify.com
+*.b.family.ns.dnslify.com
+*.a.safe.ns.dnslify.com
+*.b.safe.ns.dnslify.com
 *.dnslow.me
 *.dns.dnsoverhttps.net
+*.adblock-dot.dnswarden.com
+*.adult-filter-dot.dnswarden.com
 *.doh.asia.dnswarden.com
 *.dns.dnswarden.com
 *.doh.dnswarden.com
+*.ecs-doh.dnswarden.com
 *.doh.eu.dnswarden.com
 *.fr1.dnswarden.com
 *.sg1.dnswarden.com
+*.uncensored-dot.dnswarden.com
 *.doh.us.dnswarden.com
 *.dnswebvsn.com
 *.do-39574-tr.xyz
@@ -493,6 +525,7 @@
 *.dns.dyn1.de
 *.ueni.dyndns.org
 *.gustamadh.dynv6.net
+*.dnscache.e-utp.net
 *.adguard.easez.net
 *.easyhandshake.com
 *.dns.eddi.net
@@ -552,6 +585,7 @@
 *.fidelius.top
 *.dns.filipccz.eu
 *.dns.fizz.studio
+*.dns.flatuslifir.is
 *.dns.flightspace.net
 *.dns01.flm9.net
 *.ns1.flodns.net
@@ -689,6 +723,7 @@
 *.inpssh.online
 *.qlf-doh.inria.fr
 *.dns.interhub.cc
+*.iot-dns.com
 *.ipoac.nl
 *.dns1.irumatech.com
 *.dns.is0mino.com
@@ -854,6 +889,7 @@
 *.dns.moonssif.com
 *.morbitzer.de
 *.dns.moulticast.net
+*.dns.mrkaran.dev
 *.msr177.com
 *.dns.msxnet.ru
 *.dns.mtoo.vip
@@ -950,6 +986,7 @@
 *.dns.nextdns.io
 *.dns1.nextdns.io
 *.dns2.nextdns.io
+*.edge.nextdns.io
 *.steering.nextdns.io
 *.dns.nguyendn.com
 *.dns.nhtsky.com
@@ -961,14 +998,7 @@
 *.nicsezcheckfbi.gov
 *.dns1.nielsdb.be
 *.dns.ningkelle.id
-*.adblock.any.dns.nixnet.xyz
-*.uncensored.any.dns.nixnet.xyz
-*.adblock.lux1.dns.nixnet.xyz
-*.uncensored.lux1.dns.nixnet.xyz
-*.adblock.lv1.dns.nixnet.xyz
-*.uncensored.lv1.dns.nixnet.xyz
-*.adblock.ny1.dns.nixnet.xyz
-*.uncensored.ny1.dns.nixnet.xyz
+*.dns.nixnet.xyz
 *.lux1.nixnet.xyz
 *.lv1.nixnet.xyz
 *.ny1.nixnet.xyz
@@ -995,6 +1025,7 @@
 *.ns3.com
 *.ns3.cx
 *.ns3.link
+*.dnscache0.ns71.net
 *.dns.nullgate.net
 *.dns.numerus.com
 *.ns.nwps.fi
@@ -1020,8 +1051,11 @@
 *.ada.openbld.net
 *.ric.openbld.net
 *.dns.opendns.com
+*.2.dnscrypt-cert.opendns.com
 *.doh.opendns.com
 *.familyshield.opendns.com
+*.resolver1.ipv6-sandbox.opendns.com
+*.resolver2.ipv6-sandbox.opendns.com
 *.resolver1.opendns.com
 *.resolver1-fs.opendns.com
 *.resolver2.opendns.com
@@ -1059,6 +1093,7 @@
 *.dns.phillipjberry.net
 *.doh.centraleu.pi-dns.com
 *.dot.centraleu.pi-dns.com
+*.doh.pi-dns.com
 *.doh.eastas.pi-dns.com
 *.dot.eastas.pi-dns.com
 *.doh.eastau.pi-dns.com
@@ -1067,6 +1102,7 @@
 *.dot.eastus.pi-dns.com
 *.doh.northeu.pi-dns.com
 *.dot.northeu.pi-dns.com
+*.doh.westeu.pi-dns.com
 *.doh.westus.pi-dns.com
 *.dot.westus.pi-dns.com
 *.adguard.piekacz.pl
@@ -1083,6 +1119,7 @@
 *.pm9352-bd.xyz
 *.doh.port53.dk
 *.dns.porteii.com
+*.doh.powerdns.org
 *.dns.aeiou.pp.ua
 *.dns.ha-dvin.pp.ua
 *.dns.korzhyk.pp.ua
@@ -1129,6 +1166,7 @@
 *.dns12.quad9.net
 *.dns13.quad9.net
 *.dns9.quad9.net
+*.2.dnscrypt-cert.quad9.net
 *.doh.quickline.ch
 *.dot.quickline.ch
 *.dns.quiet.rocks
@@ -1201,6 +1239,7 @@
 *.dns.scott-smith.us
 *.dns.scuola.org
 *.adguard.sealyserver.com
+*.2.dnscrypt-cert.dns.seby.io
 *.doh.seby.io
 *.doh-2.seby.io
 *.dot.seby.io
@@ -1323,15 +1362,16 @@
 *.tributh.net
 *.dns.trust404.win
 *.truta.org
+*.dns.tryk.app
 *.adg.tshost.no
 *.doh.ibr.cs.tu-bs.de
 *.tuskythehusky.tech
+*.nat64.tuxis.nl
 *.dns.twnic.tw
 *.adguard.twotigers.xyz
 *.dns.txq.life
 *.typaza.com
 *.ad.tzockt.beer
-*.adguard-ironhide.ultima-thule.ru
 *.dns.umbrella.com
 *.doh.umbrella.com
 *.unasw.eu
@@ -1376,6 +1416,7 @@
 *.dns.warma.me
 *.dns.warpnine.de
 *.dns.engineer.web.id
+*.doh.this.web.id
 *.doh.webnmail.de
 *.dns.wechat.com
 *.doh.wewitro.net
@@ -1402,6 +1443,7 @@
 *.dns.xusqui.com
 *.v2.xx3210766.live
 *.dns.yameenassotally.com
+*.2.dnscrypt-cert.browser.yandex.net
 *.dns.yandex.ru
 *.common.dot.dns.yandex.net
 *.family.dot.dns.yandex.net

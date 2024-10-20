@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Oct 2024 23:01 UTC
-# Version: 2024.1016.2301.34
+# Last modified: 19 Oct 2024 22:21 UTC
+# Version: 2024.1019.2221.59
 # Syntax: Domains (without subdomains)
-# Number of entries: 99
+# Number of entries: 100
 #
 cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
@@ -75,6 +75,7 @@ prd-usw2-requestattribution-iad.apple.com
 proxy-skadnetwork.apple.com
 qa-iad.apple.com
 radarsubmissions.apple.com
+sdkintg-iad.apple.com
 sdkintgiad.apple.com
 searchads.apple.com
 securemetrics.apple.com

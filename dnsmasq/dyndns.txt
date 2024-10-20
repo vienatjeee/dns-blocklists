@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Oct 2024 22:26 UTC
-# Version: 2024.1016.2226.22
+# Last modified: 19 Oct 2024 21:46 UTC
+# Version: 2024.1019.2146.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1479
+# Number of entries: 1488
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -115,6 +115,7 @@ local=/b0tnet.com/
 local=/b33r.us/
 local=/bad.mn/
 local=/baden.ru/
+local=/bagus.org/
 local=/baikabibai.com/
 local=/bakli.ru/
 local=/barbaforte.org/
@@ -171,7 +172,9 @@ local=/casacam.net/
 local=/cashit.info/
 local=/cbopelousas.com/
 local=/cbu.net/
+local=/ccmissoula.com/
 local=/cechire.com/
+local=/celebsplay.com/
 local=/celltrak.mobi/
 local=/centserver.com/
 local=/cf.gs/
@@ -1090,6 +1093,7 @@ local=/olavsen.net/
 local=/omicronceti3.net/
 local=/on-the-web.tv/
 local=/onedumb.com/
+local=/onionsallyear.mobi/
 local=/onmypc.biz/
 local=/onmypc.info/
 local=/onmypc.net/
@@ -1177,6 +1181,7 @@ local=/read-books.org/
 local=/readmyblog.org/
 local=/rebatesrule.net/
 local=/recruitment7.com/
+local=/recyclesolutionsllc.com/
 local=/redirectme.net/
 local=/reijn.org/
 local=/remotecam.nu/
@@ -1194,6 +1199,7 @@ local=/rpz.su/
 local=/rr.nu/
 local=/rtam.net/
 local=/rum.si/
+local=/rundis.com/
 local=/ruok.org/
 local=/russkoeumea.com/
 local=/rwbcode.com/
@@ -1201,6 +1207,7 @@ local=/ryointernational.com/
 local=/sadayuki.jp/
 local=/sandmeiers.ch/
 local=/sannon-stamm.com/
+local=/sarah-lai.com/
 local=/saves-the-whales.com/
 local=/scay.net/
 local=/scieron.com/
@@ -1301,6 +1308,7 @@ local=/spdns.org/
 local=/spdyn.de/
 local=/spectrumnet.bg/
 local=/spelar.se/
+local=/spottt.com/
 local=/sql01.com/
 local=/sqlconcepts.com/
 local=/squirly.info/
@@ -1355,6 +1363,7 @@ local=/tftpd.net/
 local=/thatip.com/
 local=/thddns.net/
 local=/the-button.com/
+local=/theblacklist.org/
 local=/thehomeserver.net/
 local=/themcmillans.org/
 local=/thenest.org/

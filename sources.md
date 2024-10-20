@@ -395,7 +395,6 @@ https://raw.githubusercontent.com/yous/youslist/master/hosts.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz
 https://rescure.me/rescure_blacklist.txt
-https://rescure.me/rescure_domain_blacklist.txt
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt

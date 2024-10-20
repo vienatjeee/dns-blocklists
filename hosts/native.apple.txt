@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Oct 2024 23:01 UTC
-# Version: 2024.1016.2301.34
+# Last modified: 19 Oct 2024 22:21 UTC
+# Version: 2024.1019.2221.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 322
+# Number of entries: 334
 #
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -49,8 +49,10 @@
 0.0.0.0 experiments.apple.com
 0.0.0.0 iad.apple.com
 0.0.0.0 am02p01ad-ext-cloud.iad.apple.com
+0.0.0.0 am02p01adext-infcloud.iad.apple.com
 0.0.0.0 apps.iad.apple.com
 0.0.0.0 da21p01ad-ext-cloud.iad.apple.com
+0.0.0.0 da21p01ad-ext-infcloud.iad.apple.com
 0.0.0.0 demoworkbench.iad.apple.com
 0.0.0.0 display-apps-ui.iad.apple.com
 0.0.0.0 hk24p01ad-ext-cloud.iad.apple.com
@@ -82,6 +84,7 @@
 0.0.0.0 iad2s2-newssdk.iad.apple.com
 0.0.0.0 iad2s2-oo.iad.apple.com
 0.0.0.0 iad2s2-pass.iad.apple.com
+0.0.0.0 iad2s2api.iad.apple.com
 0.0.0.0 iad2s3-chalkboard.iad.apple.com
 0.0.0.0 iad2s3-cmws.iad.apple.com
 0.0.0.0 iad2s3-iadc.iad.apple.com
@@ -97,6 +100,7 @@
 0.0.0.0 iad2s4-newssdk.iad.apple.com
 0.0.0.0 iad2s4-oo.iad.apple.com
 0.0.0.0 iad2s4-pass.iad.apple.com
+0.0.0.0 iad2s4pass.iad.apple.com
 0.0.0.0 iad2v1-chalkboard.iad.apple.com
 0.0.0.0 iad2v1-cmws.iad.apple.com
 0.0.0.0 iad2v1-feed.iad.apple.com
@@ -122,6 +126,7 @@
 0.0.0.0 iad2v4-feed.iad.apple.com
 0.0.0.0 iad2v4-iadc.iad.apple.com
 0.0.0.0 iad2v4-newssdk.iad.apple.com
+0.0.0.0 iad2v4iadsdk.iad.apple.com
 0.0.0.0 iad2v5-feed.iad.apple.com
 0.0.0.0 iad2v5-pass.iad.apple.com
 0.0.0.0 iad2v5-workbench.iad.apple.com
@@ -152,6 +157,10 @@
 0.0.0.0 mr11p01ad-static.iad.apple.com
 0.0.0.0 mr11p01ad-stg-ext-csc-cloud.iad.apple.com
 0.0.0.0 mr11p01ad-stgadbweb.iad.apple.com
+0.0.0.0 mr11p01adiadsdk00702.iad.apple.com
+0.0.0.0 mr11p01adiadsdk00801.iad.apple.com
+0.0.0.0 mr11p01adiadsdk01004.iad.apple.com
+0.0.0.0 mr11p01adiadsdk01103.iad.apple.com
 0.0.0.0 mr11q01ad-ext-cloud.iad.apple.com
 0.0.0.0 mr11q01ad-ext-csc-cloud.iad.apple.com
 0.0.0.0 mr11q01ad-r1-ext-svc.iad.apple.com
@@ -260,6 +269,7 @@
 0.0.0.0 st11p01ad-netscaler009-pass.iad.apple.com
 0.0.0.0 st11p01ad-netscaler013-pass.iad.apple.com
 0.0.0.0 st11p01ad-netscaler014-pass.iad.apple.com
+0.0.0.0 st11p01adext-infcloud.iad.apple.com
 0.0.0.0 sv06p01ad-ext-cloud.iad.apple.com
 0.0.0.0 sy21p01ad-ext-cloud.iad.apple.com
 0.0.0.0 ty92p01ad-ext-cloud.iad.apple.com
@@ -296,11 +306,13 @@
 0.0.0.0 qa-iad.apple.com
 0.0.0.0 overlord.qa-iad.apple.com
 0.0.0.0 radarsubmissions.apple.com
+0.0.0.0 sdkintg-iad.apple.com
 0.0.0.0 sdkintgiad.apple.com
 0.0.0.0 searchads.apple.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemvt.apple.com
 0.0.0.0 stg-iad.apple.com
+0.0.0.0 st11p01adiadc-origin.stg-iad.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 uxintg-iad.apple.com
