@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729374240 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729461480 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Oct 2024 21:44 UTC
-; Version: 2024.1019.2144.02
+; Last modified: 20 Oct 2024 21:58 UTC
+; Version: 2024.1020.2158.00
 ; Syntax: RPZ
-; Number of entries: 7056
+; Number of entries: 7036
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1350,8 +1350,6 @@ hidessh.com CNAME .
 *.hidessh.com CNAME .
 hidester.com CNAME .
 *.hidester.com CNAME .
-hidetheinternet.com CNAME .
-*.hidetheinternet.com CNAME .
 hidexy.com CNAME .
 *.hidexy.com CNAME .
 hidingit.com CNAME .
@@ -2048,8 +2046,6 @@ publicdnsserver.com CNAME .
 *.publicdnsserver.com CNAME .
 dns.pumpkinvrar.com CNAME .
 *.dns.pumpkinvrar.com CNAME .
-pupilproxy.com CNAME .
-*.pupilproxy.com CNAME .
 purevpn.com CNAME .
 *.purevpn.com CNAME .
 purevpn-tools.com CNAME .
@@ -2734,8 +2730,6 @@ vpnvip.com CNAME .
 *.vpnvip.com CNAME .
 antispam.vpnvps.com CNAME .
 *.antispam.vpnvps.com CNAME .
-vpnwebsite.com CNAME .
-*.vpnwebsite.com CNAME .
 vpnwelt.com CNAME .
 *.vpnwelt.com CNAME .
 antispam.vpsvpn.com CNAME .
@@ -3060,8 +3054,6 @@ dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
 koxy.de CNAME .
 *.koxy.de CNAME .
-lagometer.de CNAME .
-*.lagometer.de CNAME .
 ag.marschi.de CNAME .
 *.ag.marschi.de CNAME .
 masters-of-cloud.de CNAME .
@@ -3440,8 +3432,6 @@ unblocksite.fun CNAME .
 *.unblocksite.fun CNAME .
 cloud.198.games CNAME .
 *.cloud.198.games CNAME .
-calumis.gay CNAME .
-*.calumis.gay CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
 8888.google CNAME .
@@ -3696,8 +3686,6 @@ fastfreeproxy.info CNAME .
 *.fastfreeproxy.info CNAME .
 fastpro.info CNAME .
 *.fastpro.info CNAME .
-fasttime.info CNAME .
-*.fasttime.info CNAME .
 fbproxies.info CNAME .
 *.fbproxies.info CNAME .
 fortniters.info CNAME .
@@ -4048,8 +4036,6 @@ free.shecan.ir CNAME .
 *.free.shecan.ir CNAME .
 pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
-technofix.ir CNAME .
-*.technofix.ir CNAME .
 cryptostorm.is CNAME .
 *.cryptostorm.is CNAME .
 dns.flatuslifir.is CNAME .
@@ -5320,8 +5306,6 @@ ubint.net CNAME .
 *.ubint.net CNAME .
 ultimateproxy.net CNAME .
 *.ultimateproxy.net CNAME .
-ultrafun.net CNAME .
-*.ultrafun.net CNAME .
 unblockblocked.net CNAME .
 *.unblockblocked.net CNAME .
 unblocked2.net CNAME .
@@ -6568,8 +6552,6 @@ proxysite.top CNAME .
 *.proxysite.top CNAME .
 revelio.top CNAME .
 *.revelio.top CNAME .
-dns.rootlab.top CNAME .
-*.dns.rootlab.top CNAME .
 local.sufly.top CNAME .
 *.local.sufly.top CNAME .
 supervpn.top CNAME .
@@ -6920,8 +6902,6 @@ dns.886886886.xyz CNAME .
 *.dns.886886886.xyz CNAME .
 dns.888654.xyz CNAME .
 *.dns.888654.xyz CNAME .
-89433332.xyz CNAME .
-*.89433332.xyz CNAME .
 doh.abraservice.xyz CNAME .
 *.doh.abraservice.xyz CNAME .
 dns.albony.xyz CNAME .

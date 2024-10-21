@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729374360 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729461600 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Oct 2024 21:46 UTC
-; Version: 2024.1019.2146.46
+; Last modified: 20 Oct 2024 22:00 UTC
+; Version: 2024.1020.2200.51
 ; Syntax: RPZ
-; Number of entries: 2976
+; Number of entries: 2966
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -81,8 +81,6 @@ for-some.biz CNAME .
 *.for-some.biz CNAME .
 for-the.biz CNAME .
 *.for-the.biz CNAME .
-freewww.biz CNAME .
-*.freewww.biz CNAME .
 ftp1.biz CNAME .
 *.ftp1.biz CNAME .
 ftpserver.biz CNAME .
@@ -2741,16 +2739,12 @@ dynnamn.ru CNAME .
 *.dynnamn.ru CNAME .
 gerastar.ru CNAME .
 *.gerastar.ru CNAME .
-guardz.ru CNAME .
-*.guardz.ru CNAME .
 hldns.ru CNAME .
 *.hldns.ru CNAME .
 jwork.ru CNAME .
 *.jwork.ru CNAME .
 kanda.ru CNAME .
 *.kanda.ru CNAME .
-kck-saratov.ru CNAME .
-*.kck-saratov.ru CNAME .
 kir22.ru CNAME .
 *.kir22.ru CNAME .
 ksk-saratov.ru CNAME .
@@ -2785,8 +2779,6 @@ tdkare.ru CNAME .
 *.tdkare.ru CNAME .
 uzhi.ru CNAME .
 *.uzhi.ru CNAME .
-voles35.ru CNAME .
-*.voles35.ru CNAME .
 xsph.ru CNAME .
 *.xsph.ru CNAME .
 z86.ru CNAME .
@@ -2903,8 +2895,6 @@ dynamicdns.org.uk CNAME .
 *.0rg.us CNAME .
 4twenty.us CNAME .
 *.4twenty.us CNAME .
-atlantatruckdrivingschool.us CNAME .
-*.atlantatruckdrivingschool.us CNAME .
 authorizeddns.us CNAME .
 *.authorizeddns.us CNAME .
 b33r.us CNAME .

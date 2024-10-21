@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Oct 2024 21:44 UTC
-# Version: 2024.1019.2144.02
+# Last modified: 20 Oct 2024 21:58 UTC
+# Version: 2024.1020.2158.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3528
+# Number of entries: 3518
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -100,7 +100,6 @@ local=/dns.7vpn.com/
 local=/dns.886886886.xyz/
 local=/dns.888654.xyz/
 local=/8888.google/
-local=/89433332.xyz/
 local=/8proxy.com/
 local=/8v9m.com/
 local=/922proxy.com/
@@ -457,7 +456,6 @@ local=/dns.cabbage.zone/
 local=/cactusvpn.com/
 local=/dns.cahlen.com/
 local=/callies-online.site/
-local=/calumis.gay/
 local=/tor.calyxinstitute.org/
 local=/cantblockthis.org/
 local=/cantfindme.org/
@@ -1059,7 +1057,6 @@ local=/fastpro.info/
 local=/fastproxy.org/
 local=/fastproxynetwork.com/
 local=/fastssh.com/
-local=/fasttime.info/
 local=/fastusaproxy.com/
 local=/fastvpn.im/
 local=/fastvpn.me/
@@ -1370,7 +1367,6 @@ local=/hideproxy.me/
 local=/hidessh.com/
 local=/hidester.com/
 local=/hidesurf.us/
-local=/hidetheinternet.com/
 local=/hidethisip.net/
 local=/hidevpn.info/
 local=/hideway.eu/
@@ -1630,7 +1626,6 @@ local=/dns.kxy.ink/
 local=/agh.kyusang.win/
 local=/dns.l337.site/
 local=/doh.lacontrevoie.fr/
-local=/lagometer.de/
 local=/lalal.info/
 local=/lantern.io/
 local=/largero.com/
@@ -2420,7 +2415,6 @@ local=/ptoserver.com/
 local=/publicdnsserver.com/
 local=/pukanuragan.ru/
 local=/dns.pumpkinvrar.com/
-local=/pupilproxy.com/
 local=/puredns.org/
 local=/dns-privacy.puregeni.us/
 local=/purevpn.com/
@@ -2514,7 +2508,6 @@ local=/dns.ronc.ru/
 local=/roodel.com/
 local=/roogen.com/
 local=/roonyx.com/
-local=/dns.rootlab.top/
 local=/dns.rotunneling.net/
 local=/roundrockisd.online/
 local=/o.rsaikat.com/
@@ -2839,7 +2832,6 @@ local=/tecdrive.site/
 local=/dns1.techeasy.org/
 local=/vpn.technicule.info/
 local=/doh.technochat.in/
-local=/technofix.ir/
 local=/dns.technologycage.com/
 local=/dns.technostriker.com/
 local=/rx.techomespace.com/
@@ -3021,7 +3013,6 @@ local=/ultimatepro.us/
 local=/ultimateproxy.net/
 local=/ultrabestproxy.com/
 local=/ultrafastproxy.com/
-local=/ultrafun.net/
 local=/ultraproxy.biz/
 local=/ultraproxyweb.com/
 local=/ultrasurf.es/
@@ -3353,7 +3344,6 @@ local=/vpnunlimitedapp.com/
 local=/vpnv6.com/
 local=/vpnvip.com/
 local=/antispam.vpnvps.com/
-local=/vpnwebsite.com/
 local=/vpnwelt.com/
 local=/antispam.vpsvpn.com/
 local=/vtcuong.site/

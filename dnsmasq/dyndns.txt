@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 19 Oct 2024 21:46 UTC
-# Version: 2024.1019.2146.46
+# Last modified: 20 Oct 2024 22:00 UTC
+# Version: 2024.1020.2200.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1488
+# Number of entries: 1483
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -101,7 +101,6 @@ local=/ask2ask.com/
 local=/astrabus.ru/
 local=/at-band-camp.net/
 local=/ath.cx/
-local=/atlantatruckdrivingschool.us/
 local=/auraria.org/
 local=/authorizeddns.net/
 local=/authorizeddns.org/
@@ -543,7 +542,6 @@ local=/freedynamicdns.org/
 local=/freemyip.com/
 local=/freesa.org/
 local=/freetcp.com/
-local=/freewww.biz/
 local=/freewww.info/
 local=/freshdns.com/
 local=/from-ak.com/
@@ -644,7 +642,6 @@ local=/grupompr.com/
 local=/gslb.me/
 local=/gteksecurity.com/
 local=/gtk.cl/
-local=/guardz.ru/
 local=/guild-site.com/
 local=/gurcanozturk.com/
 local=/gurdit.com/
@@ -861,7 +858,6 @@ local=/k.vu/
 local=/k22.su/
 local=/kanda.ru/
 local=/kaohsiung.tv/
-local=/kck-saratov.ru/
 local=/keine-panik.net/
 local=/kellserve.com/
 local=/kicks-ass.net/
@@ -1426,7 +1422,6 @@ local=/viiic.net/
 local=/vincomlimited.com/
 local=/vitalwerks.com/
 local=/vizvaz.com/
-local=/voles35.ru/
 local=/voyez.ca/
 local=/vpn64.de/
 local=/vpndns.net/
