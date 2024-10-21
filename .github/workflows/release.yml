@@ -19,12 +19,18 @@ jobs:
         uses: actions/checkout@v4
       - name: Generate release tag
         run: echo "release_tag=$(date +'%Y.%j').$((`date +%s` % 86400 ))" >> $GITHUB_ENV     
+      - name: Generate issue list
+        run: echo "issue_list=$(gh issue list -l fixed-pending-release  | cut -f1 | sed 's/^/#/' | sed 's/$/ /' | tr -d '\n\t\r')" >> $GITHUB_ENV
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
       - name: Create release
         uses: ncipollo/release-action@v1.14.0
         with:
           tag: ${{ env.release_tag }}
           name: ${{ env.release_tag }}
-
+          body: ${{ env.issue_list }}
+          
   purge:
     runs-on: ubuntu-latest
     steps:
