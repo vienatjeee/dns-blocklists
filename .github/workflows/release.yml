@@ -8,6 +8,7 @@ on:
 permissions:
   actions: write
   contents: write
+  issues: write
   
 jobs:
   release:
@@ -16,10 +17,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-    
-      - name: Tag
+      - name: Generate release tag
         run: echo "release_tag=$(date +'%Y.%j').$((`date +%s` % 86400 ))" >> $GITHUB_ENV     
-      - name: Release
+      - name: Create release
         uses: ncipollo/release-action@v1.14.0
         with:
           tag: ${{ env.release_tag }}
@@ -30,8 +30,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: URLs
+      - name: Determine URLs to purge
         id: purge_urls
         run: |
           baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
@@ -40,18 +39,29 @@ jobs:
             urls+="${baseUrl}/${f},"
           done
           echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
-
-      - name: Purge
+      - name: Purge CDN cache
         uses: egad13/purge-jsdelivr-cache@v1.1.0
         with:
           url: ${{ steps.purge_urls.outputs.urls }}
     needs: release
-         
-  releasecleanup:
-    name: ReleaseCleanup
+
+  close-issues:
     runs-on: ubuntu-latest
     steps:
-      - name: Cleanup
+      - name: Comment and close fixed issues
+        uses: gcampbell-msft/fixed-pending-release@main
+        with:
+          token: ${{ github.token }}
+          label: fixed-pending-release
+          removeLabel: true
+          applyToAll: true
+          message: "This issue has been fixed in release [${releaseTag}](${releaseUrl})"
+    needs: [release, purge]
+         
+  release-cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete old releases
         uses: sgpublic/delete-release-action@v1.2
         with:
           release-drop: true
@@ -61,15 +71,14 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
     needs: [release, purge]
     
-  workflowcleanup:
-    name: WorkflowCleanup
+  workflow-cleanup:
     runs-on: ubuntu-latest
     steps:
-      - name: Cleanup
+      - name: Delete old workflow runs
         uses: Mattraks/delete-workflow-runs@v2.0.6
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
           retain_days: 2
           keep_minimum_runs: 0
-    needs: [release, purge, releasecleanup]
+    needs: [release, purge, close-issues, release-cleanup]
