@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 20 Oct 2024 21:58 UTC
-# Version: 2024.1020.2158.00
+# Last modified: 21 Oct 2024 11:35 UTC
+# Version: 2024.1021.1135.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3518
+# Number of entries: 3532
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -208,6 +208,8 @@ local=/anonvpn.io/
 local=/anonymitynetwork.com/
 local=/anonymize.com/
 local=/anonymizer.com/
+local=/anonymizing.com/
+local=/anonymous.at/
 local=/anonymous-proxies.net/
 local=/anonymous-proxy-servers.net/
 local=/anonymousblog.info/
@@ -1092,6 +1094,7 @@ local=/antistalkerfree-eu.europe-west1.firebasedatabase.app/
 local=/xcomvpn-7000b-default-rtdb.firebaseio.com/
 local=/fpn.firefox.com/
 local=/testpilot.firefox.com/
+local=/fireprox.net/
 local=/firstcontact.site/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
@@ -1130,6 +1133,7 @@ local=/free-proxysite.com/
 local=/free-signal.com/
 local=/free-vpn.cn/
 local=/free-vpn.xyz/
+local=/free-webproxy.com/
 local=/free2surfvpn.com/
 local=/freeanimesonline.com/
 local=/freebypassproxy.com/
@@ -1439,7 +1443,6 @@ local=/vd.i81.ru/
 local=/vpn.i81.ru/
 local=/dns.iamanuragh.in/
 local=/dns.iamninja.ru/
-local=/dns.ian.rocks/
 local=/iblocker.info/
 local=/ibvpn.com/
 local=/webproxy.ich-war-hier.de/
@@ -1661,6 +1664,7 @@ local=/doh.libredns.gr/
 local=/dot.libredns.gr/
 local=/dns.lihj.me/
 local=/limevpn.com/
+local=/limitlessproxy.com/
 local=/michelo.line.pm/
 local=/linkideo.com/
 local=/linkmefree.net/
@@ -2018,6 +2022,7 @@ local=/dns.ofdoom.net/
 local=/okayfreedom.com/
 local=/dns.olpploiopkuyhiopsfrt.info/
 local=/olympicproxy.net/
+local=/omegaproxy.com/
 local=/adguard.oms-ctr.ru/
 local=/onconnect.info/
 local=/one.one.one.one/
@@ -2044,6 +2049,7 @@ local=/onion.rip/
 local=/onion.sh/
 local=/onion.to/
 local=/onion.ws/
+local=/onlineanonymizer.com/
 local=/onlineipchanger.com/
 local=/onlineproxy.eu/
 local=/onlineproxy.io/
@@ -2305,6 +2311,7 @@ local=/proxmecallmenames.com/
 local=/proxpn.com/
 local=/proxssl.com/
 local=/proxtube.com/
+local=/proxy.cc/
 local=/proxy.lol/
 local=/proxy.nu/
 local=/proxy.org/
@@ -2355,6 +2362,7 @@ local=/proxyen.com/
 local=/proxyer.net/
 local=/proxyfactory.io/
 local=/proxyfish.com/
+local=/proxyforfree.eu/
 local=/proxyfree.org/
 local=/proxygate.com/
 local=/proxygizlen.com/
@@ -2477,6 +2485,7 @@ local=/dns.rayanbab.com/
 local=/rayneau.fr/
 local=/rayobyte.com/
 local=/dns.rbn.gr/
+local=/readandmath.today/
 local=/login.readinghelper.online/
 local=/dns.reckoningslug.name/
 local=/redproxy.info/
@@ -2803,6 +2812,7 @@ local=/surfsharkdeals.com/
 local=/surfsharkstatus.com/
 local=/surfshell.io/
 local=/surfsjark.com/
+local=/surfskip.com/
 local=/surfsneaker.com/
 local=/surfsuark.com/
 local=/surtshark.com/
@@ -3133,6 +3143,7 @@ local=/unblockit.onl/
 local=/unblockit.pro/
 local=/unblockit.rsvp/
 local=/unblockit.uno/
+local=/unblockmate.com/
 local=/unblockme.us/
 local=/unblockmyweb.com/
 local=/unblockmywebsite.com/
@@ -3151,6 +3162,7 @@ local=/unblocksite.pw/
 local=/unblocksite.space/
 local=/unblocksite.website/
 local=/unblocksites.online/
+local=/unblocksites.org/
 local=/unblockvid.com/
 local=/unblockvideos.com/
 local=/unblockvpn.com/
@@ -3179,6 +3191,8 @@ local=/unlimitedvpnapp.com/
 local=/unlocator.com/
 local=/unrestrict.me/
 local=/unrestrictedsurf.com/
+local=/unrestricter.com/
+local=/unrestricter.org/
 local=/unrestrictor.com/
 local=/untraceable.us/
 local=/untracer.com/
