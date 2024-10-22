@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729523340 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729548420 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 21 Oct 2024 15:09 UTC
-; Version: 2024.1021.1509.55
+; Last modified: 21 Oct 2024 22:07 UTC
+; Version: 2024.1021.2207.20
 ; Syntax: RPZ
-; Number of entries: 72354
+; Number of entries: 72374
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -17977,6 +17977,8 @@ casimba.com CNAME .
 *.casimba.com CNAME .
 casimpo.com CNAME .
 *.casimpo.com CNAME .
+casinex.com CNAME .
+*.casinex.com CNAME .
 casinia.com CNAME .
 *.casinia.com CNAME .
 casinia1.com CNAME .
@@ -20219,6 +20221,8 @@ chinaddz.com CNAME .
 *.chinaddz.com CNAME .
 chinookwindscasino.com CNAME .
 *.chinookwindscasino.com CNAME .
+chipincasino.com CNAME .
+*.chipincasino.com CNAME .
 chipy.com CNAME .
 *.chipy.com CNAME .
 chipz.com CNAME .
@@ -26245,6 +26249,8 @@ hi948.com CNAME .
 *.hi948.com CNAME .
 hi955.com CNAME .
 *.hi955.com CNAME .
+hi959.com CNAME .
+*.hi959.com CNAME .
 hi966.com CNAME .
 *.hi966.com CNAME .
 hialeahparkcasino.com CNAME .
@@ -36119,6 +36125,8 @@ prismcasino.com CNAME .
 *.prismcasino.com CNAME .
 private-casinos.com CNAME .
 *.private-casinos.com CNAME .
+privatecasino.com CNAME .
+*.privatecasino.com CNAME .
 privatecasinos.com CNAME .
 *.privatecasinos.com CNAME .
 privecasino.com CNAME .
@@ -42233,6 +42241,8 @@ ut9win.com CNAME .
 *.ut9win.com CNAME .
 ut9win5.com CNAME .
 *.ut9win5.com CNAME .
+ut9winidn1.com CNAME .
+*.ut9winidn1.com CNAME .
 utamasbo123.com CNAME .
 *.utamasbo123.com CNAME .
 utemountaincasino.com CNAME .
@@ -51257,6 +51267,8 @@ unlim-casino.name CNAME .
 *.59bet.net CNAME .
 5j3ej03.net CNAME .
 *.5j3ej03.net CNAME .
+603.net CNAME .
+*.603.net CNAME .
 639666.net CNAME .
 *.639666.net CNAME .
 645lotto.net CNAME .
@@ -62541,10 +62553,18 @@ arena333.tools CNAME .
 *.1xbetwin.top CNAME .
 1xgames018134.top CNAME .
 *.1xgames018134.top CNAME .
+1xgames323664.top CNAME .
+*.1xgames323664.top CNAME .
+1xgames509276.top CNAME .
+*.1xgames509276.top CNAME .
 1xgames619416.top CNAME .
 *.1xgames619416.top CNAME .
+1xgames641615.top CNAME .
+*.1xgames641615.top CNAME .
 1xgames755690.top CNAME .
 *.1xgames755690.top CNAME .
+1xgames797233.top CNAME .
+*.1xgames797233.top CNAME .
 1xlite-015542.top CNAME .
 *.1xlite-015542.top CNAME .
 1xlite-041156.top CNAME .

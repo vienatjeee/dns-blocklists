@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 21 Oct 2024 15:21 UTC
-# Version: 2024.1021.1521.05
+# Last modified: 21 Oct 2024 22:18 UTC
+# Version: 2024.1021.2218.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 168956
+# Number of entries: 168955
 #
 local=/0-bet.com/
 local=/0-betsixty.com/
@@ -27114,7 +27114,6 @@ local=/3656ooo.com/
 local=/3656p.com/
 local=/3656pp.com/
 local=/3656qqq.com/
-local=/3656r.com/
 local=/3656rr.net/
 local=/3656ss.com/
 local=/3656ttt.com/
