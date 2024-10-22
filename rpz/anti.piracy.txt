@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729439940 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729609380 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 20 Oct 2024 15:59 UTC
-; Version: 2024.1020.1559.44
+; Last modified: 22 Oct 2024 15:03 UTC
+; Version: 2024.1022.1503.35
 ; Syntax: RPZ
-; Number of entries: 20038
+; Number of entries: 20044
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -8157,6 +8157,8 @@ ns331480.ip-37-187-121.eu CNAME .
 *.47.ip-51-68-199.eu CNAME .
 ns349743.ip-91-121-106.eu CNAME .
 *.ns349743.ip-91-121-106.eu CNAME .
+tracker.jobser.eu CNAME .
+*.tracker.jobser.eu CNAME .
 jpopsuki.eu CNAME .
 *.jpopsuki.eu CNAME .
 kickasstorrent.eu CNAME .
@@ -16947,6 +16949,8 @@ tracker.kitaujisub.site CNAME .
 *.tracker.kitaujisub.site CNAME .
 kokodayo.site CNAME .
 *.kokodayo.site CNAME .
+kuyhaa-me.site CNAME .
+*.kuyhaa-me.site CNAME .
 layarlebar24.site CNAME .
 *.layarlebar24.site CNAME .
 lookmovie.site CNAME .
@@ -18103,6 +18107,8 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
+tr3.ysagin.top CNAME .
+*.tr3.ysagin.top CNAME .
 altadefinizione.tours CNAME .
 *.altadefinizione.tours CNAME .
 cb01.tours CNAME .

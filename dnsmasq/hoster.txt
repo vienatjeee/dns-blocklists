@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 21 Oct 2024 21:49 UTC
-# Version: 2024.1021.2149.35
+# Last modified: 22 Oct 2024 13:11 UTC
+# Version: 2024.1022.1311.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1845
+# Number of entries: 1841
 #
 local=/000a.de/
 local=/000space.com/
@@ -652,7 +652,6 @@ local=/comhem.se/
 local=/comli.com/
 local=/community.lc/
 local=/community24.eu/
-local=/comuf.com/
 local=/comule.com/
 local=/comunidades.net/
 local=/comuv.com/
@@ -987,7 +986,6 @@ local=/homestead.com/
 local=/hop.ru/
 local=/host.sk/
 local=/host22.com/
-local=/host56.com/
 local=/hostami.me/
 local=/hostei.com/
 local=/hosteurope.de/
@@ -1607,7 +1605,6 @@ local=/tutorial-blog.net/
 local=/tuxfamily.org/
 local=/tw.gp/
 local=/tweakblogs.net/
-local=/typepad.com/
 local=/u.gp/
 local=/ua.gp/
 local=/uci.pl/
@@ -1652,7 +1649,6 @@ local=/uz.gp/
 local=/uzblog.net/
 local=/v.gp/
 local=/v0r.org/
-local=/vacau.com/
 local=/vblogetin.com/
 local=/vdxh.com/
 local=/ve.gp/

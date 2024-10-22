@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729547340 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729602660 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 21 Oct 2024 21:49 UTC
-; Version: 2024.1021.2149.35
+; Last modified: 22 Oct 2024 13:11 UTC
+; Version: 2024.1022.1311.06
 ; Syntax: RPZ
-; Number of entries: 3690
+; Number of entries: 3682
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -773,8 +773,6 @@ comeze.com CNAME .
 *.comeze.com CNAME .
 comli.com CNAME .
 *.comli.com CNAME .
-comuf.com CNAME .
-*.comuf.com CNAME .
 comule.com CNAME .
 *.comule.com CNAME .
 comuv.com CNAME .
@@ -1079,8 +1077,6 @@ homestead.com CNAME .
 *.homestead.com CNAME .
 host22.com CNAME .
 *.host22.com CNAME .
-host56.com CNAME .
-*.host56.com CNAME .
 hostei.com CNAME .
 *.hostei.com CNAME .
 hostingfailov.com CNAME .
@@ -1547,8 +1543,6 @@ tumblrgallery.com CNAME .
 *.tumblrgallery.com CNAME .
 tusblogos.com CNAME .
 *.tusblogos.com CNAME .
-typepad.com CNAME .
-*.typepad.com CNAME .
 ucoz.com CNAME .
 *.ucoz.com CNAME .
 ueuo.com CNAME .
@@ -1565,8 +1559,6 @@ usafreespace.com CNAME .
 *.usafreespace.com CNAME .
 usclargo.com CNAME .
 *.usclargo.com CNAME .
-vacau.com CNAME .
-*.vacau.com CNAME .
 vblogetin.com CNAME .
 *.vblogetin.com CNAME .
 vdxh.com CNAME .

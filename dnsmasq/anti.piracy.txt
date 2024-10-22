@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 20 Oct 2024 15:59 UTC
-# Version: 2024.1020.1559.44
+# Last modified: 22 Oct 2024 15:03 UTC
+# Version: 2024.1022.1503.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10019
+# Number of entries: 10022
 #
 local=/tracker.guguan.000.pe/
 local=/0123456789nonexistent.com/
@@ -4726,6 +4726,7 @@ local=/jkanime.net/
 local=/jkanime.online/
 local=/jkanime.video/
 local=/jmbsoft.com/
+local=/tracker.jobser.eu/
 local=/join4films.com/
 local=/jojoy.io/
 local=/jokerguide.com/
@@ -5004,6 +5005,7 @@ local=/kukaj-to.cz/
 local=/kukajto.io/
 local=/tracker.kuroy.me/
 local=/ts.kurtubba.com/
+local=/kuyhaa-me.site/
 local=/tr.kxmp.cf/
 local=/tr.kxmp.ml/
 local=/l33t-raws.org/
@@ -9849,6 +9851,7 @@ local=/youwatch.org/
 local=/ntorrent.yoyo.pl/
 local=/yoyomovies.net/
 local=/yqzuji.com/
+local=/tr3.ysagin.top/
 local=/yseries.tv/
 local=/yst.ac/
 local=/ytanime.tv/
