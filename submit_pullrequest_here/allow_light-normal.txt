@@ -1,5 +1,11 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/3573
+heartbeats.prd.data.s.joyn.de
+# https://github.com/AdguardTeam/AdguardFilters/issues/183277
+event-collector.prd.data.s.joyn.de
+event-collector.stg.data.s.joyn.de
+
 # Adblock detection iOS app derstandard.at
 data-*.derstandard.at
 data-dda7d24eb2.derstandard.at

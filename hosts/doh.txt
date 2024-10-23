@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 21 Oct 2024 21:47 UTC
-# Version: 2024.1021.2147.11
+# Last modified: 22 Oct 2024 21:51 UTC
+# Version: 2024.1022.2151.15
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1642
+# Number of entries: 1641
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -231,7 +231,6 @@
 0.0.0.0 internetsehat.bebasid.com
 0.0.0.0 justhost.bedro.cloud
 0.0.0.0 dns.belnet.be
-0.0.0.0 dns.benpro.fr
 0.0.0.0 dns.bermeitinger.eu
 0.0.0.0 bestwon203.com
 0.0.0.0 ns3.bit-trail.nl

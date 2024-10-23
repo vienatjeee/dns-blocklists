@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 21 Oct 2024 10:20 UTC
-# Version: 2024.1021.1020.45
+# Last modified: 22 Oct 2024 21:14 UTC
+# Version: 2024.1022.2114.21
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2052
+# Number of entries: 2053
 #
 l.1mp.ru
 t.1und1.de
@@ -453,6 +453,7 @@ list-unsubscribe.eservice.emarsys.net
 redirector.eservice.emarsys.net
 suite-dashboard.gservice.emarsys.net
 suite.emarsys.net
+suite0.emarsys.net
 suite10.emarsys.net
 suite10-cdnnet.emarsys.net
 suite11.emarsys.net
