@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729633740 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729674480 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Oct 2024 21:49 UTC
-; Version: 2024.1022.2149.48
+; Last modified: 23 Oct 2024 09:08 UTC
+; Version: 2024.1023.0908.23
 ; Syntax: RPZ
-; Number of entries: 7062
+; Number of entries: 7074
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -5528,6 +5528,8 @@ adguard-vpn.online CNAME .
 *.adguard-vpn.online CNAME .
 alleesph.online CNAME .
 *.alleesph.online CNAME .
+anachem.online CNAME .
+*.anachem.online CNAME .
 my.englishpapers.online CNAME .
 *.my.englishpapers.online CNAME .
 study.englishpapers.online CNAME .
@@ -5890,6 +5892,8 @@ doh.tiarap.org CNAME .
 *.doh.tiarap.org CNAME .
 jp.tiarap.org CNAME .
 *.jp.tiarap.org CNAME .
+titaniumnetwork.org CNAME .
+*.titaniumnetwork.org CNAME .
 tor2web.org CNAME .
 *.tor2web.org CNAME .
 torguard.org CNAME .
@@ -6020,6 +6024,8 @@ ixl.plus CNAME .
 *.ixl.plus CNAME .
 michelo.line.pm CNAME .
 *.michelo.line.pm CNAME .
+anura.pro CNAME .
+*.anura.pro CNAME .
 doh.apad.pro CNAME .
 *.doh.apad.pro CNAME .
 bdns.pro CNAME .
@@ -6042,6 +6048,8 @@ proxysite.pro CNAME .
 *.proxysite.pro CNAME .
 sciencesimplified.pro CNAME .
 *.sciencesimplified.pro CNAME .
+surfdoge.pro CNAME .
+*.surfdoge.pro CNAME .
 dns.swin.pro CNAME .
 *.dns.swin.pro CNAME .
 unblocked2.pro CNAME .
@@ -6886,6 +6894,8 @@ nocensor.work CNAME .
 *.nocensor.work CNAME .
 theproxy.work CNAME .
 *.theproxy.work CNAME .
+incog.works CNAME .
+*.incog.works CNAME .
 dns.brahma.world CNAME .
 *.dns.brahma.world CNAME .
 dns.busold.ws CNAME .
@@ -6932,6 +6942,8 @@ doh.abraservice.xyz CNAME .
 *.doh.abraservice.xyz CNAME .
 dns.albony.xyz CNAME .
 *.dns.albony.xyz CNAME .
+aluu.xyz CNAME .
+*.aluu.xyz CNAME .
 dns.andrewnw.xyz CNAME .
 *.dns.andrewnw.xyz CNAME .
 beecomf.xyz CNAME .

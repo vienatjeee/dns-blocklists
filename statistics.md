@@ -65,7 +65,7 @@
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |     100% |   0% |      0% | Native Tracker TikTok (Fingerprinting)
   9 |      97% |   0% |      3% | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      87% |  11% |      2% | Denylist Base
+ 10 |      88% |  11% |      1% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
  12 |      94% |   6% |      0% | Denylist Community non-Aggressive
  13 |      62% |  34% |      4% | Analytics/Metrics Extension

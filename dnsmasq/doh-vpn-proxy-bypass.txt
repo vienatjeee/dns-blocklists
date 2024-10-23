@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Oct 2024 21:49 UTC
-# Version: 2024.1022.2149.48
+# Last modified: 23 Oct 2024 09:08 UTC
+# Version: 2024.1023.0908.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3531
+# Number of entries: 3537
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -182,6 +182,7 @@ local=/vps.alloxr.info/
 local=/allunblocked.com/
 local=/dns.almir1904.eu/
 local=/adguard.alu.dog/
+local=/aluu.xyz/
 local=/dns.alvosec.com/
 local=/alwaysvpn.com/
 local=/amanvpn.com/
@@ -193,6 +194,7 @@ local=/i4frgxs0s5.execute-api.us-east-1.amazonaws.com/
 local=/dsl-app.s3.us-east-2.amazonaws.com/
 local=/mailer.amlegion.org/
 local=/doh.amonsul.net/
+local=/anachem.online/
 local=/ananoos.com/
 local=/anchorfree.net/
 local=/dns.andrewnw.xyz/
@@ -226,6 +228,7 @@ local=/anonysurf.com/
 local=/antpeak.com/
 local=/antycenzor.pl/
 local=/secure.anudeep.me/
+local=/anura.pro/
 local=/anyip.io/
 local=/doh.apad.pro/
 local=/ag.apollohct.com/
@@ -1476,6 +1479,7 @@ local=/dns1.in-berlin.de/
 local=/dns2.in-berlin.de/
 local=/in-disguise.com/
 local=/dns.inclusioproject.com/
+local=/incog.works/
 local=/indialifes.com/
 local=/adblock.indianets.net/
 local=/indo-ssh.com/
@@ -2791,6 +2795,7 @@ local=/surf100.com/
 local=/surfall.net/
 local=/surfbouncer.com/
 local=/surfbytes.info/
+local=/surfdoge.pro/
 local=/surfeasy.com/
 local=/surfly.com/
 local=/surfmenow.com/
@@ -2926,6 +2931,7 @@ local=/timetohide.me/
 local=/timmes.nl/
 local=/adb.timnichollsphotography.com/
 local=/dns.tipsy.coffee/
+local=/titaniumnetwork.org/
 local=/dns.tls-data.de/
 local=/tlsext.com/
 local=/tlz.asia/
