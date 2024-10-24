@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Oct 2024 21:51 UTC
-# Version: 2024.1022.2151.15
+# Last modified: 23 Oct 2024 23:24 UTC
+# Version: 2024.1023.2324.29
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 183
 #
@@ -146,50 +146,50 @@
 0.0.0.0 sg2.ooroot.com tw2.ooroot.com ada.openbld.net ric.openbld.net dns.opendns.com 2.dnscrypt-cert.opendns.com doh.opendns.com familyshield.opendns.com doh.familyshield.opendns.com
 0.0.0.0 resolver1.ipv6-sandbox.opendns.com resolver2.ipv6-sandbox.opendns.com resolver1.opendns.com resolver1-fs.opendns.com resolver2.opendns.com resolver2-fs.opendns.com sandbox.opendns.com doh.sandbox.opendns.com resolver4.dns.openinternet.io
 0.0.0.0 ns1.opennameserver.org ns2.opennameserver.org ns3.opennameserver.org ns4.opennameserver.org dns.eu-frankfurt-1.oraclecloud.com dns.uk-london-1.oraclecloud.com dns.us-ashburn-1.oraclecloud.com dns.us-phoenix-1.oraclecloud.com dns.oryxlabs.com
-0.0.0.0 dns.oszx.co dns.ours.luxe dns.ourvau.lt outdoorchair.us dns.ovpn.bond 1a.ns.ozer.im dns.paesa.es adguard.pangerl.it dns.panszelescik.pl
-0.0.0.0 dns-ovh.panszelescik.pl dns.pari.network pashagame456.com dns.pccoach.nl rpz-public-resolver1.rrdns.pch.net fuchur.pentament.de dns.pernika.net darya.persiannit.net dns.pesaventofilippo.com
-0.0.0.0 adguard.pggns.de dns.phillipjberry.net doh.centraleu.pi-dns.com dot.centraleu.pi-dns.com doh.pi-dns.com doh.eastas.pi-dns.com dot.eastas.pi-dns.com doh.eastau.pi-dns.com dot.eastau.pi-dns.com
-0.0.0.0 doh.eastus.pi-dns.com dot.eastus.pi-dns.com doh.northeu.pi-dns.com dot.northeu.pi-dns.com doh.westeu.pi-dns.com doh.westus.pi-dns.com dot.westus.pi-dns.com adguard.piekacz.pl dns.pierzchlewicz.pl
-0.0.0.0 dns1.pietjacobs.be dns.pizzari.me helios.plan9-dns.com kronos.plan9-dns.com pluton.plan9-dns.com secure-dns.pleumkungz.com privacy.plumedns.com pm1239-bd.xyz pm7051-br.xyz
-0.0.0.0 pm9352-bd.xyz doh.port53.dk dns.porteii.com doh.powerdns.org dns.aeiou.pp.ua dns.ha-dvin.pp.ua dns.korzhyk.pp.ua lindung.pp.ua sundalandia.pp.ua
-0.0.0.0 virga.pp.ua zxcvb.pp.ua dns.pragmasec.nl dns2.prima-solusindo.com dns.princex.net princez.uk agh.printk.info hungary.privacy-dns.pw india.privacy-dns.pw
-0.0.0.0 las-vegas.privacy-dns.pw luxembourg.privacy-dns.pw romania.privacy-dns.pw sweden.privacy-dns.pw switzerland.privacy-dns.pw united-arab-emirates.privacy-dns.pw dns.privado.ovh orpi.privado.ovh de.dns.privex.io
-0.0.0.0 nl.dns.privex.io project-evoex.de dns.propheci.xyz dns.psociety.de publicdnsserver.com pukanuragan.ru www.pukanuragan.ru dns.pumpkinvrar.com puredns.org
-0.0.0.0 family.puredns.org dns-privacy.puregeni.us doh.pyry.me at.pzhg.me vpsus3.pzhg.me doh.qis.io ns1.qquack.org dns.qrtz.club hostdare.qtxd.net
-0.0.0.0 dns.quad9.net dns-nosec.quad9.net dns10.quad9.net dns11.quad9.net dns12.quad9.net dns13.quad9.net dns9.quad9.net 2.dnscrypt-cert.quad9.net doh.quickline.ch
-0.0.0.0 dot.quickline.ch dns.quiet.rocks ant.dns.qwer.pw dog.dns.qwer.pw frog.dns.qwer.pw lion.dns.qwer.pw tiger.dns.qwer.pw resolver.r0cket.net r1bnc.com
-0.0.0.0 resolve2.r9x.cc dns.rabbitdns.org family.rabbitdns.org security.rabbitdns.org dns.api.rackspacecloud.com dns.rafn.is ns.ral9005.org emby.rasp.tv dns.rayanbab.com
-0.0.0.0 rayneau.fr dns.rbn.gr dns.reckoningslug.name dns.redvau.lt dns.reitmeier.me dns.renardyre.com dns.repinger.com dns.repressoh.it dnspub.restena.lu
-0.0.0.0 dns.retakecs.com rethinkdns.com basic.rethinkdns.com max.rethinkdns.com sky.rethinkdns.com revelio.top doh.rezhajul.io resolver.rferee.dev ricko.is
-0.0.0.0 dns.rin.sh dns.roedel.cloud dns.ronc.ru dns.rotunneling.net o.rsaikat.com au.rslvr.eu bg.rslvr.eu dns.rslvr.eu hk.rslvr.eu
-0.0.0.0 jp.rslvr.eu nl.rslvr.eu sg.rslvr.eu us.rslvr.eu adguard.ruby.ci dns.rubyfish.cn ea-dns.rubyfish.cn uw-dns.rubyfish.cn adg.rueiliu.space
-0.0.0.0 rumpelsepp.org doh.runsel.id agh-yz.russel053.com dns1.ryan-palmer.com dns1.saferbfc.org dns2.saferbfc.org safeservedns.com doh.safesurfer.io cloud.samutz.com
-0.0.0.0 dns.sarak.as dns.sarakas.net dns.sarilouis.com ns1.sc-lezhi.com dns.scapetical.com dns.scarx.net dns.schlagheck.berlin dns.scott-smith.us dns.scuola.org
-0.0.0.0 adguard.sealyserver.com 2.dnscrypt-cert.dns.seby.io doh.seby.io doh-2.seby.io dot.seby.io dns.sec511.com dns.seia.io secondary.dns.seia.io dns.seiffert.me
-0.0.0.0 dns.sellan.fr adguard.senthil.us dns.serdcebolit.ru privatnas.servebeer.com doh.serverhost.no dns.sev.monster pates.services.sfr.fr.casepp.sfr.fr d2.shabi.icu shalenkov.dev
-0.0.0.0 dns.shareworx.net dns.shecan.ir free.shecan.ir pro.shecan.ir dns.sheggi.ch dns.shimul.me do.shimul.me adguard.shoupperuser.com adguard.shutgaming.net
-0.0.0.0 doh.sidnlabs.nl dns.silen.org dns.silentlybren.com dns.simplylinux.ch dns.sindominio.net dnsovertls.sinodun.com dnsovertls1.sinodun.com dnsovertls2.sinodun.com dnsovertls3.sinodun.com
-0.0.0.0 dns.siry.de sitdns.com dns.sitdns.com dns.skrep.eu dns.skrep.in skydragoness.com dns.slinkyman.net dns.smartguard.io guard.sntrk.ru
-0.0.0.0 clientdns3.softcom.net spacedns.org adguard.sparshbajaj.me doh-01.spectrum.com doh-02.spectrum.com dns.spirio.fr squidmall.vip sriedmueadguard.casa adguard.sscw.win
-0.0.0.0 doh.ntu.ssooss.win dns.sstomp.nl dns.startupstack.tech dns.stevenz.net dns.stirringphoto.com dns.stormycloud.org dns.strassmair.org doh.suche.org local.sufly.top
-0.0.0.0 dns.suhaila.dev resolver.sunet.se sunnygyl.com doh.sunoaki.net dns.superstefan.win dns.sv-zauner.at dns.svoi.dev dns.swin.pro switch.ch
-0.0.0.0 dns.switch.ch dns.syaifullah.com ibksturm.synology.me ihctw.synology.me doh.syshero.org dns.szpadel.ovh dns.t53.de tecdrive.site dns1.techeasy.org
-0.0.0.0 vpn.technicule.info doh.technochat.in dns.technologycage.com dns.technostriker.com rx.techomespace.com dns.telekom.de iana.tenta.io opennic.tenta.io de.teradns.org
-0.0.0.0 ny.teradns.org sg.teradns.org tx.teradns.org uk.teradns.org dns.soldier.terumi.club dns.tesem.dog cloud.tezoi.com dns.thebuckners.org dns.thegoodsource.net
-0.0.0.0 dns.theres.one dns.therifleman.name blocker.thethorsens.org doh.thio.me doh.tiar.app dot.tiar.app jp.tiar.app doh.tiarap.org jp.tiarap.org
-0.0.0.0 dns.tierradeayala.com tigrons.ru timmes.nl adb.timnichollsphotography.com dns.tipsy.coffee dns.tls-data.de tlz.asia d.toairs.com dot.tooli.ca
-0.0.0.0 nsc.torgues.net doh.totoro.pub dns.tracker.ink resolv1.trash.net resolv2.trash.net resolv3.trash.net ns.trcnet.fi tributh.net dns.trust404.win
-0.0.0.0 truta.org dns.tryk.app adg.tshost.no doh.ibr.cs.tu-bs.de tuskythehusky.tech nat64.tuxis.nl dns.twnic.tw adguard.twotigers.xyz dns.txq.life
-0.0.0.0 typaza.com ad.tzockt.beer dns.umbrella.com doh.umbrella.com unasw.eu www.unasw.eu uncensoreddns.org anycast.uncensoreddns.org deic-lgb.anycast.uncensoreddns.org
-0.0.0.0 deic-ore.anycast.uncensoreddns.org kracon.anycast.uncensoreddns.org rgnet-iad.anycast.uncensoreddns.org unicast.uncensoreddns.org dns.unerror.network ines.zfn.uni-bremen.de galileo.math.unipd.it dns.unx.io dns.uplenk.com
-0.0.0.0 urology.wiki dns.koala.us.to nightlymoon.us.kg luna-is.so-gorgeo.us.kg mita-is.so-gorgeo.us.kg nana-is.so-gorgeo.us.kg nindy-is.so-gorgeo.us.kg nova-is.so-gorgeo.us.kg tetty-is.so-gorgeo.us.kg
-0.0.0.0 yussy-is.so-gorgeo.us.kg adfree.usableprivacy.net dns.vaioswolke.xyz doh.valscosmos.com tor.vasi.li dns.vault81.de dns.vinnyp.xyz dns.vinokurov.tk dns.vishalk.com
-0.0.0.0 dns.vojtat.cz vorlif.org vtcuong.site bigora2.vuhai.de dns.w3ctag.org dns.wahr.top aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz
-0.0.0.0 yunyun.is.my.waifu.cz dns.wang.art wantaquddin.com dns.wargan.io abel.waringer-atg.de dns.warma.me dns.warpnine.de dns.engineer.web.id doh.this.web.id
-0.0.0.0 doh.webnmail.de dns.wechat.com doh.wewitro.net wikimedia-dns.org dns-1.wil.cloud dns-2.wil.cloud adguard.wirimij.nl clearweb.woodbridge.club home.wriedts.de
-0.0.0.0 ns2.wuyouss.com ns3.wuyouss.com wyx.cloud adb-home.xaoimoon.fr doh.xcom.pro xenergy.cc doh.xfinity.com dot.xfinity.com doh2.gslb2.xfinity.com
-0.0.0.0 xholgm.top agh.xinfeng16m.top dns.xlion.tw xn--durhre-yxa.de dns.xuming.studio dns.xusqui.com v2.xx3210766.live dns.yameenassotally.com 2.dnscrypt-cert.browser.yandex.net
-0.0.0.0 dns.yandex.ru common.dot.dns.yandex.net family.dot.dns.yandex.net safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru safe.dns.yandex.ru secondary.safe.dns.yandex.ru secondary.dns.yandex.ru
-0.0.0.0 dns.yatima.tv ychen.cf ychen.gq net01.youcef.io your-dns.run yovbak.com yuvelirtut.website dns.daemon.za.net adguard.zachitect.com
-0.0.0.0 zakaria.website zburger.top www.zburger.top zdn.ro dns.zemows.industries doh.zephyrus.id adguard-kartoffel.zernico.de dns.zfsystem.tech doh.zknt.org
-0.0.0.0 zougloub.eu a.zpn.me dns.zzuhacker.cn 
+0.0.0.0 dns.oszx.co dns.ours.luxe dns.ourvau.lt dns.ovpn.bond 1a.ns.ozer.im dns.paesa.es adguard.pangerl.it dns.panszelescik.pl dns-ovh.panszelescik.pl
+0.0.0.0 dns.pari.network pashagame456.com dns.pccoach.nl rpz-public-resolver1.rrdns.pch.net fuchur.pentament.de dns.pernika.net darya.persiannit.net dns.pesaventofilippo.com adguard.pggns.de
+0.0.0.0 dns.phillipjberry.net doh.centraleu.pi-dns.com dot.centraleu.pi-dns.com doh.pi-dns.com doh.eastas.pi-dns.com dot.eastas.pi-dns.com doh.eastau.pi-dns.com dot.eastau.pi-dns.com doh.eastus.pi-dns.com
+0.0.0.0 dot.eastus.pi-dns.com doh.northeu.pi-dns.com dot.northeu.pi-dns.com doh.westeu.pi-dns.com doh.westus.pi-dns.com dot.westus.pi-dns.com adguard.piekacz.pl dns.pierzchlewicz.pl dns1.pietjacobs.be
+0.0.0.0 dns.pizzari.me helios.plan9-dns.com kronos.plan9-dns.com pluton.plan9-dns.com secure-dns.pleumkungz.com privacy.plumedns.com pm1239-bd.xyz pm7051-br.xyz pm9352-bd.xyz
+0.0.0.0 doh.port53.dk dns.porteii.com doh.powerdns.org dns.aeiou.pp.ua dns.ha-dvin.pp.ua dns.korzhyk.pp.ua lindung.pp.ua sundalandia.pp.ua virga.pp.ua
+0.0.0.0 zxcvb.pp.ua dns.pragmasec.nl dns2.prima-solusindo.com dns.princex.net princez.uk agh.printk.info hungary.privacy-dns.pw india.privacy-dns.pw las-vegas.privacy-dns.pw
+0.0.0.0 luxembourg.privacy-dns.pw romania.privacy-dns.pw sweden.privacy-dns.pw switzerland.privacy-dns.pw united-arab-emirates.privacy-dns.pw dns.privado.ovh orpi.privado.ovh de.dns.privex.io nl.dns.privex.io
+0.0.0.0 project-evoex.de dns.propheci.xyz dns.psociety.de publicdnsserver.com pukanuragan.ru www.pukanuragan.ru dns.pumpkinvrar.com puredns.org family.puredns.org
+0.0.0.0 dns-privacy.puregeni.us doh.pyry.me at.pzhg.me vpsus3.pzhg.me doh.qis.io ns1.qquack.org dns.qrtz.club hostdare.qtxd.net dns.quad9.net
+0.0.0.0 dns-nosec.quad9.net dns10.quad9.net dns11.quad9.net dns12.quad9.net dns13.quad9.net dns9.quad9.net 2.dnscrypt-cert.quad9.net doh.quickline.ch dot.quickline.ch
+0.0.0.0 dns.quiet.rocks ant.dns.qwer.pw dog.dns.qwer.pw frog.dns.qwer.pw lion.dns.qwer.pw tiger.dns.qwer.pw resolver.r0cket.net r1bnc.com resolve2.r9x.cc
+0.0.0.0 dns.rabbitdns.org family.rabbitdns.org security.rabbitdns.org dns.api.rackspacecloud.com dns.rafn.is ns.ral9005.org emby.rasp.tv dns.rayanbab.com rayneau.fr
+0.0.0.0 dns.rbn.gr dns.reckoningslug.name dns.redvau.lt dns.reitmeier.me dns.renardyre.com dns.repinger.com dns.repressoh.it dnspub.restena.lu dns.retakecs.com
+0.0.0.0 rethinkdns.com basic.rethinkdns.com max.rethinkdns.com sky.rethinkdns.com revelio.top doh.rezhajul.io resolver.rferee.dev ricko.is dns.rin.sh
+0.0.0.0 dns.roedel.cloud dns.ronc.ru dns.rotunneling.net o.rsaikat.com au.rslvr.eu bg.rslvr.eu dns.rslvr.eu hk.rslvr.eu jp.rslvr.eu
+0.0.0.0 nl.rslvr.eu sg.rslvr.eu us.rslvr.eu adguard.ruby.ci dns.rubyfish.cn ea-dns.rubyfish.cn uw-dns.rubyfish.cn adg.rueiliu.space rumpelsepp.org
+0.0.0.0 doh.runsel.id agh-yz.russel053.com dns1.ryan-palmer.com dns1.saferbfc.org dns2.saferbfc.org safeservedns.com doh.safesurfer.io cloud.samutz.com dns.sarak.as
+0.0.0.0 dns.sarakas.net dns.sarilouis.com ns1.sc-lezhi.com dns.scapetical.com dns.scarx.net dns.schlagheck.berlin dns.scott-smith.us dns.scuola.org adguard.sealyserver.com
+0.0.0.0 2.dnscrypt-cert.dns.seby.io doh.seby.io doh-2.seby.io dot.seby.io dns.sec511.com dns.seia.io secondary.dns.seia.io dns.seiffert.me dns.sellan.fr
+0.0.0.0 adguard.senthil.us dns.serdcebolit.ru privatnas.servebeer.com doh.serverhost.no dns.sev.monster pates.services.sfr.fr.casepp.sfr.fr d2.shabi.icu shalenkov.dev dns.shareworx.net
+0.0.0.0 dns.shecan.ir free.shecan.ir pro.shecan.ir dns.sheggi.ch dns.shimul.me do.shimul.me adguard.shoupperuser.com adguard.shutgaming.net doh.sidnlabs.nl
+0.0.0.0 dns.silen.org dns.silentlybren.com dns.simplylinux.ch dns.sindominio.net dnsovertls.sinodun.com dnsovertls1.sinodun.com dnsovertls2.sinodun.com dnsovertls3.sinodun.com dns.siry.de
+0.0.0.0 sitdns.com dns.sitdns.com dns.skrep.eu dns.skrep.in skydragoness.com dns.slinkyman.net dns.smartguard.io guard.sntrk.ru clientdns3.softcom.net
+0.0.0.0 spacedns.org adguard.sparshbajaj.me doh-01.spectrum.com doh-02.spectrum.com dns.spirio.fr squidmall.vip sriedmueadguard.casa adguard.sscw.win doh.ntu.ssooss.win
+0.0.0.0 dns.sstomp.nl dns.startupstack.tech dns.stevenz.net dns.stirringphoto.com dns.stormycloud.org dns.strassmair.org doh.suche.org local.sufly.top dns.suhaila.dev
+0.0.0.0 resolver.sunet.se sunnygyl.com doh.sunoaki.net dns.superstefan.win dns.sv-zauner.at dns.svoi.dev dns.swin.pro switch.ch dns.switch.ch
+0.0.0.0 dns.syaifullah.com ibksturm.synology.me ihctw.synology.me doh.syshero.org dns.szpadel.ovh dns.t53.de tecdrive.site dns1.techeasy.org vpn.technicule.info
+0.0.0.0 doh.technochat.in dns.technologycage.com dns.technostriker.com rx.techomespace.com dns.telekom.de iana.tenta.io opennic.tenta.io de.teradns.org ny.teradns.org
+0.0.0.0 sg.teradns.org tx.teradns.org uk.teradns.org dns.soldier.terumi.club dns.tesem.dog cloud.tezoi.com dns.thebuckners.org dns.thegoodsource.net dns.theres.one
+0.0.0.0 dns.therifleman.name blocker.thethorsens.org doh.thio.me doh.tiar.app dot.tiar.app jp.tiar.app doh.tiarap.org jp.tiarap.org dns.tierradeayala.com
+0.0.0.0 tigrons.ru timmes.nl adb.timnichollsphotography.com dns.tipsy.coffee dns.tls-data.de tlz.asia d.toairs.com dot.tooli.ca nsc.torgues.net
+0.0.0.0 doh.totoro.pub dns.tracker.ink resolv1.trash.net resolv2.trash.net resolv3.trash.net ns.trcnet.fi tributh.net dns.trust404.win truta.org
+0.0.0.0 dns.tryk.app adg.tshost.no doh.ibr.cs.tu-bs.de tuskythehusky.tech nat64.tuxis.nl dns.twnic.tw adguard.twotigers.xyz dns.txq.life typaza.com
+0.0.0.0 ad.tzockt.beer dns.umbrella.com doh.umbrella.com unasw.eu www.unasw.eu uncensoreddns.org anycast.uncensoreddns.org deic-lgb.anycast.uncensoreddns.org deic-ore.anycast.uncensoreddns.org
+0.0.0.0 kracon.anycast.uncensoreddns.org rgnet-iad.anycast.uncensoreddns.org unicast.uncensoreddns.org dns.unerror.network ines.zfn.uni-bremen.de galileo.math.unipd.it dns.unx.io dns.uplenk.com urology.wiki
+0.0.0.0 dns.koala.us.to nightlymoon.us.kg luna-is.so-gorgeo.us.kg mita-is.so-gorgeo.us.kg nana-is.so-gorgeo.us.kg nindy-is.so-gorgeo.us.kg nova-is.so-gorgeo.us.kg tetty-is.so-gorgeo.us.kg yussy-is.so-gorgeo.us.kg
+0.0.0.0 adfree.usableprivacy.net dns.vaioswolke.xyz doh.valscosmos.com tor.vasi.li dns.vault81.de dns.vinnyp.xyz dns.vinokurov.tk dns.vishalk.com dns.vojtat.cz
+0.0.0.0 vorlif.org vtcuong.site bigora2.vuhai.de dns.w3ctag.org dns.wahr.top aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz
+0.0.0.0 dns.wang.art wantaquddin.com dns.wargan.io abel.waringer-atg.de dns.warma.me dns.warpnine.de dns.engineer.web.id doh.this.web.id doh.webnmail.de
+0.0.0.0 dns.wechat.com doh.wewitro.net wikimedia-dns.org dns-1.wil.cloud dns-2.wil.cloud adguard.wirimij.nl clearweb.woodbridge.club home.wriedts.de ns2.wuyouss.com
+0.0.0.0 ns3.wuyouss.com wyx.cloud adb-home.xaoimoon.fr doh.xcom.pro xenergy.cc doh.xfinity.com dot.xfinity.com doh2.gslb2.xfinity.com xholgm.top
+0.0.0.0 agh.xinfeng16m.top dns.xlion.tw xn--durhre-yxa.de dns.xuming.studio dns.xusqui.com v2.xx3210766.live dns.yameenassotally.com 2.dnscrypt-cert.browser.yandex.net dns.yandex.ru
+0.0.0.0 common.dot.dns.yandex.net family.dot.dns.yandex.net safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru safe.dns.yandex.ru secondary.safe.dns.yandex.ru secondary.dns.yandex.ru dns.yatima.tv
+0.0.0.0 ychen.cf ychen.gq net01.youcef.io your-dns.run yovbak.com yuvelirtut.website dns.daemon.za.net adguard.zachitect.com zakaria.website
+0.0.0.0 zburger.top www.zburger.top zdn.ro dns.zemows.industries doh.zephyrus.id adguard-kartoffel.zernico.de dns.zfsystem.tech doh.zknt.org zougloub.eu
+0.0.0.0 a.zpn.me dns.zzuhacker.cn 

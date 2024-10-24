@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729637400 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729729380 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Oct 2024 22:50 UTC
-; Version: 2024.1022.2250.27
+; Last modified: 24 Oct 2024 00:23 UTC
+; Version: 2024.1024.0023.53
 ; Syntax: RPZ
 ; Number of entries: 24472
 ;
@@ -1879,14 +1879,8 @@ autofxbroker.com CNAME .
 *.autofxbroker.com CNAME .
 autohaus-vacha.com CNAME .
 *.autohaus-vacha.com CNAME .
-autoreifen-feldmann.com CNAME .
-*.autoreifen-feldmann.com CNAME .
 autoreifen-frenzel.com CNAME .
 *.autoreifen-frenzel.com CNAME .
-autoreifen-herzog.com CNAME .
-*.autoreifen-herzog.com CNAME .
-autoreifen-horn.com CNAME .
-*.autoreifen-horn.com CNAME .
 autoreifen-jansen.com CNAME .
 *.autoreifen-jansen.com CNAME .
 autoreifen-kahl.com CNAME .
@@ -2561,6 +2555,8 @@ binarycent.com CNAME .
 *.binarycent.com CNAME .
 binarylowcost.com CNAME .
 *.binarylowcost.com CNAME .
+binarymate.com CNAME .
+*.binarymate.com CNAME .
 binarystockmarket.com CNAME .
 *.binarystockmarket.com CNAME .
 binatex.com CNAME .
@@ -2877,6 +2873,8 @@ brilliant-photo.com CNAME .
 *.brilliant-photo.com CNAME .
 bringadharav.com CNAME .
 *.bringadharav.com CNAME .
+briskmeind.com CNAME .
+*.briskmeind.com CNAME .
 british-columbia-hotels.com CNAME .
 *.british-columbia-hotels.com CNAME .
 britishnewstoday.com CNAME .
@@ -5043,8 +5041,6 @@ fahrradzubehorverkauf.com CNAME .
 *.fahrradzubehorverkauf.com CNAME .
 faithfullus.com CNAME .
 *.faithfullus.com CNAME .
-falk-reifenhandel.com CNAME .
-*.falk-reifenhandel.com CNAME .
 falk-reifenversand.com CNAME .
 *.falk-reifenversand.com CNAME .
 fallegverslun.com CNAME .
@@ -6487,8 +6483,6 @@ heimwerkzeugladen.com CNAME .
 *.heimwerkzeugladen.com CNAME .
 heimwerkzeugoutlet.com CNAME .
 *.heimwerkzeugoutlet.com CNAME .
-heine-reifen.com CNAME .
-*.heine-reifen.com CNAME .
 heira-shop.com CNAME .
 *.heira-shop.com CNAME .
 heisenberg24.com CNAME .
@@ -6585,8 +6579,6 @@ henleyschic.com CNAME .
 *.henleyschic.com CNAME .
 henleysstorehouse.com CNAME .
 *.henleysstorehouse.com CNAME .
-henning-autoreifen.com CNAME .
-*.henning-autoreifen.com CNAME .
 henrichs-markt.com CNAME .
 *.henrichs-markt.com CNAME .
 herbalpellets.com CNAME .
@@ -6603,8 +6595,6 @@ heritage-bv.com CNAME .
 *.heritage-bv.com CNAME .
 herlingerieshop.com CNAME .
 *.herlingerieshop.com CNAME .
-herold-reifenhandel.com CNAME .
-*.herold-reifenhandel.com CNAME .
 herreraaale.com CNAME .
 *.herreraaale.com CNAME .
 herrerachasi-stammholz.com CNAME .
@@ -7227,8 +7217,6 @@ jacob-autoreifen.com CNAME .
 *.jacob-autoreifen.com CNAME .
 jacobs-reifenversand.com CNAME .
 *.jacobs-reifenversand.com CNAME .
-jahn-reifen.com CNAME .
-*.jahn-reifen.com CNAME .
 jahn-reifenhandel.com CNAME .
 *.jahn-reifenhandel.com CNAME .
 jajazandova.com CNAME .
@@ -8931,6 +8919,8 @@ muckschweiz.com CNAME .
 *.muckschweiz.com CNAME .
 mueller-investment.com CNAME .
 *.mueller-investment.com CNAME .
+muffinsh.com CNAME .
+*.muffinsh.com CNAME .
 muhs-spielwaren.com CNAME .
 *.muhs-spielwaren.com CNAME .
 muidi.com CNAME .
@@ -9581,6 +9571,8 @@ oilcareonsale.com CNAME .
 *.oilcareonsale.com CNAME .
 de.oilprofit-official.com CNAME .
 *.de.oilprofit-official.com CNAME .
+oinepukin.com CNAME .
+*.oinepukin.com CNAME .
 oirudinkep.com CNAME .
 *.oirudinkep.com CNAME .
 okboptions.com CNAME .
@@ -9705,6 +9697,8 @@ onlygenericonline.com CNAME .
 *.onlygenericonline.com CNAME .
 onlyjustshoes.com CNAME .
 *.onlyjustshoes.com CNAME .
+onproaid.com CNAME .
+*.onproaid.com CNAME .
 onrunningoutletdeutschland.com CNAME .
 *.onrunningoutletdeutschland.com CNAME .
 onrunningoutletfactory.com CNAME .
@@ -10945,8 +10939,6 @@ reifenversand-feldmann.com CNAME .
 *.reifenversand-feldmann.com CNAME .
 reifenversand-fritsch.com CNAME .
 *.reifenversand-fritsch.com CNAME .
-reifenversand-gerber.com CNAME .
-*.reifenversand-gerber.com CNAME .
 reifenversand-hanke.com CNAME .
 *.reifenversand-hanke.com CNAME .
 reifenversand-hermann.com CNAME .
@@ -14003,6 +13995,8 @@ usrebatebaseball.com CNAME .
 *.usrebatebaseball.com CNAME .
 usretailtool.com CNAME .
 *.usretailtool.com CNAME .
+usrobotoff.com CNAME .
+*.usrobotoff.com CNAME .
 ussalesfishing.com CNAME .
 *.ussalesfishing.com CNAME .
 ussellingaccessory.com CNAME .
@@ -14451,6 +14445,8 @@ weihnachtstassenstore.com CNAME .
 *.weihnachtstassenstore.com CNAME .
 weinshop-de.com CNAME .
 *.weinshop-de.com CNAME .
+weise-reifen.com CNAME .
+*.weise-reifen.com CNAME .
 wellensteynj.com CNAME .
 *.wellensteynj.com CNAME .
 wellensteynjacket.com CNAME .
@@ -14801,6 +14797,8 @@ ydmenstyle.com CNAME .
 *.ydmenstyle.com CNAME .
 years-offers.com CNAME .
 *.years-offers.com CNAME .
+yeezy-450.com CNAME .
+*.yeezy-450.com CNAME .
 yeezybelgique.com CNAME .
 *.yeezybelgique.com CNAME .
 yeezyireland.com CNAME .
@@ -16013,8 +16011,6 @@ delwin-tech.de CNAME .
 *.delwin-tech.de CNAME .
 demoniadeutschland.de CNAME .
 *.demoniadeutschland.de CNAME .
-demoniaschuhe.de CNAME .
-*.demoniaschuhe.de CNAME .
 demoniastiefel.de CNAME .
 *.demoniastiefel.de CNAME .
 dent-wellness.de CNAME .
@@ -19421,8 +19417,6 @@ standpellets.de CNAME .
 *.standpellets.de CNAME .
 startshopfulfillment.de CNAME .
 *.startshopfulfillment.de CNAME .
-stationsparty.de CNAME .
-*.stationsparty.de CNAME .
 staubsaugerhaus.de CNAME .
 *.staubsaugerhaus.de CNAME .
 staubsaugerrabatt.de CNAME .
@@ -22033,6 +22027,8 @@ aacloth.shop CNAME .
 *.aacloth.shop CNAME .
 acrosthebordcakede.shop CNAME .
 *.acrosthebordcakede.shop CNAME .
+addievelasquez.shop CNAME .
+*.addievelasquez.shop CNAME .
 adorabletotsde.shop CNAME .
 *.adorabletotsde.shop CNAME .
 adventureclothingde.shop CNAME .
@@ -23321,6 +23317,8 @@ reifenhandel-niemann.shop CNAME .
 *.reifenhandel-niemann.shop CNAME .
 reifenhandel-rausch.shop CNAME .
 *.reifenhandel-rausch.shop CNAME .
+reifenhandel-scharf.shop CNAME .
+*.reifenhandel-scharf.shop CNAME .
 reifenhandel-unger.shop CNAME .
 *.reifenhandel-unger.shop CNAME .
 reifenversand-bode.shop CNAME .
@@ -23731,6 +23729,8 @@ wehner-autoreifen.shop CNAME .
 *.wehner-autoreifen.shop CNAME .
 wein-vip.shop CNAME .
 *.wein-vip.shop CNAME .
+weis-reifenversand.shop CNAME .
+*.weis-reifenversand.shop CNAME .
 wellsana.shop CNAME .
 *.wellsana.shop CNAME .
 weltentdeckerisbach.shop CNAME .

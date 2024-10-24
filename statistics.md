@@ -104,7 +104,7 @@
  17 |      99% |   0% |      1% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  18 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  19 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
- 20 |      87% |   8% |      5% | Advanced Extension
+ 20 |      88% |   8% |      4% | Advanced Extension
  21 |      68% |  21% |     11% | Denylist Community Advanced
  22 |      75% |  17% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  23 |      78% |  14% |      8% | Aggressive Extension

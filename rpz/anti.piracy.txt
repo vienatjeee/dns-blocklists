@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729609380 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729726020 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Oct 2024 15:03 UTC
-; Version: 2024.1022.1503.35
+; Last modified: 23 Oct 2024 23:27 UTC
+; Version: 2024.1023.2327.59
 ; Syntax: RPZ
-; Number of entries: 20044
+; Number of entries: 20058
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1923,6 +1923,8 @@ filmstreaming1vf.co CNAME .
 *.filmstreaming1vf.co CNAME .
 firstrow.co CNAME .
 *.firstrow.co CNAME .
+fitgirlrepacks.co CNAME .
+*.fitgirlrepacks.co CNAME .
 fmovies.co CNAME .
 *.fmovies.co CNAME .
 fmoviesf.co CNAME .
@@ -3983,6 +3985,8 @@ firesticktricks.com CNAME .
 *.firesticktricks.com CNAME .
 satrong.fissabd.com CNAME .
 *.satrong.fissabd.com CNAME .
+fitgirl-repack.com CNAME .
+*.fitgirl-repack.com CNAME .
 fl1x.com CNAME .
 *.fl1x.com CNAME .
 flacworld.com CNAME .
@@ -6521,6 +6525,8 @@ thepiratebay-proxy.com CNAME .
 *.thepiratebay-proxy.com CNAME .
 thepiratebay1.com CNAME .
 *.thepiratebay1.com CNAME .
+thepiratebay7.com CNAME .
+*.thepiratebay7.com CNAME .
 thepiratebaya.com CNAME .
 *.thepiratebaya.com CNAME .
 thepiratebays.com CNAME .
@@ -8825,6 +8831,8 @@ hds-streaming.homes CNAME .
 *.hds-streaming.homes CNAME .
 streamingcommunity.homes CNAME .
 *.streamingcommunity.homes CNAME .
+yts.homes CNAME .
+*.yts.homes CNAME .
 cb01.host CNAME .
 *.cb01.host CNAME .
 filmsenzalimiti.host CNAME .
@@ -9369,6 +9377,8 @@ thehiddenbay.info CNAME .
 *.thehiddenbay.info CNAME .
 thekat.info CNAME .
 *.thekat.info CNAME .
+thepiratebay10.info CNAME .
+*.thepiratebay10.info CNAME .
 thepiratebay9.info CNAME .
 *.thepiratebay9.info CNAME .
 thepiratebays.info CNAME .
@@ -17547,6 +17557,8 @@ darklight.to CNAME .
 *.darklight.to CNAME .
 ddl.to CNAME .
 *.ddl.to CNAME .
+demonoid.to CNAME .
+*.demonoid.to CNAME .
 donkey.to CNAME .
 *.donkey.to CNAME .
 dood.to CNAME .
@@ -19267,6 +19279,8 @@ dramaqu.website CNAME .
 *.dramaqu.website CNAME .
 eurostreaming.website CNAME .
 *.eurostreaming.website CNAME .
+fitgirl-repacks.website CNAME .
+*.fitgirl-repacks.website CNAME .
 fmovies.website CNAME .
 *.fmovies.website CNAME .
 fzmovies.website CNAME .
