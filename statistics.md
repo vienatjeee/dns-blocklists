@@ -22,7 +22,7 @@
  12 |      90% |   6% |      4% | Denylist Community non-Aggressive
  13 |      79% |  13% |      8% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      72% |  15% |     13% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 15 |      92% |   7% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 15 |      94% |   5% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |      62% |  34% |      4% | Analytics/Metrics Extension
  17 |      98% |   2% |      0% | Balanced Extension
 ```
@@ -45,7 +45,7 @@
  14 |      62% |  34% |      4% | Analytics/Metrics Extension
  15 |      98% |   2% |      0% | Balanced Extension
  16 |      79% |  13% |      8% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 17 |      91% |   7% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 17 |      93% |   5% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  18 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  19 |      99% |   0% |      1% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  20 |      99% |   0% |      1% | Native Tracker Xiaomi (Devices)
@@ -71,7 +71,7 @@
  13 |      62% |  34% |      4% | Analytics/Metrics Extension
  14 |      98% |   2% |      0% | Balanced Extension
  15 |      81% |  13% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 16 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 16 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  17 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  18 |      99% |   0% |      1% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  19 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
@@ -99,7 +99,7 @@
  12 |      65% |  34% |      1% | Analytics/Metrics Extension
  13 |      98% |   2% |      0% | Balanced Extension
  14 |      81% |  13% |      6% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 15 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 15 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  17 |      99% |   0% |      1% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  18 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729695960 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1729806420 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Oct 2024 15:06 UTC
-; Version: 2024.1023.1506.00
+; Last modified: 24 Oct 2024 21:47 UTC
+; Version: 2024.1024.2147.50
 ; Syntax: RPZ
-; Number of entries: 3670
+; Number of entries: 3658
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -775,8 +775,6 @@ comule.com CNAME .
 *.comule.com CNAME .
 comxa.com CNAME .
 *.comxa.com CNAME .
-comze.com CNAME .
-*.comze.com CNAME .
 coolfreepages.com CNAME .
 *.coolfreepages.com CNAME .
 creablog.com CNAME .
@@ -1071,10 +1069,6 @@ homemarker.com CNAME .
 *.homemarker.com CNAME .
 homestead.com CNAME .
 *.homestead.com CNAME .
-host22.com CNAME .
-*.host22.com CNAME .
-hostei.com CNAME .
-*.hostei.com CNAME .
 hostingfailov.com CNAME .
 *.hostingfailov.com CNAME .
 hostingsiteforfree.com CNAME .
@@ -1585,8 +1579,6 @@ webcindario.com CNAME .
 *.webcindario.com CNAME .
 webdesign96.com CNAME .
 *.webdesign96.com CNAME .
-webege.com CNAME .
-*.webege.com CNAME .
 webgarden.com CNAME .
 *.webgarden.com CNAME .
 weblium.com CNAME .
@@ -3023,8 +3015,6 @@ netai.net CNAME .
 *.netai.net CNAME .
 netau.net CNAME .
 *.netau.net CNAME .
-netii.net CNAME .
-*.netii.net CNAME .
 netne.net CNAME .
 *.netne.net CNAME .
 nuvox.net CNAME .
@@ -3053,8 +3043,6 @@ seesaa.net CNAME .
 *.seesaa.net CNAME .
 serv00.net CNAME .
 *.serv00.net CNAME .
-site88.net CNAME .
-*.site88.net CNAME .
 site90.net CNAME .
 *.site90.net CNAME .
 sportsontheweb.net CNAME .
