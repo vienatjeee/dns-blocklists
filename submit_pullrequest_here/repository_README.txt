@@ -746,10 +746,6 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
 
-#### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
-
-[OpenBLD.net](https://openbld.net) use my Multi Pro blocklist in addition to other blocklists.
-
 #### :department_store: **RobinGroppe.de (Germany) - free** <a name="robingroppe"></a>
 
 [RobinGroppe.de DNS](https://www.robingroppe.de/serverzeug/dns-server) offers a free German DNS server without logging to block malware, phishing and other threats. It uses my TIF list.
