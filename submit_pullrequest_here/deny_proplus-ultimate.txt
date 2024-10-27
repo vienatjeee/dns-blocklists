@@ -32,6 +32,10 @@ mockup.ads.brave.com
 mywallet.ads.brave.com
 search.anonymous.ads.brave.com
 static.ads.brave.com
+# https://github.com/hagezi/dns-blocklists/issues/4107
+offers.brave.com
+mobile-data.s3.brave.com
+mobile-data-dev.s3.brave.software
 
 # https://github.com/hagezi/dns-blocklists/issues/2968
 # https://github.com/hagezi/dns-blocklists/issues/2980

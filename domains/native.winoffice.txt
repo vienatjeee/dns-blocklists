@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Oct 2024 23:05 UTC
-# Version: 2024.1016.2305.17
+# Last modified: 26 Oct 2024 22:36 UTC
+# Version: 2024.1026.2236.35
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 691
+# Number of entries: 692
 #
 in.appcenter.ms
 applicationinsights.azure.com
@@ -300,6 +300,7 @@ beta.bingads.microsoft.com
 ch1b.bingads.microsoft.com
 community.bingads.microsoft.com
 developers.bingads.microsoft.com
+express.bingads.microsoft.com
 fd.bingads.microsoft.com
 feedback.bingads.microsoft.com
 help.bingads.microsoft.com

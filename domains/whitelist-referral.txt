@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 24 Oct 2024 21:08 UTC
-# Version: 2024.1024.2108.03
+# Last modified: 26 Oct 2024 21:17 UTC
+# Version: 2024.1026.2117.36
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2054
+# Number of entries: 2083
 #
 l.1mp.ru
 t.1und1.de
@@ -177,6 +177,7 @@ clck.ru
 api.cleverpush.com
 static.cleverpush.com
 seu.cleverreach.com
+11327.seu.cleverreach.com
 12120.seu.cleverreach.com
 123000.seu.cleverreach.com
 15850.seu.cleverreach.com
@@ -187,6 +188,7 @@ seu.cleverreach.com
 37627.seu.cleverreach.com
 38729.seu.cleverreach.com
 38970.seu.cleverreach.com
+6098.seu.cleverreach.com
 seu1.cleverreach.com
 170770.seu1.cleverreach.com
 44963.seu1.cleverreach.com
@@ -204,8 +206,10 @@ seu1.cleverreach.com
 72120.seu1.cleverreach.com
 72984.seu1.cleverreach.com
 75329.seu1.cleverreach.com
+75550.seu1.cleverreach.com
 76216.seu1.cleverreach.com
 76287.seu1.cleverreach.com
+80950.seu1.cleverreach.com
 83448.seu1.cleverreach.com
 86097.seu1.cleverreach.com
 seu2.cleverreach.com
@@ -216,6 +220,7 @@ seu2.cleverreach.com
 120257.seu2.cleverreach.com
 121070.seu2.cleverreach.com
 126562.seu2.cleverreach.com
+129026.seu2.cleverreach.com
 140829.seu2.cleverreach.com
 142376.seu2.cleverreach.com
 143747.seu2.cleverreach.com
@@ -224,6 +229,7 @@ seu2.cleverreach.com
 156485.seu2.cleverreach.com
 160315.seu2.cleverreach.com
 161067.seu2.cleverreach.com
+161683.seu2.cleverreach.com
 163840.seu2.cleverreach.com
 164230.seu2.cleverreach.com
 176903.seu2.cleverreach.com
@@ -237,8 +243,10 @@ seu2.cleverreach.com
 200170.seu2.cleverreach.com
 203678.seu2.cleverreach.com
 208585.seu2.cleverreach.com
+220178.seu2.cleverreach.com
 220313.seu2.cleverreach.com
 222270.seu2.cleverreach.com
+223618.seu2.cleverreach.com
 225938.seu2.cleverreach.com
 226323.seu2.cleverreach.com
 235919.seu2.cleverreach.com
@@ -250,7 +258,9 @@ seu2.cleverreach.com
 248553.seu2.cleverreach.com
 256546.seu2.cleverreach.com
 259770.seu2.cleverreach.com
+267107.seu2.cleverreach.com
 268990.seu2.cleverreach.com
+270650.seu2.cleverreach.com
 274011.seu2.cleverreach.com
 274610.seu2.cleverreach.com
 276656.seu2.cleverreach.com
@@ -258,6 +268,8 @@ seu2.cleverreach.com
 280187.seu2.cleverreach.com
 281191.seu2.cleverreach.com
 286257.seu2.cleverreach.com
+295939.seu2.cleverreach.com
+296298.seu2.cleverreach.com
 301396.seu2.cleverreach.com
 301449.seu2.cleverreach.com
 307770.seu2.cleverreach.com
@@ -657,6 +669,7 @@ inbound-reply.s6.exacttarget.com
 mc.s6.exacttarget.com
 members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
+pages.s6.exacttarget.com
 pub.s6.exacttarget.com
 reply-mx.s6.exacttarget.com
 view.s6.exacttarget.com
@@ -708,6 +721,7 @@ mallgroup-cdn.exponea.com
 neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 nxi-cdn.exponea.com
+ozon-cdn.exponea.com
 pan-cdn.exponea.com
 ri-cdn.exponea.com
 cdn.uk.exponea.com
@@ -1015,6 +1029,7 @@ links.mkt51.net
 links.mkt61.net
 links.mkt71.net
 links.mkt81.net
+mkto-a0095.com
 mkto-a0236.com
 mkto-a0253.com
 mkto-a0324.com
@@ -1109,6 +1124,7 @@ mkto-ab200127.com
 mkto-ab200129.com
 mkto-ab210004.com
 mkto-ab210048.com
+mkto-ab210094.com
 mkto-ab210176.com
 mkto-ab220017.com
 mkto-ab220043.com
@@ -1397,6 +1413,7 @@ mkto-k0009.com
 mkto-k0033.com
 mkto-k0051.com
 mkto-k0064.com
+mkto-k0071.com
 mkto-k0110.com
 mkto-lon020062.com
 mkto-lon030290.com
@@ -1451,6 +1468,7 @@ mkto-o0129.com
 mkto-o0143.com
 mkto-o0148.com
 mkto-o0153.com
+mkto-p0016.com
 mkto-p0056.com
 mkto-p0110.com
 mkto-p0136.com
@@ -1494,6 +1512,7 @@ mkto-sj070017.com
 mkto-sj070130.com
 mkto-sj070214.com
 mkto-sj070231.com
+mkto-sj070259.com
 mkto-sj080048.com
 mkto-sj080126.com
 mkto-sj090063.com
@@ -1690,6 +1709,7 @@ sjint.mkto-test.com
 sjqe.mkto-test.com
 test.mkto-test.com
 mktoweb.com
+mkto-lp.mlinc.com
 click.mlsend.com
 t.mmtrkr.com
 mmtro.com
@@ -1784,6 +1804,8 @@ rewardtk.com
 adorama.rfvk.net
 click.royalcaribbeanmarketing.com
 r4atvmcab.cc.rs6.net
+r4btdwoab.cc.rs6.net
+r4gh8tuab.cc.rs6.net
 r4glptn6.cc.rs6.net
 r4iqtwrab.cc.rs6.net
 r4ofs8cab.cc.rs6.net
@@ -1792,6 +1814,7 @@ r5hxkyjab.cc.rs6.net
 r5r548dab.cc.rs6.net
 r5siqu4ab.cc.rs6.net
 r5v8prcab.cc.rs6.net
+r5waxhbbb.cc.rs6.net
 r6hquldab.cc.rs6.net
 r6lccqnab.cc.rs6.net
 r6mm9llab.cc.rs6.net
@@ -1815,7 +1838,9 @@ rdrhxuyab.cc.rs6.net
 reaplmcab.cc.rs6.net
 rfgmzawab.cc.rs6.net
 rfgvnv6ab.cc.rs6.net
+rflrlptab.cc.rs6.net
 rge6j8mab.cc.rs6.net
+rgkkzvdab.cc.rs6.net
 rh5utc9ab.cc.rs6.net
 rh5uuo4ab.cc.rs6.net
 rh75p55ab.cc.rs6.net
@@ -1828,6 +1853,7 @@ rkypyqrab.cc.rs6.net
 rmjddbabb.cc.rs6.net
 rmnbcy7ab.cc.rs6.net
 rng7xicab.cc.rs6.net
+roclcdfab.cc.rs6.net
 roli8hmab.cc.rs6.net
 rptcs9bab.cc.rs6.net
 rpxfhbhbb.cc.rs6.net
@@ -1992,6 +2018,7 @@ link.swa.info
 link.sylikes.com
 t.co
 count.shopping.t-online.de
+redirect447.tagcommander.com
 redirect476.tagcommander.com
 redirect928.tagcommander.com
 click.taobao.com
@@ -2047,7 +2074,9 @@ sdk.us.xtremepush.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 10267.redirect.appmetrica.yandex.com
+1164705.redirect.appmetrica.yandex.com
 2721989.redirect.appmetrica.yandex.com
+2958316.redirect.appmetrica.yandex.com
 2963581.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
