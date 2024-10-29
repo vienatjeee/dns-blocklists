@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Oct 2024 23:04 UTC
-# Version: 2024.1027.2304.55
+# Last modified: 28 Oct 2024 23:55 UTC
+# Version: 2024.1028.2355.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1449
+# Number of entries: 1427
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -110,25 +110,6 @@ local=/ag.apollohct.com/
 local=/doh.dns.apple.com/
 local=/mask-api.fe2.apple-dns.net/
 local=/mask.apple-dns.net/
-local=/ausyd2.mask-t.apple-dns.net/
-local=/deber3.mask-t.apple-dns.net/
-local=/dedus1.mask-t.apple-dns.net/
-local=/gbslo5.mask-t.apple-dns.net/
-local=/hktko1.mask-t.apple-dns.net/
-local=/iedub2.mask-t.apple-dns.net/
-local=/jptyo12.mask-t.apple-dns.net/
-local=/nlhfd1.mask-t.apple-dns.net/
-local=/sesto4.mask-t.apple-dns.net/
-local=/sgsin8.mask-t.apple-dns.net/
-local=/twntc1.mask-t.apple-dns.net/
-local=/usatl5.mask-t.apple-dns.net/
-local=/usbos2.mask-t.apple-dns.net/
-local=/uschi7.mask-t.apple-dns.net/
-local=/usdal2.mask-t.apple-dns.net/
-local=/usden6.mask-t.apple-dns.net/
-local=/uslax2.mask-t.apple-dns.net/
-local=/usmia1.mask-t.apple-dns.net/
-local=/usuyk1.mask-t.apple-dns.net/
 local=/dns.applewebkit.dev/
 local=/doh.applied-privacy.net/
 local=/dot1.applied-privacy.net/
@@ -513,8 +494,6 @@ local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
 local=/home27.duckdns.org/
 local=/jurre-home.duckdns.org/
-local=/krtekvpn.duckdns.org/
-local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
@@ -605,7 +584,6 @@ local=/dns.futuredns.me/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
-local=/adguard.gambini.org/
 local=/dns.beta.gandi.net/
 local=/gclouddns.com/
 local=/adg.geili.me/
@@ -900,7 +878,6 @@ local=/dns.lista.my.id/
 local=/dns.mikrotikrumahan.my.id/
 local=/dns.pnh.my.id/
 local=/dns.repinger.my.id/
-local=/dns1.server.my.id/
 local=/id.terra.my.id/
 local=/dns.velyn.my.id/
 local=/dns.vmath.my.id/
@@ -1304,6 +1281,7 @@ local=/ibksturm.synology.me/
 local=/ihctw.synology.me/
 local=/doh.syshero.org/
 local=/dns.szpadel.ovh/
+local=/dns.t-ipnet.de/
 local=/dns.t53.de/
 local=/tecdrive.site/
 local=/dns1.techeasy.org/

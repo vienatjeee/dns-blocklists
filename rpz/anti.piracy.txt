@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1729726020 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1730202600 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Oct 2024 23:27 UTC
-; Version: 2024.1023.2327.59
+; Last modified: 29 Oct 2024 11:50 UTC
+; Version: 2024.1029.1150.10
 ; Syntax: RPZ
-; Number of entries: 20058
+; Number of entries: 20040
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -523,6 +523,8 @@ juraganfilm.best CNAME .
 *.juraganfilm.best CNAME .
 tracker.moecat.best CNAME .
 *.tracker.moecat.best CNAME .
+kiryuu-test.mywaifu.best CNAME .
+*.kiryuu-test.mywaifu.best CNAME .
 rfc5746.mywaifu.best CNAME .
 *.rfc5746.mywaifu.best CNAME .
 tracker.mywaifu.best CNAME .
@@ -619,8 +621,6 @@ ytstvseries.bio CNAME .
 *.ytstvseries.bio CNAME .
 123moviesonline.biz CNAME .
 *.123moviesonline.biz CNAME .
-altadefinizione.biz CNAME .
-*.altadefinizione.biz CNAME .
 animeflv.biz CNAME .
 *.animeflv.biz CNAME .
 animesonline.biz CNAME .
@@ -1785,8 +1785,6 @@ kickass.cm CNAME .
 *.kickass.cm CNAME .
 send.cm CNAME .
 *.send.cm CNAME .
-tracker.1048576.cn CNAME .
-*.tracker.1048576.cn CNAME .
 androeed.cn CNAME .
 *.androeed.cn CNAME .
 6.beyondth.cn CNAME .
@@ -2251,8 +2249,6 @@ w4.123moviefree4u.com CNAME .
 *.24urban.com CNAME .
 2600.com CNAME .
 *.2600.com CNAME .
-2bbit.com CNAME .
-*.2bbit.com CNAME .
 2bcalvi.com CNAME .
 *.2bcalvi.com CNAME .
 2ix2.com CNAME .
@@ -9451,8 +9447,6 @@ ytsyify.info CNAME .
 *.ytsyify.info CNAME .
 zonestreaming.info CNAME .
 *.zonestreaming.info CNAME .
-altadefinizione01.ink CNAME .
-*.altadefinizione01.ink CNAME .
 cb01.ink CNAME .
 *.cb01.ink CNAME .
 eurostreaming.ink CNAME .
@@ -11073,8 +11067,6 @@ unimay.media CNAME .
 *.unimay.media CNAME .
 ssrmovies.meme CNAME .
 *.ssrmovies.meme CNAME .
-altadefinizione.men CNAME .
-*.altadefinizione.men CNAME .
 gomovies.men CNAME .
 *.gomovies.men CNAME .
 guardaserie.men CNAME .
@@ -13621,8 +13613,6 @@ archivebay.online CNAME .
 *.archivebay.online CNAME .
 assistirseriados.online CNAME .
 *.assistirseriados.online CNAME .
-assistirtvgratis.online CNAME .
-*.assistirtvgratis.online CNAME .
 attack-on-titan.online CNAME .
 *.attack-on-titan.online CNAME .
 batmanstream.online CNAME .
@@ -15789,8 +15779,6 @@ cb01.productions CNAME .
 *.cb01.productions CNAME .
 123movies.promo CNAME .
 *.123movies.promo CNAME .
-altadefinizione01.promo CNAME .
-*.altadefinizione01.promo CNAME .
 filmpertutti.pub CNAME .
 *.filmpertutti.pub CNAME .
 fmovies.pub CNAME .
@@ -17465,8 +17453,6 @@ forja.tn CNAME .
 *.forja.tn CNAME .
 123movies.to CNAME .
 *.123movies.to CNAME .
-123movieshub.to CNAME .
-*.123movieshub.to CNAME .
 1337x.to CNAME .
 *.1337x.to CNAME .
 1337xto.to CNAME .
@@ -18227,8 +18213,6 @@ animekisa.tv CNAME .
 *.animekisa.tv CNAME .
 animerush.tv CNAME .
 *.animerush.tv CNAME .
-animesaturn.tv CNAME .
-*.animesaturn.tv CNAME .
 animeshow.tv CNAME .
 *.animeshow.tv CNAME .
 animetake.tv CNAME .
@@ -19103,8 +19087,6 @@ vegamovies.vg CNAME .
 *.vegamovies.vg CNAME .
 afdah.video CNAME .
 *.afdah.video CNAME .
-altadefinizione01.video CNAME .
-*.altadefinizione01.video CNAME .
 braflix.video CNAME .
 *.braflix.video CNAME .
 cb01.video CNAME .

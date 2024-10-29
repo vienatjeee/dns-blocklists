@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 27 Oct 2024 23:03 UTC
-# Version: 2024.1027.2303.21
+# Last modified: 28 Oct 2024 23:53 UTC
+# Version: 2024.1028.2353.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3533
+# Number of entries: 3511
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -235,25 +235,6 @@ local=/ag.apollohct.com/
 local=/doh.dns.apple.com/
 local=/mask-api.fe2.apple-dns.net/
 local=/mask.apple-dns.net/
-local=/ausyd2.mask-t.apple-dns.net/
-local=/deber3.mask-t.apple-dns.net/
-local=/dedus1.mask-t.apple-dns.net/
-local=/gbslo5.mask-t.apple-dns.net/
-local=/hktko1.mask-t.apple-dns.net/
-local=/iedub2.mask-t.apple-dns.net/
-local=/jptyo12.mask-t.apple-dns.net/
-local=/nlhfd1.mask-t.apple-dns.net/
-local=/sesto4.mask-t.apple-dns.net/
-local=/sgsin8.mask-t.apple-dns.net/
-local=/twntc1.mask-t.apple-dns.net/
-local=/usatl5.mask-t.apple-dns.net/
-local=/usbos2.mask-t.apple-dns.net/
-local=/uschi7.mask-t.apple-dns.net/
-local=/usdal2.mask-t.apple-dns.net/
-local=/usden6.mask-t.apple-dns.net/
-local=/uslax2.mask-t.apple-dns.net/
-local=/usmia1.mask-t.apple-dns.net/
-local=/usuyk1.mask-t.apple-dns.net/
 local=/appleproxy.com/
 local=/dns.applewebkit.dev/
 local=/doh.applied-privacy.net/
@@ -959,8 +940,6 @@ local=/duapps.com/
 local=/duba.net/
 local=/home27.duckdns.org/
 local=/jurre-home.duckdns.org/
-local=/krtekvpn.duckdns.org/
-local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
@@ -1199,7 +1178,6 @@ local=/gabstorm.com/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
-local=/adguard.gambini.org/
 local=/proxy.gamecove.net/
 local=/gamers-nor.com/
 local=/gamingssh.com/
@@ -1807,7 +1785,6 @@ local=/dns.lista.my.id/
 local=/dns.mikrotikrumahan.my.id/
 local=/dns.pnh.my.id/
 local=/dns.repinger.my.id/
-local=/dns1.server.my.id/
 local=/id.terra.my.id/
 local=/dns.velyn.my.id/
 local=/dns.vmath.my.id/
@@ -2829,6 +2806,7 @@ local=/ihctw.synology.me/
 local=/doh.syshero.org/
 local=/dns.szpadel.ovh/
 local=/t-dz.com/
+local=/dns.t-ipnet.de/
 local=/dns.t53.de/
 local=/tailscale.com/
 local=/talk2m.com/
