@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 28 Oct 2024 23:16 UTC
-# Version: 2024.1028.2316.22
+# Last modified: 30 Oct 2024 17:22 UTC
+# Version: 2024.1030.1722.58
 # Syntax: Domains (without subdomains)
-# Number of entries: 1683
+# Number of entries: 1686
 #
 l.1mp.ru
 t.1und1.de
@@ -106,6 +106,8 @@ assoc-redirect.amazon.com
 aax-console.corp.amazon.com
 aax-iad-esproxy.corp.amazon.com
 aaxdebugger-tool.corp.amazon.com
+aax-eu-retail-direct.dub.amazon.com
+aax-us-east-retail-direct.iad.amazon.com
 aax-console-dub.dub.proxy.amazon.com
 aaxdebugger-iad.iad.proxy.amazon.com
 aax-console-pdx.pdx.proxy.amazon.com
@@ -1113,6 +1115,7 @@ mkto-sj020099.com
 mkto-sj020159.com
 mkto-sj020171.com
 mkto-sj020238.com
+mkto-sj030022.com
 mkto-sj030081.com
 mkto-sj030085.com
 mkto-sj030161.com

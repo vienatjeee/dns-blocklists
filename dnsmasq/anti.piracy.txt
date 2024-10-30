@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Oct 2024 11:50 UTC
-# Version: 2024.1029.1150.10
+# Last modified: 30 Oct 2024 17:56 UTC
+# Version: 2024.1030.1756.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10020
+# Number of entries: 10032
 #
 local=/tracker.guguan.000.pe/
 local=/0123456789nonexistent.com/
@@ -41,6 +41,7 @@ local=/weedy.1.vg/
 local=/1-2-3movies.com/
 local=/1-thepiratebay.org/
 local=/100520.com/
+local=/tracker.1048576.cn/
 local=/1080-kino.com/
 local=/10kol.tv/
 local=/10mbit.com/
@@ -115,6 +116,7 @@ local=/123movieshub.cyou/
 local=/123movieshub.it/
 local=/123movieshub.sc/
 local=/123movieshub.tech/
+local=/123movieshub.to/
 local=/123movieshubz.com/
 local=/123moviesme.org/
 local=/123moviesnew.site/
@@ -197,6 +199,7 @@ local=/24h.tv/
 local=/24urban.com/
 local=/24warez.ru/
 local=/2600.com/
+local=/2bbit.com/
 local=/2bcalvi.com/
 local=/2ddl.it/
 local=/2ddl.ms/
@@ -521,6 +524,7 @@ local=/altadefinizione.bar/
 local=/altadefinizione.bargains/
 local=/altadefinizione.best/
 local=/altadefinizione.bet/
+local=/altadefinizione.biz/
 local=/altadefinizione.black/
 local=/altadefinizione.boats/
 local=/altadefinizione.boo/
@@ -583,6 +587,7 @@ local=/altadefinizione.love/
 local=/altadefinizione.ma/
 local=/altadefinizione.market/
 local=/altadefinizione.me/
+local=/altadefinizione.men/
 local=/altadefinizione.movie/
 local=/altadefinizione.name/
 local=/altadefinizione.navy/
@@ -659,6 +664,7 @@ local=/altadefinizione01.homes/
 local=/altadefinizione01.icu/
 local=/altadefinizione01.immo/
 local=/altadefinizione01.in/
+local=/altadefinizione01.ink/
 local=/altadefinizione01.it/
 local=/altadefinizione01.name/
 local=/altadefinizione01.ninja/
@@ -666,6 +672,7 @@ local=/altadefinizione01.online/
 local=/altadefinizione01.page/
 local=/altadefinizione01.photo/
 local=/altadefinizione01.plus/
+local=/altadefinizione01.promo/
 local=/altadefinizione01.recipes/
 local=/altadefinizione01.site/
 local=/altadefinizione01.soy/
@@ -673,6 +680,7 @@ local=/altadefinizione01.space/
 local=/altadefinizione01.taxi/
 local=/altadefinizione01.tel/
 local=/altadefinizione01.vg/
+local=/altadefinizione01.video/
 local=/altadefinizione01.website/
 local=/altadefinizione01.ws/
 local=/altadefinizione4k.tv/
@@ -785,6 +793,7 @@ local=/animerush.tv/
 local=/animes.so/
 local=/torrents.animes-bg.com/
 local=/animes-fuki.com/
+local=/animesaturn.tv/
 local=/animesfree.net/
 local=/animesgratisbr.com/
 local=/animeshow.tv/
@@ -968,6 +977,7 @@ local=/assistirserie.org/
 local=/assistirseriesflix.net/
 local=/assistirsuperflix.com/
 local=/assistirtopflix.com/
+local=/assistirtvgratis.online/
 local=/astakiller.com/
 local=/astalavista.com/
 local=/astalavista.ms/
@@ -4609,6 +4619,7 @@ local=/tracker.iro.moe/
 local=/irwarez.com/
 local=/isitdownyet.com/
 local=/islamictorrents.net/
+local=/ismaarino.com/
 local=/isohunt.app/
 local=/isohunt.ch/
 local=/isohunt.com/
@@ -7195,6 +7206,7 @@ local=/bt.saiyaman.info/
 local=/saiyanarena.com/
 local=/tracker.sakurato.art/
 local=/tracker.sakurato.xyz/
+local=/saltwood.top/
 local=/sambd.com/
 local=/samftp.com/
 local=/samlab.ws/

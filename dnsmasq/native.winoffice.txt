@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Oct 2024 22:36 UTC
-# Version: 2024.1026.2236.35
+# Last modified: 30 Oct 2024 18:26 UTC
+# Version: 2024.1030.1826.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 337
+# Number of entries: 339
 #
 local=/in.appcenter.ms/
 local=/applicationinsights.azure.com/
@@ -67,6 +67,7 @@ local=/jpc-visio-telemetry.officeapps.live.com/
 local=/nexus.officeapps.live.com/
 local=/nexusrules.officeapps.live.com/
 local=/noc-visio-telemetry.officeapps.live.com/
+local=/pgtbr1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgteu1-excel-telemetry-vip.officeapps.live.com/
 local=/pgteu1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgteu1-word-telemetry-vip.officeapps.live.com/
@@ -78,6 +79,7 @@ local=/pgteu3-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgteu3-word-telemetry-vip.officeapps.live.com/
 local=/pgteu4-excel-telemetry-vip.officeapps.live.com/
 local=/pgteu4-powerpoint-telemetry-vip.officeapps.live.com/
+local=/pgtmx1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtus1-excel-telemetry-vip.officeapps.live.com/
 local=/pgtus1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtus1-word-telemetry-vip.officeapps.live.com/

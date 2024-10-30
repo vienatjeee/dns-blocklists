@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 28 Oct 2024 23:55 UTC
-# Version: 2024.1028.2355.11
+# Last modified: 30 Oct 2024 17:53 UTC
+# Version: 2024.1030.1753.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1605
+# Number of entries: 1635
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -23,6 +23,13 @@
 0.0.0.0 1and1-dns.de
 0.0.0.0 dns.23-4.cn
 0.0.0.0 233py.com
+0.0.0.0 dns.233py.com
+0.0.0.0 doh.233py.com
+0.0.0.0 edns.233py.com
+0.0.0.0 i.233py.com
+0.0.0.0 ndns.233py.com
+0.0.0.0 sdns.233py.com
+0.0.0.0 wdns.233py.com
 0.0.0.0 dns.240527.xyz
 0.0.0.0 doh003.280blocker.net
 0.0.0.0 doh.30x.me
@@ -146,7 +153,9 @@
 0.0.0.0 ausyd2.mask.apple-dns.net
 0.0.0.0 canary.mask.apple-dns.net
 0.0.0.0 deber3.mask.apple-dns.net
+0.0.0.0 dedus1.mask.apple-dns.net
 0.0.0.0 gbslo5.mask.apple-dns.net
+0.0.0.0 iedub2.mask.apple-dns.net
 0.0.0.0 jptyo12.mask.apple-dns.net
 0.0.0.0 nlhfd1.mask.apple-dns.net
 0.0.0.0 sesto4.mask.apple-dns.net
@@ -156,12 +165,32 @@
 0.0.0.0 usmsc2.mask.apple-dns.net
 0.0.0.0 usqas5.mask.apple-dns.net
 0.0.0.0 usuyk1.mask.apple-dns.net
+0.0.0.0 wrr.mask.apple-dns.net
 0.0.0.0 africa-mask.wrr.mask.apple-dns.net
 0.0.0.0 apac-mask.wrr.mask.apple-dns.net
 0.0.0.0 emea-mask.wrr.mask.apple-dns.net
 0.0.0.0 north-america-mask.wrr.mask.apple-dns.net
 0.0.0.0 oceania-mask.wrr.mask.apple-dns.net
 0.0.0.0 south-america-mask.wrr.mask.apple-dns.net
+0.0.0.0 ausyd2.mask-t.apple-dns.net
+0.0.0.0 deber3.mask-t.apple-dns.net
+0.0.0.0 dedus1.mask-t.apple-dns.net
+0.0.0.0 gbslo5.mask-t.apple-dns.net
+0.0.0.0 hktko1.mask-t.apple-dns.net
+0.0.0.0 iedub2.mask-t.apple-dns.net
+0.0.0.0 jptyo12.mask-t.apple-dns.net
+0.0.0.0 nlhfd1.mask-t.apple-dns.net
+0.0.0.0 sesto4.mask-t.apple-dns.net
+0.0.0.0 sgsin8.mask-t.apple-dns.net
+0.0.0.0 twntc1.mask-t.apple-dns.net
+0.0.0.0 usatl5.mask-t.apple-dns.net
+0.0.0.0 usbos2.mask-t.apple-dns.net
+0.0.0.0 uschi7.mask-t.apple-dns.net
+0.0.0.0 usdal2.mask-t.apple-dns.net
+0.0.0.0 usden6.mask-t.apple-dns.net
+0.0.0.0 uslax2.mask-t.apple-dns.net
+0.0.0.0 usmia1.mask-t.apple-dns.net
+0.0.0.0 usuyk1.mask-t.apple-dns.net
 0.0.0.0 dns.applewebkit.dev
 0.0.0.0 doh.applied-privacy.net
 0.0.0.0 dot1.applied-privacy.net
@@ -623,6 +652,8 @@
 0.0.0.0 agh.dshubham.xyz
 0.0.0.0 home27.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
+0.0.0.0 krtekvpn.duckdns.org
+0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
@@ -713,6 +744,7 @@
 0.0.0.0 cluster-0.gac.edu
 0.0.0.0 cluster-1.gac.edu
 0.0.0.0 dns.gamban.com
+0.0.0.0 adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net
 0.0.0.0 gclouddns.com
 0.0.0.0 adg.geili.me
@@ -1381,7 +1413,6 @@
 0.0.0.0 adguard.senthil.us
 0.0.0.0 dns.serdcebolit.ru
 0.0.0.0 privatnas.servebeer.com
-0.0.0.0 doh.serverhost.no
 0.0.0.0 dns.sev.monster
 0.0.0.0 pates.services.sfr.fr.casepp.sfr.fr
 0.0.0.0 d2.shabi.icu
@@ -1404,7 +1435,6 @@
 0.0.0.0 dnsovertls1.sinodun.com
 0.0.0.0 dnsovertls2.sinodun.com
 0.0.0.0 dnsovertls3.sinodun.com
-0.0.0.0 dns.siry.de
 0.0.0.0 sitdns.com
 0.0.0.0 dns.sitdns.com
 0.0.0.0 dns.skrep.eu

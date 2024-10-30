@@ -391,6 +391,8 @@ https://v.firebog.net/hosts/Admiral.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://vn-badsite-filter.pages.dev/vn-badsite-filter-hosts.txt
 https://www.auktionshilfe.info/thread/20469-ver%C3%B6ffentlichung-von-fakeshops-und-betr%C3%BCgerischen-stellenangebote-blaue-kennzeic/
+https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
+https://www.data.gouv.fr/fr/datasets/r/d2d9df6d-1cd2-41a8-96f5-684cb3057ecb
 https://www.domcop.com/files/top/top10milliondomains.csv.zip
 https://www.globalantiscam.org/scam-websites
 https://www.i-dont-care-about-cookies.eu/abp/
