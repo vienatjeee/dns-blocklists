@@ -106,12 +106,12 @@
  19 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  20 |      87% |   8% |      5% | Advanced Extension
  21 |      68% |  21% |     11% | Denylist Community Advanced
- 22 |      75% |  17% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 22 |      74% |  18% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  23 |      78% |  14% |      8% | Aggressive Extension
  24 |      99% |   0% |      1% | Denylist Community Aggressive
  25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
  26 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
- 27 |      85% |   9% |      6% | Ultimate Extension
+ 27 |      84% |  10% |      6% | Ultimate Extension
  28 |      90% |   5% |      5% | Denylist Aggressive
  29 |      70% |  27% |      3% | Denylist Community Ultimate
 ```
