@@ -240,8 +240,6 @@ Size-optimised version for DNS/Browser adblockers. This list only contains domai
 | Wildcard<br>Domains | [Link](lnkgh_w/ultimate.mini-onlydomains.txt) [Mirror](lnkgl_w/ultimate.mini-onlydomains.txt) [Cached](lnkjd_w/ultimate.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/ultimate.mini.txt) [Mirror](lnkgl_r/ultimate.mini.txt) [Cached](lnkjd_r/ultimate.mini.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
-**Expires:** 24 hours (update frequency)
-
 ---
 
 ### :trollface: **Fake - Protects against internet scams, traps & fakes!** <a name="fake"></a>
@@ -263,8 +261,6 @@ A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.
 | Wildcard<br>Asterisk | [Link](lnkgh_w/fake.txt) [Mirror](lnkgl_w/fake.txt) [Cached](lnkjd_w/fake.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](lnkgh_w/fake-onlydomains.txt) [Mirror](lnkgl_w/fake-onlydomains.txt) [Cached](lnkjd_w/fake-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/fake.txt) [Mirror](lnkgl_r/fake.txt) [Cached](lnkjd_r/fake.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
-
-**Expires:** Updated regularly
 
 ---
 
@@ -290,8 +286,6 @@ A blocklist for annoying and malicious blocking pop-up ads.
 | Wildcard<br>Asterisk | [Link](lnkgh_w/popupads.txt) [Mirror](lnkgl_w/popupads.txt) [Cached](lnkjd_w/popupads.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](lnkgh_w/popupads-onlydomains.txt) [Mirror](lnkgl_w/popupads-onlydomains.txt) [Cached](lnkjd_w/popupads-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/popupads.txt) [Mirror](lnkgl_r/popupads.txt) [Cached](lnkjd_r/popupads.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
-
-**Expires:** 24 hours (update frequency)
 
 ---
 
@@ -366,8 +360,6 @@ IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blo
 > If the IP list is used in AdGuard Home, all domains that would resolve to the blocked IP are blocked. To prevent the blocked domains from being resolved via IPv6, it is necessary to deactivate resolving via IPv6 in AdGuard Home:                        
 > `Settings > DNS settings > DNS server configuration > Disable resolving of IPv6 addresses`
 
-**Expires:** 24 hours (update frequency)
-
 ---
 
 ### :new: **Newly Registered Domains (NRDs)** <a name="nrd"></a>
@@ -408,8 +400,6 @@ Prevent methods to bypass your DNS.
 | Wildcard<br>Domains | [Link](lnkgh_w/doh-vpn-proxy-bypass-onlydomains.txt) [Mirror](lnkgl_w/doh-vpn-proxy-bypass-onlydomains.txt) [Cached](lnkjd_w/doh-vpn-proxy-bypass-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/doh-vpn-proxy-bypass.txt) [Mirror](lnkgl_r/doh-vpn-proxy-bypass.txt) [Cached](lnkjd_r/doh-vpn-proxy-bypass.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
-**Expires:** Updated regularly
-
 #### :outbox_tray: **Encrypted DNS Servers only** <a name="bypass_dns"></a>
 
 |             | Light | Normal | Pro | Pro++ | Ultimate |
@@ -431,8 +421,6 @@ Prevent methods to bypass your DNS.
 | Wildcard<br>Domains | [Link](lnkgh_w/doh-onlydomains.txt) [Mirror](lnkgl_w/doh-onlydomains.txt) [Cached](lnkjd_w/doh-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/doh.txt) [Mirror](lnkgl_r/doh.txt) [Cached](lnkjd_r/doh.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
-**Expires:** Updated regularly
-
 #### :outbox_tray: **Encrypted DNS Servers IPs** <a name="bypass_ips"></a>
 
 IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt) for firewalls and [AdGuard Home format](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-ips.txt) are also available.
@@ -440,8 +428,6 @@ IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blo
 > [!TIP]
 > If the IP list is used in AdGuard Home, all domains that would resolve to the blocked IP are blocked. To prevent the blocked domains from being resolved via IPv6, it is necessary to deactivate resolving via IPv6 in AdGuard Home:                   
 > `Settings > DNS settings > DNS server configuration > Disable resolving of IPv6 addresses`
-
-**Expires:** Updated regularly
 
 ---
 
@@ -465,8 +451,6 @@ A blocklist for blocking search engines that do not support Safesearch.
 | Wildcard<br>Domains | [Link](lnkgh_w/nosafesearch-onlydomains.txt) [Mirror](lnkgl_w/nosafesearch-onlydomains.txt) [Cached](lnkjd_w/nosafesearch-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/nosafesearch.txt) [Mirror](lnkgl_r/nosafesearch.txt) [Cached](lnkjd_r/nosafesearch.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
-**Expires:** Updated regularly
-
 ---
 
 ### :lock_with_ink_pen: **Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!** <a name="dyndns"></a>
@@ -488,8 +472,6 @@ A blocklist for blocking dynamic DNS services to protect against malicious use i
 | Wildcard<br>Asterisk | [Link](lnkgh_w/dyndns.txt) [Mirror](lnkgl_w/dyndns.txt) [Cached](lnkjd_w/dyndns.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](lnkgh_w/dyndns-onlydomains.txt) [Mirror](lnkgl_w/dyndns-onlydomains.txt) [Cached](lnkjd_w/dyndns-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/dyndns.txt) [Mirror](lnkgl_r/dyndns.txt) [Cached](lnkjd_r/dyndns.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
-
-**Expires:** Updated regularly
 
 ---
 
@@ -514,8 +496,6 @@ A blocklist for blocking known free hosters that also host badware via user cont
 | RPZ | [Link](lnkgh_r/hoster.txt) [Mirror](lnkgl_r/hoster.txt) [Cached](lnkjd_r/hoster.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 | ControlD | [Link](https://github.com/hagezi/dns-blocklists/blob/main/controld/badware-hoster-folder.json)| ControlD folder |
 
-**Expires:** Updated regularly
-
 ---
 
 ### :crystal_ball: **Most Abused TLDs - Protects against known malicious Top Level Domains! (Recommended)** <a name="tlds"></a>
@@ -538,8 +518,6 @@ A blocklist for blocking Top Most Abused Top Level Domains, merged from [@Yokoff
 | RPZ<br>(Aggressive) | [Link](lnkgh_r/spam-tlds-rpz-aggressive.txt) [Mirror](lnkgl_r/spam-tlds-rpz-aggressive.txt) [Cached](lnkjd_r/spam-tlds-rpz-aggressive.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound<br>Contains all spam TLDs, corresponds to the AdGuard and uBlock Origin version without exclusions. |
 | ControlD | [TLDs](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-folder.json) [IDNs](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-idns-folder.json) [Allow](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-allow-folder.json) | ControlD folder |
 
-**Expires:** Updated regularly
-
 ---
 
 ### :skull: **Anti Piracy - Protects against piracy!** <a name="piracy"></a>
@@ -561,8 +539,6 @@ Blocks websites and services that are mainly used for the illegal distribution o
 | Wildcard<br>Asterisk | [Link](lnkgh_w/anti.piracy.txt) [Mirror](lnkgl_w/anti.piracy.txt) [Cached](lnkjd_w/anti.piracy.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](lnkgh_w/anti.piracy-onlydomains.txt) [Mirror](lnkgl_w/anti.piracy-onlydomains.txt) [Cached](lnkjd_w/anti.piracy-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/anti.piracy.txt) [Mirror](lnkgl_r/anti.piracy.txt) [Cached](lnkjd_r/anti.piracy.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
-
-**Expires:** Updated regularly
 
 ---
 
@@ -626,8 +602,6 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 | Wildcard<br>Domains | [Link](lnkgh_w/gambling.mini-onlydomains.txt) [Mirror](lnkgl_w/gambling.mini-onlydomains.txt) [Cached](lnkjd_w/gambling.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/gambling.mini.txt) [Mirror](lnkgl_r/gambling.mini.txt) [Cached](lnkjd_r/gambling.mini.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
-**Expires:** Updated regularly
-
 ---
 
 ### :calling: **Native Tracker - Broadband tracker of devices, services and operating systems** <a name="native"></a>
@@ -653,8 +627,6 @@ Blocks native broadband tracker from devices, services and operating systems tha
 | Vivo | [Link](lnkgh_d/native.vivo.txt) [Mirror](lnkgl_d/native.vivo.txt) [Cached](lnkjd_d/native.vivo.txt) | [Link](lnkgh_h/native.vivo.txt) [Mirror](lnkgl_h/native.vivo.txt) [Cached](lnkjd_h/native.vivo.txt) | [Link](lnkgh_a/native.vivo.txt) [Mirror](lnkgl_a/native.vivo.txt) [Cached](lnkjd_a/native.vivo.txt) | [Link](lnkgh_m/native.vivo.txt) [Mirror](lnkgl_m/native.vivo.txt) [Cached](lnkjd_m/native.vivo.txt) | [Link](lnkgh_w/native.vivo.txt) [Mirror](lnkgl_w/native.vivo.txt) [Cached](lnkjd_w/native.vivo.txt) | [Link](lnkgh_w/native.vivo-onlydomains.txt) [Mirror](lnkgl_w/native.vivo-onlydomains.txt) [Cached](lnkjd_w/native.vivo-onlydomains.txt) | [Link](lnkgh_r/native.vivo.txt) [Mirror](lnkgl_r/native.vivo.txt) [Cached](lnkjd_r/native.vivo.txt) |
 | OPPO/Realme | [Link](lnkgh_d/native.oppo-realme.txt) [Mirror](lnkgl_d/native.oppo-realme.txt) [Cached](lnkjd_d/native.oppo-realme.txt) | [Link](lnkgh_h/native.oppo-realme.txt) [Mirror](lnkgl_h/native.oppo-realme.txt) [Cached](lnkjd_h/native.oppo-realme.txt) | [Link](lnkgh_a/native.oppo-realme.txt) [Mirror](lnkgl_a/native.oppo-realme.txt) [Cached](lnkjd_a/native.oppo-realme.txt) | [Link](lnkgh_m/native.oppo-realme.txt) [Mirror](lnkgl_m/native.oppo-realme.txt) [Cached](lnkjd_m/native.oppo-realme.txt) | [Link](lnkgh_w/native.oppo-realme.txt) [Mirror](lnkgl_w/native.oppo-realme.txt) [Cached](lnkjd_w/native.oppo-realme.txt) | [Link](lnkgh_w/native.oppo-realme-onlydomains.txt) [Mirror](lnkgl_w/native.oppo-realme-onlydomains.txt) [Cached](lnkjd_w/native.oppo-realme-onlydomains.txt) | [Link](lnkgh_r/native.oppo-realme.txt) [Mirror](lnkgl_r/native.oppo-realme.txt) [Cached](lnkjd_r/native.oppo-realme.txt) |
 | Xiaomi | [Link](lnkgh_d/native.xiaomi.txt) [Mirror](lnkgl_d/native.xiaomi.txt) [Cached](lnkjd_d/native.xiaomi.txt) | [Link](lnkgh_h/native.xiaomi.txt) [Mirror](lnkgl_h/native.xiaomi.txt) [Cached](lnkjd_h/native.xiaomi.txt) | [Link](lnkgh_a/native.xiaomi.txt) [Mirror](lnkgl_a/native.xiaomi.txt) [Cached](lnkjd_a/native.xiaomi.txt) | [Link](lnkgh_m/native.xiaomi.txt) [Mirror](lnkgl_m/native.xiaomi.txt) [Cached](lnkjd_m/native.xiaomi.txt) | [Link](lnkgh_w/native.xiaomi.txt) [Mirror](lnkgl_w/native.xiaomi.txt) [Cached](lnkjd_w/native.xiaomi.txt) | [Link](lnkgh_w/native.xiaomi-onlydomains.txt) [Mirror](lnkgl_w/native.xiaomi-onlydomains.txt) [Cached](lnkjd_w/native.xiaomi-onlydomains.txt) | [Link](lnkgh_r/native.xiaomi.txt) [Mirror](lnkgl_r/native.xiaomi.txt) [Cached](lnkjd_r/native.xiaomi.txt) |
-
-**Expires:** Updated regularly
 
 ---
 
@@ -745,8 +717,6 @@ The blocklists are based on [various sources](sources.md) and my own denylists/e
 Made with :heartbeat: for a safer and cleaner internet.
 
 All lists were tested against 10000 websites from the Cisco Umbrella Top 1 million list. It was checked whether the pages load, the page content is displayed correctly, navigation links work, images load, videos start and much more.
-
-They are updated and maintained daily.
 
 No, they are not just block lists cobbled together from different sources. They have been optimized and extended to efficiently "clean the Internet" in all areas. See also: [Which sources are used for the lists and how are the lists compiled on the basis of these sources?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#sources)
 

@@ -10,10 +10,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 01 Nov 2024 02:21 UTC
-! Version: 2024.1101.0221.30
+! Last modified: 03 Nov 2024 11:00 UTC
+! Version: 2024.1103.1100.22
 ! Syntax: uBlock
-! Number of latin TLDs: 198 - non-latin TLDs: 151
+! Number of latin TLDs: 210 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -32,6 +32,8 @@
 ||bike^$doc,domain=~rapido.bike
 ||bingo^$doc
 ||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~epson.biz|~ette.biz|~gamesindustry.biz|~gimmeporn.biz|~iimwf.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~panasonic.biz|~slussen.biz|~wyborcza.biz|~yoox.biz
+||black^$doc
+||blue^$doc
 ||boats^$doc
 ||bond^$doc
 ||boo^$doc
@@ -41,9 +43,11 @@
 ||buzz^$doc,domain=~sideb.buzz
 ||cam^$doc
 ||capital^$doc,domain=~scalable.capital
+||care^$doc
 ||careers^$doc
 ||casa^$doc,domain=~nabu.casa
 ||cash^$doc
+||casino^$doc
 ||center^$doc,domain=~priv.center
 ||cfd^$doc,domain=~freedium.cfd
 ||charity^$doc
@@ -63,6 +67,7 @@
 ||dance^$doc
 ||date^$doc,domain=~endoflife.date
 ||dating^$doc
+||day^$doc,domain=~hubcloud.day
 ||deals^$doc,domain=~gg.deals
 ||degree^$doc,domain=~opf.degree|~three60.degree
 ||dental^$doc
@@ -106,8 +111,11 @@
 ||icu^$doc,domain=~lunar.icu
 ||ink^$doc,domain=~ishortn.ink|~next.ink|~short.ink|~sumerian.ink|~work.ink
 ||international^$doc
+||irish^$doc
 ||kim^$doc
 ||lat^$doc
+||legal^$doc
+||lgbt^$doc
 ||life^$doc,domain=~2ch.life|~akamaicdn.life|~circles.life|~colorgame.life|~digitalcitizen.life|~iboost.life|~lifetime.life|~loveinfaith.life|~stepone.life|~yiff.life
 ||llp^$doc
 ||loan^$doc
@@ -144,6 +152,7 @@
 ||photo^$doc
 ||photos^$doc,domain=~picsum.photos
 ||pics^$doc,domain=~pixers.pics|~sexhd.pics|~slow.pics|~twic.pics
+||pictures^$doc
 ||pink^$doc
 ||pizza^$doc,domain=~tux.pizza
 ||place^$doc,domain=~gamedev.place
@@ -151,6 +160,7 @@
 ||post^$doc
 ||prof^$doc,domain=~casey.prof
 ||promo^$doc
+||pub^$doc
 ||quest^$doc,domain=~dice.quest|~epochal.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest|~squash.quest
 ||realtor^$doc
 ||recipes^$doc
@@ -178,9 +188,10 @@
 ||sport^$doc
 ||store^$doc,domain=~androeed.store|~cleanmasters.store|~g-h.store|~iqunix.store|~shoplazza.store|~timberjacks.store
 ||style^$doc
-||su^$doc,domain=~catflix.su|~promportal.su
+||su^$doc,domain=~catflix.su|~encode.su|~promportal.su
 ||support^$doc
 ||surf^$doc,domain=~s-wings.surf
+||sydney^$doc
 ||tattoo^$doc
 ||tax^$doc
 ||taxi^$doc
@@ -191,6 +202,7 @@
 ||trade^$doc,domain=~composer.trade|~kite.trade
 ||trading^$doc
 ||uno^$doc
+||vacations^$doc
 ||vegas^$doc
 ||ventures^$doc
 ||vin^$doc

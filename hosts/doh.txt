@@ -4,11 +4,11 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
-# Expires: 7 days
-# Last modified: 01 Nov 2024 18:55 UTC
-# Version: 2024.1101.1855.18
+# Expires: 1 day
+# Last modified: 03 Nov 2024 10:57 UTC
+# Version: 2024.1103.1057.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1626
+# Number of entries: 1601
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -146,9 +146,7 @@
 0.0.0.0 ausyd2.mask.apple-dns.net
 0.0.0.0 canary.mask.apple-dns.net
 0.0.0.0 deber3.mask.apple-dns.net
-0.0.0.0 dedus1.mask.apple-dns.net
 0.0.0.0 gbslo5.mask.apple-dns.net
-0.0.0.0 iedub2.mask.apple-dns.net
 0.0.0.0 jptyo12.mask.apple-dns.net
 0.0.0.0 nlhfd1.mask.apple-dns.net
 0.0.0.0 sesto4.mask.apple-dns.net
@@ -158,32 +156,12 @@
 0.0.0.0 usmsc2.mask.apple-dns.net
 0.0.0.0 usqas5.mask.apple-dns.net
 0.0.0.0 usuyk1.mask.apple-dns.net
-0.0.0.0 wrr.mask.apple-dns.net
 0.0.0.0 africa-mask.wrr.mask.apple-dns.net
 0.0.0.0 apac-mask.wrr.mask.apple-dns.net
 0.0.0.0 emea-mask.wrr.mask.apple-dns.net
 0.0.0.0 north-america-mask.wrr.mask.apple-dns.net
 0.0.0.0 oceania-mask.wrr.mask.apple-dns.net
 0.0.0.0 south-america-mask.wrr.mask.apple-dns.net
-0.0.0.0 ausyd2.mask-t.apple-dns.net
-0.0.0.0 deber3.mask-t.apple-dns.net
-0.0.0.0 dedus1.mask-t.apple-dns.net
-0.0.0.0 gbslo5.mask-t.apple-dns.net
-0.0.0.0 hktko1.mask-t.apple-dns.net
-0.0.0.0 iedub2.mask-t.apple-dns.net
-0.0.0.0 jptyo12.mask-t.apple-dns.net
-0.0.0.0 nlhfd1.mask-t.apple-dns.net
-0.0.0.0 sesto4.mask-t.apple-dns.net
-0.0.0.0 sgsin8.mask-t.apple-dns.net
-0.0.0.0 twntc1.mask-t.apple-dns.net
-0.0.0.0 usatl5.mask-t.apple-dns.net
-0.0.0.0 usbos2.mask-t.apple-dns.net
-0.0.0.0 uschi7.mask-t.apple-dns.net
-0.0.0.0 usdal2.mask-t.apple-dns.net
-0.0.0.0 usden6.mask-t.apple-dns.net
-0.0.0.0 uslax2.mask-t.apple-dns.net
-0.0.0.0 usmia1.mask-t.apple-dns.net
-0.0.0.0 usuyk1.mask-t.apple-dns.net
 0.0.0.0 dns.applewebkit.dev
 0.0.0.0 doh.applied-privacy.net
 0.0.0.0 dot1.applied-privacy.net
@@ -302,7 +280,6 @@
 0.0.0.0 anycast.censurfridns.dk
 0.0.0.0 deic-lgb.anycast.censurfridns.dk
 0.0.0.0 deic-ore.anycast.censurfridns.dk
-0.0.0.0 kracon.anycast.censurfridns.dk
 0.0.0.0 rgnet-iad.anycast.censurfridns.dk
 0.0.0.0 unicast.censurfridns.dk
 0.0.0.0 dns.cert.ee
@@ -1038,7 +1015,6 @@
 0.0.0.0 muxyuji.ru
 0.0.0.0 www.muxyuji.ru
 0.0.0.0 d.apemlegit.my.id
-0.0.0.0 please.dontsteal.my.id
 0.0.0.0 dns.iki.my.id
 0.0.0.0 dns.lista.my.id
 0.0.0.0 dns.mikrotikrumahan.my.id
@@ -1362,7 +1338,6 @@
 0.0.0.0 o.rsaikat.com
 0.0.0.0 au.rslvr.eu
 0.0.0.0 bg.rslvr.eu
-0.0.0.0 dns.rslvr.eu
 0.0.0.0 hk.rslvr.eu
 0.0.0.0 jp.rslvr.eu
 0.0.0.0 nl.rslvr.eu

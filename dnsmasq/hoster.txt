@@ -3,11 +3,11 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
-# Expires: 7 days
-# Last modified: 01 Nov 2024 18:53 UTC
-# Version: 2024.1101.1853.30
+# Expires: 1 day
+# Last modified: 03 Nov 2024 10:56 UTC
+# Version: 2024.1103.1056.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1832
+# Number of entries: 1831
 #
 local=/000a.de/
 local=/000space.com/
@@ -346,7 +346,6 @@ local=/blogblog.com/
 local=/blogbright.net/
 local=/blogcdn.com/
 local=/blogchaat.com/
-local=/blogcheese.com/
 local=/blogcindario.com/
 local=/blogcn.com/
 local=/blogcu.com/
@@ -656,8 +655,6 @@ local=/comule.com/
 local=/comunidades.net/
 local=/comxa.com/
 local=/cookpad-blog.jp/
-local=/cool.hn/
-local=/cool.lc/
 local=/coolfreepages.com/
 local=/coolpage.biz/
 local=/corolain.ru/
@@ -1248,6 +1245,8 @@ local=/inter.net.il/
 local=/netspace.net.au/
 local=/prima.net.ar/
 local=/vpn.net.br/
+local=/net46.net/
+local=/net63.net/
 local=/netai.net/
 local=/netcipia.com/
 local=/netfast.org/
