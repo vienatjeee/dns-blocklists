@@ -1,5 +1,20 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/4209
+idiagnostics-devices-mdn.apple.com
+idiagnostics-devices-qa.apple.com
+idiagnostics-devices-reno.apple.com
+idiagnostics-ft.apple.com
+idiagnostics-mdn1.apple.com
+idiagnostics-qa.apple.com
+idiagnostics-reno.apple.com
+idiagnostics.apple.com
+idiagnostics.apple.com.akadns.net
+idiagnosticsdevices-mdn1.apple.com
+idiagnosticsnwk.apple.com
+odin-signals.apple.com
+idv-signals-pommery-prod.v.aaplimg.com
+
 # Adblock detection on bild.de and others
 tags.tiqcdn.com
 tags-eu.tiqcdn.com
