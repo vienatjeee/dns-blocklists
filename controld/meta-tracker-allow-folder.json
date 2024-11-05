@@ -8,77 +8,7 @@
   },
   "rules": [
     {
-      "PK": "b-graph-fallback.facebook.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "b-graph.facebook.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "connect.facebook.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "connect.facebook.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "graph-fallback.facebook.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "graph-fallback.instagram.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "graph.facebook.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "graph.fbpigeon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "graph.instagram.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "graph.whatsapp.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "graph.whatsapp.net",
       "action": {
         "do": 0,
         "status": 1
@@ -92,7 +22,7 @@
       }
     },
     {
-      "PK": "star.c10r.facebook.com",
+      "PK": "graph.facebook.com",
       "action": {
         "do": 0,
         "status": 1
@@ -106,7 +36,49 @@
       }
     },
     {
-      "PK": "web.facebook.com",
+      "PK": "graph-fallback.instagram.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "graph.instagram.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "graph.fbpigeon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "graph.whatsapp.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "b-graph-fallback.facebook.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "graph.whatsapp.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "star.c10r.facebook.com",
       "action": {
         "do": 0,
         "status": 1
@@ -116,6 +88,41 @@
       "PK": "z-m-graph.facebook.com",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "connect.facebook.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "b-graph.facebook.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "graph-fallback.facebook.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "web.facebook.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "web-fallback.facebook.com",
+      "action": {
+        "do": 1,
         "status": 1
       }
     }

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1730694660 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1730780640 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Nov 2024 04:31 UTC
-; Version: 2024.1104.0431.28
+; Last modified: 05 Nov 2024 04:24 UTC
+; Version: 2024.1105.0424.58
 ; Syntax: RPZ
-; Number of entries: 7010
+; Number of entries: 7038
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -302,6 +302,8 @@ topvpn.cc CNAME .
 *.topvpn.cc CNAME .
 unblocked2.cc CNAME .
 *.unblocked2.cc CNAME .
+webtester.cc CNAME .
+*.webtester.cc CNAME .
 wirevpn.cc CNAME .
 *.wirevpn.cc CNAME .
 xenergy.cc CNAME .
@@ -662,6 +664,8 @@ antpeak.com CNAME .
 *.antpeak.com CNAME .
 ag.apollohct.com CNAME .
 *.ag.apollohct.com CNAME .
+apple-relay.apple.com CNAME .
+*.apple-relay.apple.com CNAME .
 doh.dns.apple.com CNAME .
 *.doh.dns.apple.com CNAME .
 appleproxy.com CNAME .
@@ -902,6 +906,10 @@ clickwork7secure.com CNAME .
 *.clickwork7secure.com CNAME .
 cloakvpn.com CNAME .
 *.cloakvpn.com CNAME .
+apple-relay.cloudfare.com CNAME .
+*.apple-relay.cloudfare.com CNAME .
+apple-relay.cloudflare.com CNAME .
+*.apple-relay.cloudflare.com CNAME .
 dns.cloudflare.com CNAME .
 *.dns.cloudflare.com CNAME .
 cloudflare-dns.com CNAME .
@@ -1108,6 +1116,8 @@ fastestvpn.com CNAME .
 *.fastestvpn.com CNAME .
 fastfoxvpn.com CNAME .
 *.fastfoxvpn.com CNAME .
+apple-relay.fastly-edge.com CNAME .
+*.apple-relay.fastly-edge.com CNAME .
 fastproxynetwork.com CNAME .
 *.fastproxynetwork.com CNAME .
 fastssh.com CNAME .
@@ -1742,8 +1752,6 @@ vpn.nvidia.com CNAME .
 *.vpn.nvidia.com CNAME .
 qdns02.nymterm.com CNAME .
 *.qdns02.nymterm.com CNAME .
-ha.o51r15.com CNAME .
-*.ha.o51r15.com CNAME .
 octohide.com CNAME .
 *.octohide.com CNAME .
 dns.odinpl.com CNAME .
@@ -1880,6 +1888,8 @@ dot.westus.pi-dns.com CNAME .
 *.dot.westus.pi-dns.com CNAME .
 pingproxy.com CNAME .
 *.pingproxy.com CNAME .
+pirataproxy.com CNAME .
+*.pirataproxy.com CNAME .
 pixelprivacy.com CNAME .
 *.pixelprivacy.com CNAME .
 pixolium.com CNAME .
@@ -2106,6 +2116,8 @@ roogen.com CNAME .
 *.roogen.com CNAME .
 roonyx.com CNAME .
 *.roonyx.com CNAME .
+roxy2link.com CNAME .
+*.roxy2link.com CNAME .
 o.rsaikat.com CNAME .
 *.o.rsaikat.com CNAME .
 rushproxy.com CNAME .
@@ -3786,8 +3798,6 @@ primeproxy23.info CNAME .
 *.primeproxy23.info CNAME .
 agh.printk.info CNAME .
 *.agh.printk.info CNAME .
-prointern.info CNAME .
-*.prointern.info CNAME .
 prontoproxy.info CNAME .
 *.prontoproxy.info CNAME .
 propage.info CNAME .
@@ -4464,6 +4474,8 @@ affcdn.net CNAME .
 *.affcdn.net CNAME .
 ahadns.net CNAME .
 *.ahadns.net CNAME .
+apple-relay.akamaized.net CNAME .
+*.apple-relay.akamaized.net CNAME .
 akunssh.net CNAME .
 *.akunssh.net CNAME .
 dns.alekberg.net CNAME .
@@ -5582,8 +5594,12 @@ dontblockme.org CNAME .
 *.dontblockme.org CNAME .
 ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
+home27.duckdns.org CNAME .
+*.home27.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
+krtekvpn.duckdns.org CNAME .
+*.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
@@ -5630,6 +5646,8 @@ freevpn.org CNAME .
 *.freevpn.org CNAME .
 freevpnapp.org CNAME .
 *.freevpnapp.org CNAME .
+adguard.gambini.org CNAME .
+*.adguard.gambini.org CNAME .
 gatcha.org CNAME .
 *.gatcha.org CNAME .
 getfoxyproxy.org CNAME .
@@ -6878,6 +6896,8 @@ doh.abraservice.xyz CNAME .
 *.doh.abraservice.xyz CNAME .
 dns.albony.xyz CNAME .
 *.dns.albony.xyz CNAME .
+alphabrowser.xyz CNAME .
+*.alphabrowser.xyz CNAME .
 aluu.xyz CNAME .
 *.aluu.xyz CNAME .
 dns.andrewnw.xyz CNAME .
@@ -6898,6 +6918,8 @@ hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
 fra1.eyecay.xyz CNAME .
 *.fra1.eyecay.xyz CNAME .
+free-kree-k.xyz CNAME .
+*.free-kree-k.xyz CNAME .
 free-proxy.xyz CNAME .
 *.free-proxy.xyz CNAME .
 free-vpn.xyz CNAME .
@@ -6940,6 +6962,12 @@ dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 *.dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 mikezhang.xyz CNAME .
 *.mikezhang.xyz CNAME .
+mochiss.xyz CNAME .
+*.mochiss.xyz CNAME .
+mochiss2.xyz CNAME .
+*.mochiss2.xyz CNAME .
+mochiss3.xyz CNAME .
+*.mochiss3.xyz CNAME .
 ninjaweb.xyz CNAME .
 *.ninjaweb.xyz CNAME .
 dns.nixnet.xyz CNAME .

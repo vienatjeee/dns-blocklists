@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Nov 2024 04:28 UTC
-# Version: 2024.1104.0428.24
+# Last modified: 05 Nov 2024 04:21 UTC
+# Version: 2024.1105.0421.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1830
+# Number of entries: 1829
 #
 local=/000a.de/
 local=/000space.com/
@@ -674,6 +674,7 @@ local=/cyberfight.de/
 local=/cz.gp/
 local=/czweb.org/
 local=/d.gp/
+local=/d3.ru/
 local=/d3l.de/
 local=/da.cx/
 local=/da.ru/
@@ -1244,7 +1245,6 @@ local=/inter.net.il/
 local=/netspace.net.au/
 local=/prima.net.ar/
 local=/vpn.net.br/
-local=/net46.net/
 local=/net63.net/
 local=/netai.net/
 local=/netcipia.com/
@@ -1421,7 +1421,6 @@ local=/sa.gp/
 local=/safe-ws.de/
 local=/sblog.cz/
 local=/schmust.de/
-local=/schoolrack.com/
 local=/schulserver.de/
 local=/scienceontheweb.net/
 local=/se.gp/

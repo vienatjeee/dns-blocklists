@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1730694420 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1730780400 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Nov 2024 04:27 UTC
-; Version: 2024.1104.0427.00
+; Last modified: 05 Nov 2024 04:20 UTC
+; Version: 2024.1105.0420.33
 ; Syntax: RPZ
-; Number of entries: 19944
+; Number of entries: 19902
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -435,8 +435,6 @@ enjoy.net.bd CNAME .
 *.enjoy.net.bd CNAME .
 greenbytes.net.bd CNAME .
 *.greenbytes.net.bd CNAME .
-ibds.net.bd CNAME .
-*.ibds.net.bd CNAME .
 movie.idsbangladesh.net.bd CNAME .
 *.movie.idsbangladesh.net.bd CNAME .
 ismart.net.bd CNAME .
@@ -817,8 +815,6 @@ guardaserie.boo CNAME .
 *.guardaserie.boo CNAME .
 ilgeniodellostreaming.boo CNAME .
 *.ilgeniodellostreaming.boo CNAME .
-streamingcommunity.boo CNAME .
-*.streamingcommunity.boo CNAME .
 altadefinizione01.boutique CNAME .
 *.altadefinizione01.boutique CNAME .
 streamingcommunity.boutique CNAME .
@@ -879,8 +875,6 @@ unblockit.buzz CNAME .
 *.unblockit.buzz CNAME .
 jsb.by CNAME .
 *.jsb.by CNAME .
-retracker.mgts.by CNAME .
-*.retracker.mgts.by CNAME .
 yahor.of.by CNAME .
 *.yahor.of.by CNAME .
 prosmart.by CNAME .
@@ -1467,8 +1461,6 @@ popcorn-time.ch CNAME .
 *.popcorn-time.ch CNAME .
 publictracker.ch CNAME .
 *.publictracker.ch CNAME .
-putlocker5movies.ch CNAME .
-*.putlocker5movies.ch CNAME .
 redacted.ch CNAME .
 *.redacted.ch CNAME .
 streamingdivx.ch CNAME .
@@ -5337,8 +5329,6 @@ gits.no-jutsu.com CNAME .
 *.gits.no-jutsu.com CNAME .
 no-pasaran.com CNAME .
 *.no-pasaran.com CNAME .
-nod321.com CNAME .
-*.nod321.com CNAME .
 nod32sky.com CNAME .
 *.nod32sky.com CNAME .
 noobdownload.com CNAME .
@@ -5881,8 +5871,6 @@ rekza.com CNAME .
 *.rekza.com CNAME .
 renrencili.com CNAME .
 *.renrencili.com CNAME .
-requestcracks.com CNAME .
-*.requestcracks.com CNAME .
 reqzone.com CNAME .
 *.reqzone.com CNAME .
 torrent.resonatingmedia.com CNAME .
@@ -6073,20 +6061,14 @@ shanaproject.com CNAME .
 *.shanaproject.com CNAME .
 share2downloads.com CNAME .
 *.share2downloads.com CNAME .
-shareadictos.com CNAME .
-*.shareadictos.com CNAME .
 shareappscrack.com CNAME .
 *.shareappscrack.com CNAME .
-sharecsk.com CNAME .
-*.sharecsk.com CNAME .
 sharedtutor.com CNAME .
 *.sharedtutor.com CNAME .
 sharefilles.com CNAME .
 *.sharefilles.com CNAME .
 sharegroundz.com CNAME .
 *.sharegroundz.com CNAME .
-sharetrick.com CNAME .
-*.sharetrick.com CNAME .
 sharetv.com CNAME .
 *.sharetv.com CNAME .
 sharingcode.com CNAME .
@@ -6137,8 +6119,6 @@ skidrowcodexgames.com CNAME .
 *.skidrowcodexgames.com CNAME .
 skidrowcrack.com CNAME .
 *.skidrowcrack.com CNAME .
-skidrowkey.com CNAME .
-*.skidrowkey.com CNAME .
 skidrowreloaded.com CNAME .
 *.skidrowreloaded.com CNAME .
 skidrowrepack.com CNAME .
@@ -7881,8 +7861,6 @@ thepiratebayproxy.pages.dev CNAME .
 *.thepiratebayproxy.pages.dev CNAME .
 valhallastream.pages.dev CNAME .
 *.valhallastream.pages.dev CNAME .
-www-soap2day.pages.dev CNAME .
-*.www-soap2day.pages.dev CNAME .
 xpwatch-v2.pages.dev CNAME .
 *.xpwatch-v2.pages.dev CNAME .
 serien.dev CNAME .
@@ -9267,8 +9245,6 @@ putlockertv.info CNAME .
 *.putlockertv.info CNAME .
 repack.info CNAME .
 *.repack.info CNAME .
-restricted-stresser.info CNAME .
-*.restricted-stresser.info CNAME .
 roarzone.info CNAME .
 *.roarzone.info CNAME .
 rustorrents.info CNAME .
@@ -10001,8 +9977,6 @@ mp3.li CNAME .
 *.mp3.li CNAME .
 pahe.li CNAME .
 *.pahe.li CNAME .
-primewire.li CNAME .
-*.primewire.li CNAME .
 torrent411.li CNAME .
 *.torrent411.li CNAME .
 torrentdb.li CNAME .
@@ -12407,10 +12381,6 @@ nitroflare.net CNAME .
 *.nitroflare.net CNAME .
 504e163a.host.njalla.net CNAME .
 *.504e163a.host.njalla.net CNAME .
-noobftp1.noobsubs.net CNAME .
-*.noobftp1.noobsubs.net CNAME .
-tracker.noobsubs.net CNAME .
-*.tracker.noobsubs.net CNAME .
 not-quite-right.net CNAME .
 *.not-quite-right.net CNAME .
 novamovie.net CNAME .
@@ -14729,8 +14699,6 @@ proxifiedpiratebay.org CNAME .
 *.proxifiedpiratebay.org CNAME .
 proxyrarbg.org CNAME .
 *.proxyrarbg.org CNAME .
-proxythepiratebay.org CNAME .
-*.proxythepiratebay.org CNAME .
 pstream.org CNAME .
 *.pstream.org CNAME .
 psynews.org CNAME .
@@ -16051,8 +16019,6 @@ rds-zone.ro CNAME .
 *.rds-zone.ro CNAME .
 rotorrent.ro CNAME .
 *.rotorrent.ro CNAME .
-tracker.seedfile.ro CNAME .
-*.tracker.seedfile.ro CNAME .
 tracker.sharereactor.ro CNAME .
 *.tracker.sharereactor.ro CNAME .
 starshare.ro CNAME .
@@ -17009,8 +16975,6 @@ gabber.space CNAME .
 *.gabber.space CNAME .
 kinox.space CNAME .
 *.kinox.space CNAME .
-moviesmod.space CNAME .
-*.moviesmod.space CNAME .
 mrunlock.space CNAME .
 *.mrunlock.space CNAME .
 tracker.ololosh.space CNAME .
@@ -19739,8 +19703,6 @@ mamahd.xyz CNAME .
 *.mamahd.xyz CNAME .
 maxseries.xyz CNAME .
 *.maxseries.xyz CNAME .
-megacam.xyz CNAME .
-*.megacam.xyz CNAME .
 tracker.merded.xyz CNAME .
 *.tracker.merded.xyz CNAME .
 moviefreak.xyz CNAME .
@@ -19761,8 +19723,6 @@ nsw2u.xyz CNAME .
 *.nsw2u.xyz CNAME .
 nzbgrabit.xyz CNAME .
 *.nzbgrabit.xyz CNAME .
-p4pirate.xyz CNAME .
-*.p4pirate.xyz CNAME .
 piraat.xyz CNAME .
 *.piraat.xyz CNAME .
 pirateaccess.xyz CNAME .
@@ -19823,8 +19783,6 @@ streammaster.xyz CNAME .
 *.streammaster.xyz CNAME .
 streamonsport28.xyz CNAME .
 *.streamonsport28.xyz CNAME .
-streamwoop.xyz CNAME .
-*.streamwoop.xyz CNAME .
 superlinkbd.xyz CNAME .
 *.superlinkbd.xyz CNAME .
 katcr.t0r.xyz CNAME .

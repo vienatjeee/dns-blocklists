@@ -4,6 +4,13 @@ arc.msn.com
 # CNAME
 arc.trafficmanager.net
 
+# Microsoft 365 and Office: Blocking this domain could disrupt the ability to save documents to the cloud 
+# or access recently used files and might hinder the performance of these Office applications.​
+# Also used for telemetry.
+self.events.data.microsoft.com
+# CNAME
+self-events-data.trafficmanager.net
+
 # XBox Live Achievements
 # Microsoft uses the following domains, which are also used for other telemetry data, to display and track earned Xbox Achievements.
 v10.events.data.microsoft.com
