@@ -739,10 +739,7 @@ The repository is occasionally compressed (reinitialised) to reduce the overall 
 
 #### :cyclone: Referral Domains <a name="referral"></a>
 
-Affiliate and tracking links (referral domains) that appear frequently on offer web pages like Slickdeals, in emails or in search results are allowed in my lists. These are mostly called only after manually clicking on a link and are not used to display advertising.
-If these are blocked, the first hit links from search results, for example, no longer work. Furthermore, some of these domains are also used to unsubscribe from newsletters.
-
-See also: [Why are referral domains (affiliate and tracking links) not blocked in the lists?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#referral)
+[Why are referral domains (affiliate and tracking links) not blocked in the lists?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#referral)
 
 #### :dizzy: Support Me <a name="support"></a>
 
