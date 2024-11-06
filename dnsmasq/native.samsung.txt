@@ -3,11 +3,11 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
-# Expires: 7 days
-# Last modified: 30 Oct 2024 18:41 UTC
-# Version: 2024.1030.1841.02
+# Expires: 1 day
+# Last modified: 06 Nov 2024 05:23 UTC
+# Version: 2024.1106.0523.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 191
+# Number of entries: 190
 #
 local=/samsung-com.112.2o7.net/
 local=/metric.account-samsung.com/
@@ -99,7 +99,6 @@ local=/lp.americas.business.samsung.com/
 local=/tracking.americas.business.samsung.com/
 local=/lp.apac.business.samsung.com/
 local=/tracking.apac.business.samsung.com/
-local=/eu.business.samsung.com/
 local=/lp.europe.business.samsung.com/
 local=/tracking.europe.business.samsung.com/
 local=/seao.business.samsung.com/
