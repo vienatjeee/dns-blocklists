@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Nov 2024 04:23 UTC
-# Version: 2024.1105.0423.49
+# Last modified: 06 Nov 2024 04:12 UTC
+# Version: 2024.1106.0412.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1423
+# Number of entries: 1422
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -39,7 +39,6 @@ local=/alidns.51top.info/
 local=/dns.52306.org/
 local=/family.5ososea.com/
 local=/kids.5ososea.com/
-local=/jp.68360612.xyz/
 local=/dns.688447.xyz/
 local=/dns.7vpn.com/
 local=/dns.886886886.xyz/
