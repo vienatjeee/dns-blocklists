@@ -204,27 +204,6 @@
       }
     },
     {
-      "PK": "ams-euno-1-bus-analytics-1-1.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ams-usea-1-bus-analytics-1-1.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ams-usso-1-bus-analytics-1-1.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "analytics-dev-lleap-events.servicebus.windows.net",
       "action": {
         "do": 0,
@@ -2018,13 +1997,6 @@
     },
     {
       "PK": "spynetalt.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sre-metrics-thanos-prod.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
