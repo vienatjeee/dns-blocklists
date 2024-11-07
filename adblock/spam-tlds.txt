@@ -9,8 +9,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 06 Nov 2024 04:59 UTC
-! Version: 2024.1106.0459.19
+! Last modified: 07 Nov 2024 15:18 UTC
+! Version: 2024.1107.1518.26
 ! Syntax: AdGuard
 ! Number of latin TLDs: 210 - punycode TLDs: 151
 !
@@ -214,7 +214,7 @@
 ||*.webcam^
 ||*.website^$denyallow=acro.website|bestmotherfucking.website|eddie.website|thatsup.website|tilde.website
 ||*.wedding^
-||*.wiki^$denyallow=bg3.wiki|burnout.wiki|datei.wiki|debrid.wiki|fallout.wiki|getindie.wiki|hollowknight.wiki|kodi.wiki|kometa.wiki|manson.wiki|mediaclients.wiki|minecraft.wiki|modding.wiki|namu.wiki|nixos.wiki|notifiarr.wiki|osrs.wiki|rs.wiki|runescape.wiki|thehomelab.wiki|usermanual.wiki|w.wiki|zeppelin.wiki
+||*.wiki^$denyallow=bg3.wiki|burnout.wiki|datei.wiki|debrid.wiki|fallout.wiki|getindie.wiki|hollowknight.wiki|kodi.wiki|kometa.wiki|manson.wiki|mediaclients.wiki|minecraft.wiki|modding.wiki|namu.wiki|nixos.wiki|notifiarr.wiki|osrs.wiki|rs.wiki|runescape.wiki|tajrobe.wiki|thehomelab.wiki|usermanual.wiki|w.wiki|zeppelin.wiki
 ||*.win^$denyallow=activated.win
 ||*.wine^$denyallow=nostr.wine
 ||*.work^$denyallow=elphago.work|frame.work|koding.work|searx.work
