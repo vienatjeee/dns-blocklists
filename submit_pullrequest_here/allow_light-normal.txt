@@ -1,5 +1,8 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/4245
+callrail.com
+
 # https://github.com/hagezi/dns-blocklists/issues/3573
 heartbeats.prd.data.s.joyn.de
 # https://github.com/AdguardTeam/AdguardFilters/issues/183277

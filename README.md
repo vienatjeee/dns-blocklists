@@ -32,7 +32,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 18. [NSFW (external)](https://oisd.nl/setup) - oisd NSFW - Protects against adult content!
 19. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
 20. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
-21. [Recommendation](#recommendation) - [Which version of the lists should I use?](#whatshouldiuse)
+21. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
 22. [Online DNS Services](#dnsservices)
 23. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
 24. [Statistics](statistics.md) - [Sources](sources.md)
