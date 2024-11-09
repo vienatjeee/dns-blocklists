@@ -1,5 +1,10 @@
 # Domains to be added to the threat intelligence feeds list.
 
+# Various phishing domains from emails I have received, all appear to redirect to formally-up.com...
+38imounzh6.blob.core.windows.net
+um6f0ru069.blob.core.windows.net
+vujpo85d1g.blob.core.windows.net
+
 # https://github.com/hagezi/dns-blocklists/issues/4009
 # https://github.com/rustdesk/rustdesk/discussions/9679
 rustdesk.co.nz
