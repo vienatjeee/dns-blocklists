@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731047460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1731110100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Nov 2024 06:31 UTC
-; Version: 2024.1108.0631.13
+; Last modified: 08 Nov 2024 23:55 UTC
+; Version: 2024.1108.2355.17
 ; Syntax: RPZ
-; Number of entries: 25250
+; Number of entries: 25234
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -421,8 +421,6 @@ lkw-mieten-wien.at CNAME .
 *.lkw-mieten-wien.at CNAME .
 lloydschuhe.at CNAME .
 *.lloydschuhe.at CNAME .
-longchamposterreich.at CNAME .
-*.longchamposterreich.at CNAME .
 loungeunderwear.at CNAME .
 *.loungeunderwear.at CNAME .
 lowa-osterreich.at CNAME .
@@ -4753,8 +4751,6 @@ edrxmeds.com CNAME .
 *.edrxmeds.com CNAME .
 eesasinternationalbv.com CNAME .
 *.eesasinternationalbv.com CNAME .
-efarm-gmbh.com CNAME .
-*.efarm-gmbh.com CNAME .
 efaststore.com CNAME .
 *.efaststore.com CNAME .
 effectualfashion.com CNAME .
@@ -10643,12 +10639,8 @@ plusforski.com CNAME .
 *.plusforski.com CNAME .
 plusmotofield.com CNAME .
 *.plusmotofield.com CNAME .
-plusornaments.com CNAME .
-*.plusornaments.com CNAME .
 plussizescurve.com CNAME .
 *.plussizescurve.com CNAME .
-plusuniquesite.com CNAME .
-*.plusuniquesite.com CNAME .
 plususfurniture.com CNAME .
 *.plususfurniture.com CNAME .
 pmfootballs.com CNAME .
@@ -12117,8 +12109,6 @@ showblanketsonline.com CNAME .
 *.showblanketsonline.com CNAME .
 showerheadmr.com CNAME .
 *.showerheadmr.com CNAME .
-showerroomover.com CNAME .
-*.showerroomover.com CNAME .
 showerroomvitra.com CNAME .
 *.showerroomvitra.com CNAME .
 shuttleockstore.com CNAME .
@@ -13737,8 +13727,6 @@ traderxp.com CNAME .
 *.traderxp.com CNAME .
 tradesparkle.com CNAME .
 *.tradesparkle.com CNAME .
-tradeusvogue.com CNAME .
-*.tradeusvogue.com CNAME .
 tradeviewforex.com CNAME .
 *.tradeviewforex.com CNAME .
 tradewomenshoe.com CNAME .
@@ -13811,8 +13799,6 @@ trendyvase.com CNAME .
 *.trendyvase.com CNAME .
 trendyvogue.com CNAME .
 *.trendyvogue.com CNAME .
-trendywaren.com CNAME .
-*.trendywaren.com CNAME .
 trennschleiferde.com CNAME .
 *.trennschleiferde.com CNAME .
 tretpedal.com CNAME .
@@ -14147,8 +14133,6 @@ usclothesheaven.com CNAME .
 *.usclothesheaven.com CNAME .
 uscomfortcraze.com CNAME .
 *.uscomfortcraze.com CNAME .
-uscyclingsupplies.com CNAME .
-*.uscyclingsupplies.com CNAME .
 usdoggiedelight.com CNAME .
 *.usdoggiedelight.com CNAME .
 usfairwayfinesse.com CNAME .
@@ -15113,8 +15097,6 @@ german.zeelool.com CNAME .
 *.german.zeelool.com CNAME .
 zefreya.com CNAME .
 *.zefreya.com CNAME .
-zeltereisen.com CNAME .
-*.zeltereisen.com CNAME .
 zeltslaw.com CNAME .
 *.zeltslaw.com CNAME .
 zentempel.com CNAME .
@@ -25085,6 +25067,8 @@ marcjacobsfactoryoutlet.us CNAME .
 *.marcjacobsfactoryoutlet.us CNAME .
 nikeairvapormax.us CNAME .
 *.nikeairvapormax.us CNAME .
+raybansales.us CNAME .
+*.raybansales.us CNAME .
 roujeusa.us CNAME .
 *.roujeusa.us CNAME .
 track718.us CNAME .
