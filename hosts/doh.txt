@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Nov 2024 23:05 UTC
-# Version: 2024.1108.2305.11
+# Last modified: 10 Nov 2024 04:18 UTC
+# Version: 2024.1110.0418.09
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1598
+# Number of entries: 1594
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -774,7 +774,6 @@
 0.0.0.0 pihole4.hoerli.net
 0.0.0.0 home-server.store
 0.0.0.0 dns.hoody.com
-0.0.0.0 keithchung.hopto.org
 0.0.0.0 dns.horcrux.vip
 0.0.0.0 dns.internal.hosmatic.com
 0.0.0.0 dns.hostux.net
@@ -1197,7 +1196,6 @@
 0.0.0.0 dns.oryxlabs.com
 0.0.0.0 dns.oszx.co
 0.0.0.0 dns.ours.luxe
-0.0.0.0 dns.ourvau.lt
 0.0.0.0 dns.ovpn.bond
 0.0.0.0 1a.ns.ozer.im
 0.0.0.0 dns.paesa.es
@@ -1314,7 +1312,6 @@
 0.0.0.0 rayneau.fr
 0.0.0.0 dns.rbn.gr
 0.0.0.0 dns.reckoningslug.name
-0.0.0.0 dns.redvau.lt
 0.0.0.0 dns.reitmeier.me
 0.0.0.0 dns.renardyre.com
 0.0.0.0 dns.repinger.com
@@ -1601,7 +1598,6 @@
 0.0.0.0 www.zburger.top
 0.0.0.0 zdn.ro
 0.0.0.0 dns.zemows.industries
-0.0.0.0 doh.zephyrus.id
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 dns.zfsystem.tech
 0.0.0.0 doh.zknt.org

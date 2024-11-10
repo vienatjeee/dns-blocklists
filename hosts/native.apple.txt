@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Nov 2024 05:05 UTC
-# Version: 2024.1106.0505.19
+# Last modified: 10 Nov 2024 03:11 UTC
+# Version: 2024.1110.0311.15
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 326
+# Number of entries: 324
 #
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -285,7 +285,6 @@
 0.0.0.0 internalcheck.apple.com
 0.0.0.0 iphonesubmissions.apple.com
 0.0.0.0 iphonesubmissions-old.apple.com
-0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 partiality.itunes.apple.com
 0.0.0.0 launch.apple.com
 0.0.0.0 metrics.apple.com
@@ -322,7 +321,6 @@
 0.0.0.0 cdn-xp-ingest.edge.apple
 0.0.0.0 experiments.apple.com.edgekey.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
-0.0.0.0 linkmaker.itunes.apple.com.edgekey.net
 0.0.0.0 partiality.itunes.apple.com.edgekey.net
 0.0.0.0 xp.apple.com.edgekey.net
 0.0.0.0 cstat.apple.com.edgesuite.net
