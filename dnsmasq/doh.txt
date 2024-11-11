@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Nov 2024 04:18 UTC
-# Version: 2024.1110.0418.09
+# Last modified: 11 Nov 2024 04:14 UTC
+# Version: 2024.1111.0414.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1417
+# Number of entries: 1416
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -646,6 +646,7 @@ local=/pihole3.hoerli.net/
 local=/pihole4.hoerli.net/
 local=/home-server.store/
 local=/dns.hoody.com/
+local=/keithchung.hopto.org/
 local=/dns.horcrux.vip/
 local=/dns.internal.hosmatic.com/
 local=/dns.hostux.net/
@@ -738,7 +739,6 @@ local=/dns.kebree.fr/
 local=/dns.keke125.com/
 local=/doh.kekew.info/
 local=/doh.kel.pe/
-local=/chr.kepegawaiandju.id/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/
 local=/dns.kescher.at/
@@ -1142,7 +1142,6 @@ local=/lion.dns.qwer.pw/
 local=/tiger.dns.qwer.pw/
 local=/resolver.r0cket.net/
 local=/r1bnc.com/
-local=/resolve2.r9x.cc/
 local=/dns.rabbitdns.org/
 local=/family.rabbitdns.org/
 local=/security.rabbitdns.org/

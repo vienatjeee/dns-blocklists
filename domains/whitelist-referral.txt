@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Nov 2024 22:33 UTC
-# Version: 2024.1108.2233.10
+# Last modified: 10 Nov 2024 23:47 UTC
+# Version: 2024.1110.2347.55
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2101
+# Number of entries: 2105
 #
 l.1mp.ru
 t.1und1.de
@@ -131,6 +131,8 @@ app.link
 prism.app-us1.com
 click.appcast.io
 c.apple.com
+autolinkmaker.itunes.apple.com
+geo.itunes.apple.com
 app.appsflyer.com
 customlinks.appsflyer.com
 engagements.appsflyer.com
@@ -165,6 +167,8 @@ bnc.lt
 tracking.bol.com
 clk.boulanger.com
 eulerian.brandalley.fr
+referrals.brave.com
+referrals.bravesoftware.com
 cdn.braze.eu
 buff.ly
 cts.businesswire.com
@@ -1039,7 +1043,6 @@ mkto-a0095.com
 mkto-a0236.com
 mkto-a0253.com
 mkto-a0324.com
-mkto-a0342.com
 mkto-ab010012.com
 mkto-ab010044.com
 mkto-ab010088.com
@@ -1058,6 +1061,7 @@ mkto-ab030084.com
 mkto-ab030167.com
 mkto-ab030222.com
 mkto-ab030250.com
+mkto-ab040086.com
 mkto-ab040112.com
 mkto-ab040115.com
 mkto-ab040147.com
@@ -1368,7 +1372,6 @@ mkto-abc0196.com
 mkto-abc0203.com
 mkto-abd0206.com
 mkto-abd0218.com
-mkto-abd0224.com
 mkto-abj0022.com
 mkto-abj0025.com
 mkto-abk0224.com
@@ -1416,6 +1419,7 @@ mkto-h0163.com
 mkto-i0028.com
 mkto-i0106.com
 mkto-i0141.com
+mkto-i0165.com
 mkto-i0201.com
 mkto-i0206.com
 mkto-j0020.com

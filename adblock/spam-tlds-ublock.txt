@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 Nov 2024 04:20 UTC
-! Version: 2024.1110.0420.36
+! Last modified: 11 Nov 2024 04:16 UTC
+! Version: 2024.1111.0416.59
 ! Syntax: uBlock
 ! Number of latin TLDs: 210 - non-latin TLDs: 151
 !
@@ -160,7 +160,7 @@
 ||post^$doc
 ||prof^$doc,domain=~casey.prof
 ||promo^$doc
-||pub^$doc
+||pub^$doc,domain=~infosec.pub
 ||quest^$doc,domain=~dice.quest|~epochal.quest|~mhn.quest|~mylegendary.quest|~prometheus.quest|~raccoon.quest|~squash.quest
 ||realtor^$doc
 ||recipes^$doc

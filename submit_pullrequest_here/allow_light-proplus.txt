@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# AdBlock-Detection on various sites, e.g. https://www.parcello.org/
+cdns.symplr.de
+
 # https://github.com/hagezi/dns-blocklists/issues/4209
 idiagnostics-devices-mdn.apple.com
 idiagnostics-devices-qa.apple.com
@@ -24,9 +27,13 @@ ast.bild.de
 ast.bild.de.greylabeldelivery.com
 
 # https://github.com/hagezi/dns-blocklists/issues/3610
-cstat.cdn-apple.com
 cstat-lb.apple.com.akadns.net
+cstat-origin.apple.com
+cstat.apple.com
+cstat.apple.com.edgesuite.net
+cstat.cdn-apple.com
 cstat.g.aaplimg.com
+cstat.g.apple.com
 
 # https://github.com/hagezi/dns-blocklists/issues/3599
 px-conf.perimeterx.net

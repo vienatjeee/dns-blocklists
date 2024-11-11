@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 Nov 2024 04:18 UTC
-! Version: 2024.1110.0418.09
+! Last modified: 11 Nov 2024 04:14 UTC
+! Version: 2024.1111.0414.34
 ! Syntax: AdBlock
-! Number of entries: 1417
+! Number of entries: 1416
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -647,6 +647,7 @@
 ||pihole4.hoerli.net^
 ||home-server.store^
 ||dns.hoody.com^
+||keithchung.hopto.org^
 ||dns.horcrux.vip^
 ||dns.internal.hosmatic.com^
 ||dns.hostux.net^
@@ -739,7 +740,6 @@
 ||dns.keke125.com^
 ||doh.kekew.info^
 ||doh.kel.pe^
-||chr.kepegawaiandju.id^
 ||dns.kerekes.xyz^
 ||dns.kernel-error.de^
 ||dns.kescher.at^
@@ -1143,7 +1143,6 @@
 ||tiger.dns.qwer.pw^
 ||resolver.r0cket.net^
 ||r1bnc.com^
-||resolve2.r9x.cc^
 ||dns.rabbitdns.org^
 ||family.rabbitdns.org^
 ||security.rabbitdns.org^
