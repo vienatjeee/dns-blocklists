@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731298500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1731384420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Nov 2024 04:15 UTC
-; Version: 2024.1111.0415.43
+; Last modified: 12 Nov 2024 04:07 UTC
+; Version: 2024.1112.0407.57
 ; Syntax: RPZ
-; Number of entries: 7020
+; Number of entries: 7010
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -502,6 +502,8 @@ vpnmaster.co CNAME .
 *.vpnmaster.co CNAME .
 dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
+proxycdn.college CNAME .
+*.proxycdn.college CNAME .
 123ddl.com CNAME .
 *.123ddl.com CNAME .
 123goproxy.com CNAME .
@@ -1322,8 +1324,6 @@ adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
 dns.hannielzhang.com CNAME .
 *.dns.hannielzhang.com CNAME .
-happy-vpn.com CNAME .
-*.happy-vpn.com CNAME .
 resolver-eu.haringstad.com CNAME .
 *.resolver-eu.haringstad.com CNAME .
 headproxy.com CNAME .
@@ -1602,8 +1602,6 @@ mallocapp.com CNAME .
 *.mallocapp.com CNAME .
 mallocprivacy.com CNAME .
 *.mallocprivacy.com CNAME .
-market-id-auto.com CNAME .
-*.market-id-auto.com CNAME .
 doh.maskab.com CNAME .
 *.doh.maskab.com CNAME .
 maskedip.com CNAME .
@@ -3566,6 +3564,8 @@ dns.engineer.web.id CNAME .
 *.dns.engineer.web.id CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
+doh.zephyrus.id CNAME .
+*.doh.zephyrus.id CNAME .
 doh.iucc.ac.il CNAME .
 *.doh.iucc.ac.il CNAME .
 ag.hostme.co.il CNAME .
@@ -3652,16 +3652,12 @@ anonymousblog.info CNAME .
 *.anonymousblog.info CNAME .
 anonymousvpn.info CNAME .
 *.anonymousvpn.info CNAME .
-atomicstudios.info CNAME .
-*.atomicstudios.info CNAME .
 avoidance.info CNAME .
 *.avoidance.info CNAME .
 bestvpnprovider.info CNAME .
 *.bestvpnprovider.info CNAME .
 bestyoutubeproxy.info CNAME .
 *.bestyoutubeproxy.info CNAME .
-biip.info CNAME .
-*.biip.info CNAME .
 brazilproxy.info CNAME .
 *.brazilproxy.info CNAME .
 caproxies.info CNAME .
@@ -3744,8 +3740,6 @@ lalal.info CNAME .
 *.lalal.info CNAME .
 legalweb.info CNAME .
 *.legalweb.info CNAME .
-literally.info CNAME .
-*.literally.info CNAME .
 lurk.info CNAME .
 *.lurk.info CNAME .
 mailproxy.info CNAME .
@@ -3808,8 +3802,6 @@ proxyelite.info CNAME .
 *.proxyelite.info CNAME .
 proxygogo.info CNAME .
 *.proxygogo.info CNAME .
-proxyprivate.info CNAME .
-*.proxyprivate.info CNAME .
 proxysan.info CNAME .
 *.proxysan.info CNAME .
 redproxy.info CNAME .
@@ -3868,8 +3860,6 @@ vpneasy.info CNAME .
 *.vpneasy.info CNAME .
 vpnfree.info CNAME .
 *.vpnfree.info CNAME .
-webypass.info CNAME .
-*.webypass.info CNAME .
 wildproxy.info CNAME .
 *.wildproxy.info CNAME .
 ylink.info CNAME .
@@ -4086,6 +4076,8 @@ surfshark.jp CNAME .
 *.surfshark.jp CNAME .
 vpngate2.jp CNAME .
 *.vpngate2.jp CNAME .
+xn--28jub1g.jp CNAME .
+*.xn--28jub1g.jp CNAME .
 dns.cctld.kg CNAME .
 *.dns.cctld.kg CNAME .
 ns.net.kg CNAME .
@@ -4182,6 +4174,10 @@ o1.lt CNAME .
 *.o1.lt CNAME .
 onion.lt CNAME .
 *.onion.lt CNAME .
+dns.ourvau.lt CNAME .
+*.dns.ourvau.lt CNAME .
+dns.redvau.lt CNAME .
+*.dns.redvau.lt CNAME .
 sink.nolo.ltd CNAME .
 *.sink.nolo.ltd CNAME .
 unblockit.ltd CNAME .
@@ -5104,8 +5100,6 @@ proxii.net CNAME .
 *.proxii.net CNAME .
 proxite.net CNAME .
 *.proxite.net CNAME .
-proxy-deal.net CNAME .
-*.proxy-deal.net CNAME .
 proxy-hypo.net CNAME .
 *.proxy-hypo.net CNAME .
 proxy-site.net CNAME .
@@ -6382,8 +6376,6 @@ proxyunblock.site CNAME .
 *.proxyunblock.site CNAME .
 rabbithole.site CNAME .
 *.rabbithole.site CNAME .
-starrynight.site CNAME .
-*.starrynight.site CNAME .
 tecdrive.site CNAME .
 *.tecdrive.site CNAME .
 unblock2.site CNAME .
@@ -6444,6 +6436,8 @@ proxy.sx CNAME .
 *.proxy.sx CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
+easyproxy.tech CNAME .
+*.easyproxy.tech CNAME .
 hanniel.tech CNAME .
 *.hanniel.tech CNAME .
 mathlearning.tech CNAME .
@@ -6506,8 +6500,6 @@ glacius.top CNAME .
 *.glacius.top CNAME .
 imperio.top CNAME .
 *.imperio.top CNAME .
-diy.itsa.top CNAME .
-*.diy.itsa.top CNAME .
 adguard.johanliebert.top CNAME .
 *.adguard.johanliebert.top CNAME .
 blog.kimiblock.top CNAME .
@@ -6758,8 +6750,6 @@ unblockproxy.us CNAME .
 *.unblockproxy.us CNAME .
 unblockwebsites.us CNAME .
 *.unblockwebsites.us CNAME .
-untraceable.us CNAME .
-*.untraceable.us CNAME .
 videocollage.us CNAME .
 *.videocollage.us CNAME .
 waitfree.us CNAME .

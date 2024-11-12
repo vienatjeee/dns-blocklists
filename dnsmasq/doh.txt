@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Nov 2024 04:14 UTC
-# Version: 2024.1111.0414.34
+# Last modified: 12 Nov 2024 04:06 UTC
+# Version: 2024.1112.0406.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1416
+# Number of entries: 1418
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -701,7 +701,6 @@ local=/dns1.irumatech.com/
 local=/dns.is0mino.com/
 local=/dns.ishan.pw/
 local=/dns.islandnet.com/
-local=/diy.itsa.top/
 local=/pdns.itxe.net/
 local=/ivnkn.xyz/
 local=/jabber-germany.de/
@@ -1040,6 +1039,7 @@ local=/dns.us-phoenix-1.oraclecloud.com/
 local=/dns.oryxlabs.com/
 local=/dns.oszx.co/
 local=/dns.ours.luxe/
+local=/dns.ourvau.lt/
 local=/dns.ovpn.bond/
 local=/1a.ns.ozer.im/
 local=/dns.paesa.es/
@@ -1153,6 +1153,7 @@ local=/dns.rayanbab.com/
 local=/rayneau.fr/
 local=/dns.rbn.gr/
 local=/dns.reckoningslug.name/
+local=/dns.redvau.lt/
 local=/dns.reitmeier.me/
 local=/dns.renardyre.com/
 local=/dns.repinger.com/
@@ -1420,6 +1421,7 @@ local=/zakaria.website/
 local=/zburger.top/
 local=/zdn.ro/
 local=/dns.zemows.industries/
+local=/doh.zephyrus.id/
 local=/adguard-kartoffel.zernico.de/
 local=/dns.zfsystem.tech/
 local=/doh.zknt.org/

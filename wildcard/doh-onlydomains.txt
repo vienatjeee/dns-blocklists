@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Nov 2024 04:14 UTC
-# Version: 2024.1111.0414.34
+# Last modified: 12 Nov 2024 04:06 UTC
+# Version: 2024.1112.0406.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 1416
+# Number of entries: 1418
 #
 003153.xyz
 ns.00dani.me
@@ -701,7 +701,6 @@ dns1.irumatech.com
 dns.is0mino.com
 dns.ishan.pw
 dns.islandnet.com
-diy.itsa.top
 pdns.itxe.net
 ivnkn.xyz
 jabber-germany.de
@@ -1040,6 +1039,7 @@ dns.us-phoenix-1.oraclecloud.com
 dns.oryxlabs.com
 dns.oszx.co
 dns.ours.luxe
+dns.ourvau.lt
 dns.ovpn.bond
 1a.ns.ozer.im
 dns.paesa.es
@@ -1153,6 +1153,7 @@ dns.rayanbab.com
 rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
+dns.redvau.lt
 dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
@@ -1420,6 +1421,7 @@ zakaria.website
 zburger.top
 zdn.ro
 dns.zemows.industries
+doh.zephyrus.id
 adguard-kartoffel.zernico.de
 dns.zfsystem.tech
 doh.zknt.org
