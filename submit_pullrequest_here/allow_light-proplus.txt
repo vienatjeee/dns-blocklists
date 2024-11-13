@@ -1,5 +1,10 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/4265
+*.lpsnmedia.net
+*.liveperson.net
+*.livepersonk.akadns.net
+
 # AdBlock-Detection on various sites, e.g. https://www.parcello.org/
 cdns.symplr.de
 

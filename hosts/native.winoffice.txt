@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Nov 2024 23:38 UTC
-# Version: 2024.1108.2338.30
+# Last modified: 12 Nov 2024 04:35 UTC
+# Version: 2024.1112.0435.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 698
+# Number of entries: 697
 #
 0.0.0.0 in.appcenter.ms
 0.0.0.0 applicationinsights.azure.com
@@ -440,7 +440,6 @@
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 telemetrycollector.microsoft.com
-0.0.0.0 uhf.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 cab.watson.microsoft.com
