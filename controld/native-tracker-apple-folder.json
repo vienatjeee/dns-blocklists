@@ -428,6 +428,27 @@
       }
     },
     {
+      "PK": "news-app-events.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "news-notification-events.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "news-sports-events.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "notes-analytics-events.apple.com",
       "action": {
         "do": 0,
@@ -484,6 +505,13 @@
       }
     },
     {
+      "PK": "prod-event-relay-api.v.aaplimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "prod-event-relay-books-api.v.aaplimg.com",
       "action": {
         "do": 0,
@@ -513,6 +541,13 @@
     },
     {
       "PK": "prod-event-relay-weather-api.v.aaplimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "prod-news-notification-events.v.aaplimg.com",
       "action": {
         "do": 0,
         "status": 1

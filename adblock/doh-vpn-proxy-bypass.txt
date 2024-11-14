@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 13 Nov 2024 04:08 UTC
-! Version: 2024.1113.0408.53
+! Last modified: 14 Nov 2024 04:08 UTC
+! Version: 2024.1114.0408.55
 ! Syntax: AdBlock
-! Number of entries: 3503
+! Number of entries: 3505
 !
 ||0000a-fast-proxy.de^
 ||003153.xyz^
@@ -2240,6 +2240,7 @@
 ||de.dns.privex.io^
 ||nl.dns.privex.io^
 ||privoxy.org^
+||pro-tower.com^
 ||project-evoex.de^
 ||prontoproxy.info^
 ||propage.info^
@@ -2667,6 +2668,7 @@
 ||www-proxy.sodemc.com^
 ||clientdns3.softcom.net^
 ||free-vpn.en.softonic.com^
+||soleilvpn-app.com^
 ||solidproxy.net^
 ||sourceproxy.com^
 ||spacedns.org^

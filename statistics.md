@@ -53,7 +53,7 @@
  18 |      61% |  35% |      4% | Analytics/Metrics Extension
  19 |      99% |   1% |      0% | Balanced Extension
  20 |      79% |  12% |      9% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 21 |      92% |   6% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 21 |      91% |   7% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |      84% |   9% |      7% | Advanced Extension
  23 |      63% |  22% |     15% | Denylist Community Advanced
 ```
@@ -63,7 +63,7 @@
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
   2 |      77% |  19% |      4% | Denylist Personal
   3 |      52% |  44% |      4% | Extracted Wildcard Rules
-  4 |      89% |   0% |     11% | Native Tracker Apple (iOS, macOS, tvOS)
+  4 |      88% |   0% |     12% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      96% |   0% |      4% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
@@ -79,7 +79,7 @@
  17 |      61% |  35% |      4% | Analytics/Metrics Extension
  18 |      99% |   1% |      0% | Balanced Extension
  19 |      81% |  12% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 20 |      93% |   6% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 20 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      85% |   9% |      6% | Advanced Extension
  22 |      67% |  22% |     11% | Denylist Community Advanced
  23 |      75% |  17% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -107,7 +107,7 @@
  16 |      64% |  35% |      1% | Analytics/Metrics Extension
  17 |      99% |   1% |      0% | Balanced Extension
  18 |      81% |  12% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 19 |      93% |   6% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 19 |      92% |   7% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      86% |   9% |      5% | Advanced Extension
  21 |      67% |  22% |     11% | Denylist Community Advanced
  22 |      75% |  17% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -116,6 +116,6 @@
  25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
  26 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
  27 |      84% |  10% |      6% | Ultimate Extension
- 28 |      90% |   5% |      5% | Denylist Aggressive
+ 28 |      89% |   6% |      5% | Denylist Aggressive
  29 |      70% |  27% |      3% | Denylist Community Ultimate
 ```

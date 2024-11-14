@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Nov 2024 04:07 UTC
-# Version: 2024.1113.0407.43
+# Last modified: 14 Nov 2024 04:07 UTC
+# Version: 2024.1114.0407.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1416
+# Number of entries: 1421
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -83,6 +83,7 @@ local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/
 local=/ahoj.email/
+local=/apple-relay.akamaized.net/
 local=/dns.albony.xyz/
 local=/dns.alekberg.net/
 local=/dns2.alekberg.net/
@@ -106,6 +107,7 @@ local=/dns.anon.no/
 local=/secure.anudeep.me/
 local=/doh.apad.pro/
 local=/ag.apollohct.com/
+local=/apple-relay.apple.com/
 local=/doh.dns.apple.com/
 local=/mask-api.fe2.apple-dns.net/
 local=/mask.apple-dns.net/
@@ -242,7 +244,9 @@ local=/dns.circl.lu/
 local=/dns.clanless.ovh/
 local=/dns.clanto.cloud/
 local=/cleanbrowsing.org/
+local=/apple-relay.cloudfare.com/
 local=/dns.cloudfiction.eu/
+local=/apple-relay.cloudflare.com/
 local=/dns.233py.com.cdn.cloudflare.net/
 local=/dns.cloudflare.com/
 local=/cloudflare-dns.com/
@@ -547,6 +551,7 @@ local=/dnsvps.familiamv.net/
 local=/dns.fancyorg.at/
 local=/farewellkou.click/
 local=/dns.farshidhakimy.de/
+local=/apple-relay.fastly-edge.com/
 local=/ns0.fdn.fr/
 local=/ns1.fdn.fr/
 local=/dns.fehlsprache.de/
