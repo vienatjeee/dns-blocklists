@@ -25,7 +25,7 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 11. [DoH/VPN/TOR/Proxy Bypass](#bypass) - Prevent methods to bypass your DNS! : [Full](#bypass_all) - [DoH only](#bypass_dns) - [DoH IPs](#bypass_ips)
 12. [Safesearch not supported](#safesearch) - Prevent the use of search engines that do not support Safesearch!
 13. [Dynamic DNS](#dyndns) - Protects against the malicious use of dynamic DNS services!
-14. [Badware Hoster](#hoster) - Protects against the malicious use of free host services!
+14. [Badware Hoster](#hoster) - Protects against the malicious use of host services!
 15. [Most Abused TLDs](#tlds) - Protects against known malicious Top Level Domains!
 16. [Anti Piracy](#piracy) - Protects against piracy!
 17. [Gambling](#gambling) - Protects against gambling content! : [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
@@ -475,9 +475,9 @@ A blocklist for blocking dynamic DNS services to protect against malicious use i
 
 ---
 
-### :computer: **Badware Hoster blocking - Protects against the malicious use of free host services!** <a name="hoster"></a>
+### :computer: **Badware Hoster blocking - Protects against the malicious use of host services!** <a name="hoster"></a>
 
-A blocklist for blocking known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
+A blocklist for blocking known hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
 
 |             | Light | Normal | Pro | Pro++ | Ultimate |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|

@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 Nov 2024 04:16 UTC
-! Version: 2024.1111.0416.59
+! Last modified: 14 Nov 2024 10:36 UTC
+! Version: 2024.1114.1036.24
 ! Syntax: uBlock
 ! Number of latin TLDs: 210 - non-latin TLDs: 151
 !
@@ -145,7 +145,7 @@
 ||ooo^$doc,domain=~toast.ooo
 ||partners^$doc,domain=~stripe.partners|~xh.partners
 ||parts^$doc
-||party^$doc,domain=~ducks.party|~mstdn.party|~nezumi.party|~spankbang.party
+||party^$doc,domain=~ducks.party|~mstdn.party|~nezumi.party|~ntc.party|~spankbang.party
 ||pet^$doc,domain=~kickthespy.pet|~kuma.pet
 ||pharmacy^$doc,domain=~safe.pharmacy
 ||phd^$doc,domain=~rafael.phd
@@ -179,7 +179,7 @@
 ||science^$doc,domain=~hal.science
 ||sew^$doc
 ||sexy^$doc,domain=~privacy.sexy|~terminal.sexy
-||shop^$doc,domain=~11ts.shop|~chessvibes.shop|~eventix.shop|~munu.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop
+||shop^$doc,domain=~11ts.shop|~chessvibes.shop|~eventix.shop|~freshtorge.shop|~munu.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop
 ||shopping^$doc
 ||site^$doc,domain=~aftermath.site|~claude.site|~dodi-repacks.site|~fbsmarthome.site|~fitgirl-repacks.site|~gov-img.site|~notion.site|~reddit-doesnt-like-this.site|~wishonly.site|~wpdns.site
 ||skin^$doc

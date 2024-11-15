@@ -1,17 +1,17 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731557100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1731643500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
-; Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
+; Description: Blocks known hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Nov 2024 04:05 UTC
-; Version: 2024.1114.0405.57
+; Last modified: 15 Nov 2024 04:05 UTC
+; Version: 2024.1115.0405.55
 ; Syntax: RPZ
-; Number of entries: 3654
+; Number of entries: 3652
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1995,8 +1995,6 @@ panel-1.de CNAME .
 *.panel-1.de CNAME .
 perfektionieren.de CNAME .
 *.perfektionieren.de CNAME .
-php-friends.de CNAME .
-*.php-friends.de CNAME .
 pixelt.de CNAME .
 *.pixelt.de CNAME .
 pl.de CNAME .
