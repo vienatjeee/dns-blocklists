@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Nov 2024 00:08 UTC
-# Version: 2024.1115.0008.32
+# Last modified: 16 Nov 2024 00:25 UTC
+# Version: 2024.1116.0025.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12250
+# Number of entries: 12255
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -748,6 +748,7 @@ local=/autoreifen-berg.shop/
 local=/autoreifen-brand.shop/
 local=/autoreifen-eberle.shop/
 local=/autoreifen-geisler.shop/
+local=/autoreifen-kahl.com/
 local=/autoreifen-kroll.shop/
 local=/autoreifen-moll.shop/
 local=/autoreifen-peter.shop/
@@ -2291,6 +2292,7 @@ local=/consulting-app.de/
 local=/container-haus24.com/
 local=/container-kaufende.com/
 local=/container-scout24.com/
+local=/containercosco.com/
 local=/containerhaus-anhanger.de/
 local=/containerwelt24.com/
 local=/contiflexv.com/
@@ -5282,6 +5284,7 @@ local=/hundaidirectinsu.xyz/
 local=/hunde-maulkorb-store.de/
 local=/hundefutterliefern.com/
 local=/hundekrone.de/
+local=/hundeliebling.com/
 local=/hundeshop-schaeferhund.de/
 local=/hundessen.com/
 local=/hundmonline.at/
@@ -5934,6 +5937,7 @@ local=/kidstriderite.com/
 local=/kidstuffpodcast.com/
 local=/killenclinical.com/
 local=/killstarneu.de/
+local=/kimonsage.io/
 local=/kims-ltd.co/
 local=/kinderglitzern.de/
 local=/kindermobelre.com/
@@ -6114,6 +6118,7 @@ local=/kronhard.com/
 local=/kronos-gmbh.com/
 local=/kroupyshop.net/
 local=/krug-reifenhandel.com/
+local=/kruger-design.de/
 local=/kruscheoutdoorde.com/
 local=/kruspe-container.com/
 local=/krworkinde.com/
@@ -6768,6 +6773,7 @@ local=/martyflo.shop/
 local=/marxx-holzhaus.de/
 local=/maryfenton.shop/
 local=/marylambert.shop/
+local=/marystyles.com/
 local=/maschinerabatt.com/
 local=/mascpi.fr/
 local=/masonlinda.com/
@@ -8036,6 +8042,7 @@ local=/ottozillco.de/
 local=/ouraltis.de/
 local=/outdoor-eu.shop/
 local=/outdoor-heinz.com/
+local=/outdoor-mall.de/
 local=/outdoor-scott.com/
 local=/outdoor-series.com/
 local=/outdoor-ski.com/
@@ -8999,6 +9006,7 @@ local=/reservationstays.com/
 local=/reservefundbnk.com/
 local=/reservierung.top/
 local=/resid3ncy.com/
+local=/restchess.com/
 local=/restdiablo.com/
 local=/restliss.com/
 local=/restockssuomi.com/
@@ -9918,7 +9926,6 @@ local=/softwaredealz.shop/
 local=/sol-consult.net/
 local=/sol-staking.com/
 local=/solandis.com/
-local=/solanex.de/
 local=/solar-energie24.com/
 local=/solar-liquid.de/
 local=/solarausrustung.com/
@@ -9929,7 +9936,6 @@ local=/solarplatten24.de/
 local=/solarversorgung.com/
 local=/solarwind-shop.com/
 local=/soldeimaginations.com/
-local=/solden-hotels.com/
 local=/solds123.com/
 local=/soleildocrehome.com/
 local=/soleode.shop/
@@ -10949,6 +10955,7 @@ local=/toprolexes.com/
 local=/tops-cutlery.com/
 local=/topshopdeal.com/
 local=/topshopping.top/
+local=/topspink.com/
 local=/topsurfsale.com/
 local=/toptiercapital.co/
 local=/toptoollibrary.com/
@@ -11606,7 +11613,6 @@ local=/virtuellerassistentt.com/
 local=/vischer-gmbh.de/
 local=/visionfancyclothing.com/
 local=/visionfx.me/
-local=/visitaserbia.com/
 local=/vitacola-gratis.de/
 local=/vitalgesund.at/
 local=/vitawellshop.shop/
@@ -12204,7 +12210,6 @@ local=/zeoption.com/
 local=/zeroplay.de/
 local=/zetko-waren.com/
 local=/zetko-waren.de/
-local=/app.zety.de/
 local=/edekagermany.zewarivcommerce.com/
 local=/zhrtasarimf.shop/
 local=/zicklerbrennholz.de/

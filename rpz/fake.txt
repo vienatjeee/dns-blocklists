@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731629280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1731716700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Nov 2024 00:08 UTC
-; Version: 2024.1115.0008.32
+; Last modified: 16 Nov 2024 00:25 UTC
+; Version: 2024.1116.0025.47
 ; Syntax: RPZ
-; Number of entries: 24500
+; Number of entries: 24510
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -2003,6 +2003,8 @@ autofxbroker.com CNAME .
 *.autofxbroker.com CNAME .
 autohaus-vacha.com CNAME .
 *.autohaus-vacha.com CNAME .
+autoreifen-kahl.com CNAME .
+*.autoreifen-kahl.com CNAME .
 autozubehorde.com CNAME .
 *.autozubehorde.com CNAME .
 autozubehr.com CNAME .
@@ -3721,6 +3723,8 @@ container-kaufende.com CNAME .
 *.container-kaufende.com CNAME .
 container-scout24.com CNAME .
 *.container-scout24.com CNAME .
+containercosco.com CNAME .
+*.containercosco.com CNAME .
 containerwelt24.com CNAME .
 *.containerwelt24.com CNAME .
 contiflexv.com CNAME .
@@ -6889,6 +6893,8 @@ hummelchile.com CNAME .
 *.hummelchile.com CNAME .
 hundefutterliefern.com CNAME .
 *.hundefutterliefern.com CNAME .
+hundeliebling.com CNAME .
+*.hundeliebling.com CNAME .
 hundessen.com CNAME .
 *.hundessen.com CNAME .
 hunterbootscanada.com CNAME .
@@ -8369,6 +8375,8 @@ martialarts-plus.com CNAME .
 *.martialarts-plus.com CNAME .
 martindorking.com CNAME .
 *.martindorking.com CNAME .
+marystyles.com CNAME .
+*.marystyles.com CNAME .
 maschinerabatt.com CNAME .
 *.maschinerabatt.com CNAME .
 masonlinda.com CNAME .
@@ -10821,6 +10829,8 @@ reservefundbnk.com CNAME .
 *.reservefundbnk.com CNAME .
 resid3ncy.com CNAME .
 *.resid3ncy.com CNAME .
+restchess.com CNAME .
+*.restchess.com CNAME .
 restdiablo.com CNAME .
 *.restdiablo.com CNAME .
 restliss.com CNAME .
@@ -11897,8 +11907,6 @@ solarwind-shop.com CNAME .
 *.solarwind-shop.com CNAME .
 soldeimaginations.com CNAME .
 *.soldeimaginations.com CNAME .
-solden-hotels.com CNAME .
-*.solden-hotels.com CNAME .
 solds123.com CNAME .
 *.solds123.com CNAME .
 soleildocrehome.com CNAME .
@@ -13141,6 +13149,8 @@ tops-cutlery.com CNAME .
 *.tops-cutlery.com CNAME .
 topshopdeal.com CNAME .
 *.topshopdeal.com CNAME .
+topspink.com CNAME .
+*.topspink.com CNAME .
 topsurfsale.com CNAME .
 *.topsurfsale.com CNAME .
 toptoollibrary.com CNAME .
@@ -13997,8 +14007,6 @@ virtuellerassistentt.com CNAME .
 *.virtuellerassistentt.com CNAME .
 visionfancyclothing.com CNAME .
 *.visionfancyclothing.com CNAME .
-visitaserbia.com CNAME .
-*.visitaserbia.com CNAME .
 vitiwine.com CNAME .
 *.vitiwine.com CNAME .
 vitusia.com CNAME .
@@ -17483,6 +17491,8 @@ kreisverbandleer.de CNAME .
 *.kreisverbandleer.de CNAME .
 krimi-netz.de CNAME .
 *.krimi-netz.de CNAME .
+kruger-design.de CNAME .
+*.kruger-design.de CNAME .
 krypto-tust-fund.de CNAME .
 *.krypto-tust-fund.de CNAME .
 kryptographen.de CNAME .
@@ -18325,6 +18335,8 @@ ottozillco.de CNAME .
 *.ottozillco.de CNAME .
 ouraltis.de CNAME .
 *.ouraltis.de CNAME .
+outdoor-mall.de CNAME .
+*.outdoor-mall.de CNAME .
 outdoorresearchjacke.de CNAME .
 *.outdoorresearchjacke.de CNAME .
 outletdegap.de CNAME .
@@ -19081,8 +19093,6 @@ soft-handel.de CNAME .
 *.soft-handel.de CNAME .
 softwarebilliger1.de CNAME .
 *.softwarebilliger1.de CNAME .
-solanex.de CNAME .
-*.solanex.de CNAME .
 solar-liquid.de CNAME .
 *.solar-liquid.de CNAME .
 solarien-berlin.de CNAME .
@@ -19945,8 +19955,6 @@ zeroplay.de CNAME .
 *.zeroplay.de CNAME .
 zetko-waren.de CNAME .
 *.zetko-waren.de CNAME .
-app.zety.de CNAME .
-*.app.zety.de CNAME .
 zicklerbrennholz.de CNAME .
 *.zicklerbrennholz.de CNAME .
 zimmer-kamin.de CNAME .
@@ -20341,6 +20349,8 @@ irsolution.io CNAME .
 *.irsolution.io CNAME .
 itoro.io CNAME .
 *.itoro.io CNAME .
+kimonsage.io CNAME .
+*.kimonsage.io CNAME .
 nexantic.io CNAME .
 *.nexantic.io CNAME .
 norvatix.io CNAME .

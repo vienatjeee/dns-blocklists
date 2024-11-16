@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Nov 2024 23:47 UTC
-# Version: 2024.1112.2347.57
+# Last modified: 15 Nov 2024 23:05 UTC
+# Version: 2024.1115.2305.12
 # Syntax: Domains (without subdomains)
-# Number of entries: 1702
+# Number of entries: 1703
 #
 l.1mp.ru
 t.1und1.de
@@ -1403,6 +1403,7 @@ cdn.piano.io
 cdn-ap.piano.io
 cdn-au.piano.io
 cdn-eu.piano.io
+clients.piano.io
 code.piano.io
 connect.piano.io
 metric.picodi.com
