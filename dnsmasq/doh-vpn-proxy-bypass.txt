@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Nov 2024 04:08 UTC
-# Version: 2024.1115.0408.57
+# Last modified: 17 Nov 2024 04:18 UTC
+# Version: 2024.1117.0418.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3506
+# Number of entries: 3508
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -64,6 +64,7 @@ local=/233py.com/
 local=/dns.240527.xyz/
 local=/24tunnel.com/
 local=/doh003.280blocker.net/
+local=/28383829.com/
 local=/28383829.site/
 local=/2fastsurfer.com/
 local=/2fastsurfer.eu/
@@ -696,6 +697,7 @@ local=/dns.criena.net/
 local=/croxy.network/
 local=/croxy.org/
 local=/croxy.red/
+local=/croxy.rocks/
 local=/croxyproxy.best/
 local=/croxyproxy.com/
 local=/croxyproxy.net/

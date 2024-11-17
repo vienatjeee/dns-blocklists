@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Nov 2024 04:08 UTC
-! Version: 2024.1115.0408.57
+! Last modified: 17 Nov 2024 04:18 UTC
+! Version: 2024.1117.0418.13
 ! Syntax: AdBlock
-! Number of entries: 3506
+! Number of entries: 3508
 !
 ||0000a-fast-proxy.de^
 ||003153.xyz^
@@ -65,6 +65,7 @@
 ||dns.240527.xyz^
 ||24tunnel.com^
 ||doh003.280blocker.net^
+||28383829.com^
 ||28383829.site^
 ||2fastsurfer.com^
 ||2fastsurfer.eu^
@@ -697,6 +698,7 @@
 ||croxy.network^
 ||croxy.org^
 ||croxy.red^
+||croxy.rocks^
 ||croxyproxy.best^
 ||croxyproxy.com^
 ||croxyproxy.net^
