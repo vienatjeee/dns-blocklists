@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731888480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1731931740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Nov 2024 00:08 UTC
-; Version: 2024.1118.0008.36
+; Last modified: 18 Nov 2024 12:09 UTC
+; Version: 2024.1118.1209.24
 ; Syntax: RPZ
-; Number of entries: 24702
+; Number of entries: 24696
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -5643,8 +5643,6 @@ fulda-handel.com CNAME .
 *.fulda-handel.com CNAME .
 fulfillogic.com CNAME .
 *.fulfillogic.com CNAME .
-funk-autoreifen.com CNAME .
-*.funk-autoreifen.com CNAME .
 funsporthandel.com CNAME .
 *.funsporthandel.com CNAME .
 funtoyonline.com CNAME .
@@ -6027,6 +6025,8 @@ getsportsgo.com CNAME .
 *.getsportsgo.com CNAME .
 getvoltbox.com CNAME .
 *.getvoltbox.com CNAME .
+getvoltplug.com CNAME .
+*.getvoltplug.com CNAME .
 getvoltsemi.com CNAME .
 *.getvoltsemi.com CNAME .
 getyourmedshere.com CNAME .
@@ -9271,8 +9271,6 @@ newhikingbootes.com CNAME .
 *.newhikingbootes.com CNAME .
 newinaccessories.com CNAME .
 *.newinaccessories.com CNAME .
-newinlingerie.com CNAME .
-*.newinlingerie.com CNAME .
 newinmountain.com CNAME .
 *.newinmountain.com CNAME .
 newinsnowboard.com CNAME .
@@ -10417,8 +10415,6 @@ popularusfemale.com CNAME .
 *.popularusfemale.com CNAME .
 popustennis.com CNAME .
 *.popustennis.com CNAME .
-popwomenshoe.com CNAME .
-*.popwomenshoe.com CNAME .
 porlabs.com CNAME .
 *.porlabs.com CNAME .
 porterblushu.com CNAME .
@@ -11205,8 +11201,6 @@ salecampoutdoor.com CNAME .
 *.salecampoutdoor.com CNAME .
 salecarracks.com CNAME .
 *.salecarracks.com CNAME .
-salecasualwear.com CNAME .
-*.salecasualwear.com CNAME .
 salecomponent.com CNAME .
 *.salecomponent.com CNAME .
 saledtools.com CNAME .
@@ -12227,8 +12221,6 @@ stoneislandlietuva.com CNAME .
 *.stoneislandlietuva.com CNAME .
 stoneislandsuisse.com CNAME .
 *.stoneislandsuisse.com CNAME .
-storagecontainersale.com CNAME .
-*.storagecontainersale.com CNAME .
 storageracksale.com CNAME .
 *.storageracksale.com CNAME .
 store-airplane.com CNAME .
@@ -16877,6 +16869,8 @@ grund-markt.de CNAME .
 *.grund-markt.de CNAME .
 guenstig-pillen.de CNAME .
 *.guenstig-pillen.de CNAME .
+guenstig-rezeptfrei.de CNAME .
+*.guenstig-rezeptfrei.de CNAME .
 guessoutletdeutschland.de CNAME .
 *.guessoutletdeutschland.de CNAME .
 gutbutzow.de CNAME .

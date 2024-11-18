@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Nov 2024 04:05 UTC
-# Version: 2024.1115.0405.55
+# Last modified: 18 Nov 2024 16:16 UTC
+# Version: 2024.1118.1616.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1826
+# Number of entries: 1819
 #
 local=/000a.de/
 local=/000space.com/
@@ -572,7 +572,6 @@ local=/chez.com/
 local=/city.tl/
 local=/cixx6.com/
 local=/ciy.de/
-local=/cjb.net/
 local=/cl.gp/
 local=/cl4n.org/
 local=/clan.lc/
@@ -1085,7 +1084,6 @@ local=/joomla.com/
 local=/joueb.com/
 local=/jouwweb.nl/
 local=/jp.gp/
-local=/jqw.de/
 local=/jts-blog.com/
 local=/jugem.cc/
 local=/jugem.jp/
@@ -1109,7 +1107,6 @@ local=/klammert.de/
 local=/klingler.us/
 local=/kolido.net/
 local=/kr.gp/
-local=/kr3w.de/
 local=/kulichki.net/
 local=/kulichki.ru/
 local=/kurzschliessen.de/
@@ -1677,7 +1674,6 @@ local=/web-log.nl/
 local=/web1000.com/
 local=/web1337.net/
 local=/web4free.eu/
-local=/web99.eu/
 local=/webatu.com/
 local=/webblog24.de/
 local=/webblogg.se/
@@ -1775,7 +1771,6 @@ local=/wtcsites.com/
 local=/www4.me/
 local=/x.gp/
 local=/x10.bz/
-local=/x10.mx/
 local=/x10hosting.com/
 local=/x9.eu/
 local=/x90x.net/
@@ -1786,7 +1781,6 @@ local=/xbl0g.com/
 local=/xblog.in/
 local=/xbloggers.com/
 local=/xl.lc/
-local=/xl8.eu/
 local=/xml.in/
 local=/xn.pl/
 local=/xobor.de/
@@ -1828,7 +1822,6 @@ local=/zamsblog.com/
 local=/zeblog.com/
 local=/zensurfrei.com/
 local=/ziblogs.com/
-local=/zip.net/
 local=/zoekvinden.nl/
 local=/zoomblog.com/
 local=/zoomshare.com/

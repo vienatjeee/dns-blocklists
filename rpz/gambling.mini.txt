@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731902100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1731945600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Nov 2024 03:55 UTC
-; Version: 2024.1118.0355.49
+; Last modified: 18 Nov 2024 16:00 UTC
+; Version: 2024.1118.1600.50
 ; Syntax: RPZ
-; Number of entries: 75512
+; Number of entries: 75510
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -699,6 +699,8 @@ beste-online-casinos.at CNAME .
 *.beste-online-casinos.at CNAME .
 besteonlinecasinosoesterreich.at CNAME .
 *.besteonlinecasinosoesterreich.at CNAME .
+casino.at CNAME .
+*.casino.at CNAME .
 casinohex.at CNAME .
 *.casinohex.at CNAME .
 casinos.at CNAME .
@@ -9037,6 +9039,8 @@ vip.1zzpwin.com CNAME .
 *.20bet2.com CNAME .
 20beta.com CNAME .
 *.20beta.com CNAME .
+20betb.com CNAME .
+*.20betb.com CNAME .
 20betbet.com CNAME .
 *.20betbet.com CNAME .
 20betlp.com CNAME .
@@ -16813,6 +16817,8 @@ bet917.com CNAME .
 *.bet917.com CNAME .
 bet91casino.com CNAME .
 *.bet91casino.com CNAME .
+bet959.com CNAME .
+*.bet959.com CNAME .
 bet96900.com CNAME .
 *.bet96900.com CNAME .
 bet96933.com CNAME .
@@ -30135,6 +30141,8 @@ icecasino610.com CNAME .
 *.icecasino610.com CNAME .
 icecasino73.com CNAME .
 *.icecasino73.com CNAME .
+icecasino740.com CNAME .
+*.icecasino740.com CNAME .
 icecasino77.com CNAME .
 *.icecasino77.com CNAME .
 icecasino78.com CNAME .
@@ -32357,8 +32365,6 @@ kaijeow.com CNAME .
 *.kaijeow.com CNAME .
 kaiserslots.com CNAME .
 *.kaiserslots.com CNAME .
-kaiyuan29.com CNAME .
-*.kaiyuan29.com CNAME .
 kaizengaming.com CNAME .
 *.kaizengaming.com CNAME .
 kajot-casino.com CNAME .
@@ -37333,8 +37339,6 @@ ojwin.com CNAME .
 *.ojwin.com CNAME .
 ojwin7.com CNAME .
 *.ojwin7.com CNAME .
-ok8w.com CNAME .
-*.ok8w.com CNAME .
 ok9vip8.com CNAME .
 *.ok9vip8.com CNAME .
 okada1.com CNAME .
@@ -40745,6 +40749,8 @@ rich11sportsbet.com CNAME .
 *.rich11sportsbet.com CNAME .
 rich711.com CNAME .
 *.rich711.com CNAME .
+richardcasino.com CNAME .
+*.richardcasino.com CNAME .
 richardcasino3.com CNAME .
 *.richardcasino3.com CNAME .
 richardcasino7.com CNAME .
@@ -40779,6 +40785,8 @@ rickycasino.com CNAME .
 *.rickycasino.com CNAME .
 rickycasino1.com CNAME .
 *.rickycasino1.com CNAME .
+rickycasino10.com CNAME .
+*.rickycasino10.com CNAME .
 rickycasino2.com CNAME .
 *.rickycasino2.com CNAME .
 rickycasino3.com CNAME .
@@ -47513,12 +47521,6 @@ i2.vlstorage.com CNAME .
 *.i2.vlstorage.com CNAME .
 vm111.com CNAME .
 *.vm111.com CNAME .
-vm9app3.com CNAME .
-*.vm9app3.com CNAME .
-vm9app7.com CNAME .
-*.vm9app7.com CNAME .
-vm9app8.com CNAME .
-*.vm9app8.com CNAME .
 vmkui23xe.com CNAME .
 *.vmkui23xe.com CNAME .
 vn22vw.com CNAME .
@@ -58487,8 +58489,6 @@ virtualbets.net CNAME .
 *.virtualbets.net CNAME .
 viva88.net CNAME .
 *.viva88.net CNAME .
-vk6868.net CNAME .
-*.vk6868.net CNAME .
 vk6869.net CNAME .
 *.vk6869.net CNAME .
 vlc-slots.net CNAME .
@@ -72295,8 +72295,6 @@ k59792.vip CNAME .
 *.k59792.vip CNAME .
 k6545.vip CNAME .
 *.k6545.vip CNAME .
-k6612.vip CNAME .
-*.k6612.vip CNAME .
 k7642.vip CNAME .
 *.k7642.vip CNAME .
 k7win.vip CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Nov 2024 04:04 UTC
-# Version: 2024.1118.0404.36
+# Last modified: 18 Nov 2024 16:09 UTC
+# Version: 2024.1118.1609.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 169425
+# Number of entries: 169435
 #
 local=/0-bet.com/
 local=/0-betsixty.com/
@@ -14839,6 +14839,7 @@ local=/20bet2.com/
 local=/20bet5.com/
 local=/20bet999.bet/
 local=/20beta.com/
+local=/20betb.com/
 local=/20betbet.com/
 local=/20betcasino.top/
 local=/20betgr.com/
@@ -49108,6 +49109,7 @@ local=/713077.com/
 local=/713175.xyz/
 local=/7131999.com/
 local=/7131x.com/
+local=/71327pnl.com/
 local=/7132t.com/
 local=/7132v.com/
 local=/7132x.com/
@@ -78406,6 +78408,7 @@ local=/bet917.com/
 local=/bet91casino.com/
 local=/bet92522.com/
 local=/bet942.net/
+local=/bet959.com/
 local=/bet9677.com/
 local=/bet96900.com/
 local=/bet96933.com/
@@ -85787,6 +85790,7 @@ local=/casiniabet10.com/
 local=/casiniabet755.com/
 local=/casiniacasino.de/
 local=/casiniacasino.top/
+local=/casino.at/
 local=/casino.casino/
 local=/casino.com/
 local=/casino.dk/
@@ -104727,6 +104731,7 @@ local=/goldengambler.com/
 local=/goldengatecasino.com/
 local=/goldengatecasinoc.online/
 local=/goldengenie1.com/
+local=/goldengenie2.com/
 local=/goldengeniecasino.uk/
 local=/goldengrand.ch/
 local=/goldenheartsgames.com/
@@ -111105,6 +111110,7 @@ local=/icecasino604.com/
 local=/icecasino61.com/
 local=/icecasino610.com/
 local=/icecasino73.com/
+local=/icecasino740.com/
 local=/icecasino77.com/
 local=/icecasino78.com/
 local=/icecasino81.com/
@@ -135474,6 +135480,7 @@ local=/phdream98.com/
 local=/pheppd.xyz/
 local=/phethr1956.vip/
 local=/caunxnu9gv.phf6hm5hts.com/
+local=/phfiery711.com/
 local=/phg0088s.com/
 local=/phgtxprh.com/
 local=/phhh.ink/
@@ -141249,6 +141256,7 @@ local=/rich711.com/
 local=/rich769.com/
 local=/rich88games.com/
 local=/rich9.asia/
+local=/richardcasino.com/
 local=/richardcasino3.com/
 local=/richardcasino7.com/
 local=/richbet.app/
@@ -141296,7 +141304,9 @@ local=/ricky-casino.com/
 local=/ricky-casinos.com/
 local=/rickycasino.com/
 local=/rickycasino.net/
+local=/rickycasino.ph/
 local=/rickycasino1.com/
+local=/rickycasino10.com/
 local=/rickycasino2.com/
 local=/rickycasino3.com/
 local=/rickycasino4.com/

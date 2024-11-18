@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731643500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1731946560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Nov 2024 04:05 UTC
-; Version: 2024.1115.0405.55
+; Last modified: 18 Nov 2024 16:16 UTC
+; Version: 2024.1118.1616.23
 ; Syntax: RPZ
-; Number of entries: 3652
+; Number of entries: 3638
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1957,8 +1957,6 @@ ist-ok.de CNAME .
 *.ist-ok.de CNAME .
 jixx.de CNAME .
 *.jixx.de CNAME .
-jqw.de CNAME .
-*.jqw.de CNAME .
 kann-helfen.de CNAME .
 *.kann-helfen.de CNAME .
 keepfree.de CNAME .
@@ -1967,8 +1965,6 @@ kilu.de CNAME .
 *.kilu.de CNAME .
 klammert.de CNAME .
 *.klammert.de CNAME .
-kr3w.de CNAME .
-*.kr3w.de CNAME .
 kurzschliessen.de CNAME .
 *.kurzschliessen.de CNAME .
 lernt.de CNAME .
@@ -2137,14 +2133,10 @@ web-chat.eu CNAME .
 *.web-chat.eu CNAME .
 web4free.eu CNAME .
 *.web4free.eu CNAME .
-web99.eu CNAME .
-*.web99.eu CNAME .
 will-dich.eu CNAME .
 *.will-dich.eu CNAME .
 x9.eu CNAME .
 *.x9.eu CNAME .
-xl8.eu CNAME .
-*.xl8.eu CNAME .
 y55.eu CNAME .
 *.y55.eu CNAME .
 blogaaja.fi CNAME .
@@ -2853,8 +2845,6 @@ tripod.com.mx CNAME .
 *.tripod.com.mx CNAME .
 webnode.mx CNAME .
 *.webnode.mx CNAME .
-x10.mx CNAME .
-*.x10.mx CNAME .
 blogspot.my CNAME .
 *.blogspot.my CNAME .
 0fees.net CNAME .
@@ -2919,8 +2909,6 @@ buttobi.net CNAME .
 *.buttobi.net CNAME .
 centerblog.net CNAME .
 *.centerblog.net CNAME .
-cjb.net CNAME .
-*.cjb.net CNAME .
 comunidades.net CNAME .
 *.comunidades.net CNAME .
 cwqso.net CNAME .
@@ -3093,8 +3081,6 @@ yourfreehosting.net CNAME .
 *.yourfreehosting.net CNAME .
 za.net CNAME .
 *.za.net CNAME .
-zip.net CNAME .
-*.zip.net CNAME .
 fr.nf CNAME .
 *.fr.nf CNAME .
 us.nf CNAME .
