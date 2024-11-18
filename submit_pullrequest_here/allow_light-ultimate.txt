@@ -1,6 +1,16 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4353
+qrcc.me
+
+# https://github.com/hagezi/dns-blocklists/issues/4354
+static.landbot.io
+
+# https://github.com/hagezi/dns-blocklists/issues/4355
+*.affiliate.logitravel.com
+ssl.affiliate.logitravel.com
+
 # https://github.com/hagezi/dns-blocklists/issues/4289
 uhf.microsoft.com
 
