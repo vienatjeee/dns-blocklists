@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Nov 2024 04:04 UTC
-# Version: 2024.1115.0404.34
+# Last modified: 18 Nov 2024 04:10 UTC
+# Version: 2024.1118.0410.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9879
+# Number of entries: 9885
 #
 local=/tracker.guguan.000.pe/
 local=/0123456789nonexistent.com/
@@ -1263,6 +1263,7 @@ local=/blackhatprotools.org/
 local=/blackmartappz.com/
 local=/blackpearl.biz/
 local=/blackrevolution.ro/
+local=/blackspigot.com/
 local=/blacktiesports.net/
 local=/blacktorrent.ru/
 local=/tracker.blackunicorn.xyz/
@@ -2468,6 +2469,7 @@ local=/dinostreaming.com/
 local=/dinostreaming.fm/
 local=/dinostreaming.vg/
 local=/dinostreaming.ws/
+local=/direct-leaks.com/
 local=/directdl.com/
 local=/directoriowarez.com/
 local=/directvxx.com/
@@ -5243,6 +5245,7 @@ local=/masterani.me/
 local=/masterboot.net/
 local=/masterflix.online/
 local=/masterkreatif.com/
+local=/masterof13fps.com/
 local=/masters-tb.com/
 local=/mates-r-us.com/
 local=/mathanosto.top/
@@ -6041,9 +6044,11 @@ local=/nulled.to/
 local=/nulled.zone/
 local=/nulled-script.club/
 local=/nulled-scripts.cc/
+local=/nulledbuilds.com/
 local=/nulledfree.pw/
 local=/nullednow.in/
 local=/nulledwarez.org/
+local=/nullforums.net/
 local=/nulljungle.com/
 local=/nullphp.net/
 local=/nullphpscript.com/
@@ -7540,6 +7545,7 @@ local=/speedshare.info/
 local=/sphtml.com/
 local=/spicymags.xyz/
 local=/spidercommunicationbd.com/
+local=/spigotunlocked.com/
 local=/spilve.com/
 local=/spiricomtracks.net/
 local=/spirit-tracker.org/

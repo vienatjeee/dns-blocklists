@@ -5,13 +5,14 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Nov 2024 04:07 UTC
-# Version: 2024.1115.0407.48
+# Last modified: 18 Nov 2024 04:13 UTC
+# Version: 2024.1118.0413.22
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1597
+# Number of entries: 1683
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
+0.0.0.0 052419.xyz
 0.0.0.0 0ms.dev
 0.0.0.0 cdn.0ms.dev
 0.0.0.0 dns.0ooo.icu
@@ -32,6 +33,7 @@
 0.0.0.0 dot.360.cn
 0.0.0.0 3dcosas.xyz
 0.0.0.0 3dns.eu
+0.0.0.0 3jjxxl.tech
 0.0.0.0 dns.3wv.de
 0.0.0.0 dns.4-the.win
 0.0.0.0 doh.42l.fr
@@ -137,6 +139,7 @@
 0.0.0.0 doh.angry.im
 0.0.0.0 dns.anon.no
 0.0.0.0 secure.anudeep.me
+0.0.0.0 ad.anym0re.ru
 0.0.0.0 doh.apad.pro
 0.0.0.0 ag.apollohct.com
 0.0.0.0 apple-relay.apple.com
@@ -178,6 +181,7 @@
 0.0.0.0 dns.ashleyjackson.net
 0.0.0.0 dns.asterimoon.com
 0.0.0.0 dandelionsprout.asuscomm.com
+0.0.0.0 dns.asysec.com
 0.0.0.0 adguardhome.atakorah.com
 0.0.0.0 atris.cyou
 0.0.0.0 dohtrial.att.net
@@ -310,6 +314,7 @@
 0.0.0.0 doh.cleanbrowsing.org
 0.0.0.0 family-filter-dns.cleanbrowsing.org
 0.0.0.0 security-filter-dns.cleanbrowsing.org
+0.0.0.0 cloudbenders.fun
 0.0.0.0 apple-relay.cloudfare.com
 0.0.0.0 dns.cloudfiction.eu
 0.0.0.0 apple-relay.cloudflare.com
@@ -395,6 +400,7 @@
 0.0.0.0 cubedns.com
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
+0.0.0.0 dns.cybertonic.tech
 0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
@@ -484,7 +490,10 @@
 0.0.0.0 ams02.dnscry.pt
 0.0.0.0 ath01.dnscry.pt
 0.0.0.0 atl01.dnscry.pt
+0.0.0.0 bne01.dnscry.pt
+0.0.0.0 bog01.dnscry.pt
 0.0.0.0 bom01.dnscry.pt
+0.0.0.0 bru01.dnscry.pt
 0.0.0.0 bts01.dnscry.pt
 0.0.0.0 coe01.dnscry.pt
 0.0.0.0 cph01.dnscry.pt
@@ -494,20 +503,25 @@
 0.0.0.0 dtw01.dnscry.pt
 0.0.0.0 dub01.dnscry.pt
 0.0.0.0 dus01.dnscry.pt
+0.0.0.0 evn01.dnscry.pt
 0.0.0.0 eyg01.dnscry.pt
 0.0.0.0 fet01.dnscry.pt
 0.0.0.0 fjr01.dnscry.pt
 0.0.0.0 fnt01.dnscry.pt
 0.0.0.0 fra01.dnscry.pt
+0.0.0.0 fra02.dnscry.pt
 0.0.0.0 geg01.dnscry.pt
 0.0.0.0 gru01.dnscry.pt
 0.0.0.0 gva01.dnscry.pt
+0.0.0.0 haf01.dnscry.pt
 0.0.0.0 han01.dnscry.pt
 0.0.0.0 hel01.dnscry.pt
 0.0.0.0 hkg01.dnscry.pt
 0.0.0.0 hkg02.dnscry.pt
 0.0.0.0 hrk01.dnscry.pt
+0.0.0.0 isb01.dnscry.pt
 0.0.0.0 ist01.dnscry.pt
+0.0.0.0 jhb01.dnscry.pt
 0.0.0.0 jkt01.dnscry.pt
 0.0.0.0 jnb01.dnscry.pt
 0.0.0.0 kiv01.dnscry.pt
@@ -515,6 +529,8 @@
 0.0.0.0 lax01.dnscry.pt
 0.0.0.0 lax02.dnscry.pt
 0.0.0.0 lim01.dnscry.pt
+0.0.0.0 lim02.dnscry.pt
+0.0.0.0 lis01.dnscry.pt
 0.0.0.0 llk01.dnscry.pt
 0.0.0.0 lon01.dnscry.pt
 0.0.0.0 mad01.dnscry.pt
@@ -531,6 +547,7 @@
 0.0.0.0 pdx01.dnscry.pt
 0.0.0.0 phl01.dnscry.pt
 0.0.0.0 phx01.dnscry.pt
+0.0.0.0 rdd01.dnscry.pt
 0.0.0.0 rdu01.dnscry.pt
 0.0.0.0 sea01.dnscry.pt
 0.0.0.0 sgn01.dnscry.pt
@@ -542,7 +559,10 @@
 0.0.0.0 sof01.dnscry.pt
 0.0.0.0 sto01.dnscry.pt
 0.0.0.0 syd01.dnscry.pt
+0.0.0.0 syd02.dnscry.pt
+0.0.0.0 tbs01.dnscry.pt
 0.0.0.0 tll01.dnscry.pt
+0.0.0.0 tlv01.dnscry.pt
 0.0.0.0 tpa01.dnscry.pt
 0.0.0.0 tpe01.dnscry.pt
 0.0.0.0 trf01.dnscry.pt
@@ -697,6 +717,8 @@
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
 0.0.0.0 ns2.flodns.net
+0.0.0.0 resolv.flokinet.net
+0.0.0.0 dns.floriantinney.de
 0.0.0.0 agh.fltn.us
 0.0.0.0 dns.flwagners.com
 0.0.0.0 dns.flymc.cc
@@ -747,13 +769,16 @@
 0.0.0.0 google-public-dns-b.google.com
 0.0.0.0 performance.gosami.xyz
 0.0.0.0 dot.libredns.gr.com
+0.0.0.0 greatideasforlife.lol
 0.0.0.0 dnsblock.grisumedia.de
 0.0.0.0 dns.grqu.de
 0.0.0.0 dns.guard.io
+0.0.0.0 dns.guardmydns.com
 0.0.0.0 dns2.guidocioni.it
 0.0.0.0 dns.gutwe.in
 0.0.0.0 gztech.me
 0.0.0.0 dns.hahnjo.de
+0.0.0.0 doh.hajekj.net
 0.0.0.0 dns.haka.se
 0.0.0.0 dns.hakim.one
 0.0.0.0 dns.hanahira.dev
@@ -785,6 +810,7 @@
 0.0.0.0 dns.hotta.page
 0.0.0.0 doh.hottis.de
 0.0.0.0 hshh.org
+0.0.0.0 dns.hshoe.cn
 0.0.0.0 dns.hugo0.moe
 0.0.0.0 dns.hujiayucc.cn
 0.0.0.0 doth.huque.com
@@ -832,6 +858,7 @@
 0.0.0.0 ipoac.nl
 0.0.0.0 dns1.irumatech.com
 0.0.0.0 dns.is0mino.com
+0.0.0.0 mickedi.isgood.host
 0.0.0.0 dns.ishan.pw
 0.0.0.0 dns.islandnet.com
 0.0.0.0 pdns.itxe.net
@@ -867,6 +894,7 @@
 0.0.0.0 dns.karfamily.net
 0.0.0.0 dns.karl.one
 0.0.0.0 dns.kastner-online.de
+0.0.0.0 kavkaz.monster
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns.keke125.com
@@ -896,6 +924,7 @@
 0.0.0.0 xray.krnl.eu
 0.0.0.0 adguard.kss.ovh
 0.0.0.0 dns.kukal.cz
+0.0.0.0 dns.kumoumi.net
 0.0.0.0 dns.kuuhaku.moe
 0.0.0.0 kx-97795-tr.xyz
 0.0.0.0 dns.kxy.ink
@@ -918,6 +947,7 @@
 0.0.0.0 dns.lermer.nl
 0.0.0.0 lesuo.top
 0.0.0.0 dns.levonet.sk
+0.0.0.0 lewsha.lol
 0.0.0.0 dns2.lezainski.com
 0.0.0.0 dns.lgprk.com
 0.0.0.0 dns.liberador.net
@@ -942,9 +972,23 @@
 0.0.0.0 lukscasino-479-tr.xyz
 0.0.0.0 lukscasino-542-tr.xyz
 0.0.0.0 lukscasino-929-tr.xyz
+0.0.0.0 dns.luma-medien.com
 0.0.0.0 dns.lvolland.fr
 0.0.0.0 orau.lz0724.com
 0.0.0.0 addns1.m-it.ro
+0.0.0.0 mabuktogel.builders
+0.0.0.0 mabuktogel.business
+0.0.0.0 mabuktogel.cards
+0.0.0.0 mabuktogel.creditcard
+0.0.0.0 mabuktogel.degree
+0.0.0.0 mabuktogel.directory
+0.0.0.0 mabuktogel.enterprises
+0.0.0.0 mabuktogel.immobilien
+0.0.0.0 mabuktogel.limited
+0.0.0.0 mabuktogel.ltd
+0.0.0.0 mabuktogel.marketing
+0.0.0.0 mabuktogel.properties
+0.0.0.0 mabuktogel.solutions
 0.0.0.0 mailkyb.co
 0.0.0.0 dns.maitrekuc.fr
 0.0.0.0 dns.mandre.dev
@@ -962,6 +1006,8 @@
 0.0.0.0 maxfong.cc
 0.0.0.0 www.maxfong.cc
 0.0.0.0 dns.maybe.icu
+0.0.0.0 dns.mbrjun.cn
+0.0.0.0 mc-sft.cn
 0.0.0.0 adguard.meddy94.de
 0.0.0.0 dns.meeo.win
 0.0.0.0 testguard.meexx.de
@@ -975,10 +1021,12 @@
 0.0.0.0 esel.stusta.mhn.de
 0.0.0.0 muli.stusta.mhn.de
 0.0.0.0 securenet.mhsystems.net
+0.0.0.0 dns.michelo.cl
 0.0.0.0 doh.micronets.in
 0.0.0.0 dns.mihanentalpo.me
 0.0.0.0 dns.mikeliu.org
 0.0.0.0 mikezhang.xyz
+0.0.0.0 miniapp.global
 0.0.0.0 minilla.store
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 doh.mmmalia.com
@@ -1037,6 +1085,7 @@
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
+0.0.0.0 najiakeji.top
 0.0.0.0 dns.nako.kr
 0.0.0.0 www.chungocoai.name.vn
 0.0.0.0 adguard.quydang.name.vn
@@ -1110,6 +1159,8 @@
 0.0.0.0 dnsotls.lab.nic.cl
 0.0.0.0 odvr.nic.cz
 0.0.0.0 dns.nick-slowinski.de
+0.0.0.0 doh-own-recursion.nicolas-dorriere.fr
+0.0.0.0 doh-random-upstream.nicolas-dorriere.fr
 0.0.0.0 nicsezcheckfbi.gov
 0.0.0.0 dns1.nielsdb.be
 0.0.0.0 dns.ningkelle.id
@@ -1159,6 +1210,7 @@
 0.0.0.0 obscuro.top
 0.0.0.0 dns.odinpl.com
 0.0.0.0 dns.ofdoom.net
+0.0.0.0 okado.online
 0.0.0.0 dns.olpploiopkuyhiopsfrt.info
 0.0.0.0 adguard.oms-ctr.ru
 0.0.0.0 one.one.one.one
@@ -1208,10 +1260,12 @@
 0.0.0.0 pashagame456.com
 0.0.0.0 dns.pccoach.nl
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
+0.0.0.0 dns.peb-schmidt.de
 0.0.0.0 fuchur.pentament.de
 0.0.0.0 dns.pernika.net
 0.0.0.0 darya.persiannit.net
 0.0.0.0 dns.pesaventofilippo.com
+0.0.0.0 dns.petqa.ru
 0.0.0.0 adguard.pggns.de
 0.0.0.0 dns.phillipjberry.net
 0.0.0.0 doh.centraleu.pi-dns.com
@@ -1240,6 +1294,19 @@
 0.0.0.0 pm1239-bd.xyz
 0.0.0.0 pm7051-br.xyz
 0.0.0.0 pm9352-bd.xyz
+0.0.0.0 polisitogel.accountant
+0.0.0.0 polisitogel.beauty
+0.0.0.0 polisitogel.builders
+0.0.0.0 polisitogel.contractors
+0.0.0.0 polisitogel.cruises
+0.0.0.0 polisitogel.diy
+0.0.0.0 polisitogel.green
+0.0.0.0 polisitogel.hair
+0.0.0.0 polisitogel.limo
+0.0.0.0 polisitogel.living
+0.0.0.0 polisitogel.luxe
+0.0.0.0 polisitogel.show
+0.0.0.0 polisitogel.webcam
 0.0.0.0 doh.port53.dk
 0.0.0.0 dns.porteii.com
 0.0.0.0 doh.powerdns.org
@@ -1280,7 +1347,9 @@
 0.0.0.0 doh.pyry.me
 0.0.0.0 at.pzhg.me
 0.0.0.0 vpsus3.pzhg.me
+0.0.0.0 v.qdev.cc
 0.0.0.0 doh.qis.io
+0.0.0.0 qqmcfw.tech
 0.0.0.0 ns1.qquack.org
 0.0.0.0 dns.qrtz.club
 0.0.0.0 hostdare.qtxd.net
@@ -1326,9 +1395,11 @@
 0.0.0.0 sky.rethinkdns.com
 0.0.0.0 revelio.top
 0.0.0.0 doh.rezhajul.io
+0.0.0.0 newd.rezyro.com
 0.0.0.0 resolver.rferee.dev
 0.0.0.0 ricko.is
 0.0.0.0 dns.rin.sh
+0.0.0.0 vps.robotboard.de
 0.0.0.0 dns.roedel.cloud
 0.0.0.0 dns.ronc.ru
 0.0.0.0 dns.rotunneling.net
@@ -1353,6 +1424,7 @@
 0.0.0.0 dns2.saferbfc.org
 0.0.0.0 safeservedns.com
 0.0.0.0 doh.safesurfer.io
+0.0.0.0 dns.salonia.it
 0.0.0.0 cloud.samutz.com
 0.0.0.0 dns.sarak.as
 0.0.0.0 dns.sarakas.net
@@ -1375,6 +1447,7 @@
 0.0.0.0 dns.sellan.fr
 0.0.0.0 adguard.senthil.us
 0.0.0.0 dns.serdcebolit.ru
+0.0.0.0 dns1.serdcebolit.ru
 0.0.0.0 privatnas.servebeer.com
 0.0.0.0 dns.sev.monster
 0.0.0.0 pates.services.sfr.fr.casepp.sfr.fr
@@ -1429,11 +1502,13 @@
 0.0.0.0 sunnygyl.com
 0.0.0.0 doh.sunoaki.net
 0.0.0.0 dns.superstefan.win
+0.0.0.0 dns.surobe.com
 0.0.0.0 dns.sv-zauner.at
 0.0.0.0 dns.svoi.dev
 0.0.0.0 dns.swin.pro
 0.0.0.0 switch.ch
 0.0.0.0 dns.switch.ch
+0.0.0.0 dns.sy.st
 0.0.0.0 dns.syaifullah.com
 0.0.0.0 ibksturm.synology.me
 0.0.0.0 ihctw.synology.me
@@ -1441,6 +1516,7 @@
 0.0.0.0 dns.szpadel.ovh
 0.0.0.0 dns.t-ipnet.de
 0.0.0.0 dns.t53.de
+0.0.0.0 adguard.taxiora.tn
 0.0.0.0 tecdrive.site
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 vpn.technicule.info
@@ -1486,12 +1562,15 @@
 0.0.0.0 resolv2.trash.net
 0.0.0.0 resolv3.trash.net
 0.0.0.0 ns.trcnet.fi
+0.0.0.0 tri-dns.net
+0.0.0.0 eu.tri-dns.net
 0.0.0.0 tributh.net
 0.0.0.0 dns.trust404.win
 0.0.0.0 truta.org
 0.0.0.0 dns.tryk.app
 0.0.0.0 adg.tshost.no
 0.0.0.0 doh.ibr.cs.tu-bs.de
+0.0.0.0 tujenasnaszato.xyz
 0.0.0.0 tuskythehusky.tech
 0.0.0.0 nat64.tuxis.nl
 0.0.0.0 dns.twnic.tw
@@ -1519,10 +1598,14 @@
 0.0.0.0 dns.koala.us.to
 0.0.0.0 nightlymoon.us.kg
 0.0.0.0 luna-is.so-gorgeo.us.kg
+0.0.0.0 mecca-is.so-gorgeo.us.kg
 0.0.0.0 mita-is.so-gorgeo.us.kg
+0.0.0.0 myrra-is.so-gorgeo.us.kg
 0.0.0.0 nana-is.so-gorgeo.us.kg
 0.0.0.0 nindy-is.so-gorgeo.us.kg
+0.0.0.0 nora-is.so-gorgeo.us.kg
 0.0.0.0 nova-is.so-gorgeo.us.kg
+0.0.0.0 sitha-is.so-gorgeo.us.kg
 0.0.0.0 tetty-is.so-gorgeo.us.kg
 0.0.0.0 yussy-is.so-gorgeo.us.kg
 0.0.0.0 adfree.usableprivacy.net
@@ -1563,6 +1646,7 @@
 0.0.0.0 ns3.wuyouss.com
 0.0.0.0 wyx.cloud
 0.0.0.0 adb-home.xaoimoon.fr
+0.0.0.0 xbcpb668.com
 0.0.0.0 doh.xcom.pro
 0.0.0.0 xenergy.cc
 0.0.0.0 doh.xfinity.com
@@ -1575,6 +1659,7 @@
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
 0.0.0.0 v2.xx3210766.live
+0.0.0.0 dns.yague.me
 0.0.0.0 dns.yameenassotally.com
 0.0.0.0 2.dnscrypt-cert.browser.yandex.net
 0.0.0.0 dns.yandex.ru
@@ -1592,6 +1677,7 @@
 0.0.0.0 net01.youcef.io
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
+0.0.0.0 dns.yuu-g.net
 0.0.0.0 yuvelirtut.website
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 adguard.zachitect.com
