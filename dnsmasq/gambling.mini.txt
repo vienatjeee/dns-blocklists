@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Nov 2024 00:57 UTC
-# Version: 2024.1119.0057.16
+# Last modified: 19 Nov 2024 16:12 UTC
+# Version: 2024.1119.1612.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 37762
+# Number of entries: 37758
 #
 local=/0-betsixty.com/
 local=/0-casino.info/
@@ -3077,6 +3077,7 @@ local=/6633win.com/
 local=/66442007.com/
 local=/6644540.com/
 local=/6655789.com/
+local=/6655bet.com/
 local=/6655bet8.com/
 local=/6656757.com/
 local=/6661919.com/
@@ -3486,7 +3487,6 @@ local=/777.be/
 local=/777.com/
 local=/777.fun/
 local=/777.ua/
-local=/777-aeroporto777.com/
 local=/777-azino-casino.ru/
 local=/777-cadeira777.net/
 local=/777-casino.world/
@@ -4162,7 +4162,6 @@ local=/86811111.com/
 local=/8682n.com/
 local=/8685050.com/
 local=/868v.app/
-local=/868vapp.com/
 local=/868vip.bet/
 local=/868vip.bond/
 local=/868vip.cfd/
@@ -6920,6 +6919,7 @@ local=/bbrbet50.com/
 local=/bbrbet51.com/
 local=/bbrbet52.com/
 local=/bbrbet53.com/
+local=/bbrjogo001.com/
 local=/bbs7.bet/
 local=/bbsesportes.com/
 local=/bbsports.top/
@@ -15084,6 +15084,7 @@ local=/eokk.bet/
 local=/eoption.com/
 local=/epay-ubpop.com/
 local=/epayments.com/
+local=/epe777.vip/
 local=/epicbet.com/
 local=/epiccasino.top/
 local=/epicdrop.one/
@@ -20412,6 +20413,7 @@ local=/j88vip66.com/
 local=/j88vip8.com/
 local=/j88vip9.com/
 local=/j9-btc.com/
+local=/j9bet.vin/
 local=/j9cn.bet/
 local=/ja77.net/
 local=/ja777ya11.com/
@@ -21032,6 +21034,7 @@ local=/jiliapp8.com/
 local=/jiliappidn4.com/
 local=/jiliappin01.com/
 local=/jiliappph5.com/
+local=/jilibay.app/
 local=/jilibdtspin.com/
 local=/jilibdttaka.com/
 local=/jilibet.com/
@@ -27817,6 +27820,7 @@ local=/phdream222.com/
 local=/phdream333.com/
 local=/phdream41.live/
 local=/phdream7.com/
+local=/phfiery3927.com/
 local=/philippinescasinos.ph/
 local=/phjl.cool/
 local=/phjl.loan/
@@ -29556,8 +29560,6 @@ local=/realrich24casino.com/
 local=/reals-casino.me/
 local=/realsbet.com/
 local=/realvegasonline.com/
-local=/reba5a.com/
-local=/reba5b.com/
 local=/reba5c.com/
 local=/rebekahgambleholisticpractitioner.com/
 local=/rebellioncasino.com/
@@ -29715,7 +29717,6 @@ local=/refpaeovcmka.top/
 local=/refpaewsbc.top/
 local=/refpaffkansb.top/
 local=/refpagertsf.top/
-local=/refpagutk.top/
 local=/refpahroql.top/
 local=/refpaicctvtm.top/
 local=/refpaiglbwkv.top/
@@ -36214,7 +36215,6 @@ local=/w1casino.com/
 local=/w1pg.com/
 local=/w1xbet.ru/
 local=/w22.vip/
-local=/w2448.com/
 local=/w388.com/
 local=/w3e7y2.ink/
 local=/w3fg4sfok.info/
@@ -36223,7 +36223,6 @@ local=/w5.com/
 local=/w500.one/
 local=/w500admin.cc/
 local=/c.w55.casino/
-local=/w5505.com/
 local=/w69aj.com/
 local=/w69bet.com/
 local=/w69cx.com/
@@ -37283,8 +37282,6 @@ local=/xfile101.com/
 local=/xg13bepf8.com/
 local=/xgames77.net/
 local=/xh00lt7.lol/
-local=/xhyl00.com/
-local=/xhyl11.com/
 local=/xiaofeihuang.com/
 local=/xiaojinsport.com/
 local=/xifali.com/
@@ -37556,7 +37553,6 @@ local=/yy777g.com/
 local=/yy8087.com/
 local=/yydbet.com/
 local=/yydbet.vip/
-local=/yyk1.com/
 local=/yykbet.com/
 local=/yylive.top/
 local=/yylive.xyz/

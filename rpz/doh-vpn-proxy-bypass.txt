@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731976800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1732033800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Nov 2024 00:40 UTC
-; Version: 2024.1119.0040.45
+; Last modified: 19 Nov 2024 16:30 UTC
+; Version: 2024.1119.1630.48
 ; Syntax: RPZ
 ; Number of entries: 7188
 ;
@@ -3492,6 +3492,8 @@ adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
 adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
+dns.auapi.fun CNAME .
+*.dns.auapi.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -6626,8 +6628,6 @@ jp1.f7b6h9.tk CNAME .
 *.jp1.f7b6h9.tk CNAME .
 dns.vinokurov.tk CNAME .
 *.dns.vinokurov.tk CNAME .
-adguard.taxiora.tn CNAME .
-*.adguard.taxiora.tn CNAME .
 darknet.to CNAME .
 *.darknet.to CNAME .
 nvpn.to CNAME .

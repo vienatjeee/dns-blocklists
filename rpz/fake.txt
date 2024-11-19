@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731979860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1732018140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Nov 2024 01:31 UTC
-; Version: 2024.1119.0131.51
+; Last modified: 19 Nov 2024 12:09 UTC
+; Version: 2024.1119.1209.33
 ; Syntax: RPZ
 ; Number of entries: 24692
 ;
@@ -2881,6 +2881,8 @@ bonnieandbloom.com CNAME .
 *.bonnieandbloom.com CNAME .
 boomaya.com CNAME .
 *.boomaya.com CNAME .
+boori-baby.com CNAME .
+*.boori-baby.com CNAME .
 booster-lastminute.com CNAME .
 *.booster-lastminute.com CNAME .
 bootedcowboy.com CNAME .
@@ -6019,8 +6021,6 @@ getsportsgo.com CNAME .
 *.getsportsgo.com CNAME .
 getvoltbox.com CNAME .
 *.getvoltbox.com CNAME .
-getvoltplug.com CNAME .
-*.getvoltplug.com CNAME .
 getvoltsemi.com CNAME .
 *.getvoltsemi.com CNAME .
 getyourmedshere.com CNAME .
@@ -11453,8 +11453,6 @@ scotlandnewstoday.com CNAME .
 *.scotlandnewstoday.com CNAME .
 sdk-transport.com CNAME .
 *.sdk-transport.com CNAME .
-seafollywear.com CNAME .
-*.seafollywear.com CNAME .
 ildhs.searchhomesforyou.com CNAME .
 *.ildhs.searchhomesforyou.com CNAME .
 sears-de.com CNAME .
@@ -12127,6 +12125,8 @@ sr-finanzen.com CNAME .
 *.sr-finanzen.com CNAME .
 st-conseils.com CNAME .
 *.st-conseils.com CNAME .
+stadler-reifen.com CNAME .
+*.stadler-reifen.com CNAME .
 stahlwandpoolde.com CNAME .
 *.stahlwandpoolde.com CNAME .
 stalloneinnovations.com CNAME .
@@ -14045,6 +14045,8 @@ viagra-schweiz.com CNAME .
 *.viagra-schweiz.com CNAME .
 viagraed-noprescription.com CNAME .
 *.viagraed-noprescription.com CNAME .
+viagrainaustralia.com CNAME .
+*.viagrainaustralia.com CNAME .
 vialine-pharma-fr.com CNAME .
 *.vialine-pharma-fr.com CNAME .
 vibram-es.com CNAME .
@@ -15873,8 +15875,6 @@ delwin-tech.de CNAME .
 *.delwin-tech.de CNAME .
 demoniadeutschland.de CNAME .
 *.demoniadeutschland.de CNAME .
-demoniaschuhe.de CNAME .
-*.demoniaschuhe.de CNAME .
 demoniastiefel.de CNAME .
 *.demoniastiefel.de CNAME .
 dent-wellness.de CNAME .
@@ -23415,8 +23415,6 @@ reifenversand-moser.shop CNAME .
 *.reifenversand-moser.shop CNAME .
 reifenversand-pfaff.shop CNAME .
 *.reifenversand-pfaff.shop CNAME .
-reifenversand-stock.shop CNAME .
-*.reifenversand-stock.shop CNAME .
 reinhardt-reifenversand.shop CNAME .
 *.reinhardt-reifenversand.shop CNAME .
 rethinkitstudios.shop CNAME .
@@ -24229,6 +24227,8 @@ applified.tech CNAME .
 *.applified.tech CNAME .
 the-portable-monitor.tech CNAME .
 *.the-portable-monitor.tech CNAME .
+apoteket.to CNAME .
+*.apoteket.to CNAME .
 besteuhren.to CNAME .
 *.besteuhren.to CNAME .
 body-gear.to CNAME .

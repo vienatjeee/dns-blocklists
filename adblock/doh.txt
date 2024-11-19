@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 Nov 2024 02:01 UTC
-! Version: 2024.1119.0201.59
+! Last modified: 19 Nov 2024 16:29 UTC
+! Version: 2024.1119.1629.39
 ! Syntax: AdBlock
-! Number of entries: 1504
+! Number of entries: 1505
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -134,6 +134,7 @@
 ||adguardhome.atakorah.com^
 ||atris.cyou^
 ||dohtrial.att.net^
+||dns.auapi.fun^
 ||africa.avastdns.com^
 ||secure.avastdns.com^
 ||adguard.avdkishore.dev^

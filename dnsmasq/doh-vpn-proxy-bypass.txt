@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Nov 2024 00:40 UTC
-# Version: 2024.1119.0040.45
+# Last modified: 19 Nov 2024 16:30 UTC
+# Version: 2024.1119.1630.48
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3594
 #
@@ -272,6 +272,7 @@ local=/adguardhome.atakorah.com/
 local=/atlasvpn.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
+local=/dns.auapi.fun/
 local=/auto-aufladen.de/
 local=/vanheim.ff.avast.com/
 local=/vpn.avg.tools.avast.com/
@@ -2884,7 +2885,6 @@ local=/dns.t-ipnet.de/
 local=/dns.t53.de/
 local=/tailscale.com/
 local=/talk2m.com/
-local=/adguard.taxiora.tn/
 local=/tbjr6.com/
 local=/tbjr6.net/
 local=/tbjr6.org/

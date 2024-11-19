@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731977820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1732032720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Nov 2024 00:57 UTC
-; Version: 2024.1119.0057.16
+; Last modified: 19 Nov 2024 16:12 UTC
+; Version: 2024.1119.1612.16
 ; Syntax: RPZ
-; Number of entries: 75524
+; Number of entries: 75516
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -369,6 +369,8 @@ jbobet.app CNAME .
 *.jbobet.app CNAME .
 jebet88.app CNAME .
 *.jebet88.app CNAME .
+jilibay.app CNAME .
+*.jilibay.app CNAME .
 jlbet.app CNAME .
 *.jlbet.app CNAME .
 kb999.app CNAME .
@@ -11443,6 +11445,8 @@ m.5gringos8.com CNAME .
 *.6644540.com CNAME .
 6655789.com CNAME .
 *.6655789.com CNAME .
+6655bet.com CNAME .
+*.6655bet.com CNAME .
 6655bet8.com CNAME .
 *.6655bet8.com CNAME .
 6656757.com CNAME .
@@ -11995,8 +11999,6 @@ images.6929183.com CNAME .
 *.776pnl.com CNAME .
 777.com CNAME .
 *.777.com CNAME .
-777-aeroporto777.com CNAME .
-*.777-aeroporto777.com CNAME .
 777-ninewin.com CNAME .
 *.777-ninewin.com CNAME .
 777-vulcan-slots.com CNAME .
@@ -12827,8 +12829,6 @@ images.847830.com CNAME .
 *.8682n.com CNAME .
 8685050.com CNAME .
 *.8685050.com CNAME .
-868vapp.com CNAME .
-*.868vapp.com CNAME .
 868vip2.com CNAME .
 *.868vip2.com CNAME .
 868vip3.com CNAME .
@@ -16335,6 +16335,8 @@ bbrbet52.com CNAME .
 *.bbrbet52.com CNAME .
 bbrbet53.com CNAME .
 *.bbrbet53.com CNAME .
+bbrjogo001.com CNAME .
+*.bbrjogo001.com CNAME .
 bbsesportes.com CNAME .
 *.bbsesportes.com CNAME .
 bbtn4dcall.com CNAME .
@@ -38733,6 +38735,8 @@ phdream333.com CNAME .
 *.phdream333.com CNAME .
 phdream7.com CNAME .
 *.phdream7.com CNAME .
+phfiery3927.com CNAME .
+*.phfiery3927.com CNAME .
 phjl0.com CNAME .
 *.phjl0.com CNAME .
 phjl000.com CNAME .
@@ -40511,10 +40515,6 @@ realsbet.com CNAME .
 *.realsbet.com CNAME .
 realvegasonline.com CNAME .
 *.realvegasonline.com CNAME .
-reba5a.com CNAME .
-*.reba5a.com CNAME .
-reba5b.com CNAME .
-*.reba5b.com CNAME .
 reba5c.com CNAME .
 *.reba5c.com CNAME .
 rebekahgambleholisticpractitioner.com CNAME .
@@ -47975,14 +47975,10 @@ w1casino.com CNAME .
 *.w1casino.com CNAME .
 w1pg.com CNAME .
 *.w1pg.com CNAME .
-w2448.com CNAME .
-*.w2448.com CNAME .
 w388.com CNAME .
 *.w388.com CNAME .
 w5.com CNAME .
 *.w5.com CNAME .
-w5505.com CNAME .
-*.w5505.com CNAME .
 w69aj.com CNAME .
 *.w69aj.com CNAME .
 w69bet.com CNAME .
@@ -49259,10 +49255,6 @@ xfile101.com CNAME .
 *.xfile101.com CNAME .
 xg13bepf8.com CNAME .
 *.xg13bepf8.com CNAME .
-xhyl00.com CNAME .
-*.xhyl00.com CNAME .
-xhyl11.com CNAME .
-*.xhyl11.com CNAME .
 xiaofeihuang.com CNAME .
 *.xiaofeihuang.com CNAME .
 xiaojinsport.com CNAME .
@@ -49571,8 +49563,6 @@ yy8087.com CNAME .
 *.yy8087.com CNAME .
 yydbet.com CNAME .
 *.yydbet.com CNAME .
-yyk1.com CNAME .
-*.yyk1.com CNAME .
 yykbet.com CNAME .
 *.yykbet.com CNAME .
 yyoobet.com CNAME .
@@ -70049,8 +70039,6 @@ refpaffkansb.top CNAME .
 *.refpaffkansb.top CNAME .
 refpagertsf.top CNAME .
 *.refpagertsf.top CNAME .
-refpagutk.top CNAME .
-*.refpagutk.top CNAME .
 refpahroql.top CNAME .
 *.refpahroql.top CNAME .
 refpaicctvtm.top CNAME .
@@ -71673,6 +71661,8 @@ gamebai.vin CNAME .
 *.gamebai.vin CNAME .
 hitclub.vin CNAME .
 *.hitclub.vin CNAME .
+j9bet.vin CNAME .
+*.j9bet.vin CNAME .
 jun88.vin CNAME .
 *.jun88.vin CNAME .
 lucky88.vin CNAME .
@@ -72143,6 +72133,8 @@ duniaslot88.vip CNAME .
 *.duniaslot88.vip CNAME .
 em88.vip CNAME .
 *.em88.vip CNAME .
+epe777.vip CNAME .
+*.epe777.vip CNAME .
 esportegold.vip CNAME .
 *.esportegold.vip CNAME .
 estelarbet.vip CNAME .

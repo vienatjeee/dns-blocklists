@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Nov 2024 01:31 UTC
-# Version: 2024.1119.0131.51
+# Last modified: 19 Nov 2024 12:09 UTC
+# Version: 2024.1119.1209.33
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 12346
 #
@@ -515,6 +515,7 @@ local=/apoamerbach.com/
 local=/apodeutschland.biz/
 local=/apotek-no24.com/
 local=/apotek-norge24.com/
+local=/apoteket.to/
 local=/apotekno24.com/
 local=/apotheek-nederland.org/
 local=/apotheeknl.com/
@@ -1498,6 +1499,7 @@ local=/bonvoue.de/
 local=/boomaya.com/
 local=/boomforex.net/
 local=/boomjoo.co/
+local=/boori-baby.com/
 local=/booster-lastminute.com/
 local=/bootedcowboy.com/
 local=/boothfelton.com/
@@ -2681,7 +2683,6 @@ local=/demoniajapan.com/
 local=/demoniaonlineshop.com/
 local=/demoniaportugal.com/
 local=/demoniaromania.com/
-local=/demoniaschuhe.de/
 local=/demoniashoesnorge.com/
 local=/demoniastiefel.de/
 local=/demoniasuomi.com/
@@ -4437,7 +4438,6 @@ local=/getrichbb.com/
 local=/getsnowsports.com/
 local=/getsportsgo.com/
 local=/getvoltbox.com/
-local=/getvoltplug.com/
 local=/getvoltsemi.com/
 local=/getyourmedshere.com/
 local=/getyourpillshere.com/
@@ -9005,7 +9005,6 @@ local=/reifenversand-heck.shop/
 local=/reifenversand-miller.shop/
 local=/reifenversand-moser.shop/
 local=/reifenversand-pfaff.shop/
-local=/reifenversand-stock.shop/
 local=/reifkogel24.de/
 local=/reimers-partner.de/
 local=/reineblume.de/
@@ -9578,7 +9577,6 @@ local=/sdj-consult.de/
 local=/sdk-transport.com/
 local=/se-handel24.de/
 local=/seafollyosterreich.at/
-local=/seafollywear.com/
 local=/seak-store.de/
 local=/ildhs.searchhomesforyou.com/
 local=/sears-de.com/
@@ -10173,6 +10171,7 @@ local=/sr-finanzen.com/
 local=/ssense.vip/
 local=/ssrbjc.org/
 local=/st-conseils.com/
+local=/stadler-reifen.com/
 local=/stadtrand.store/
 local=/stahl-autoreifen.shop/
 local=/stahlwandpoolde.com/
@@ -11653,6 +11652,7 @@ local=/viagra-pille-kaufen.de/
 local=/viagra-schweiz.com/
 local=/viagraed-noprescription.com/
 local=/viagrafarmakeio.gr/
+local=/viagrainaustralia.com/
 local=/vialine-pharma-fr.com/
 local=/viarecta.net/
 local=/vibram-es.com/
