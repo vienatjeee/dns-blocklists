@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Nov 2024 04:13 UTC
-# Version: 2024.1118.0413.22
+# Last modified: 19 Nov 2024 02:01 UTC
+# Version: 2024.1119.0201.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1505
+# Number of entries: 1504
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1352,7 +1352,6 @@ local=/doh.syshero.org/
 local=/dns.szpadel.ovh/
 local=/dns.t-ipnet.de/
 local=/dns.t53.de/
-local=/adguard.taxiora.tn/
 local=/tecdrive.site/
 local=/dns1.techeasy.org/
 local=/vpn.technicule.info/

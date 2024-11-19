@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1731931740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1731979860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Nov 2024 12:09 UTC
-; Version: 2024.1118.1209.24
+; Last modified: 19 Nov 2024 01:31 UTC
+; Version: 2024.1119.0131.51
 ; Syntax: RPZ
-; Number of entries: 24696
+; Number of entries: 24692
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -3785,12 +3785,8 @@ corralwestboot.com CNAME .
 *.corralwestboot.com CNAME .
 cosco-container.com CNAME .
 *.cosco-container.com CNAME .
-cosmetic-sell.com CNAME .
-*.cosmetic-sell.com CNAME .
 cosmeticsyy.com CNAME .
 *.cosmeticsyy.com CNAME .
-cosplayer-paradise.com CNAME .
-*.cosplayer-paradise.com CNAME .
 cosplayshow.com CNAME .
 *.cosplayshow.com CNAME .
 coswomens.com CNAME .
@@ -5287,8 +5283,6 @@ fasty-revolution.com CNAME .
 *.fasty-revolution.com CNAME .
 faucetkingstonbrass.com CNAME .
 *.faucetkingstonbrass.com CNAME .
-favoritedrugstore.com CNAME .
-*.favoritedrugstore.com CNAME .
 favoriteguitar.com CNAME .
 *.favoriteguitar.com CNAME .
 favoritelakeside.com CNAME .
@@ -6473,6 +6467,8 @@ hasznaltnotebook.com CNAME .
 *.hasznaltnotebook.com CNAME .
 haulageproduct.com CNAME .
 *.haulageproduct.com CNAME .
+hauptapotheke.com CNAME .
+*.hauptapotheke.com CNAME .
 hausgerat.com CNAME .
 *.hausgerat.com CNAME .
 hausgerateshop.com CNAME .
@@ -9657,8 +9653,6 @@ onlinekuche.com CNAME .
 *.onlinekuche.com CNAME .
 onlineladywear.com CNAME .
 *.onlineladywear.com CNAME .
-app.onlinelebenslauf.com CNAME .
-*.app.onlinelebenslauf.com CNAME .
 onlinemaripe.com CNAME .
 *.onlinemaripe.com CNAME .
 onlinemensdenim.com CNAME .
@@ -11109,8 +11103,6 @@ rugsedgy.com CNAME .
 *.rugsedgy.com CNAME .
 rugsfeizy.com CNAME .
 *.rugsfeizy.com CNAME .
-runnerzonesale.com CNAME .
-*.runnerzonesale.com CNAME .
 runningonsale.com CNAME .
 *.runningonsale.com CNAME .
 rushcivilizationmorale.com CNAME .
@@ -11505,8 +11497,6 @@ selfridges-work.com CNAME .
 *.selfridges-work.com CNAME .
 sellerclothing.com CNAME .
 *.sellerclothing.com CNAME .
-sellerfishing.com CNAME .
-*.sellerfishing.com CNAME .
 sellerusapparel.com CNAME .
 *.sellerusapparel.com CNAME .
 sellingkitchen.com CNAME .
@@ -11987,6 +11977,8 @@ solarwind-shop.com CNAME .
 *.solarwind-shop.com CNAME .
 soldeimaginations.com CNAME .
 *.soldeimaginations.com CNAME .
+solden-hotels.com CNAME .
+*.solden-hotels.com CNAME .
 solds123.com CNAME .
 *.solds123.com CNAME .
 soleildocrehome.com CNAME .
@@ -13375,8 +13367,6 @@ tradingrugby.com CNAME .
 *.tradingrugby.com CNAME .
 tradingstylish.com CNAME .
 *.tradingstylish.com CNAME .
-traditionallamp.com CNAME .
-*.traditionallamp.com CNAME .
 trailers-king.com CNAME .
 *.trailers-king.com CNAME .
 trailrunningsale.com CNAME .
@@ -14099,6 +14089,8 @@ virtuellerassistentt.com CNAME .
 *.virtuellerassistentt.com CNAME .
 visionfancyclothing.com CNAME .
 *.visionfancyclothing.com CNAME .
+visitaserbia.com CNAME .
+*.visitaserbia.com CNAME .
 vitiwine.com CNAME .
 *.vitiwine.com CNAME .
 vitusia.com CNAME .
@@ -15225,8 +15217,6 @@ batroni.de CNAME .
 *.batroni.de CNAME .
 bau-profis24.de CNAME .
 *.bau-profis24.de CNAME .
-bauenspeichern.de CNAME .
-*.bauenspeichern.de CNAME .
 baumarktneu.de CNAME .
 *.baumarktneu.de CNAME .
 baumarktverkauf.de CNAME .
@@ -15931,6 +15921,8 @@ dfr-hessen.de CNAME .
 *.dfr-hessen.de CNAME .
 dhvpersonal.de CNAME .
 *.dhvpersonal.de CNAME .
+diabohr-tech.de CNAME .
+*.diabohr-tech.de CNAME .
 diaetoxil.de CNAME .
 *.diaetoxil.de CNAME .
 diamant-eventcenter.de CNAME .
@@ -18467,6 +18459,8 @@ pandoracharmsausverkauf.de CNAME .
 *.pandoracharmsausverkauf.de CNAME .
 pandorade.de CNAME .
 *.pandorade.de CNAME .
+papageienzuchtheim.de CNAME .
+*.papageienzuchtheim.de CNAME .
 papsttasche.de CNAME .
 *.papsttasche.de CNAME .
 parakonz.de CNAME .
@@ -22507,6 +22501,8 @@ foldersys.shop CNAME .
 *.foldersys.shop CNAME .
 fontasia.shop CNAME .
 *.fontasia.shop CNAME .
+fontis-shop.shop CNAME .
+*.fontis-shop.shop CNAME .
 fooody4u.shop CNAME .
 *.fooody4u.shop CNAME .
 fooody4uz.shop CNAME .
