@@ -44,7 +44,7 @@
   9 |      64% |   0% |     36% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      75% |  11% |     14% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
- 12 |      94% |   6% |      0% | Denylist Community non-Aggressive
+ 12 |      93% |   7% |      0% | Denylist Community non-Aggressive
  13 |      76% |  14% |     10% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  14 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  15 |      99% |   0% |      1% | Native Tracker OPPO/Realme (EXPERIMENTAL)
@@ -71,7 +71,7 @@
   9 |      97% |   0% |      3% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      87% |  11% |      2% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
- 12 |      94% |   6% |      0% | Denylist Community non-Aggressive
+ 12 |      93% |   7% |      0% | Denylist Community non-Aggressive
  13 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  14 |      99% |   0% |      1% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  15 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
@@ -99,7 +99,7 @@
   8 |      99% |   0% |      1% | Native Tracker Microsoft (Windows, Office, MSN)
   9 |      88% |  11% |      1% | Denylist Base
  10 |     100% |   0% |      0% | Basic Extension
- 11 |      94% |   6% |      0% | Denylist Community non-Aggressive
+ 11 |      93% |   7% |      0% | Denylist Community non-Aggressive
  12 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  13 |      99% |   0% |      1% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  14 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
