@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Nov 2024 16:17 UTC
-# Version: 2024.1118.1617.22
+# Last modified: 19 Nov 2024 23:08 UTC
+# Version: 2024.1119.2308.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1475
+# Number of entries: 1482
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -99,6 +99,7 @@ local=/asianfreshproduce.com/
 local=/astrabus.ru/
 local=/at-band-camp.net/
 local=/ath.cx/
+local=/atlantatruckdrivingschool.us/
 local=/auraria.org/
 local=/authorizeddns.net/
 local=/authorizeddns.org/
@@ -609,12 +610,14 @@ local=/geobattery.com/
 local=/gerastar.ru/
 local=/getmyip.com/
 local=/gets-it.net/
+local=/gettrails.com/
 local=/gettrials.com/
 local=/ghostnation.org/
 local=/gigaportal.pl/
 local=/giize.com/
 local=/gleeze.com/
 local=/global-instr.us/
+local=/gluebank.com/
 local=/golaud.com/
 local=/goldcrestcc.com/
 local=/golffan.us/
@@ -637,6 +640,7 @@ local=/grupompr.com/
 local=/gslb.me/
 local=/gteksecurity.com/
 local=/gtk.cl/
+local=/guardz.ru/
 local=/guild-site.com/
 local=/gurcanozturk.com/
 local=/gurdit.com/
@@ -718,6 +722,7 @@ local=/ilovecollege.info/
 local=/imagetemplate.com/
 local=/imagetemplate.net/
 local=/imexsac.com/
+local=/imprendum.com/
 local=/in-the-band.net/
 local=/independentonline.ro/
 local=/inflict.us/
@@ -853,6 +858,7 @@ local=/k.vu/
 local=/k22.su/
 local=/kanda.ru/
 local=/kaohsiung.tv/
+local=/kck-saratov.ru/
 local=/keine-panik.net/
 local=/kellserve.com/
 local=/kicks-ass.net/
@@ -935,6 +941,7 @@ local=/mindhackers.org/
 local=/mine.bz/
 local=/mine.nu/
 local=/minecraftnoob.com/
+local=/minecraftpotato.com/
 local=/minecraftr.us/
 local=/mirolnet.com/
 local=/misconfused.org/

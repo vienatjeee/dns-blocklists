@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Nov 2024 00:23 UTC
-# Version: 2024.1116.0023.36
+# Last modified: 19 Nov 2024 23:55 UTC
+# Version: 2024.1119.2355.00
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 254
+# Number of entries: 256
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -164,6 +164,8 @@
 0.0.0.0 s3-config.samsungacr.com
 0.0.0.0 www.samsungacr.com
 0.0.0.0 samsungadhub.com
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 ww25.ad.samsungadhub.com
 0.0.0.0 www.samsungadhub.com
 0.0.0.0 samsungads.com
 0.0.0.0 ad-server.samsungads.com

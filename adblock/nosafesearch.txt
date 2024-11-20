@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Nov 2024 23:35 UTC
-! Version: 2024.1115.2335.10
+! Last modified: 19 Nov 2024 23:05 UTC
+! Version: 2024.1119.2305.25
 ! Syntax: AdBlock
-! Number of entries: 219
+! Number of entries: 224
 !
 ||search.0xcb.dev^
 ||search.0xgingi.com^
@@ -29,12 +29,14 @@
 ||baidu.com^
 ||baresearch.org^
 ||searx.bbaovanc.com^
+||beezboo.com^
 ||search.biboumail.fr^
 ||searx.bissisoft.com^
 ||search.bluelock.org^
 ||boomle.com^
 ||search.bowlman.org^
 ||search.bus-hit.me^
+||searx.catfluori.de^
 ||sx.catgirl.cloud^
 ||search.aol.co.uk^
 ||websearch.excite.co.jp^
@@ -80,6 +82,7 @@
 ||searx.gnu.style^
 ||searx.gotrust.de^
 ||gruble.de^
+||searx.guillaumea.fr^
 ||hmsearx.h0meserver.com^
 ||searx.hardwired.link^
 ||whoogle.hostux.net^
@@ -163,6 +166,7 @@
 ||search.in.projectsegfau.lt^
 ||search.projectsegfau.lt^
 ||search.us.projectsegfau.lt^
+||searx.prvcy.eu^
 ||librex.pufe.org^
 ||lite.qwant.com^
 ||search.rabbit-company.com^
@@ -174,6 +178,7 @@
 ||wtf.roflcopter.fr^
 ||roteserver.de^
 ||search.rowie.at^
+||search.rubberverse.xyz^
 ||search.sapti.me^
 ||searchencrypt.com^
 ||searchx.mobi^

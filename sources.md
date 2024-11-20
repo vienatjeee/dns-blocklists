@@ -186,6 +186,7 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/videoadex-dom
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
 https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/gambling-hosts.txt
 https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt
@@ -347,6 +348,11 @@ https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
+https://raw.githubusercontent.com/trendmicro/research/refs/heads/main/botnet_ngioweb/domains_0x00aa44f8.txt
+https://raw.githubusercontent.com/trendmicro/research/refs/heads/main/botnet_ngioweb/domains_0x05413238_request.js.txt
+https://raw.githubusercontent.com/trendmicro/research/refs/heads/main/botnet_ngioweb/domains_0x221d333_jquery.js.txt
+https://raw.githubusercontent.com/trendmicro/research/refs/heads/main/botnet_ngioweb/domains_0x2241d23_metric.txt
+https://raw.githubusercontent.com/trendmicro/research/refs/heads/main/botnet_ngioweb/domains_0x56edc15_piwik.js.txt
 https://raw.githubusercontent.com/ttc-cert/TTC-CERT_blocklist_recommended/master/domain_blocklist_recommended.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-others.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt

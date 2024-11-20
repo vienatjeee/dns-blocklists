@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Nov 2024 23:35 UTC
-# Version: 2024.1115.2335.10
+# Last modified: 19 Nov 2024 23:05 UTC
+# Version: 2024.1119.2305.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 219
+# Number of entries: 224
 #
 local=/search.0xcb.dev/
 local=/search.0xgingi.com/
@@ -28,12 +28,14 @@ local=/searx.baczek.me/
 local=/baidu.com/
 local=/baresearch.org/
 local=/searx.bbaovanc.com/
+local=/beezboo.com/
 local=/search.biboumail.fr/
 local=/searx.bissisoft.com/
 local=/search.bluelock.org/
 local=/boomle.com/
 local=/search.bowlman.org/
 local=/search.bus-hit.me/
+local=/searx.catfluori.de/
 local=/sx.catgirl.cloud/
 local=/search.aol.co.uk/
 local=/websearch.excite.co.jp/
@@ -79,6 +81,7 @@ local=/gigablast.com/
 local=/searx.gnu.style/
 local=/searx.gotrust.de/
 local=/gruble.de/
+local=/searx.guillaumea.fr/
 local=/hmsearx.h0meserver.com/
 local=/searx.hardwired.link/
 local=/whoogle.hostux.net/
@@ -162,6 +165,7 @@ local=/search.privacytools.io/
 local=/search.in.projectsegfau.lt/
 local=/search.projectsegfau.lt/
 local=/search.us.projectsegfau.lt/
+local=/searx.prvcy.eu/
 local=/librex.pufe.org/
 local=/lite.qwant.com/
 local=/search.rabbit-company.com/
@@ -173,6 +177,7 @@ local=/searx.roflcopter.fr/
 local=/wtf.roflcopter.fr/
 local=/roteserver.de/
 local=/search.rowie.at/
+local=/search.rubberverse.xyz/
 local=/search.sapti.me/
 local=/searchencrypt.com/
 local=/searchx.mobi/
