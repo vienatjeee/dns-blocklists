@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Nov 2024 20:13 UTC
-# Version: 2024.1120.2013.32
+# Last modified: 20 Nov 2024 23:06 UTC
+# Version: 2024.1120.2306.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3660
+# Number of entries: 3646
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -275,7 +275,6 @@ local=/atlasvpn.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
 local=/dns.auapi.fun/
-local=/autismawareness.design/
 local=/auto-aufladen.de/
 local=/vanheim.ff.avast.com/
 local=/vpn.avg.tools.avast.com/
@@ -497,7 +496,6 @@ local=/dns.chriswservers.com/
 local=/chromebook.digital/
 local=/dns.chromeina.top/
 local=/chromeproxy.net/
-local=/chubsinfestation.design/
 local=/oraclejp2.chungyu.com/
 local=/c.cicitt.ch/
 local=/cienen.com/
@@ -508,7 +506,6 @@ local=/dns.circl.lu/
 local=/mus.cisco.com/
 local=/ciscossh.com/
 local=/citizenvpn.com/
-local=/citrik.design/
 local=/dns.clanless.ovh/
 local=/dns.clanto.cloud/
 local=/cleanbrowsing.org/
@@ -676,7 +673,7 @@ local=/unblock-proxy.com.de/
 local=/doh.viatech.com.tw/
 local=/webproxy.com.de/
 local=/dns.comff.net/
-local=/commanders.design/
+local=/edit.commanders.design/
 local=/commonapp.college/
 local=/commons.host/
 local=/easy-vpn.comodo.com/
@@ -955,7 +952,6 @@ local=/doh.lv/
 local=/doh.pub/
 local=/doh.sb/
 local=/doh.xyz/
-local=/doityourselfcrafts.design/
 local=/dolopo.net/
 local=/domainownership.us/
 local=/doh.domreg.lt/
@@ -1062,7 +1058,6 @@ local=/expressvpn.net/
 local=/dns.extrawdw.net/
 local=/fra1.eyecay.xyz/
 local=/dns.ezyss.id/
-local=/f0lga.tech/
 local=/dns.f4a.fun/
 local=/f4fp.com/
 local=/jp1.f7b6h9.tk/
@@ -1148,7 +1143,6 @@ local=/flyssh.com/
 local=/flyvpn.com/
 local=/gateway.fomichev.cloud/
 local=/for-privacy.net/
-local=/cranking90s.fortnitebuilder.pro/
 local=/fortniters.info/
 local=/forwardproxie.com/
 local=/fproxy.net/
@@ -1573,7 +1567,6 @@ local=/iwantproxy.com/
 local=/iweb365.net/
 local=/ixl.plus/
 local=/jabber-germany.de/
-local=/jackandthebeanstalk.design/
 local=/jackyes.ovh/
 local=/jagoanssh.com/
 local=/jailbreaked.net/
@@ -1780,7 +1773,6 @@ local=/dns.mateo.ovh/
 local=/mathhelpnow.site/
 local=/mathlearning.tech/
 local=/mathnotes.help/
-local=/mathnotes.icu/
 local=/maxfong.cc/
 local=/maxvpn.info/
 local=/dns.maybe.icu/
@@ -2558,7 +2550,6 @@ local=/racevpn.com/
 local=/dns.api.rackspacecloud.com/
 local=/radmin-vpn.com/
 local=/dns.rafn.is/
-local=/rakhmatullo.gay/
 local=/ns.ral9005.org/
 local=/rapidprivacy.com/
 local=/rapidproxy.org/
@@ -2685,7 +2676,6 @@ local=/secretbrowser.net/
 local=/secretproxy.org/
 local=/secretsline.biz/
 local=/secretsline.org/
-local=/secure-vpn.com/
 local=/vpncenter.avg.securebrowser.com/
 local=/vpncenter-tenta.securebrowser.com/
 local=/securefor.com/
@@ -2961,7 +2951,6 @@ local=/uk.teradns.org/
 local=/dns.soldier.terumi.club/
 local=/teruteruteruko.com/
 local=/dns.tesem.dog/
-local=/tutoeerials.tether-dev.com/
 local=/cloud.tezoi.com/
 local=/thankvpn.com/
 local=/the-cloak.com/
@@ -3030,10 +3019,7 @@ local=/tikvpn.com/
 local=/timetohide.me/
 local=/timmes.nl/
 local=/adb.timnichollsphotography.com/
-local=/tinf0il.design/
-local=/tinf0il.online/
 local=/tinf0il.tech/
-local=/tinfoil-is-ass.xyz/
 local=/dns.tipsy.coffee/
 local=/titaniumnetwork.org/
 local=/dns.tls-data.de/

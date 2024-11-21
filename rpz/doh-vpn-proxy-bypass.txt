@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1732133580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1732143960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Nov 2024 20:13 UTC
-; Version: 2024.1120.2013.32
+; Last modified: 20 Nov 2024 23:06 UTC
+; Version: 2024.1120.2306.17
 ; Syntax: RPZ
-; Number of entries: 7320
+; Number of entries: 7292
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2226,8 +2226,6 @@ sec-tunnel.com CNAME .
 *.sec-tunnel.com CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-secure-vpn.com CNAME .
-*.secure-vpn.com CNAME .
 vpncenter.avg.securebrowser.com CNAME .
 *.vpncenter.avg.securebrowser.com CNAME .
 vpncenter-tenta.securebrowser.com CNAME .
@@ -2462,8 +2460,6 @@ tenta.com CNAME .
 *.tenta.com CNAME .
 teruteruteruko.com CNAME .
 *.teruteruteruko.com CNAME .
-tutoeerials.tether-dev.com CNAME .
-*.tutoeerials.tether-dev.com CNAME .
 cloud.tezoi.com CNAME .
 *.cloud.tezoi.com CNAME .
 thankvpn.com CNAME .
@@ -3266,32 +3262,20 @@ mabuktogel.degree CNAME .
 *.mabuktogel.degree CNAME .
 anatomical.design CNAME .
 *.anatomical.design CNAME .
-autismawareness.design CNAME .
-*.autismawareness.design CNAME .
-chubsinfestation.design CNAME .
-*.chubsinfestation.design CNAME .
-citrik.design CNAME .
-*.citrik.design CNAME .
-commanders.design CNAME .
-*.commanders.design CNAME .
+edit.commanders.design CNAME .
+*.edit.commanders.design CNAME .
 constitutional.design CNAME .
 *.constitutional.design CNAME .
 cybertruck.design CNAME .
 *.cybertruck.design CNAME .
 disciplinary.design CNAME .
 *.disciplinary.design CNAME .
-doityourselfcrafts.design CNAME .
-*.doityourselfcrafts.design CNAME .
 gingerbread.design CNAME .
 *.gingerbread.design CNAME .
-jackandthebeanstalk.design CNAME .
-*.jackandthebeanstalk.design CNAME .
 notartclass.design CNAME .
 *.notartclass.design CNAME .
 petergriffin.design CNAME .
 *.petergriffin.design CNAME .
-tinf0il.design CNAME .
-*.tinf0il.design CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 dns.applewebkit.dev CNAME .
@@ -3596,8 +3580,6 @@ unblocksite.fun CNAME .
 *.unblocksite.fun CNAME .
 cloud.198.games CNAME .
 *.cloud.198.games CNAME .
-rakhmatullo.gay CNAME .
-*.rakhmatullo.gay CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
 miniapp.global CNAME .
@@ -3664,8 +3646,6 @@ datatech.icu CNAME .
 *.datatech.icu CNAME .
 dvprovider.icu CNAME .
 *.dvprovider.icu CNAME .
-mathnotes.icu CNAME .
-*.mathnotes.icu CNAME .
 dns.maybe.icu CNAME .
 *.dns.maybe.icu CNAME .
 d2.shabi.icu CNAME .
@@ -5706,8 +5686,6 @@ login.readinghelper.online CNAME .
 *.login.readinghelper.online CNAME .
 roundrockisd.online CNAME .
 *.roundrockisd.online CNAME .
-tinf0il.online CNAME .
-*.tinf0il.online CNAME .
 unblocked2.online CNAME .
 *.unblocked2.online CNAME .
 unblocksites.online CNAME .
@@ -6200,8 +6178,6 @@ bdns.pro CNAME .
 *.bdns.pro CNAME .
 dns.burgas.pro CNAME .
 *.dns.burgas.pro CNAME .
-cranking90s.fortnitebuilder.pro CNAME .
-*.cranking90s.fortnitebuilder.pro CNAME .
 hustlersuniversity.pro CNAME .
 *.hustlersuniversity.pro CNAME .
 math.isreally.pro CNAME .
@@ -6728,8 +6704,6 @@ dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 easyproxy.tech CNAME .
 *.easyproxy.tech CNAME .
-f0lga.tech CNAME .
-*.f0lga.tech CNAME .
 hanniel.tech CNAME .
 *.hanniel.tech CNAME .
 mathlearning.tech CNAME .
@@ -7290,8 +7264,6 @@ siteunblocked.xyz CNAME .
 *.siteunblocked.xyz CNAME .
 stackfront.xyz CNAME .
 *.stackfront.xyz CNAME .
-tinfoil-is-ass.xyz CNAME .
-*.tinfoil-is-ass.xyz CNAME .
 trafflink.xyz CNAME .
 *.trafflink.xyz CNAME .
 tujenasnaszato.xyz CNAME .

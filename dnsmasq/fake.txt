@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Nov 2024 23:57 UTC
-# Version: 2024.1119.2357.11
+# Last modified: 20 Nov 2024 23:56 UTC
+# Version: 2024.1120.2356.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12879
+# Number of entries: 12873
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -1009,7 +1009,6 @@ local=/barracudca.com/
 local=/barsin24.de/
 local=/barth24.com/
 local=/bartiesers.de/
-local=/bartomuk.de/
 local=/bartonladder.com/
 local=/baruttibikes.com/
 local=/baseballcheapest.com/
@@ -2458,7 +2457,6 @@ local=/coyojo.com/
 local=/coyrty.buzz/
 local=/cozyhomeus.com/
 local=/cozysapparels.com/
-local=/cozysleepzone.com/
 local=/cp24.pl/
 local=/coh.cpayc.top/
 local=/crafts-sewing.com/
@@ -3133,7 +3131,6 @@ local=/duplexshop.com/
 local=/durablebats-golf.com/
 local=/durableesee.com/
 local=/durablemicrotech.com/
-local=/durableparlour.com/
 local=/durableswimsuit.com/
 local=/duronic.shop/
 local=/durro.co/
@@ -4368,7 +4365,6 @@ local=/galaktischshop.com/
 local=/galaxyfox.io/
 local=/galeme.com/
 local=/galerieoswald.de/
-local=/galileofx.com/
 local=/gambotmaschinen.com/
 local=/game.toys/
 local=/game-byte.com/
@@ -5484,7 +5480,6 @@ local=/horstz.shop/
 local=/hortenkids.shop/
 local=/hoscaleshop.com/
 local=/hosenhute.com/
-local=/hosenschritte.de/
 local=/hot-shopping.com/
 local=/hotelaustralien.de/
 local=/hotelinphuket.net/
@@ -7646,6 +7641,7 @@ local=/muckbootsnl.com/
 local=/muckbootsosterreich.at/
 local=/muckbootsoutletstore.de/
 local=/muckbootsuomi.com/
+local=/muckschweiz.com/
 local=/mueldersers.de/
 local=/mueller-investment.com/
 local=/muellerer.de/
@@ -8412,6 +8408,7 @@ local=/ospharma.com/
 local=/osprey-suomi.com/
 local=/ospreysuomi.net/
 local=/ossiladende.shop/
+local=/osswald.shop/
 local=/ostergartenhermesdorf.de/
 local=/osterreichpillen.com/
 local=/ostrumam.com/
@@ -8783,7 +8780,6 @@ local=/phpapps.de/
 local=/pickedwellat.works/
 local=/pickleballoffer.com/
 local=/pickledfoodonline.com/
-local=/pictureframe-sale.com/
 local=/pictureoutdooor.com/
 local=/piecesinc.shop/
 local=/piendl-brennholz.de/
@@ -9435,7 +9431,6 @@ local=/reiterholz.de/
 local=/reitz-handel.de/
 local=/rekrutierung.co/
 local=/rekrutierungszentrum.com/
-local=/relaxingbedroom.com/
 local=/relaxliegenxa.com/
 local=/reli-lex.de/
 local=/remediesinstantstore.com/
@@ -10175,7 +10170,6 @@ local=/shop4tesla.shop/
 local=/shopaa.eu/
 local=/shopandie.com/
 local=/shopanera.com/
-local=/shopannafield.com/
 local=/shopathleticshoe.com/
 local=/shopattaire.com/
 local=/shopaya.net/

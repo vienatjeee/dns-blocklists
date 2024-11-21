@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1732060620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1732146960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Nov 2024 23:57 UTC
-; Version: 2024.1119.2357.11
+; Last modified: 20 Nov 2024 23:56 UTC
+; Version: 2024.1120.2356.12
 ; Syntax: RPZ
-; Number of entries: 25758
+; Number of entries: 25746
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -3973,8 +3973,6 @@ cozyhomeus.com CNAME .
 *.cozyhomeus.com CNAME .
 cozysapparels.com CNAME .
 *.cozysapparels.com CNAME .
-cozysleepzone.com CNAME .
-*.cozysleepzone.com CNAME .
 crafts-sewing.com CNAME .
 *.crafts-sewing.com CNAME .
 craftsmansale.com CNAME .
@@ -4733,8 +4731,6 @@ durableesee.com CNAME .
 *.durableesee.com CNAME .
 durablemicrotech.com CNAME .
 *.durablemicrotech.com CNAME .
-durableparlour.com CNAME .
-*.durableparlour.com CNAME .
 durableswimsuit.com CNAME .
 *.durableswimsuit.com CNAME .
 dutchnewstoday.com CNAME .
@@ -5993,8 +5989,6 @@ galaktischshop.com CNAME .
 *.galaktischshop.com CNAME .
 galeme.com CNAME .
 *.galeme.com CNAME .
-galileofx.com CNAME .
-*.galileofx.com CNAME .
 gambotmaschinen.com CNAME .
 *.gambotmaschinen.com CNAME .
 game-byte.com CNAME .
@@ -9349,6 +9343,8 @@ muckbootsnl.com CNAME .
 *.muckbootsnl.com CNAME .
 muckbootsuomi.com CNAME .
 *.muckbootsuomi.com CNAME .
+muckschweiz.com CNAME .
+*.muckschweiz.com CNAME .
 mueller-investment.com CNAME .
 *.mueller-investment.com CNAME .
 muhs-spielwaren.com CNAME .
@@ -10709,8 +10705,6 @@ pickleballoffer.com CNAME .
 *.pickleballoffer.com CNAME .
 pickledfoodonline.com CNAME .
 *.pickledfoodonline.com CNAME .
-pictureframe-sale.com CNAME .
-*.pictureframe-sale.com CNAME .
 pictureoutdooor.com CNAME .
 *.pictureoutdooor.com CNAME .
 pierone-de.com CNAME .
@@ -11403,8 +11397,6 @@ reisetaschenstore.com CNAME .
 *.reisetaschenstore.com CNAME .
 rekrutierungszentrum.com CNAME .
 *.rekrutierungszentrum.com CNAME .
-relaxingbedroom.com CNAME .
-*.relaxingbedroom.com CNAME .
 relaxliegenxa.com CNAME .
 *.relaxliegenxa.com CNAME .
 remediesinstantstore.com CNAME .
@@ -12221,8 +12213,6 @@ shopandie.com CNAME .
 *.shopandie.com CNAME .
 shopanera.com CNAME .
 *.shopanera.com CNAME .
-shopannafield.com CNAME .
-*.shopannafield.com CNAME .
 shopathleticshoe.com CNAME .
 *.shopathleticshoe.com CNAME .
 shopattaire.com CNAME .
@@ -15883,8 +15873,6 @@ barsin24.de CNAME .
 *.barsin24.de CNAME .
 bartiesers.de CNAME .
 *.bartiesers.de CNAME .
-bartomuk.de CNAME .
-*.bartomuk.de CNAME .
 baseballpromo.de CNAME .
 *.baseballpromo.de CNAME .
 basia-kauf.de CNAME .
@@ -17895,8 +17883,6 @@ hormans.de CNAME .
 *.hormans.de CNAME .
 horstseefeld.de CNAME .
 *.horstseefeld.de CNAME .
-hosenschritte.de CNAME .
-*.hosenschritte.de CNAME .
 hotelaustralien.de CNAME .
 *.hotelaustralien.de CNAME .
 houseofcbdeutschland.de CNAME .
@@ -24253,6 +24239,8 @@ osiraemarkt.shop CNAME .
 *.osiraemarkt.shop CNAME .
 ossiladende.shop CNAME .
 *.ossiladende.shop CNAME .
+osswald.shop CNAME .
+*.osswald.shop CNAME .
 otasyas.shop CNAME .
 *.otasyas.shop CNAME .
 thinking.otemo.shop CNAME .
