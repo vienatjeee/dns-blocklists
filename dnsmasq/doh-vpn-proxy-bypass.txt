@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Nov 2024 23:25 UTC
-# Version: 2024.1122.2325.35
+# Last modified: 23 Nov 2024 16:17 UTC
+# Version: 2024.1123.1617.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3646
+# Number of entries: 3648
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -185,6 +185,7 @@ local=/dns.alloxr.info/
 local=/vps.alloxr.info/
 local=/allunblocked.com/
 local=/dns.almir1904.eu/
+local=/alphabr.online/
 local=/alphabrowser.xyz/
 local=/adguard.alu.dog/
 local=/aluu.xyz/
@@ -1360,7 +1361,6 @@ local=/adguard.hartley.cloud/
 local=/query.hdns.io/
 local=/ordns.he.net/
 local=/headproxy.com/
-local=/us-ny-alula.heliumcloud.cc/
 local=/helloworld.cx/
 local=/dns.hellozhao.com/
 local=/helpmehide.net/
@@ -1701,6 +1701,7 @@ local=/dot.libredns.gr/
 local=/dns.lihj.me/
 local=/limevpn.com/
 local=/limitlessproxy.com/
+local=/michelo.line.pm/
 local=/linkideo.com/
 local=/linkmefree.net/
 local=/linkmetube.com/
@@ -3554,6 +3555,7 @@ local=/worldgravityapp.com/
 local=/worldvpn.net/
 local=/wossow.com/
 local=/home.wriedts.de/
+local=/writingessaypros.com/
 local=/wtools.eu/
 local=/ns2.wuyouss.com/
 local=/ns3.wuyouss.com/
