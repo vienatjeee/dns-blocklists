@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Nov 2024 16:16 UTC
-# Version: 2024.1123.1616.31
+# Last modified: 24 Nov 2024 04:25 UTC
+# Version: 2024.1124.0425.16
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1507
 #
@@ -663,6 +663,7 @@ local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
 local=/query.hdns.io/
 local=/ordns.he.net/
+local=/us-ny-alula.heliumcloud.cc/
 local=/dns.hellozhao.com/
 local=/dns.henek.ovh/
 local=/httpdns-push.heytapmobile.com/
@@ -767,7 +768,6 @@ local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/

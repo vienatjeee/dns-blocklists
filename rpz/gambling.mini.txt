@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1732377600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1732421220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Nov 2024 16:00 UTC
-; Version: 2024.1123.1600.44
+; Last modified: 24 Nov 2024 04:07 UTC
+; Version: 2024.1124.0407.44
 ; Syntax: RPZ
-; Number of entries: 79262
+; Number of entries: 79280
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -15565,6 +15565,8 @@ m.88vnd.com CNAME .
 *.9cpbet.com CNAME .
 9d.com CNAME .
 *.9d.com CNAME .
+9daa.com CNAME .
+*.9daa.com CNAME .
 9f.com CNAME .
 *.9f.com CNAME .
 9fb.com CNAME .
@@ -18611,6 +18613,8 @@ betfiery2.com CNAME .
 *.betfiery2.com CNAME .
 betfiery5.com CNAME .
 *.betfiery5.com CNAME .
+betfiery7.com CNAME .
+*.betfiery7.com CNAME .
 betfinal.com CNAME .
 *.betfinal.com CNAME .
 betflag.com CNAME .
@@ -21015,6 +21019,8 @@ caco2bet.com CNAME .
 *.caco2bet.com CNAME .
 cacobet.com CNAME .
 *.cacobet.com CNAME .
+cacofb.com CNAME .
+*.cacofb.com CNAME .
 cadabrus.com CNAME .
 *.cadabrus.com CNAME .
 cadillacpg.com CNAME .
@@ -27481,6 +27487,8 @@ forzza1.com CNAME .
 *.forzza1.com CNAME .
 forzza99.com CNAME .
 *.forzza99.com CNAME .
+fourwinds.com CNAME .
+*.fourwinds.com CNAME .
 fourwindscasino.com CNAME .
 *.fourwindscasino.com CNAME .
 foxbet.com CNAME .
@@ -46155,6 +46163,8 @@ spacesiege.com CNAME .
 *.spacesiege.com CNAME .
 spacewincasino.com CNAME .
 *.spacewincasino.com CNAME .
+spadesqueen.com CNAME .
+*.spadesqueen.com CNAME .
 spainwanderlust.com CNAME .
 *.spainwanderlust.com CNAME .
 spam4db.com CNAME .
@@ -54421,6 +54431,8 @@ betok.game CNAME .
 *.betok.game CNAME .
 coins.game CNAME .
 *.coins.game CNAME .
+h7.game CNAME .
+*.h7.game CNAME .
 hash.game CNAME .
 *.hash.game CNAME .
 jogos365.game CNAME .
@@ -60533,6 +60545,8 @@ millionz-casino.net CNAME .
 *.millionz-casino.net CNAME .
 miso88.net CNAME .
 *.miso88.net CNAME .
+26b3b277d7.mkisscpmjb.net CNAME .
+*.26b3b277d7.mkisscpmjb.net CNAME .
 mn-lottery.net CNAME .
 *.mn-lottery.net CNAME .
 mobilecasinos24.net CNAME .
@@ -65201,6 +65215,8 @@ mrbit.ro CNAME .
 *.mrbit.ro CNAME .
 nitrocasinoonline.ro CNAME .
 *.nitrocasinoonline.ro CNAME .
+princesscasino.ro CNAME .
+*.princesscasino.ro CNAME .
 princesscasinoonline.ro CNAME .
 *.princesscasinoonline.ro CNAME .
 publicwin.ro CNAME .
@@ -75115,6 +75131,8 @@ w88.vin CNAME .
 *.0072p.vip CNAME .
 0072v.vip CNAME .
 *.0072v.vip CNAME .
+095bet.vip CNAME .
+*.095bet.vip CNAME .
 099bet.vip CNAME .
 *.099bet.vip CNAME .
 10bet.vip CNAME .
