@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1732508100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1732553460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Nov 2024 04:15 UTC
-; Version: 2024.1125.0415.36
+; Last modified: 25 Nov 2024 16:51 UTC
+; Version: 2024.1125.1651.24
 ; Syntax: RPZ
-; Number of entries: 7296
+; Number of entries: 7280
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1330,6 +1330,8 @@ globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
 globaltrx.com CNAME .
 *.globaltrx.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 goaslen.com CNAME .
@@ -2184,8 +2186,6 @@ roogen.com CNAME .
 *.roogen.com CNAME .
 roonyx.com CNAME .
 *.roonyx.com CNAME .
-roxy2link.com CNAME .
-*.roxy2link.com CNAME .
 o.rsaikat.com CNAME .
 *.o.rsaikat.com CNAME .
 rushproxy.com CNAME .
@@ -3266,8 +3266,6 @@ mabuktogel.degree CNAME .
 *.mabuktogel.degree CNAME .
 anatomical.design CNAME .
 *.anatomical.design CNAME .
-edit.commanders.design CNAME .
-*.edit.commanders.design CNAME .
 constitutional.design CNAME .
 *.constitutional.design CNAME .
 cybertruck.design CNAME .
@@ -3564,8 +3562,6 @@ adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
 adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
-dns.auapi.fun CNAME .
-*.dns.auapi.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 cynntex.fun CNAME .
@@ -3880,14 +3876,14 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 ivpn.info CNAME .
 *.ivpn.info CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 lalal.info CNAME .
 *.lalal.info CNAME .
 legalweb.info CNAME .
 *.legalweb.info CNAME .
-lurk.info CNAME .
-*.lurk.info CNAME .
 mailproxy.info CNAME .
 *.mailproxy.info CNAME .
 maxvpn.info CNAME .
@@ -3942,8 +3938,6 @@ proxite.info CNAME .
 *.proxite.info CNAME .
 proxy-2015.info CNAME .
 *.proxy-2015.info CNAME .
-proxy-internet.info CNAME .
-*.proxy-internet.info CNAME .
 proxybrowse.info CNAME .
 *.proxybrowse.info CNAME .
 proxyelite.info CNAME .
@@ -3966,8 +3960,6 @@ sitework.info CNAME .
 *.sitework.info CNAME .
 skynetwork.info CNAME .
 *.skynetwork.info CNAME .
-suedeproxy.info CNAME .
-*.suedeproxy.info CNAME .
 surfbytes.info CNAME .
 *.surfbytes.info CNAME .
 vpn.technicule.info CNAME .
@@ -5292,8 +5284,6 @@ proxii.net CNAME .
 *.proxii.net CNAME .
 proxite.net CNAME .
 *.proxite.net CNAME .
-proxy-hypo.net CNAME .
-*.proxy-hypo.net CNAME .
 proxy-site.net CNAME .
 *.proxy-site.net CNAME .
 proxy-youtube.net CNAME .
@@ -5386,8 +5376,6 @@ clientdns3.softcom.net CNAME .
 *.clientdns3.softcom.net CNAME .
 solidproxy.net CNAME .
 *.solidproxy.net CNAME .
-sshagan.net CNAME .
-*.sshagan.net CNAME .
 sshdropbear.net CNAME .
 *.sshdropbear.net CNAME .
 sshmax.net CNAME .
@@ -5772,14 +5760,10 @@ dns.colorfreedom.org CNAME .
 *.dns.colorfreedom.org CNAME .
 coolbits.org CNAME .
 *.coolbits.org CNAME .
-crazyproxy.org CNAME .
-*.crazyproxy.org CNAME .
 croxy.org CNAME .
 *.croxy.org CNAME .
 dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
-dns8.org CNAME .
-*.dns8.org CNAME .
 dontblockme.org CNAME .
 *.dontblockme.org CNAME .
 ns1.dotls.org CNAME .

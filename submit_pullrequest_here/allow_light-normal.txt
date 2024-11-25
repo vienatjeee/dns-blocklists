@@ -1,5 +1,11 @@
 # Unblocking for relaxed lists only
 
+# Floods the dns with requests when blocked, possible battery drain on mobile devices.
+# If not blocked, 1-2 requests are made per day. 
+# Used for de-identified telemetry (DIT, anonymized telemetry) to collect integrity, reliability and performance data.
+# https://faq.whatsapp.com/538382354780857/
+dit.whatsapp.net
+
 # https://github.com/hagezi/dns-blocklists/issues/4245
 callrail.com
 

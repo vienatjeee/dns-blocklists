@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Nov 2024 01:27 UTC
-# Version: 2024.1119.0127.30
+# Last modified: 25 Nov 2024 10:02 UTC
+# Version: 2024.1125.1002.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 373
+# Number of entries: 372
 #
 local=/traffic-media.co.uk/
 local=/ad.intl.xiaomi.com.edgesuite.net/
@@ -66,7 +66,6 @@ local=/hybrid.miui.com/
 local=/india.miui.com/
 local=/inf.miui.com/
 local=/api.accelerator.intl.miui.com/
-local=/privacy.api.intl.miui.com/
 local=/api.aurogon.intl.miui.com/
 local=/activity.browser.intl.miui.com/
 local=/api.browser.intl.miui.com/

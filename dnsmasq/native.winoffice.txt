@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Nov 2024 04:35 UTC
-# Version: 2024.1112.0435.04
+# Last modified: 25 Nov 2024 08:18 UTC
+# Version: 2024.1125.0818.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 341
+# Number of entries: 342
 #
 local=/in.appcenter.ms/
 local=/applicationinsights.azure.com/
@@ -175,6 +175,7 @@ local=/statsfe1.ws.microsoft.com/
 local=/statsfe2.ws.microsoft.com/
 local=/gateway.bingviz.microsoftapp.net/
 local=/msads.net/
+local=/win10-trt.msedge.net/
 local=/ad.msn.com/
 local=/adevents.msn.com/
 local=/ads.msn.com/

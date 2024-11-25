@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Nov 2024 04:14 UTC
-# Version: 2024.1125.0414.26
+# Last modified: 25 Nov 2024 16:50 UTC
+# Version: 2024.1125.1650.11
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1506
 #
@@ -134,7 +134,6 @@ local=/dns.asysec.com/
 local=/adguardhome.atakorah.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
-local=/dns.auapi.fun/
 local=/africa.avastdns.com/
 local=/secure.avastdns.com/
 local=/adguard.avdkishore.dev/
@@ -374,7 +373,6 @@ local=/dns.dns-over-https.com/
 local=/dns0.eu/
 local=/doh.dns4all.eu/
 local=/dns4me.net/
-local=/dns8.org/
 local=/ns1.recursive.dnsbycomodo.com/
 local=/ns2.recursive.dnsbycomodo.com/
 local=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/
@@ -633,6 +631,7 @@ local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/agh.gloom.nexus/
+local=/dns.glorydns.com/
 local=/dns.gnb09.id/
 local=/privacydns.go6lab.si/
 local=/dns.goldplate.org/
@@ -768,6 +767,7 @@ local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kebree.fr/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/dns.kerekes.xyz/
 local=/dns.kernel-error.de/

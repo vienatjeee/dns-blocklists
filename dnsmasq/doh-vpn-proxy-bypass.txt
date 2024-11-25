@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Nov 2024 04:15 UTC
-# Version: 2024.1125.0415.36
+# Last modified: 25 Nov 2024 16:51 UTC
+# Version: 2024.1125.1651.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3648
+# Number of entries: 3640
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -276,7 +276,6 @@ local=/adguardhome.atakorah.com/
 local=/atlasvpn.com/
 local=/atris.cyou/
 local=/dohtrial.att.net/
-local=/dns.auapi.fun/
 local=/auto-aufladen.de/
 local=/vanheim.ff.avast.com/
 local=/vpn-sd.ff.avast.com/
@@ -676,7 +675,6 @@ local=/unblock-proxy.com.de/
 local=/doh.viatech.com.tw/
 local=/webproxy.com.de/
 local=/dns.comff.net/
-local=/edit.commanders.design/
 local=/commonapp.college/
 local=/commons.host/
 local=/easy-vpn.comodo.com/
@@ -706,7 +704,6 @@ local=/b.cpfrx.info/
 local=/www.c.cpfrx.info/
 local=/e.cpfrx.info/
 local=/crawlbase.com/
-local=/crazyproxy.org/
 local=/crazysurfer.info/
 local=/createssh.com/
 local=/createssh.net/
@@ -822,7 +819,6 @@ local=/dns.dns-over-https.com/
 local=/dns0.eu/
 local=/doh.dns4all.eu/
 local=/dns4me.net/
-local=/dns8.org/
 local=/ns1.recursive.dnsbycomodo.com/
 local=/ns2.recursive.dnsbycomodo.com/
 local=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/
@@ -1298,6 +1294,7 @@ local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/agh.gloom.nexus/
+local=/dns.glorydns.com/
 local=/glype.com/
 local=/dns.gnb09.id/
 local=/privacydns.go6lab.si/
@@ -1621,6 +1618,7 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
+local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/
@@ -1735,7 +1733,6 @@ local=/lukscasino-929-tr.xyz/
 local=/dns.luma-medien.com/
 local=/luminati.io/
 local=/luminatinet.com/
-local=/lurk.info/
 local=/dns.lvolland.fr/
 local=/orau.lz0724.com/
 local=/addns1.m-it.ro/
@@ -2400,8 +2397,6 @@ local=/proxy-2015.info/
 local=/proxy-anywhere.com/
 local=/proxy-bypass.com/
 local=/proxy-german.de/
-local=/proxy-hypo.net/
-local=/proxy-internet.info/
 local=/proxy-n-vpn.com/
 local=/proxy-search.com/
 local=/proxy-seller.com/
@@ -2602,7 +2597,6 @@ local=/roonyx.com/
 local=/dns.rootlab.top/
 local=/dns.rotunneling.net/
 local=/roundrockisd.online/
-local=/roxy2link.com/
 local=/o.rsaikat.com/
 local=/au.rslvr.eu/
 local=/bg.rslvr.eu/
@@ -2810,7 +2804,6 @@ local=/squidproxyserver.com/
 local=/sriedmueadguard.casa/
 local=/adguard.sscw.win/
 local=/ssh-free.com/
-local=/sshagan.net/
 local=/sshdropbear.net/
 local=/sshkit.com/
 local=/sshmax.net/
@@ -2855,7 +2848,6 @@ local=/studysurf.com/
 local=/stunnel.org/
 local=/stupidproxy.com/
 local=/doh.suche.org/
-local=/suedeproxy.info/
 local=/local.sufly.top/
 local=/dns.suhaila.dev/
 local=/suissl.com/
