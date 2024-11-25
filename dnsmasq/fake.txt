@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Nov 2024 00:14 UTC
-# Version: 2024.1124.0014.36
+# Last modified: 25 Nov 2024 00:12 UTC
+# Version: 2024.1125.0012.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12937
+# Number of entries: 12939
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -2790,7 +2790,6 @@ local=/demoniajapan.com/
 local=/demoniaonlineshop.com/
 local=/demoniaportugal.com/
 local=/demoniaromania.com/
-local=/demoniaschuhe.de/
 local=/demoniashoesnorge.com/
 local=/demoniastiefel.de/
 local=/demoniasuomi.com/
@@ -2886,6 +2885,7 @@ local=/dflaconii.com/
 local=/dfr-hessen.de/
 local=/dgeronk.top/
 local=/dgtlfuture.com/
+local=/dhabaenen.com/
 local=/dhbhandpick.com/
 local=/dhbs-consulting.com/
 local=/dhvpersonal.de/
@@ -6533,7 +6533,6 @@ local=/lampslightsshop.com/
 local=/lanaeyamiller.com/
 local=/landandwateres.com/
 local=/landcutlery.com/
-local=/landkaffee.com/
 local=/landluftde.shop/
 local=/landoverprtcanada.shop/
 local=/laneberg.de/
@@ -8963,7 +8962,6 @@ local=/popsportsale.com/
 local=/popular-camping.com/
 local=/popularusfemale.com/
 local=/popustennis.com/
-local=/popwomenshoe.com/
 local=/porco-office.de/
 local=/porlabs.com/
 local=/porte-monnaie.de/
@@ -9341,6 +9339,7 @@ local=/rbsbourse.com/
 local=/rbvsv.com/
 local=/rcarrowmax.com/
 local=/rcaxon.com/
+local=/rccarseu.de/
 local=/rccarsmaverick.com/
 local=/rccartrucks.com/
 local=/rcelectronicsale.com/
@@ -9351,6 +9350,7 @@ local=/rcmotorsparts.com/
 local=/rcpartsxpress.com/
 local=/rcschiffe.de/
 local=/rcserpent.com/
+local=/rcspielzeug.de/
 local=/rcteamcorally.com/
 local=/rctoyretail.com/
 local=/rctoysplayful.com/
@@ -11047,6 +11047,7 @@ local=/sylter-wohnlust.shop/
 local=/symbiosiswellbeing.com/
 local=/symbolberlin.com/
 local=/abigo4u.symfony.nl/
+local=/syniaty.com/
 local=/synthesizestylish.com/
 local=/syntheticalusbag.com/
 local=/syos-space.capital/
@@ -11355,6 +11356,7 @@ local=/theshoegift.com/
 local=/theshopcenter.store/
 local=/thesignaturehardware.com/
 local=/thesissystore.com/
+local=/theskiingafford.com/
 local=/thesneakershouse.com/
 local=/thesportcategory.com/
 local=/thesportsua.com/

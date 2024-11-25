@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1732422360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1732508100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Nov 2024 04:26 UTC
-; Version: 2024.1124.0426.25
+; Last modified: 25 Nov 2024 04:15 UTC
+; Version: 2024.1125.0415.36
 ; Syntax: RPZ
 ; Number of entries: 7296
 ;
@@ -602,6 +602,8 @@ adb.aadityakushwaha.com CNAME .
 *.adb.aadityakushwaha.com CNAME .
 doh.dns.apple.com.v.aaplimg.com CNAME .
 *.doh.dns.apple.com.v.aaplimg.com CNAME .
+dns.aaytorr.com CNAME .
+*.dns.aaytorr.com CNAME .
 abcproxy.com CNAME .
 *.abcproxy.com CNAME .
 accessmeproxy.com CNAME .
@@ -732,6 +734,8 @@ atlasvpn.com CNAME .
 *.atlasvpn.com CNAME .
 vanheim.ff.avast.com CNAME .
 *.vanheim.ff.avast.com CNAME .
+vpn-sd.ff.avast.com CNAME .
+*.vpn-sd.ff.avast.com CNAME .
 vpn.avg.tools.avast.com CNAME .
 *.vpn.avg.tools.avast.com CNAME .
 africa.avastdns.com CNAME .
@@ -1326,8 +1330,6 @@ globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
 globaltrx.com CNAME .
 *.globaltrx.com CNAME .
-dns.glorydns.com CNAME .
-*.dns.glorydns.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 goaslen.com CNAME .
@@ -3584,8 +3586,6 @@ cloud.198.games CNAME .
 *.cloud.198.games CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
-miniapp.global CNAME .
-*.miniapp.global CNAME .
 8888.google CNAME .
 *.8888.google CNAME .
 dns.google CNAME .
