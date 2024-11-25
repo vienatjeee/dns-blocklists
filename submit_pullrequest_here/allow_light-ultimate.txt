@@ -1,6 +1,9 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/AdguardTeam/AdguardFilters/issues/193337
+reports.proton.me
+
 # https://github.com/hagezi/dns-blocklists/issues/4370
 ifota.realmemobile.com
 
