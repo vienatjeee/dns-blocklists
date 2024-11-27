@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Nov 2024 16:50 UTC
-# Version: 2024.1125.1650.11
+# Last modified: 27 Nov 2024 04:18 UTC
+# Version: 2024.1127.0418.53
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 188
 #
@@ -93,36 +93,36 @@
 0.0.0.0 doh.funtopia.tv dns.furrydns.de doh.futa.app doh.futa.gg dns.futuredns.me cluster-0.gac.edu cluster-1.gac.edu dns.gamban.com adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net gclouddns.com adg.geili.me geshido.vpn.geshido.ru getdnsapi.net gibblets.top adguard.maison.gifino.fr dns.ginovs.nl dns.girino.org
 0.0.0.0 h.gjrick.tw sdns22.gkonuralp.com glacius.top dns.glf.wtf dns.api.globus.org dns.api.preview.globus.org dns.api.integration.globuscs.info dns.api.sandbox.globuscs.info dns.api.staging.globuscs.info
-0.0.0.0 dns.api.test.globuscs.info agh.gloom.nexus dns.glorydns.com dns.gnb09.id privacydns.go6lab.si dns.goldplate.org doh-primary-pool.goodbyegambling.com dns.google.com google-public-dns-a.google.com
-0.0.0.0 google-public-dns-b.google.com performance.gosami.xyz dot.libredns.gr.com greatideasforlife.lol dnsblock.grisumedia.de dns.grqu.de dns.guard.io dns.guardmydns.com dns2.guidocioni.it
-0.0.0.0 dns.gutwe.in gztech.me dns.hahnjo.de doh.hajekj.net dns.haka.se dns.hakim.one dns.hanahira.dev adguard.haneulo.com dns.hanmey.de
-0.0.0.0 hanniel.tech dns.hannielzhang.com resolver-eu.haringstad.com adguard.hartley.cloud query.hdns.io ordns.he.net us-ny-alula.heliumcloud.cc dns.hellozhao.com dns.henek.ovh
-0.0.0.0 httpdns-push.heytapmobile.com hfgx.shop dns.hinet.net hitian.me pihole1.hoerli.net pihole2.hoerli.net pihole3.hoerli.net pihole4.hoerli.net home-server.store
-0.0.0.0 dns.hoody.com keithchung.hopto.org dns.horcrux.vip dns.internal.hosmatic.com dns.hostux.net dns.hotta.page doh.hottis.de hshh.org dns.hshoe.cn
-0.0.0.0 dns.hugo0.moe dns.hujiayucc.cn doth.huque.com dns.huseynov.work ad.huyct.net dns.huyhoangit.net dns.hypercute.eu opennic.i2pd.xyz opennic2.i2pd.xyz
-0.0.0.0 vd.i81.ru dns.iamanuragh.in dns.iamninja.ru mask.icloud.com mask-api.icloud.com mask-boot.icloud.com mask-canary.icloud.com mask-h2.icloud.com tienpham.id.vn
-0.0.0.0 adguard.shuting.idv.tw adguard.ihatemy.live dns.ihaveacloud.com iij.jp public.dns.iij.jp ikarosalpha.xyz dns.ikataruto.com dns.imaicool.com noads.imbuffering.com
-0.0.0.0 dns.imchristian.de dns.immanuelschaffer.de doh.immerda.ch imperio.top dns1.in-berlin.de dns2.in-berlin.de dns.inclusioproject.com adblock.indianets.net dns.indust.me
-0.0.0.0 dns.indybanipal.com dns.inforlogia.com doh.infracell.net inpssh.online www.inpssh.online qlf-doh.inria.fr dns.interhub.cc iot-dns.com ipoac.nl
-0.0.0.0 dns1.irumatech.com dns.is0mino.com mickedi.isgood.host dns.ishan.pw dns.islandnet.com pdns.itxe.net ivnkn.xyz jabber-germany.de www.jabber-germany.de
-0.0.0.0 jackyes.ovh tj.jamesxue.xyz dns.janl.eu doh.jeroenhd.nl adguard.jfchenier.ca dns.jhangy.us dns.jichi.io dns.jinwoo.dev dns.jiyi.eu
-0.0.0.0 jkdns.me adg.jnorton.us green2.jnraptor.net dns.joey01245.nl adguard.johanliebert.top opencdn.jomodns.com adguard1.jsanagustin.net dns.jstockley.com dns.jundev.org
-0.0.0.0 dns.jupitrdns.com ad.justincounts.com dns.justinnetworkingsolutions.com dns.k3nny.fr kaiwu.xyz dns.kamilszczepanski.com dns.kapite.in dns.karadag.me dns.karfamily.net
-0.0.0.0 dns.karl.one dns.kastner-online.de kavkaz.monster dns.kawa.tf dns.kebree.fr dns.keke125.com doh.kekew.info doh.kel.pe dns.kerekes.xyz
-0.0.0.0 dns.kernel-error.de dns.kescher.at pihole.aws.ketan.dev dns.keviland.com dns.keweon.center adg.khon.dev adguard.kiboko.it doh.kidzonet.io kilabit.info
-0.0.0.0 doh.killtw.im blog.kimiblock.top dns1.klcd.eu dns2.klcd.eu ko-18948-tr.xyz adguard.konikoni428.com doh.kooman.org korzhov.dev dns.kosan.moe
-0.0.0.0 dart.kpsn.org adblock.krctech.dev xray.krnl.eu adguard.kss.ovh dns.kukal.cz dns.kumoumi.net dns.kusoneko.moe dns.kuuhaku.moe kx-97795-tr.xyz
-0.0.0.0 dns.kxy.ink agh.kyusang.win dns.l337.site doh.lacontrevoie.fr dns.lars-lehmann.net dns.lashes-brow.ru lastentarvike.fi eu1.dns.lavate.ch us1.dns.lavate.ch
-0.0.0.0 adguard1.leadmon.net adguard.leadseason.eu dns.learningman.top adblock.leenit.kr yarp.lefolgoc.net br.servers.legat.ml lelux.fi dns.lepilleur.com dns.lermer.nl
-0.0.0.0 lesuo.top dns.levonet.sk lewsha.lol dns2.lezainski.com dns.lgprk.com dns.liberador.net doh.libredns.gr dot.libredns.gr dns.lihj.me
-0.0.0.0 michelo.line.pm dns.linkr.ninja africadns1.liquidtelecom.net africadns2.liquidtelecom.net dns.listo.click loadlow.me dns.lobbygod.com adguard.londonwebnerd.cloud doh.dns1.lonet.org
-0.0.0.0 doh.phdns1.lonet.org doh.phdns2.lonet.org doh.phdns3.lonet.org doh.phdns4.lonet.org doh.phdns5.lonet.org n5.lsasss.com lukscasino-479-tr.xyz lukscasino-542-tr.xyz lukscasino-929-tr.xyz
-0.0.0.0 dns.luma-medien.com dns.lvolland.fr orau.lz0724.com addns1.m-it.ro mabuktogel.builders mabuktogel.business mabuktogel.cards mabuktogel.creditcard mabuktogel.degree
-0.0.0.0 mabuktogel.directory mabuktogel.enterprises mabuktogel.immobilien mabuktogel.limited mabuktogel.ltd mabuktogel.marketing mabuktogel.properties mabuktogel.solutions mailkyb.co
-0.0.0.0 dns.maitrekuc.fr dns.mandre.dev dns.maolaohei.xyz maqgie.xyz dns.marasov.id dns.marbledfennec.net multi.dns.marbledfennec.net ag.marschi.de adguard.marto.si
-0.0.0.0 doh.maskab.com masters-of-cloud.de www.masters-of-cloud.de dns.mateo.ovh maxfong.cc www.maxfong.cc dns.maybe.icu dns.mbrjun.cn mc-sft.cn
-0.0.0.0 adguard.meddy94.de dns.meeo.win testguard.meexx.de meganerd.nl httpdns.meituan.com dns.melvin2204.nl mendozasdelivery.com testaghome.meshkov.info dns.mestdag.fr
-0.0.0.0 dns.mh4ckt3mh4ckt1c4s.xyz esel.stusta.mhn.de muli.stusta.mhn.de securenet.mhsystems.net dns.michelo.cl doh.micronets.in dns.mihanentalpo.me dns.mikeliu.org mikezhang.xyz
+0.0.0.0 dns.api.test.globuscs.info agh.gloom.nexus dns.gnb09.id privacydns.go6lab.si dns.goldplate.org doh-primary-pool.goodbyegambling.com dns.google.com google-public-dns-a.google.com google-public-dns-b.google.com
+0.0.0.0 performance.gosami.xyz dot.libredns.gr.com greatideasforlife.lol dnsblock.grisumedia.de dns.grqu.de dns.guard.io dns.guardmydns.com dns2.guidocioni.it dns.gutwe.in
+0.0.0.0 gztech.me dns.hahnjo.de doh.hajekj.net dns.haka.se dns.hakim.one dns.hanahira.dev adguard.haneulo.com dns.hanmey.de hanniel.tech
+0.0.0.0 dns.hannielzhang.com resolver-eu.haringstad.com adguard.hartley.cloud query.hdns.io ordns.he.net us-ny-alula.heliumcloud.cc dns.hellozhao.com dns.henek.ovh httpdns-push.heytapmobile.com
+0.0.0.0 hfgx.shop dns.hinet.net hitian.me pihole1.hoerli.net pihole2.hoerli.net pihole3.hoerli.net pihole4.hoerli.net home-server.store dns.hoody.com
+0.0.0.0 keithchung.hopto.org dns.horcrux.vip dns.internal.hosmatic.com dns.hostux.net dns.hotta.page doh.hottis.de hshh.org dns.hshoe.cn dns.hugo0.moe
+0.0.0.0 dns.hujiayucc.cn doth.huque.com dns.huseynov.work ad.huyct.net dns.huyhoangit.net dns.hypercute.eu opennic.i2pd.xyz opennic2.i2pd.xyz vd.i81.ru
+0.0.0.0 dns.iamanuragh.in dns.iamninja.ru mask.icloud.com mask-api.icloud.com mask-boot.icloud.com mask-canary.icloud.com mask-h2.icloud.com tienpham.id.vn adguard.shuting.idv.tw
+0.0.0.0 adguard.ihatemy.live dns.ihaveacloud.com iij.jp public.dns.iij.jp ikarosalpha.xyz dns.ikataruto.com dns.imaicool.com noads.imbuffering.com dns.imchristian.de
+0.0.0.0 dns.immanuelschaffer.de doh.immerda.ch imperio.top dns1.in-berlin.de dns2.in-berlin.de dns.inclusioproject.com adblock.indianets.net dns.indust.me dns.indybanipal.com
+0.0.0.0 dns.inforlogia.com doh.infracell.net inpssh.online www.inpssh.online qlf-doh.inria.fr dns.interhub.cc iot-dns.com ipoac.nl dns1.irumatech.com
+0.0.0.0 dns.is0mino.com mickedi.isgood.host dns.ishan.pw dns.islandnet.com pdns.itxe.net ivnkn.xyz jabber-germany.de www.jabber-germany.de jackyes.ovh
+0.0.0.0 tj.jamesxue.xyz dns.janl.eu doh.jeroenhd.nl adguard.jfchenier.ca dns.jhangy.us dns.jichi.io dns.jinwoo.dev dns.jiyi.eu jkdns.me
+0.0.0.0 adg.jnorton.us green2.jnraptor.net dns.joey01245.nl adguard.johanliebert.top opencdn.jomodns.com adguard1.jsanagustin.net dns.jstockley.com dns.jundev.org dns.jupitrdns.com
+0.0.0.0 ad.justincounts.com dns.justinnetworkingsolutions.com dns.k3nny.fr kaiwu.xyz dns.kamilszczepanski.com dns.kapite.in dns.karadag.me dns.karfamily.net dns.karl.one
+0.0.0.0 dns.kastner-online.de kavkaz.monster dns.kawa.tf dns.kebree.fr dns.keke125.com doh.kekew.info doh.kel.pe dns.kerekes.xyz dns.kernel-error.de
+0.0.0.0 dns.kescher.at pihole.aws.ketan.dev dns.keviland.com dns.keweon.center adg.khon.dev adguard.kiboko.it doh.kidzonet.io kilabit.info doh.killtw.im
+0.0.0.0 blog.kimiblock.top dns1.klcd.eu dns2.klcd.eu ko-18948-tr.xyz adguard.konikoni428.com doh.kooman.org korzhov.dev dns.kosan.moe dart.kpsn.org
+0.0.0.0 adblock.krctech.dev xray.krnl.eu adguard.kss.ovh dns.kukal.cz dns.kumoumi.net dns.kusoneko.moe dns.kuuhaku.moe kx-97795-tr.xyz dns.kxy.ink
+0.0.0.0 agh.kyusang.win dns.l337.site doh.lacontrevoie.fr dns.lars-lehmann.net dns.lashes-brow.ru lastentarvike.fi eu1.dns.lavate.ch us1.dns.lavate.ch adguard1.leadmon.net
+0.0.0.0 adguard.leadseason.eu dns.learningman.top adblock.leenit.kr yarp.lefolgoc.net br.servers.legat.ml lelux.fi dns.lepilleur.com dns.lermer.nl lesuo.top
+0.0.0.0 dns.levonet.sk lewsha.lol dns2.lezainski.com dns.lgprk.com dns.liberador.net doh.libredns.gr dot.libredns.gr dns.lihj.me michelo.line.pm
+0.0.0.0 dns.linkr.ninja africadns1.liquidtelecom.net africadns2.liquidtelecom.net dns.listo.click loadlow.me dns.lobbygod.com adguard.londonwebnerd.cloud doh.dns1.lonet.org doh.phdns1.lonet.org
+0.0.0.0 doh.phdns2.lonet.org doh.phdns3.lonet.org doh.phdns4.lonet.org doh.phdns5.lonet.org n5.lsasss.com lukscasino-479-tr.xyz lukscasino-542-tr.xyz lukscasino-929-tr.xyz dns.luma-medien.com
+0.0.0.0 dns.lvolland.fr orau.lz0724.com addns1.m-it.ro mabuktogel.builders mabuktogel.business mabuktogel.cards mabuktogel.creditcard mabuktogel.degree mabuktogel.directory
+0.0.0.0 mabuktogel.enterprises mabuktogel.immobilien mabuktogel.limited mabuktogel.ltd mabuktogel.marketing mabuktogel.properties mabuktogel.solutions mailkyb.co dns.maitrekuc.fr
+0.0.0.0 dns.mandre.dev dns.maolaohei.xyz maqgie.xyz dns.marasov.id dns.marbledfennec.net multi.dns.marbledfennec.net ag.marschi.de adguard.marto.si doh.maskab.com
+0.0.0.0 masters-of-cloud.de www.masters-of-cloud.de dns.mateo.ovh maxfong.cc www.maxfong.cc dns.maybe.icu dns.mbrjun.cn mc-sft.cn adguard.meddy94.de
+0.0.0.0 dns.meeo.win testguard.meexx.de meganerd.nl httpdns.meituan.com dns.melvin2204.nl mendozasdelivery.com testaghome.meshkov.info dns.mestdag.fr dns.mh4ckt3mh4ckt1c4s.xyz
+0.0.0.0 esel.stusta.mhn.de muli.stusta.mhn.de securenet.mhsystems.net dns.michelo.cl doh.micronets.in dns.mihanentalpo.me dns.mikeliu.org mikezhang.xyz dns.milkpie.one
 0.0.0.0 minilla.store netcup.mismat.ch doh.mmmalia.com dns.mnet-online.de mnrv.trade dns.mo0on15.com dnstls.mobik.com nue2.moderateinfra.net ps1.modr.club
 0.0.0.0 dns.molinero.dev naganohara-yoimiya.momokko.moe dns.momou.ch zrh1-ns01.monzoon.net dns.moonssif.com morbitzer.de www.morbitzer.de dns.moulticast.net dns.mrkaran.dev
 0.0.0.0 msr177.com dns.msxnet.ru dns.mtoo.vip ns.mtsoln.com dns.mullvad.net adblock.dns.mullvad.net all.dns.mullvad.net base.dns.mullvad.net extended.dns.mullvad.net
