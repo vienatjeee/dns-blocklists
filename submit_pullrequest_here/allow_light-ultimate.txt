@@ -1,6 +1,21 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/4447
+*.dnsseed.emzy.de
+*.seed.bitcoin.sipa.be
+*.seed.bitcoin.sprovoost.nl
+*.seed.bitcoin.wiz.biz
+*.seed.bitcoinstats.com
+*.seed.btc.petertodd.org
+x5.dnsseed.bluematt.me
+x5.dnsseed.emzy.de
+x5.seed.bitcoin.sipa.be
+x5.seed.bitcoin.sprovoost.nl
+x5.seed.bitcoin.wiz.biz
+x5.seed.bitcoinstats.com
+x5.seed.btc.petertodd.org
+
 # https://github.com/hagezi/dns-blocklists/issues/4439
 cdn.sift.com
 api3.siftscience.com

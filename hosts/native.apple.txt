@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Nov 2024 02:21 UTC
-# Version: 2024.1114.0221.50
+# Last modified: 28 Nov 2024 07:18 UTC
+# Version: 2024.1128.0718.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 329
+# Number of entries: 330
 #
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -34,6 +34,7 @@
 0.0.0.0 iphonesubmissions.apple.com.akadns.net
 0.0.0.0 radarsubmissions.apple.com.akadns.net
 0.0.0.0 iad-apple.com.akadns.net
+0.0.0.0 skadnetwork.iad-apple.com.akadns.net
 0.0.0.0 partiality.itunes-apple.com.akadns.net
 0.0.0.0 xp.itunes-apple.com.akadns.net
 0.0.0.0 searchads.lb-apple.com.akadns.net
