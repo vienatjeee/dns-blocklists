@@ -1,6 +1,13 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/4439
+cdn.sift.com
+api3.siftscience.com
+
+# https://github.com/hagezi/dns-blocklists/issues/4437
+cdn46501877.ahacdn.me
+
 # GetApps (Xiaomi market): not possible to revoke consent (CMP/privacy policy)
 *.privacy.api.intl.miui.com
 

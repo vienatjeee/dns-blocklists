@@ -1,5 +1,13 @@
 # IPs to be removed from the DoH IP list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4442
+162.159.140
+162.159.140.104
+162.159.140.160
+172.66.0
+172.66.0.102
+172.66.0.158
+
 # https://github.com/hagezi/dns-blocklists/issues/4366
 17.248
 17.248.130.19
