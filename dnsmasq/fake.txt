@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Nov 2024 12:19 UTC
-# Version: 2024.1128.1219.33
+# Last modified: 29 Nov 2024 00:12 UTC
+# Version: 2024.1129.0012.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12217
+# Number of entries: 12220
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -783,6 +783,7 @@ local=/autoteileelopode.shop/
 local=/autoteilepreisvergleich.org/
 local=/autoteilerabatt.com/
 local=/autozubehorde.com/
+local=/autozubehr.com/
 local=/autry-deutschland.de/
 local=/autrydeutschland.com/
 local=/autryjapan.net/
@@ -1566,6 +1567,7 @@ local=/brauenintelligent.de/
 local=/braut-cinderella.de/
 local=/braxzt.com/
 local=/breadmachineshop.com/
+local=/breathtakingskis.com/
 local=/bredyshopper.de/
 local=/breezekiss.shop/
 local=/breitenbacher.shop/
@@ -3828,6 +3830,7 @@ local=/fishingjandh.com/
 local=/fishingsale.space/
 local=/fit-perfect.de/
 local=/fitandelite.com/
+local=/fitapotheek.com/
 local=/fitflopoutlet.at/
 local=/fitflopparis.net/
 local=/fitflopromania.com/
@@ -5037,7 +5040,6 @@ local=/herzens-mensch.de/
 local=/herzensnotiz.de/
 local=/heuer-reifenhandel.com/
 local=/hexa-tronic.com/
-local=/heydude-schuhe.de/
 local=/heydudeschuhedamen.de/
 local=/heydudeschuheschweiz.com/
 local=/heyjune.shop/
@@ -8719,7 +8721,6 @@ local=/rabattcricut.de/
 local=/rabattdamen.com/
 local=/rabattdamen.de/
 local=/rabattdekoobjekte.de/
-local=/rabattdeuter.de/
 local=/rabatteundcoupons.de/
 local=/rabattfahrrad.com/
 local=/rabattfahrrader.de/
@@ -9868,6 +9869,7 @@ local=/snowsuitschic.com/
 local=/so-avangarde.shop/
 local=/so-hub.com/
 local=/soapandmore.shop/
+local=/soccerskillshop.com/
 local=/societesibois.com/
 local=/sockestore.com/
 local=/soctbriefa.com/
@@ -11606,6 +11608,7 @@ local=/vivobarefootsaleoutlet.de/
 local=/vivobarefootsandalen.de/
 local=/vivobarefootschuheberlin.de/
 local=/vivobarefootschuhede.com/
+local=/vivobarefootshopberlin.de/
 local=/vivobarefootslovenia.com/
 local=/vivobarefootsuomi.com/
 local=/vivobarefootuae.ae/

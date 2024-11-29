@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1732796340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1732839120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Nov 2024 12:19 UTC
-; Version: 2024.1128.1219.33
+; Last modified: 29 Nov 2024 00:12 UTC
+; Version: 2024.1129.0012.05
 ; Syntax: RPZ
-; Number of entries: 24434
+; Number of entries: 24440
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -2041,6 +2041,8 @@ autoteilerabatt.com CNAME .
 *.autoteilerabatt.com CNAME .
 autozubehorde.com CNAME .
 *.autozubehorde.com CNAME .
+autozubehr.com CNAME .
+*.autozubehr.com CNAME .
 autrydeutschland.com CNAME .
 *.autrydeutschland.com CNAME .
 autryshoesjapan.com CNAME .
@@ -2991,6 +2993,8 @@ braxzt.com CNAME .
 *.braxzt.com CNAME .
 breadmachineshop.com CNAME .
 *.breadmachineshop.com CNAME .
+breathtakingskis.com CNAME .
+*.breathtakingskis.com CNAME .
 breitkamp.com CNAME .
 *.breitkamp.com CNAME .
 bremerbrennholz.com CNAME .
@@ -5443,6 +5447,8 @@ fishingjandh.com CNAME .
 *.fishingjandh.com CNAME .
 fitandelite.com CNAME .
 *.fitandelite.com CNAME .
+fitapotheek.com CNAME .
+*.fitapotheek.com CNAME .
 fitflopromania.com CNAME .
 *.fitflopromania.com CNAME .
 fitnessbox-arena.com CNAME .
@@ -12017,6 +12023,8 @@ snowsuitschic.com CNAME .
 *.snowsuitschic.com CNAME .
 so-hub.com CNAME .
 *.so-hub.com CNAME .
+soccerskillshop.com CNAME .
+*.soccerskillshop.com CNAME .
 societesibois.com CNAME .
 *.societesibois.com CNAME .
 sockestore.com CNAME .
@@ -17133,8 +17141,6 @@ herzens-mensch.de CNAME .
 *.herzens-mensch.de CNAME .
 herzensnotiz.de CNAME .
 *.herzensnotiz.de CNAME .
-heydude-schuhe.de CNAME .
-*.heydude-schuhe.de CNAME .
 heydudeschuhedamen.de CNAME .
 *.heydudeschuhedamen.de CNAME .
 hgiw-shop.de CNAME .
@@ -18789,8 +18795,6 @@ rabattdamen.de CNAME .
 *.rabattdamen.de CNAME .
 rabattdekoobjekte.de CNAME .
 *.rabattdekoobjekte.de CNAME .
-rabattdeuter.de CNAME .
-*.rabattdeuter.de CNAME .
 rabatteundcoupons.de CNAME .
 *.rabatteundcoupons.de CNAME .
 rabattfahrrader.de CNAME .
@@ -19891,6 +19895,8 @@ vivobarefootsandalen.de CNAME .
 *.vivobarefootsandalen.de CNAME .
 vivobarefootschuheberlin.de CNAME .
 *.vivobarefootschuheberlin.de CNAME .
+vivobarefootshopberlin.de CNAME .
+*.vivobarefootshopberlin.de CNAME .
 vlomy.de CNAME .
 *.vlomy.de CNAME .
 vmhausgerate.de CNAME .
