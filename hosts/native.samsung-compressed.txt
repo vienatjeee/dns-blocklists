@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Nov 2024 00:14 UTC
-# Version: 2024.1123.0014.32
+# Last modified: 30 Nov 2024 00:34 UTC
+# Version: 2024.1130.0034.07
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 29
 #
@@ -22,19 +22,19 @@
 0.0.0.0 samsungcard.sc.omtrdc.net samsungnorthamerica.sc.omtrdc.net samsung.com.ssl.sc.omtrdc.net samsungafrica.tt.omtrdc.net samsungbenelux.tt.omtrdc.net samsungcanada.tt.omtrdc.net samsungchina.tt.omtrdc.net samsungcis.tt.omtrdc.net samsungeucdm.tt.omtrdc.net
 0.0.0.0 samsungkorea.tt.omtrdc.net samsunglatam.tt.omtrdc.net samsungmena.tt.omtrdc.net samsungseao.tt.omtrdc.net samsungturkey.tt.omtrdc.net samsungus.tt.omtrdc.net samsungtv-d.openx.net zn8qwjgdslpyjq5n3-samsungcustomerboard.siteintercept.qualtrics.com zn9xowqszdbqtbfwx-seasamsung.siteintercept.qualtrics.com
 0.0.0.0 znewylzpqds1jt1sh-samsunggdc.siteintercept.qualtrics.com znexudtrhw0nwrmga-seasamsung.siteintercept.qualtrics.com zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com config-api.internet.apps.samsung.com sia.internet.apps.samsung.com dls-account.di.atlas.samsung.com analytics.bigdata.samsung.com lp.americas.business.samsung.com tracking.americas.business.samsung.com
-0.0.0.0 lp.apac.business.samsung.com tracking.apac.business.samsung.com lp.europe.business.samsung.com tracking.europe.business.samsung.com seao.business.samsung.com channelusa.samsung.com dc.dqa.samsung.com event-tracking.samsung.com europe.event-tracking.samsung.com
-0.0.0.0 bldr.mkt.samsung.com analytics.mpay.samsung.com nmetrics.samsung.com plbusiness.samsung.com sca.samsung.com gear.sca.samsung.com prd.sca.samsung.com shome.sca.samsung.com lp.smartbusiness.samsung.com
-0.0.0.0 tracking.smartbusiness.samsung.com smetrics.samsung.com bigdata.ssp.samsung.com dms-gld.bigdata.ssp.samsung.com ew1.dms-gld.bigdata.ssp.samsung.com reg.bigdata.ssp.samsung.com ew1.reg.bigdata.ssp.samsung.com target-us.samsung.com samsungacr.com
-0.0.0.0 log-config.samsungacr.com log-ingestion.samsungacr.com log-ingestion-ap2.samsungacr.com log-ingestion-eu.samsungacr.com log-ingestion-kr.samsungacr.com log-ingestion-sa.samsungacr.com log-ingestion-v1-ap2.samsungacr.com log-ingestion-v2-ap2.samsungacr.com s3-config.samsungacr.com
-0.0.0.0 www.samsungacr.com samsungadhub.com ad.samsungadhub.com ww25.ad.samsungadhub.com www.samsungadhub.com samsungads.com ad-server.samsungads.com ads.samsungads.com api-dooh.samsungads.com
-0.0.0.0 beacon.samsungads.com config.samsungads.com dsp.samsungads.com events.samsungads.com go.samsungads.com go2.samsungads.com rtb-config.samsungads.com www.samsungads.com samsungallstore.com
-0.0.0.0 egs.samsungallstore.com routing.egs.samsungallstore.com www.samsungallstore.com acr-au-prd.samsungcloud.tv acr-br-prd.samsungcloud.tv acr-ca-prd.samsungcloud.tv acr-eu-prd.samsungcloud.tv acr-in-prd.samsungcloud.tv acr-kr-prd.samsungcloud.tv
-0.0.0.0 acr-mx-prd.samsungcloud.tv acr-us-prd.samsungcloud.tv acr0.samsungcloudsolution.com devicelog.samsungcloudsolution.net prderrordumphsm.samsungcloudsolution.com prderrordumpssm.samsungcloudsolution.net diagmon-policy.samsungdm.com diagmon-serviceapi.samsungdm.com report.gras.samsungdm.com
-0.0.0.0 analytics.samsungedo.com apu.samsungelectronics.com bpu.samsungelectronics.com cpu.samsungelectronics.com dpu.samsungelectronics.com kpu.samsungelectronics.com upu.samsungelectronics.com xpu.samsungelectronics.com ypu.samsungelectronics.com
-0.0.0.0 zpu.samsungelectronics.com shealth-analytics-api.samsunghealth.com shealth-analytics-stg-api.samsunghealth.com analytics-dev-api.test.samsunghealth.com analytics-api.samsunghealthcn.com invitation.samsungiotcloud.com analytics.samsungknox.com analytics-stg.samsungknox.com api-analytics.samsungknox.com
-0.0.0.0 api-analytics-qa.samsungknox.com b2banalytics.samsungknox.com nmetrics.samsungmobile.com gld.samsungosp.com stats.samsungpass.com osb.samsungqbe.com osb-krsvc.samsungqbe.com samsungr.com www.samsungr.com
-0.0.0.0 samsungrm.com test.samsungrm.net www.samsungrm.com sspapi-prd.samsungrs.com matomo.samsungsdibs.at lp.mkt-email.samsungsds.com tracking.mkt-email.samsungsds.com samsungtvads.com www.samsungtvads.com
-0.0.0.0 api-samsung.swypeconnect.com lbs-samsung.swypeconnect.com samsungau.api.useinsider.com samsungca.api.useinsider.com samsunghk.api.useinsider.com samsungid.api.useinsider.com samsungiraq.api.useinsider.com samsungjordan.api.useinsider.com samsungkr.api.useinsider.com
-0.0.0.0 samsungksa.api.useinsider.com samsungmalaysia.api.useinsider.com samsungpakistan.api.useinsider.com samsungph.api.useinsider.com samsungsamcol.api.useinsider.com samsungsamcolepp.api.useinsider.com samsungsavinaepp.api.useinsider.com samsungsebnbg.api.useinsider.com samsungsebnnl.api.useinsider.com
-0.0.0.0 samsungseda.api.useinsider.com samsungsem.api.useinsider.com samsungsemepp.api.useinsider.com samsungsepr.api.useinsider.com samsungseromro.api.useinsider.com samsungsesarepp.api.useinsider.com samsungsetkepp.api.useinsider.com samsungsingapore.api.useinsider.com samsungth.api.useinsider.com
-0.0.0.0 samsungtseepp.api.useinsider.com samsungturkey.api.useinsider.com samsunguk.api.useinsider.com samsungusa.api.useinsider.com samsungvn.api.useinsider.com 
+0.0.0.0 lp.apac.business.samsung.com tracking.apac.business.samsung.com tracking.europe.business.samsung.com seao.business.samsung.com channelusa.samsung.com dc.dqa.samsung.com event-tracking.samsung.com europe.event-tracking.samsung.com bldr.mkt.samsung.com
+0.0.0.0 analytics.mpay.samsung.com nmetrics.samsung.com plbusiness.samsung.com sca.samsung.com gear.sca.samsung.com prd.sca.samsung.com shome.sca.samsung.com lp.smartbusiness.samsung.com tracking.smartbusiness.samsung.com
+0.0.0.0 smetrics.samsung.com bigdata.ssp.samsung.com dms-gld.bigdata.ssp.samsung.com ew1.dms-gld.bigdata.ssp.samsung.com reg.bigdata.ssp.samsung.com ew1.reg.bigdata.ssp.samsung.com target-us.samsung.com samsungacr.com log-config.samsungacr.com
+0.0.0.0 log-ingestion.samsungacr.com log-ingestion-ap2.samsungacr.com log-ingestion-eu.samsungacr.com log-ingestion-kr.samsungacr.com log-ingestion-sa.samsungacr.com log-ingestion-v1-ap2.samsungacr.com log-ingestion-v2-ap2.samsungacr.com s3-config.samsungacr.com www.samsungacr.com
+0.0.0.0 samsungadhub.com ad.samsungadhub.com ww25.ad.samsungadhub.com www.samsungadhub.com samsungads.com ad-server.samsungads.com ads.samsungads.com api-dooh.samsungads.com beacon.samsungads.com
+0.0.0.0 config.samsungads.com dsp.samsungads.com events.samsungads.com go.samsungads.com go2.samsungads.com www.samsungads.com samsungallstore.com egs.samsungallstore.com routing.egs.samsungallstore.com
+0.0.0.0 www.samsungallstore.com acr-au-prd.samsungcloud.tv acr-br-prd.samsungcloud.tv acr-ca-prd.samsungcloud.tv acr-eu-prd.samsungcloud.tv acr-in-prd.samsungcloud.tv acr-kr-prd.samsungcloud.tv acr-mx-prd.samsungcloud.tv acr-us-prd.samsungcloud.tv
+0.0.0.0 acr0.samsungcloudsolution.com devicelog.samsungcloudsolution.net prderrordumphsm.samsungcloudsolution.com prderrordumpssm.samsungcloudsolution.net diagmon-policy.samsungdm.com diagmon-serviceapi.samsungdm.com report.gras.samsungdm.com analytics.samsungedo.com apu.samsungelectronics.com
+0.0.0.0 bpu.samsungelectronics.com cpu.samsungelectronics.com dpu.samsungelectronics.com kpu.samsungelectronics.com upu.samsungelectronics.com xpu.samsungelectronics.com ypu.samsungelectronics.com zpu.samsungelectronics.com shealth-analytics-api.samsunghealth.com
+0.0.0.0 shealth-analytics-stg-api.samsunghealth.com analytics-dev-api.test.samsunghealth.com analytics-api.samsunghealthcn.com invitation.samsungiotcloud.com analytics.samsungknox.com analytics-stg.samsungknox.com api-analytics.samsungknox.com api-analytics-qa.samsungknox.com b2banalytics.samsungknox.com
+0.0.0.0 nmetrics.samsungmobile.com gld.samsungosp.com stats.samsungpass.com osb.samsungqbe.com osb-krsvc.samsungqbe.com samsungr.com www.samsungr.com samsungrm.com test.samsungrm.net
+0.0.0.0 www.samsungrm.com sspapi-prd.samsungrs.com matomo.samsungsdibs.at lp.mkt-email.samsungsds.com tracking.mkt-email.samsungsds.com samsungtvads.com www.samsungtvads.com api-samsung.swypeconnect.com lbs-samsung.swypeconnect.com
+0.0.0.0 samsungau.api.useinsider.com samsungca.api.useinsider.com samsunghk.api.useinsider.com samsungid.api.useinsider.com samsungiraq.api.useinsider.com samsungjordan.api.useinsider.com samsungkr.api.useinsider.com samsungksa.api.useinsider.com samsungmalaysia.api.useinsider.com
+0.0.0.0 samsungpakistan.api.useinsider.com samsungph.api.useinsider.com samsungsamcol.api.useinsider.com samsungsamcolepp.api.useinsider.com samsungsavinaepp.api.useinsider.com samsungsebnbg.api.useinsider.com samsungsebnnl.api.useinsider.com samsungseda.api.useinsider.com samsungsem.api.useinsider.com
+0.0.0.0 samsungsemepp.api.useinsider.com samsungsepr.api.useinsider.com samsungseromro.api.useinsider.com samsungsesarepp.api.useinsider.com samsungsetkepp.api.useinsider.com samsungsingapore.api.useinsider.com samsungth.api.useinsider.com samsungtseepp.api.useinsider.com samsungturkey.api.useinsider.com
+0.0.0.0 samsunguk.api.useinsider.com samsungusa.api.useinsider.com samsungvn.api.useinsider.com 

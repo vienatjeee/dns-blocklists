@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Nov 2024 23:50 UTC
-# Version: 2024.1119.2350.15
+# Last modified: 30 Nov 2024 00:29 UTC
+# Version: 2024.1130.0029.30
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 321
+# Number of entries: 322
 #
 *.calculator-api-fr.allawnos.com
 *.calculator-api-in.allawnos.com
@@ -140,6 +140,7 @@
 *.mdp-appconf-bo.heytapdl.com
 *.mdp-appconf-br.heytapdl.com
 *.mdp-appconf-by.heytapdl.com
+*.mdp-appconf-ca.heytapdl.com
 *.mdp-appconf-ch.heytapdl.com
 *.mdp-appconf-chl.heytapdl.com
 *.mdp-appconf-cn.heytapdl.com

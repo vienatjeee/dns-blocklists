@@ -131,7 +131,6 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperim
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInAGH.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SerboCroatianList.txt
-https://raw.githubusercontent.com/DandelionSprout/Swedish-List-for-Adblock-Plus/main/Swedish%20List%20for%20Adblock%20Plus.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt

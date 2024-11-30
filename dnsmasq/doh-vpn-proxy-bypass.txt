@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Nov 2024 04:18 UTC
-# Version: 2024.1129.0418.28
+# Last modified: 29 Nov 2024 23:44 UTC
+# Version: 2024.1129.2344.59
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3641
 #
@@ -1060,6 +1060,7 @@ local=/dns.ezyss.id/
 local=/dns.f4a.fun/
 local=/f4fp.com/
 local=/jp1.f7b6h9.tk/
+local=/dns.f97.xyz/
 local=/faceless.me/
 local=/pdns.faelix.net/
 local=/rdns.faelix.net/
@@ -2944,7 +2945,6 @@ local=/tx.teradns.org/
 local=/uk.teradns.org/
 local=/dns.soldier.terumi.club/
 local=/teruteruteruko.com/
-local=/dns.tesem.dog/
 local=/cloud.tezoi.com/
 local=/thankvpn.com/
 local=/the-cloak.com/
