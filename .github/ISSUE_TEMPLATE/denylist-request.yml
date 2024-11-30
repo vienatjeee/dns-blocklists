@@ -16,6 +16,7 @@ body:
   - type: checkboxes
     id: blocked
     attributes:
+      label: 
       options:
         - label: I confirm that I have checked if there is no other issue for the domain(s) whereby they were unblocked or the blocking was declined.
           required: true
