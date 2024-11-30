@@ -16,11 +16,11 @@ body:
   - type: checkboxes
     id: blocked
     attributes:
-      label: 
+      label: I confirm ...
       options:
-        - label: I confirm that I have checked if there is no other issue for the domain(s) whereby they were unblocked or the blocking was declined.
+        - label: that I have checked if there is no other issue for the domain(s) whereby they were unblocked or the blocking was declined.
           required: true
-        - label: I confirm that I have checked that the domain(s) are not already blocked.
+        - label: that I have checked that the domain(s) are not already blocked.
           required: true
           
   - type: textarea
