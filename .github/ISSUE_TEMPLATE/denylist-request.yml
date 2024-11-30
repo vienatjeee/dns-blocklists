@@ -9,16 +9,25 @@ body:
     attributes:
       label: Which domain(s) should be blocked?
       description: |
-        NOTE: Manually adding phishing domains is not really worthwhile, they are offline faster than they are on the list. If they exist for longer, they are automatically taken over by the next update via used phishing feeds.
+        Only pure domains, no adblock rules, no URLs, ...
     validations:
       required: true
-  
+
+  - type: checkboxes
+    id: blocked
+    attributes:
+      options:
+        - label: I confirm that I have checked if there is no other issue for the domain(s) whereby they were unblocked or the blocking was declined.
+          required: true
+        - label: I confirm that I have checked that the domain(s) are not already blocked.
+          required: true
+          
   - type: textarea
     id: reason
     attributes:
       label: Why should these domain(s) be blocked?
       description: |
-        If possible, please name the list versions in which the domain(s) should be blocked.
+        Please provide precise details for each domain as to why they should be blocked, what is tracked and where they are accessed.
     validations:
       required: true
   
