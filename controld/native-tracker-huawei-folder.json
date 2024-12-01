@@ -477,6 +477,13 @@
       }
     },
     {
+      "PK": "logservice1.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "logservice1.hicloud.com",
       "action": {
         "do": 0,
@@ -646,6 +653,13 @@
     },
     {
       "PK": "ubacollect-drcn.cloud.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ubacollect-drcn.cloud.dbankcloud.co",
       "action": {
         "do": 0,
         "status": 1

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Nov 2024 23:49 UTC
-# Version: 2024.1129.2349.11
+# Last modified: 01 Dec 2024 04:11 UTC
+# Version: 2024.1201.0411.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9983
+# Number of entries: 9984
 #
 local=/tracker.guguan.000.pe/
 local=/0123456789nonexistent.com/
@@ -9163,6 +9163,7 @@ local=/frp.v2fy.com/
 local=/papaja.v2v.cc/
 local=/tracker.v6speed.org/
 local=/vadapav.mov/
+local=/tracker.valete.tf/
 local=/vancedflix.com/
 local=/tracker.vanitycore.co/
 local=/vboku.com/
