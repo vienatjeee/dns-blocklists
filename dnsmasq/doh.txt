@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Dec 2024 04:14 UTC
-# Version: 2024.1201.0414.51
+# Last modified: 02 Dec 2024 04:28 UTC
+# Version: 2024.1202.0428.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1506
+# Number of entries: 1499
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -151,9 +151,7 @@ local=/jp-dns1.bancuh.com/
 local=/sg-dns1.bancuh.com/
 local=/bazooki-infra.dev/
 local=/dns.beardic.cn/
-local=/antivirus.bebasid.com/
 local=/dns.bebasid.com/
-local=/internetsehat.bebasid.com/
 local=/justhost.bedro.cloud/
 local=/dns.belnet.be/
 local=/dns.bermeitinger.eu/
@@ -998,11 +996,6 @@ local=/dns.netvpn.net/
 local=/cube.neubsi.at/
 local=/dns.neubsi.at/
 local=/dns.neutopia.org/
-local=/dns1.au.newpangea.de/
-local=/dns1.cl.newpangea.de/
-local=/dns1.in.newpangea.de/
-local=/dns1.sg.newpangea.de/
-local=/dns1.us.newpangea.de/
 local=/doh.luigi.nexific.it/
 local=/dns.nextdns.io/
 local=/dns1.nextdns.io/
