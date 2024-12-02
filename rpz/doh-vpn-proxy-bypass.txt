@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733113740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733157480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Dec 2024 04:29 UTC
-; Version: 2024.1202.0429.24
+; Last modified: 02 Dec 2024 16:38 UTC
+; Version: 2024.1202.1638.24
 ; Syntax: RPZ
-; Number of entries: 7272
+; Number of entries: 7288
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -204,6 +204,8 @@ dns.ovpn.bond CNAME .
 *.dns.ovpn.bond CNAME .
 adguard.frutuozo.com.br CNAME .
 *.adguard.frutuozo.com.br CNAME .
+adguard.gbrossi.com.br CNAME .
+*.adguard.gbrossi.com.br CNAME .
 dns.joaofidelix.com.br CNAME .
 *.dns.joaofidelix.com.br CNAME .
 mabuktogel.builders CNAME .
@@ -2358,6 +2360,20 @@ ams2.startpage.com CNAME .
 *.ams2.startpage.com CNAME .
 eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
+eu-proxy.startpage.com CNAME .
+*.eu-proxy.startpage.com CNAME .
+eu2-browse.startpage.com CNAME .
+*.eu2-browse.startpage.com CNAME .
+proxy.startpage.com CNAME .
+*.proxy.startpage.com CNAME .
+proxy1.startpage.com CNAME .
+*.proxy1.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
+us-browse.startpage.com CNAME .
+*.us-browse.startpage.com CNAME .
+us-proxy.startpage.com CNAME .
+*.us-proxy.startpage.com CNAME .
 starvpn.com CNAME .
 *.starvpn.com CNAME .
 staticnetcontent.com CNAME .
@@ -4290,8 +4306,6 @@ polisitogel.living CNAME .
 *.polisitogel.living CNAME .
 unblocked.llc CNAME .
 *.unblocked.llc CNAME .
-artclass.lol CNAME .
-*.artclass.lol CNAME .
 d.bod.lol CNAME .
 *.d.bod.lol CNAME .
 browser.lol CNAME .
@@ -6740,6 +6754,8 @@ dltuykfgp.top CNAME .
 *.dltuykfgp.top CNAME .
 fidelius.top CNAME .
 *.fidelius.top CNAME .
+freeproxy.top CNAME .
+*.freeproxy.top CNAME .
 gibblets.top CNAME .
 *.gibblets.top CNAME .
 glacius.top CNAME .

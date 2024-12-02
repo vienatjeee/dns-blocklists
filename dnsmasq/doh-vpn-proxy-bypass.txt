@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Dec 2024 04:29 UTC
-# Version: 2024.1202.0429.24
+# Last modified: 02 Dec 2024 16:38 UTC
+# Version: 2024.1202.1638.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3636
+# Number of entries: 3644
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -261,7 +261,6 @@ local=/doh.archuser.org/
 local=/dns.ares-taiwan.com/
 local=/dns.arkbotech.com/
 local=/nsec.arnor.org/
-local=/artclass.lol/
 local=/artclass.site/
 local=/dns.artikel10.org/
 local=/doh.asagiri.moe/
@@ -658,6 +657,7 @@ local=/fast-proxy.com.de/
 local=/fastest-proxy.com.de/
 local=/free-proxy.com.de/
 local=/adguard.frutuozo.com.br/
+local=/adguard.gbrossi.com.br/
 local=/german-proxy.com.de/
 local=/germany-proxy.com.de/
 local=/dns.joaofidelix.com.br/
@@ -1181,6 +1181,7 @@ local=/freeplace.info/
 local=/freeproxy.asia/
 local=/freeproxy.io/
 local=/freeproxy.me/
+local=/freeproxy.top/
 local=/freeproxy.win/
 local=/freeproxyaccess.com/
 local=/freeproxyserver.co/
@@ -2824,6 +2825,13 @@ local=/starssh.com/
 local=/ams1.startpage.com/
 local=/ams2.startpage.com/
 local=/eu-browse.startpage.com/
+local=/eu-proxy.startpage.com/
+local=/eu2-browse.startpage.com/
+local=/proxy.startpage.com/
+local=/proxy1.startpage.com/
+local=/proxy2.startpage.com/
+local=/us-browse.startpage.com/
+local=/us-proxy.startpage.com/
 local=/dns.startupstack.tech/
 local=/starvpn.com/
 local=/staticnetcontent.com/

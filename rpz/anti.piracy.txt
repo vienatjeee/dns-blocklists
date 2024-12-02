@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733113440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733157240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Dec 2024 04:24 UTC
-; Version: 2024.1202.0424.59
+; Last modified: 02 Dec 2024 16:34 UTC
+; Version: 2024.1202.1634.02
 ; Syntax: RPZ
-; Number of entries: 19962
+; Number of entries: 19954
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2333,8 +2333,6 @@ abcmoviesbd.com CNAME .
 *.abcmoviesbd.com CNAME .
 abibd.com CNAME .
 *.abibd.com CNAME .
-abrokegamer.com CNAME .
-*.abrokegamer.com CNAME .
 abtorrents.com CNAME .
 *.abtorrents.com CNAME .
 acgsou.com CNAME .
@@ -2343,8 +2341,6 @@ open.acgtracker.com CNAME .
 *.open.acgtracker.com CNAME .
 acidwarez.com CNAME .
 *.acidwarez.com CNAME .
-acompanhantesuniversitaria.com CNAME .
-*.acompanhantesuniversitaria.com CNAME .
 activembd.com CNAME .
 *.activembd.com CNAME .
 actvid.com CNAME .
@@ -11407,8 +11403,6 @@ abbaspc.net CNAME .
 *.abbaspc.net CNAME .
 abnctg.net CNAME .
 *.abnctg.net CNAME .
-acehd.net CNAME .
-*.acehd.net CNAME .
 acetorrents.net CNAME .
 *.acetorrents.net CNAME .
 torrenttracker.nwc.acsalaska.net CNAME .
@@ -17395,8 +17389,6 @@ wzone.6x.to CNAME .
 *.wzone.6x.to CNAME .
 9anime.to CNAME .
 *.9anime.to CNAME .
-9pm.to CNAME .
-*.9pm.to CNAME .
 afdah.to CNAME .
 *.afdah.to CNAME .
 anilinkz.to CNAME .

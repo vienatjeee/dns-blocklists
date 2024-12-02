@@ -266,7 +266,7 @@ A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.
 
 ### :tada: **Pop-Up Ads - Protects against annoying and malicious pop-up ads!** <a name="popupads"></a>
 
-A blocklist for annoying and malicious blocking pop-up ads.
+A blocklist for annoying and malicious pop-up ads.
 
 |             | Light          | Normal         | Pro            | Pro++          | Ultimate       | TIF      |
 |:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------:|
