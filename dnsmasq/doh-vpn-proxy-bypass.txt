@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Dec 2024 16:38 UTC
-# Version: 2024.1202.1638.24
+# Last modified: 03 Dec 2024 04:34 UTC
+# Version: 2024.1203.0434.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3644
+# Number of entries: 3643
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -319,7 +319,6 @@ local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
-local=/bebasid.com/
 local=/justhost.bedro.cloud/
 local=/beecomf.xyz/
 local=/beepassvpn.com/

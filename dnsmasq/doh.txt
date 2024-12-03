@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Dec 2024 16:37 UTC
-# Version: 2024.1202.1637.13
+# Last modified: 03 Dec 2024 04:32 UTC
+# Version: 2024.1203.0432.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1500
+# Number of entries: 1499
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -151,7 +151,6 @@ local=/jp-dns1.bancuh.com/
 local=/sg-dns1.bancuh.com/
 local=/bazooki-infra.dev/
 local=/dns.beardic.cn/
-local=/dns.bebasid.com/
 local=/justhost.bedro.cloud/
 local=/dns.belnet.be/
 local=/dns.bermeitinger.eu/

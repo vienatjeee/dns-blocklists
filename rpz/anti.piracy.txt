@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733157240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733200140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Dec 2024 16:34 UTC
-; Version: 2024.1202.1634.02
+; Last modified: 03 Dec 2024 04:29 UTC
+; Version: 2024.1203.0429.42
 ; Syntax: RPZ
-; Number of entries: 19954
+; Number of entries: 19946
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -7955,8 +7955,6 @@ yts.digital CNAME .
 *.yts.digital CNAME .
 kinox.direct CNAME .
 *.kinox.direct CNAME .
-cb01.directory CNAME .
-*.cb01.directory CNAME .
 streamingcommunity.directory CNAME .
 *.streamingcommunity.directory CNAME .
 mp3juice.dj CNAME .
@@ -11525,8 +11523,6 @@ baixarpremium.net CNAME .
 *.baixarpremium.net CNAME .
 balkan-torrent.net CNAME .
 *.balkan-torrent.net CNAME .
-baltracker.net CNAME .
-*.baltracker.net CNAME .
 torrents.bbccable.net CNAME .
 *.torrents.bbccable.net CNAME .
 bd-t.net CNAME .
@@ -15265,8 +15261,6 @@ zorrostream.org CNAME .
 *.zorrostream.org CNAME .
 tr.zukizuki.org CNAME .
 *.tr.zukizuki.org CNAME .
-tracker.ccp.ovh CNAME .
-*.tracker.ccp.ovh CNAME .
 watch.coen.ovh CNAME .
 *.watch.coen.ovh CNAME .
 predb.ovh CNAME .
@@ -15355,8 +15349,6 @@ torrent9.ph CNAME .
 *.torrent9.ph CNAME .
 altadefinizione01.photo CNAME .
 *.altadefinizione01.photo CNAME .
-cb01.photos CNAME .
-*.cb01.photos CNAME .
 123movies.pics CNAME .
 *.123movies.pics CNAME .
 casacinema.pics CNAME .
