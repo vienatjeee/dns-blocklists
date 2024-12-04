@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Dec 2024 04:34 UTC
-# Version: 2024.1203.0434.06
+# Last modified: 04 Dec 2024 04:32 UTC
+# Version: 2024.1204.0432.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3643
+# Number of entries: 3641
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -656,7 +656,6 @@ local=/fast-proxy.com.de/
 local=/fastest-proxy.com.de/
 local=/free-proxy.com.de/
 local=/adguard.frutuozo.com.br/
-local=/adguard.gbrossi.com.br/
 local=/german-proxy.com.de/
 local=/germany-proxy.com.de/
 local=/dns.joaofidelix.com.br/
@@ -2631,7 +2630,6 @@ local=/doh.safesurfer.io/
 local=/safetysurf.net/
 local=/safeunblock.com/
 local=/vpn.sakhwow.ru/
-local=/dns.salonia.it/
 local=/cloud.samutz.com/
 local=/sandparticles.us/
 local=/saoudiproxy.info/
@@ -3286,6 +3284,7 @@ local=/galileo.math.unipd.it/
 local=/unknownproxy.com/
 local=/unlimitedvpnapp.com/
 local=/unlocator.com/
+local=/unmoor.com/
 local=/unrestrict.me/
 local=/unrestrictedsurf.com/
 local=/unrestricter.com/
@@ -3582,7 +3581,6 @@ local=/dns.xusqui.com/
 local=/xvbelink.com/
 local=/xvpn.io/
 local=/v2.xx3210766.live/
-local=/dns.yague.me/
 local=/dns.yameenassotally.com/
 local=/2.dnscrypt-cert.browser.yandex.net/
 local=/dns.yandex.ru/

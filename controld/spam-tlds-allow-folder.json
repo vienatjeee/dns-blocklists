@@ -757,6 +757,13 @@
       }
     },
     {
+      "PK": "fedi.directory",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "fedi.monster",
       "action": {
         "do": 1,
@@ -1086,6 +1093,13 @@
       }
     },
     {
+      "PK": "infosec.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "io.lol",
       "action": {
         "do": 1,
@@ -1150,6 +1164,13 @@
     },
     {
       "PK": "kabi.tk",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "keyboard-test.space",
       "action": {
         "do": 1,
         "status": 1
