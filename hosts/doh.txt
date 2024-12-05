@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Dec 2024 04:31 UTC
-# Version: 2024.1204.0431.43
+# Last modified: 05 Dec 2024 04:13 UTC
+# Version: 2024.1205.0413.05
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1674
+# Number of entries: 1673
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -757,7 +757,6 @@
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
 0.0.0.0 agh.gloom.nexus
-0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.gnb09.id
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 dns.goldplate.org
