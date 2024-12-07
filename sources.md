@@ -84,7 +84,6 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
 https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
 https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/gambling.txt
-https://raw.githubusercontent.com/alsyundawy/TrustPositif/main/gambling_indonesia.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt
@@ -163,6 +162,7 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns
 https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams_light.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
+https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/config/wildcards.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/jiayiming/jCleanList/master/jCleanList_all.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
@@ -181,7 +181,6 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/macupload-dom
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/popads-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/propellerads-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/toradvertising-domains.txt
-https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/unknown-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/videoadex-domains.txt
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt

@@ -24,7 +24,7 @@
  14 |      73% |  14% |     13% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      94% |   5% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
- 17 |      75% |   0% |     25% | Native Tracker OPPO/Realme (EXPERIMENTAL)
+ 17 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  18 |      94% |   0% |      6% | Native Tracker Xiaomi (Devices)
  19 |      90% |   0% |     10% | Native Tracker Samsung (Devices)
  20 |      62% |  34% |      4% | Analytics/Metrics Extension
@@ -45,14 +45,14 @@
  10 |      74% |  12% |     14% | Denylist Base
  11 |     100% |   0% |      0% | Basic Extension
  12 |      92% |   8% |      0% | Denylist Community non-Aggressive
- 13 |      74% |  15% |     11% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 13 |      75% |  15% |     10% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  14 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
- 15 |      75% |   0% |     25% | Native Tracker OPPO/Realme (EXPERIMENTAL)
+ 15 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  16 |      99% |   0% |      1% | Native Tracker Xiaomi (Devices)
  17 |      99% |   0% |      1% | Native Tracker Samsung (Devices)
  18 |      62% |  34% |      4% | Analytics/Metrics Extension
  19 |      97% |   3% |      0% | Balanced Extension
- 20 |      79% |  11% |     10% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 20 |      80% |  11% |      9% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  21 |      93% |   5% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |      84% |   9% |      7% | Advanced Extension
  23 |      64% |  21% |     15% | Denylist Community Advanced
@@ -73,7 +73,7 @@
  11 |     100% |   0% |      0% | Basic Extension
  12 |      92% |   8% |      0% | Denylist Community non-Aggressive
  13 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
- 14 |      75% |   0% |     25% | Native Tracker OPPO/Realme (EXPERIMENTAL)
+ 14 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  15 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  16 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  17 |      62% |  34% |      4% | Analytics/Metrics Extension
@@ -101,7 +101,7 @@
  10 |     100% |   0% |      0% | Basic Extension
  11 |      92% |   8% |      0% | Denylist Community non-Aggressive
  12 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
- 13 |      75% |   0% |     25% | Native Tracker OPPO/Realme (EXPERIMENTAL)
+ 13 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  14 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |      65% |  34% |      1% | Analytics/Metrics Extension

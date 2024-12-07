@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733415720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733529240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Dec 2024 16:22 UTC
-; Version: 2024.1205.1622.10
+; Last modified: 06 Dec 2024 23:54 UTC
+; Version: 2024.1206.2354.16
 ; Syntax: RPZ
-; Number of entries: 3652
+; Number of entries: 3742
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -145,6 +145,8 @@ webnode.bo CNAME .
 *.webnode.bo CNAME .
 blogspot.com.br CNAME .
 *.blogspot.com.br CNAME .
+graficaaoquadrado.com.br CNAME .
+*.graficaaoquadrado.com.br CNAME .
 lojaintegrada.com.br CNAME .
 *.lojaintegrada.com.br CNAME .
 uniblog.com.br CNAME .
@@ -659,8 +661,6 @@ blogs100.com CNAME .
 *.blogs100.com CNAME .
 blogscribble.com CNAME .
 *.blogscribble.com CNAME .
-blogself.com CNAME .
-*.blogself.com CNAME .
 blogsidea.com CNAME .
 *.blogsidea.com CNAME .
 blogsky.com CNAME .
@@ -753,6 +753,8 @@ carookee.com CNAME .
 *.carookee.com CNAME .
 carrefourpro.com CNAME .
 *.carrefourpro.com CNAME .
+cfm-id72049123.com CNAME .
+*.cfm-id72049123.com CNAME .
 chamberecommerce.com CNAME .
 *.chamberecommerce.com CNAME .
 chez.com CNAME .
@@ -777,6 +779,8 @@ comxa.com CNAME .
 *.comxa.com CNAME .
 coolfreepages.com CNAME .
 *.coolfreepages.com CNAME .
+cprapid.com CNAME .
+*.cprapid.com CNAME .
 creablog.com CNAME .
 *.creablog.com CNAME .
 creacionblog.com CNAME .
@@ -785,6 +789,8 @@ createblog.com CNAME .
 *.createblog.com CNAME .
 creatuforo.com CNAME .
 *.creatuforo.com CNAME .
+cryptocurrencies-offers.com CNAME .
+*.cryptocurrencies-offers.com CNAME .
 csublogs.com CNAME .
 *.csublogs.com CNAME .
 cyberbree.com CNAME .
@@ -875,6 +881,8 @@ elbloglibre.com CNAME .
 *.elbloglibre.com CNAME .
 elementfx.com CNAME .
 *.elementfx.com CNAME .
+emlnk.com CNAME .
+*.emlnk.com CNAME .
 emyspot.com CNAME .
 *.emyspot.com CNAME .
 epizy.com CNAME .
@@ -911,6 +919,8 @@ fcpages.com CNAME .
 *.fcpages.com CNAME .
 fileave.com CNAME .
 *.fileave.com CNAME .
+financial-offer.com CNAME .
+*.financial-offer.com CNAME .
 fireblogz.com CNAME .
 *.fireblogz.com CNAME .
 fitnell.com CNAME .
@@ -1153,6 +1163,8 @@ justaboutblogs.com CNAME .
 *.justaboutblogs.com CNAME .
 ka-blogs.com CNAME .
 *.ka-blogs.com CNAME .
+kesug.com CNAME .
+*.kesug.com CNAME .
 kiluweb.com CNAME .
 *.kiluweb.com CNAME .
 kylieblog.com CNAME .
@@ -1193,6 +1205,8 @@ ltfblog.com CNAME .
 *.ltfblog.com CNAME .
 lucialpiazzale.com CNAME .
 *.lucialpiazzale.com CNAME .
+luminate-ci.com CNAME .
+*.luminate-ci.com CNAME .
 luwebs.com CNAME .
 *.luwebs.com CNAME .
 luzzati.com CNAME .
@@ -1215,6 +1229,8 @@ medianewsonline.com CNAME .
 *.medianewsonline.com CNAME .
 meilleurforum.com CNAME .
 *.meilleurforum.com CNAME .
+melivo.com CNAME .
+*.melivo.com CNAME .
 memoryislife.com CNAME .
 *.memoryislife.com CNAME .
 mforos.com CNAME .
@@ -1235,6 +1251,10 @@ multiblog.com CNAME .
 *.multiblog.com CNAME .
 multiply.com CNAME .
 *.multiply.com CNAME .
+mutuel-credible.com CNAME .
+*.mutuel-credible.com CNAME .
+mutuelcredible.com CNAME .
+*.mutuelcredible.com CNAME .
 my3gb.com CNAME .
 *.my3gb.com CNAME .
 myartsonline.com CNAME .
@@ -1349,6 +1369,8 @@ posterous.com CNAME .
 *.posterous.com CNAME .
 power-heberg.com CNAME .
 *.power-heberg.com CNAME .
+prernittorring.com CNAME .
+*.prernittorring.com CNAME .
 preview-domain.com CNAME .
 *.preview-domain.com CNAME .
 primetap.com CNAME .
@@ -1391,6 +1413,8 @@ seite.com CNAME .
 *.seite.com CNAME .
 sendspace.com CNAME .
 *.sendspace.com CNAME .
+serpgold.com CNAME .
+*.serpgold.com CNAME .
 sharebyblog.com CNAME .
 *.sharebyblog.com CNAME .
 sharkserve.com CNAME .
@@ -1543,6 +1567,8 @@ ucoz.com CNAME .
 *.ucoz.com CNAME .
 ueuo.com CNAME .
 *.ueuo.com CNAME .
+mygreenagent.uk.com CNAME .
+*.mygreenagent.uk.com CNAME .
 ultim-blog.com CNAME .
 *.ultim-blog.com CNAME .
 unaux.com CNAME .
@@ -1677,6 +1703,8 @@ yousher.com CNAME .
 *.yousher.com CNAME .
 yuku.com CNAME .
 *.yuku.com CNAME .
+awi.za.com CNAME .
+*.awi.za.com CNAME .
 zamsblog.com CNAME .
 *.zamsblog.com CNAME .
 zeblog.com CNAME .
@@ -1691,6 +1719,8 @@ zoomshare.com CNAME .
 *.zoomshare.com CNAME .
 zymic.com CNAME .
 *.zymic.com CNAME .
+avalon.company CNAME .
+*.avalon.company CNAME .
 at.cr CNAME .
 *.at.cr CNAME .
 eu.cr CNAME .
@@ -1933,6 +1963,8 @@ fuer-profis.de CNAME .
 *.fuer-profis.de CNAME .
 fun5.de CNAME .
 *.fun5.de CNAME .
+gamingcontrol.de CNAME .
+*.gamingcontrol.de CNAME .
 gildenseite.de CNAME .
 *.gildenseite.de CNAME .
 guest.de CNAME .
@@ -2063,6 +2095,10 @@ deno.dev CNAME .
 *.deno.dev CNAME .
 hashnode.dev CNAME .
 *.hashnode.dev CNAME .
+amauserupdata.workers.dev CNAME .
+*.amauserupdata.workers.dev CNAME .
+fyfyvfytvghv.workers.dev CNAME .
+*.fyfyvfytvghv.workers.dev CNAME .
 chat.dj CNAME .
 *.chat.dj CNAME .
 bloggersdelight.dk CNAME .
@@ -2409,6 +2445,8 @@ aed1.host CNAME .
 *.aed1.host CNAME .
 byet.host CNAME .
 *.byet.host CNAME .
+sviluppo.host CNAME .
+*.sviluppo.host CNAME .
 tiiny.host CNAME .
 *.tiiny.host CNAME .
 blog.hr CNAME .
@@ -2451,8 +2489,26 @@ ucoz.hu CNAME .
 *.ucoz.hu CNAME .
 webnode.hu CNAME .
 *.webnode.hu CNAME .
+unikamamuju.ac.id CNAME .
+*.unikamamuju.ac.id CNAME .
+bankk.biz.id CNAME .
+*.bankk.biz.id CNAME .
 blogspot.co.id CNAME .
 *.blogspot.co.id CNAME .
+1lunatic1icepick.my.id CNAME .
+*.1lunatic1icepick.my.id CNAME .
+dew4.my.id CNAME .
+*.dew4.my.id CNAME .
+inclaim.my.id CNAME .
+*.inclaim.my.id CNAME .
+jekar.my.id CNAME .
+*.jekar.my.id CNAME .
+melayuu.my.id CNAME .
+*.melayuu.my.id CNAME .
+private-x.my.id CNAME .
+*.private-x.my.id CNAME .
+xzf.my.id CNAME .
+*.xzf.my.id CNAME .
 blogspot.ie CNAME .
 *.blogspot.ie CNAME .
 blogspot.co.il CNAME .
@@ -2527,6 +2583,8 @@ pillowfort.io CNAME .
 *.pillowfort.io CNAME .
 soup.io CNAME .
 *.soup.io CNAME .
+87.sslip.io CNAME .
+*.87.sslip.io CNAME .
 avablog.ir CNAME .
 *.avablog.ir CNAME .
 blog.ir CNAME .
@@ -2537,6 +2595,8 @@ blog.is CNAME .
 *.blog.is CNAME .
 blogspot.is CNAME .
 *.blogspot.is CNAME .
+majesticbank.is CNAME .
+*.majesticbank.is CNAME .
 135.it CNAME .
 *.135.it CNAME .
 beepworld.it CNAME .
@@ -2659,6 +2719,8 @@ nl.kg CNAME .
 *.nl.kg CNAME .
 pt.kg CNAME .
 *.pt.kg CNAME .
+sanasta.us.kg CNAME .
+*.sanasta.us.kg CNAME .
 de.ki CNAME .
 *.de.ki CNAME .
 eu.ki CNAME .
@@ -2787,6 +2849,8 @@ blogspot.li CNAME .
 *.blogspot.li CNAME .
 flf.li CNAME .
 *.flf.li CNAME .
+ingress-haven.ewp.live CNAME .
+*.ingress-haven.ewp.live CNAME .
 blogas.lt CNAME .
 *.blogas.lt CNAME .
 blogspot.lt CNAME .
@@ -2889,8 +2953,6 @@ acidblog.net CNAME .
 *.acidblog.net CNAME .
 arcor-ip.net CNAME .
 *.arcor-ip.net CNAME .
-batcave.net CNAME .
-*.batcave.net CNAME .
 bigheadhosting.net CNAME .
 *.bigheadhosting.net CNAME .
 blog4ever.net CNAME .
@@ -2921,6 +2983,8 @@ centerblog.net CNAME .
 *.centerblog.net CNAME .
 comunidades.net CNAME .
 *.comunidades.net CNAME .
+cryptonight.net CNAME .
+*.cryptonight.net CNAME .
 cwqso.net CNAME .
 *.cwqso.net CNAME .
 dbblog.net CNAME .
@@ -3089,6 +3153,8 @@ xrs.net CNAME .
 *.xrs.net CNAME .
 yourfreehosting.net CNAME .
 *.yourfreehosting.net CNAME .
+yovip.net CNAME .
+*.yovip.net CNAME .
 za.net CNAME .
 *.za.net CNAME .
 fr.nf CNAME .
@@ -3411,6 +3477,8 @@ diary.ru CNAME .
 *.diary.ru CNAME .
 forum2x2.ru CNAME .
 *.forum2x2.ru CNAME .
+leetgems.h1n.ru CNAME .
+*.leetgems.h1n.ru CNAME .
 homepage-konstruktor.ru CNAME .
 *.homepage-konstruktor.ru CNAME .
 hop.ru CNAME .
@@ -3437,6 +3505,8 @@ newmail.ru CNAME .
 *.newmail.ru CNAME .
 okis.ru CNAME .
 *.okis.ru CNAME .
+regruhosting.ru CNAME .
+*.regruhosting.ru CNAME .
 seite.ru CNAME .
 *.seite.ru CNAME .
 ucoz.ru CNAME .
@@ -3447,6 +3517,10 @@ webnode.ru CNAME .
 *.webnode.ru CNAME .
 webservis.ru CNAME .
 *.webservis.ru CNAME .
+xsph.ru CNAME .
+*.xsph.ru CNAME .
+majesticbank.sc CNAME .
+*.majesticbank.sc CNAME .
 blogg.se CNAME .
 *.blogg.se CNAME .
 bloggplatsen.se CNAME .
@@ -3553,6 +3627,8 @@ land.to CNAME .
 *.land.to CNAME .
 nathan.to CNAME .
 *.nathan.to CNAME .
+pl-oferta-id2387942371.top CNAME .
+*.pl-oferta-id2387942371.top CNAME .
 wapka.top CNAME .
 *.wapka.top CNAME .
 blogspot.com.tr CNAME .
@@ -3661,7 +3737,21 @@ tilda.ws CNAME .
 *.tilda.ws CNAME .
 website-home.ws CNAME .
 *.website-home.ws CNAME .
+kwid9.zavod.xy CNAME .
+*.kwid9.zavod.xy CNAME .
+kwid9.appsoft.xyz CNAME .
+*.kwid9.appsoft.xyz CNAME .
+cominbaxz.xyz CNAME .
+*.cominbaxz.xyz CNAME .
+infopoint.xyz CNAME .
+*.infopoint.xyz CNAME .
+kwid9.m-r.xyz CNAME .
+*.kwid9.m-r.xyz CNAME .
+kwid9.safetravel.xyz CNAME .
+*.kwid9.safetravel.xyz CNAME .
 wapka.xyz CNAME .
 *.wapka.xyz CNAME .
+zavod.xyz CNAME .
+*.zavod.xyz CNAME .
 blogspot.co.za CNAME .
 *.blogspot.co.za CNAME .

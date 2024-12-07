@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Nov 2024 00:29 UTC
-# Version: 2024.1130.0029.30
+# Last modified: 07 Dec 2024 00:35 UTC
+# Version: 2024.1207.0035.21
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 395
+# Number of entries: 300
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -107,7 +107,6 @@
 0.0.0.0 i.sau.foreign.coloros.com
 0.0.0.0 guif.coloros.com
 0.0.0.0 guif-eu.coloros.com
-0.0.0.0 icosa.coloros.com
 0.0.0.0 icosa-sg.coloros.com
 0.0.0.0 icota-eu.coloros.com
 0.0.0.0 ifota.coloros.com
@@ -129,100 +128,6 @@
 0.0.0.0 appconf-sgp.heytapdl.com
 0.0.0.0 conf-in-dc.heytapdl.com
 0.0.0.0 conf-sg-dc.heytapdl.com
-0.0.0.0 mdp-appconf-ae.heytapdl.com
-0.0.0.0 mdp-appconf-af.heytapdl.com
-0.0.0.0 mdp-appconf-apc.heytapdl.com
-0.0.0.0 mdp-appconf-ar.heytapdl.com
-0.0.0.0 mdp-appconf-at.heytapdl.com
-0.0.0.0 mdp-appconf-au.heytapdl.com
-0.0.0.0 mdp-appconf-ba.heytapdl.com
-0.0.0.0 mdp-appconf-bd.heytapdl.com
-0.0.0.0 mdp-appconf-be.heytapdl.com
-0.0.0.0 mdp-appconf-bg.heytapdl.com
-0.0.0.0 mdp-appconf-bh.heytapdl.com
-0.0.0.0 mdp-appconf-bo.heytapdl.com
-0.0.0.0 mdp-appconf-br.heytapdl.com
-0.0.0.0 mdp-appconf-by.heytapdl.com
-0.0.0.0 mdp-appconf-ca.heytapdl.com
-0.0.0.0 mdp-appconf-ch.heytapdl.com
-0.0.0.0 mdp-appconf-chl.heytapdl.com
-0.0.0.0 mdp-appconf-cn.heytapdl.com
-0.0.0.0 mdp-appconf-co.heytapdl.com
-0.0.0.0 mdp-appconf-cr.heytapdl.com
-0.0.0.0 mdp-appconf-cz.heytapdl.com
-0.0.0.0 mdp-appconf-de.heytapdl.com
-0.0.0.0 mdp-appconf-dk.heytapdl.com
-0.0.0.0 mdp-appconf-do.heytapdl.com
-0.0.0.0 mdp-appconf-dz.heytapdl.com
-0.0.0.0 mdp-appconf-ec.heytapdl.com
-0.0.0.0 mdp-appconf-eg.heytapdl.com
-0.0.0.0 mdp-appconf-es.heytapdl.com
-0.0.0.0 mdp-appconf-eu.heytapdl.com
-0.0.0.0 mdp-appconf-euex.heytapdl.com
-0.0.0.0 mdp-appconf-export.heytapdl.com
-0.0.0.0 mdp-appconf-fi.heytapdl.com
-0.0.0.0 mdp-appconf-fr.heytapdl.com
-0.0.0.0 mdp-appconf-gb.heytapdl.com
-0.0.0.0 mdp-appconf-gr.heytapdl.com
-0.0.0.0 mdp-appconf-gt.heytapdl.com
-0.0.0.0 mdp-appconf-hk.heytapdl.com
-0.0.0.0 mdp-appconf-hn.heytapdl.com
-0.0.0.0 mdp-appconf-hu.heytapdl.com
-0.0.0.0 mdp-appconf-id.heytapdl.com
-0.0.0.0 mdp-appconf-ie.heytapdl.com
-0.0.0.0 mdp-appconf-il.heytapdl.com
-0.0.0.0 mdp-appconf-in.heytapdl.com
-0.0.0.0 mdp-appconf-iq.heytapdl.com
-0.0.0.0 mdp-appconf-ir.heytapdl.com
-0.0.0.0 mdp-appconf-it.heytapdl.com
-0.0.0.0 mdp-appconf-jo.heytapdl.com
-0.0.0.0 mdp-appconf-jp.heytapdl.com
-0.0.0.0 mdp-appconf-ke.heytapdl.com
-0.0.0.0 mdp-appconf-kh.heytapdl.com
-0.0.0.0 mdp-appconf-kw.heytapdl.com
-0.0.0.0 mdp-appconf-kz.heytapdl.com
-0.0.0.0 mdp-appconf-la.heytapdl.com
-0.0.0.0 mdp-appconf-latam.heytapdl.com
-0.0.0.0 mdp-appconf-lk.heytapdl.com
-0.0.0.0 mdp-appconf-ly.heytapdl.com
-0.0.0.0 mdp-appconf-ma.heytapdl.com
-0.0.0.0 mdp-appconf-me.heytapdl.com
-0.0.0.0 mdp-appconf-mea.heytapdl.com
-0.0.0.0 mdp-appconf-mm.heytapdl.com
-0.0.0.0 mdp-appconf-mx.heytapdl.com
-0.0.0.0 mdp-appconf-my.heytapdl.com
-0.0.0.0 mdp-appconf-ng.heytapdl.com
-0.0.0.0 mdp-appconf-nl.heytapdl.com
-0.0.0.0 mdp-appconf-np.heytapdl.com
-0.0.0.0 mdp-appconf-null.heytapdl.com
-0.0.0.0 mdp-appconf-nz.heytapdl.com
-0.0.0.0 mdp-appconf-oca.heytapdl.com
-0.0.0.0 mdp-appconf-om.heytapdl.com
-0.0.0.0 mdp-appconf-other.heytapdl.com
-0.0.0.0 mdp-appconf-per.heytapdl.com
-0.0.0.0 mdp-appconf-ph.heytapdl.com
-0.0.0.0 mdp-appconf-pk.heytapdl.com
-0.0.0.0 mdp-appconf-pl.heytapdl.com
-0.0.0.0 mdp-appconf-ps.heytapdl.com
-0.0.0.0 mdp-appconf-pt.heytapdl.com
-0.0.0.0 mdp-appconf-qa.heytapdl.com
-0.0.0.0 mdp-appconf-ro.heytapdl.com
-0.0.0.0 mdp-appconf-row.heytapdl.com
-0.0.0.0 mdp-appconf-rs.heytapdl.com
-0.0.0.0 mdp-appconf-ru.heytapdl.com
-0.0.0.0 mdp-appconf-sa.heytapdl.com
-0.0.0.0 mdp-appconf-sg.heytapdl.com
-0.0.0.0 mdp-appconf-sk.heytapdl.com
-0.0.0.0 mdp-appconf-th.heytapdl.com
-0.0.0.0 mdp-appconf-tn.heytapdl.com
-0.0.0.0 mdp-appconf-tr.heytapdl.com
-0.0.0.0 mdp-appconf-tw.heytapdl.com
-0.0.0.0 mdp-appconf-ua.heytapdl.com
-0.0.0.0 mdp-appconf-us.heytapdl.com
-0.0.0.0 mdp-appconf-uz.heytapdl.com
-0.0.0.0 mdp-appconf-ve.heytapdl.com
-0.0.0.0 mdp-appconf-vn.heytapdl.com
-0.0.0.0 mdp-appconf-za.heytapdl.com
 0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
 0.0.0.0 dhfs-id.heytapimage.com

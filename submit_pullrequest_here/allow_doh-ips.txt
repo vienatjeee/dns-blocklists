@@ -1,5 +1,15 @@
 # IPs to be removed from the DoH IP list.
 
+# https://github.com/hagezi/dns-blocklists/issues/4529
+104.21
+104.21.16.1
+104.21.32.1
+104.21.48.1
+104.21.64.1
+104.21.80.1
+104.21.96.1
+104.21.112.1
+
 # https://github.com/hagezi/dns-blocklists/issues/4442
 162.159.140
 162.159.140.104

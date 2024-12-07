@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733415600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733529300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Dec 2024 16:20 UTC
-; Version: 2024.1205.1620.48
+; Last modified: 06 Dec 2024 23:55 UTC
+; Version: 2024.1206.2355.13
 ; Syntax: RPZ
-; Number of entries: 19938
+; Number of entries: 19912
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -345,8 +345,6 @@ smtp-relay.odysseylabel.com.au CNAME .
 *.smtp-relay.odysseylabel.com.au CNAME .
 altadefinizione.audio CNAME .
 *.altadefinizione.audio CNAME .
-altadefinizione01.autos CNAME .
-*.altadefinizione01.autos CNAME .
 cb01.autos CNAME .
 *.cb01.autos CNAME .
 eurostreaming.autos CNAME .
@@ -1649,8 +1647,6 @@ tracker.btschool.club CNAME .
 *.tracker.btschool.club CNAME .
 casualgamers.club CNAME .
 *.casualgamers.club CNAME .
-cb01.club CNAME .
-*.cb01.club CNAME .
 chouchou.club CNAME .
 *.chouchou.club CNAME .
 cineblog01.club CNAME .
@@ -2673,8 +2669,6 @@ attractiveservices.com CNAME .
 *.attractiveservices.com CNAME .
 audio-track.com CNAME .
 *.audio-track.com CNAME .
-audiobookol.com CNAME .
-*.audiobookol.com CNAME .
 audiop2p.com CNAME .
 *.audiop2p.com CNAME .
 audiotracer.com CNAME .
@@ -3091,8 +3085,6 @@ btbtt.com CNAME .
 *.btbtt.com CNAME .
 btbtw.com CNAME .
 *.btbtw.com CNAME .
-btcyberstorm.com CNAME .
-*.btcyberstorm.com CNAME .
 btdig.com CNAME .
 *.btdig.com CNAME .
 btmet.com CNAME .
@@ -3117,8 +3109,6 @@ bushtorrent.com CNAME .
 *.bushtorrent.com CNAME .
 scrapcomputers.busydizzys.com CNAME .
 *.scrapcomputers.busydizzys.com CNAME .
-butterflyapk.com CNAME .
-*.butterflyapk.com CNAME .
 buyddos.com CNAME .
 *.buyddos.com CNAME .
 bvlist.com CNAME .
@@ -3375,8 +3365,6 @@ crazynetbd.com CNAME .
 *.crazynetbd.com CNAME .
 crazysaloon.com CNAME .
 *.crazysaloon.com CNAME .
-crete-tracker.com CNAME .
-*.crete-tracker.com CNAME .
 cric1.com CNAME .
 *.cric1.com CNAME .
 cricfrees.com CNAME .
@@ -3561,8 +3549,6 @@ dididave.com CNAME .
 *.dididave.com CNAME .
 dietdinnerrecipes.com CNAME .
 *.dietdinnerrecipes.com CNAME .
-bflix.digiomg.com CNAME .
-*.bflix.digiomg.com CNAME .
 digital-eliteboard.com CNAME .
 *.digital-eliteboard.com CNAME .
 dilandau.com CNAME .
@@ -10073,8 +10059,6 @@ ilgeniodellostreaming.limo CNAME .
 *.1337x.link CNAME .
 247prox.link CNAME .
 *.247prox.link CNAME .
-cb01.link CNAME .
-*.cb01.link CNAME .
 cinemagratis.link CNAME .
 *.cinemagratis.link CNAME .
 gomovies-online.link CNAME .
@@ -11121,6 +11105,8 @@ twist.moe CNAME .
 *.twist.moe CNAME .
 tracker.waaa.moe CNAME .
 *.tracker.waaa.moe CNAME .
+tracker.yume-hatsuyuki.moe CNAME .
+*.tracker.yume-hatsuyuki.moe CNAME .
 123movies.mom CNAME .
 *.123movies.mom CNAME .
 eurostreaming.mom CNAME .
@@ -11453,8 +11439,6 @@ animekl.net CNAME .
 *.animekl.net CNAME .
 animereborn.net CNAME .
 *.animereborn.net CNAME .
-animesfree.net CNAME .
-*.animesfree.net CNAME .
 aninow.net CNAME .
 *.aninow.net CNAME .
 anisource.net CNAME .
@@ -11765,8 +11749,6 @@ ddgu.ddos-guard.net CNAME .
 *.ddgu.ddos-guard.net CNAME .
 ddosforhire.net CNAME .
 *.ddosforhire.net CNAME .
-tracker.ddunlimited.net CNAME .
-*.tracker.ddunlimited.net CNAME .
 deamonbytes.net CNAME .
 *.deamonbytes.net CNAME .
 deepseek.net CNAME .
@@ -16225,8 +16207,6 @@ cracks.ru CNAME .
 *.cracks.ru CNAME .
 cutiegirl.ru CNAME .
 *.cutiegirl.ru CNAME .
-cwer.ru CNAME .
-*.cwer.ru CNAME .
 cyberwares.ru CNAME .
 *.cyberwares.ru CNAME .
 bingoportal.da.ru CNAME .
@@ -16593,8 +16573,6 @@ yify.sbs CNAME .
 *.123movies.sc CNAME .
 123movieshub.sc CNAME .
 *.123movieshub.sc CNAME .
-3movierulz.sc CNAME .
-*.3movierulz.sc CNAME .
 cricfree.sc CNAME .
 *.cricfree.sc CNAME .
 fmovie.sc CNAME .
@@ -17375,8 +17353,6 @@ wzone.6x.to CNAME .
 *.wzone.6x.to CNAME .
 9anime.to CNAME .
 *.9anime.to CNAME .
-afdah.to CNAME .
-*.afdah.to CNAME .
 anilinkz.to CNAME .
 *.anilinkz.to CNAME .
 animedao.to CNAME .
@@ -19101,8 +19077,6 @@ yifytorrent.vip CNAME .
 *.yifytorrent.vip CNAME .
 ymovies.vip CNAME .
 *.ymovies.vip CNAME .
-cb01.vision CNAME .
-*.cb01.vision CNAME .
 eurostreaming.vision CNAME .
 *.eurostreaming.vision CNAME .
 fshare.vn CNAME .

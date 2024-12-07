@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Dec 2024 04:14 UTC
-! Version: 2024.1205.0414.15
+! Last modified: 06 Dec 2024 23:50 UTC
+! Version: 2024.1206.2350.44
 ! Syntax: AdBlock
-! Number of entries: 3641
+! Number of entries: 3639
 !
 ||0000a-fast-proxy.de^
 ||003153.xyz^
@@ -774,7 +774,6 @@
 ||dns.dekedin.me^
 ||adguard.dekonix.ru^
 ||doh.denypradana.com^
-||adguard.depieri.net^
 ||deproxyserver.com^
 ||adguard.lege.despagne.net^
 ||doh-primary-pool.detoxifypornblocker.com^
@@ -1297,6 +1296,7 @@
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
 ||agh.gloom.nexus^
+||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||privacydns.go6lab.si^
@@ -1327,7 +1327,6 @@
 ||gratisproxy.nl^
 ||gratisvpn.com^
 ||greatestfreeproxy.com^
-||greatideasforlife.lol^
 ||greenpass.info^
 ||greenproxy.net^
 ||greenssh.com^
@@ -1348,7 +1347,6 @@
 ||h-vpn.org^
 ||h0w.cc^
 ||dns.hahnjo.de^
-||doh.hajekj.net^
 ||dns.haka.se^
 ||dns.hakim.one^
 ||dns.hanahira.dev^
