@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733529000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733550300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Dec 2024 23:50 UTC
-; Version: 2024.1206.2350.44
+; Last modified: 07 Dec 2024 05:45 UTC
+; Version: 2024.1207.0545.34
 ; Syntax: RPZ
-; Number of entries: 7278
+; Number of entries: 7272
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1770,8 +1770,6 @@ nntime.com CNAME .
 *.nntime.com CNAME .
 pi1.node15.com CNAME .
 *.pi1.node15.com CNAME .
-noip.com CNAME .
-*.noip.com CNAME .
 noodlevpn.com CNAME .
 *.noodlevpn.com CNAME .
 nordaccount.com CNAME .
@@ -3628,8 +3626,6 @@ commons.host CNAME .
 *.commons.host CNAME .
 mickedi.isgood.host CNAME .
 *.mickedi.isgood.host CNAME .
-portmap.host CNAME .
-*.portmap.host CNAME .
 sitescrack.host CNAME .
 *.sitescrack.host CNAME .
 theproxy.how CNAME .
@@ -4724,8 +4720,6 @@ celo.net CNAME .
 *.celo.net CNAME .
 ibuki.cgnat.net CNAME .
 *.ibuki.cgnat.net CNAME .
-chandr1000.net CNAME .
-*.chandr1000.net CNAME .
 dns.chilimac.net CNAME .
 *.dns.chilimac.net CNAME .
 chromeproxy.net CNAME .

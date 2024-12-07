@@ -390,7 +390,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 3639 compressed domains
+**Entries:** 3636 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -408,7 +408,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 1671 domains/hosts - 186 compressed hosts - 1493 compressed domains
+**Entries:** 1670 domains/hosts - 186 compressed hosts - 1492 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -485,7 +485,7 @@ A blocklist for blocking known hosters that also host badware via user content t
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 1871 compressed domains
+**Entries:** 1867 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|

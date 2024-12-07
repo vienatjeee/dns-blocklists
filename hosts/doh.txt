@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Dec 2024 23:52 UTC
-# Version: 2024.1206.2352.11
+# Last modified: 07 Dec 2024 05:41 UTC
+# Version: 2024.1207.0541.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1671
+# Number of entries: 1670
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -288,7 +288,6 @@
 0.0.0.0 cfdjb.org
 0.0.0.0 ibuki.cgnat.net
 0.0.0.0 dns.chadeyron.fr
-0.0.0.0 chandr1000.net
 0.0.0.0 chaos-system.de
 0.0.0.0 dns.charraud.eu
 0.0.0.0 dns.chenu.ch
