@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733529300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733584860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Dec 2024 23:55 UTC
-; Version: 2024.1206.2355.13
+; Last modified: 07 Dec 2024 15:21 UTC
+; Version: 2024.1207.1521.19
 ; Syntax: RPZ
-; Number of entries: 19912
+; Number of entries: 19902
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -499,8 +499,6 @@ tracker.daydream.dmhy.best CNAME .
 *.tracker.daydream.dmhy.best CNAME .
 eurostreaming.best CNAME .
 *.eurostreaming.best CNAME .
-filmsenzalimiti.best CNAME .
-*.filmsenzalimiti.best CNAME .
 ilgeniodellostreaming.best CNAME .
 *.ilgeniodellostreaming.best CNAME .
 juraganfilm.best CNAME .
@@ -1677,6 +1675,8 @@ guardaserie.club CNAME .
 *.guardaserie.club CNAME .
 tracker.halfchub.club CNAME .
 *.tracker.halfchub.club CNAME .
+tracker.hdarea.club CNAME .
+*.tracker.hdarea.club CNAME .
 tracker.hdstreet.club CNAME .
 *.tracker.hdstreet.club CNAME .
 i123movies.club CNAME .
@@ -3915,8 +3915,6 @@ film-streaming.com CNAME .
 *.film-streaming.com CNAME .
 film1k.com CNAME .
 *.film1k.com CNAME .
-filmbagoes21.com CNAME .
-*.filmbagoes21.com CNAME .
 filmduty.com CNAME .
 *.filmduty.com CNAME .
 filmeseseriesonlinex.com CNAME .
@@ -3983,8 +3981,6 @@ ns2.floads.com CNAME .
 *.ns2.floads.com CNAME .
 flynetbd.com CNAME .
 *.flynetbd.com CNAME .
-fmovies3.com CNAME .
-*.fmovies3.com CNAME .
 fn-bd.com CNAME .
 *.fn-bd.com CNAME .
 fnetctg.com CNAME .
@@ -4031,8 +4027,8 @@ freedomalternative.com CNAME .
 *.freedomalternative.com CNAME .
 freedomonlinebd.com CNAME .
 *.freedomonlinebd.com CNAME .
-freedownloadbd.com CNAME .
-*.freedownloadbd.com CNAME .
+livetv.freedownloadbd.com CNAME .
+*.livetv.freedownloadbd.com CNAME .
 freeetextbooks.com CNAME .
 *.freeetextbooks.com CNAME .
 freegames4pc.com CNAME .
@@ -4275,6 +4271,8 @@ gratfilm.com CNAME .
 *.gratfilm.com CNAME .
 greatmodapk.com CNAME .
 *.greatmodapk.com CNAME .
+tracker.greatposterwall.com CNAME .
+*.tracker.greatposterwall.com CNAME .
 greek-tracker.com CNAME .
 *.greek-tracker.com CNAME .
 greencracks.com CNAME .
@@ -7087,6 +7085,8 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -8089,8 +8089,6 @@ edels-stube.eu CNAME .
 *.edels-stube.eu CNAME .
 tracker.edoardocolombo.eu CNAME .
 *.tracker.edoardocolombo.eu CNAME .
-eurostreaming.eu CNAME .
-*.eurostreaming.eu CNAME .
 exitorrent.eu CNAME .
 *.exitorrent.eu CNAME .
 fiberlink.eu CNAME .
@@ -9497,8 +9495,6 @@ filmsenzalimiti.io CNAME .
 *.filmsenzalimiti.io CNAME .
 fmoviesio.io CNAME .
 *.fmoviesio.io CNAME .
-futebolgratis.io CNAME .
-*.futebolgratis.io CNAME .
 gamestorrents.io CNAME .
 *.gamestorrents.io CNAME .
 getmod.io CNAME .
@@ -9555,6 +9551,8 @@ boards.libre.io CNAME .
 *.boards.libre.io CNAME .
 lookmovie.io CNAME .
 *.lookmovie.io CNAME .
+tracker.m-team.io CNAME .
+*.tracker.m-team.io CNAME .
 mac-torrents.io CNAME .
 *.mac-torrents.io CNAME .
 mactorrents.io CNAME .
@@ -10707,8 +10705,6 @@ filmstreaming.me CNAME .
 *.filmstreaming.me CNAME .
 flixtor.me CNAME .
 *.flixtor.me CNAME .
-flixwave.me CNAME .
-*.flixwave.me CNAME .
 freecoursesonline.me CNAME .
 *.freecoursesonline.me CNAME .
 gdekino.me CNAME .
@@ -16555,8 +16551,6 @@ cb01.sbs CNAME .
 *.cb01.sbs CNAME .
 eurostreaming.sbs CNAME .
 *.eurostreaming.sbs CNAME .
-filmstreaming.sbs CNAME .
-*.filmstreaming.sbs CNAME .
 ilgeniodellostreaming.sbs CNAME .
 *.ilgeniodellostreaming.sbs CNAME .
 vvv.movies123.sbs CNAME .
@@ -18193,8 +18187,6 @@ doramasflix.tv CNAME .
 *.doramasflix.tv CNAME .
 duboku.tv CNAME .
 *.duboku.tv CNAME .
-efilmy.tv CNAME .
-*.efilmy.tv CNAME .
 eneyida.tv CNAME .
 *.eneyida.tv CNAME .
 ettv.tv CNAME .
@@ -19083,8 +19075,6 @@ fshare.vn CNAME .
 *.fshare.vn CNAME .
 getlink.vn CNAME .
 *.getlink.vn CNAME .
-eurostreaming.vote CNAME .
-*.eurostreaming.vote CNAME .
 eurostreaming.voto CNAME .
 *.eurostreaming.voto CNAME .
 ilgeniodellostreaming.voto CNAME .

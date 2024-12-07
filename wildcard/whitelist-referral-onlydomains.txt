@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Dec 2024 23:19 UTC
-# Version: 2024.1206.2319.06
+# Last modified: 07 Dec 2024 10:59 UTC
+# Version: 2024.1207.1059.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 1720
+# Number of entries: 1729
 #
 l.1mp.ru
 t.1und1.de
@@ -676,6 +676,8 @@ mkto-a0279.com
 mkto-a0324.com
 mkto-ab010012.com
 mkto-ab010044.com
+mkto-ab010062.com
+mkto-ab010068.com
 mkto-ab010088.com
 mkto-ab010092.com
 mkto-ab010095.com
@@ -701,12 +703,14 @@ mkto-ab060085.com
 mkto-ab060134.com
 mkto-ab060137.com
 mkto-ab060144.com
+mkto-ab060165.com
 mkto-ab060210.com
 mkto-ab070017.com
 mkto-ab070085.com
 mkto-ab070104.com
 mkto-ab070142.com
 mkto-ab070168.com
+mkto-ab070196.com
 mkto-ab080041.com
 mkto-ab080055.com
 mkto-ab080061.com
@@ -1062,6 +1066,7 @@ mkto-k0051.com
 mkto-k0064.com
 mkto-k0071.com
 mkto-k0110.com
+mkto-lon020037.com
 mkto-lon020062.com
 mkto-lon020319.com
 mkto-lon030290.com
@@ -1137,6 +1142,7 @@ mkto-sj010221.com
 mkto-sj010279.com
 mkto-sj020028.com
 mkto-sj020052.com
+mkto-sj020085.com
 mkto-sj020099.com
 mkto-sj020159.com
 mkto-sj020171.com
@@ -1144,6 +1150,7 @@ mkto-sj020238.com
 mkto-sj030022.com
 mkto-sj030081.com
 mkto-sj030085.com
+mkto-sj030092.com
 mkto-sj030206.com
 mkto-sj030214.com
 mkto-sj030220.com
@@ -1173,6 +1180,7 @@ mkto-sj070214.com
 mkto-sj070231.com
 mkto-sj070259.com
 mkto-sj080048.com
+mkto-sj080120.com
 mkto-sj080126.com
 mkto-sj080172.com
 mkto-sj090063.com
@@ -1184,6 +1192,7 @@ mkto-sj100091.com
 mkto-sj100121.com
 mkto-sj100138.com
 mkto-sj110023.com
+mkto-sj110027.com
 mkto-sj110038.com
 mkto-sj110048.com
 mkto-sj110124.com

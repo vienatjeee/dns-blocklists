@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Dec 2024 23:55 UTC
-# Version: 2024.1206.2355.13
+# Last modified: 07 Dec 2024 15:21 UTC
+# Version: 2024.1207.1521.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9956
+# Number of entries: 9951
 #
 local=/tracker.guguan.000.pe/
 local=/0123456789nonexistent.com/
@@ -2786,7 +2786,6 @@ local=/excalibur.edwardk.info/
 local=/fightingmagic.edwardk.info/
 local=/iscariote.edwardk.info/
 local=/ee3.me/
-local=/efilmy.tv/
 local=/egyptfans.net/
 local=/ehho.net/
 local=/ehtracker.org/
@@ -2928,7 +2927,6 @@ local=/eurostreaming.de/
 local=/eurostreaming.dev/
 local=/eurostreaming.digital/
 local=/eurostreaming.dog/
-local=/eurostreaming.eu/
 local=/eurostreaming.expert/
 local=/eurostreaming.faith/
 local=/eurostreaming.fan/
@@ -2999,7 +2997,6 @@ local=/eurostreaming.us/
 local=/eurostreaming.vg/
 local=/eurostreaming.vip/
 local=/eurostreaming.vision/
-local=/eurostreaming.vote/
 local=/eurostreaming.voto/
 local=/eurostreaming.voyage/
 local=/eurostreaming.website/
@@ -3182,7 +3179,6 @@ local=/film01stream.ws/
 local=/film1k.com/
 local=/filman.cc/
 local=/filmarchives.jp/
-local=/filmbagoes21.com/
 local=/filmbits.net/
 local=/filmcomplet.al/
 local=/filmcomplet.vip/
@@ -3293,7 +3289,6 @@ local=/films-ddl.net/
 local=/films-en-streaming.org/
 local=/films-iphone.com/
 local=/filmsenzalimiti.arab/
-local=/filmsenzalimiti.best/
 local=/filmsenzalimiti.blog/
 local=/filmsenzalimiti.bond/
 local=/filmsenzalimiti.cam/
@@ -3364,7 +3359,6 @@ local=/filmstreaming.pro/
 local=/filmstreaming.pw/
 local=/filmstreaming.red/
 local=/filmstreaming.rip/
-local=/filmstreaming.sbs/
 local=/filmstreaming.se/
 local=/filmstreaming.sh/
 local=/filmstreaming.site/
@@ -3462,7 +3456,6 @@ local=/flixtor.tk/
 local=/flixtor.to/
 local=/flixtor.vc/
 local=/flixtor.win/
-local=/flixwave.me/
 local=/flixwave.to/
 local=/flixy.org/
 local=/flmsdown.net/
@@ -3504,7 +3497,6 @@ local=/fmovies-hd.to/
 local=/fmovies0.cc/
 local=/fmovies2.cx/
 local=/fmovies247.net/
-local=/fmovies3.com/
 local=/fmoviesc.org/
 local=/fmoviesf.co/
 local=/fmoviesgo.net/
@@ -3591,7 +3583,7 @@ local=/freedailyiptv.com/
 local=/freedocumentaries.org/
 local=/freedomalternative.com/
 local=/freedomonlinebd.com/
-local=/freedownloadbd.com/
+local=/livetv.freedownloadbd.com/
 local=/freeebies.site/
 local=/freeetextbooks.com/
 local=/freegames4pc.com/
@@ -3697,7 +3689,6 @@ local=/funxd.site/
 local=/furiousnet.net/
 local=/furk.net/
 local=/fussballlivestreams.de/
-local=/futebolgratis.io/
 local=/futebolgratis.net/
 local=/futebolplayhd.info/
 local=/futecell.com/
@@ -3951,6 +3942,7 @@ local=/graphicex.com/
 local=/gratfilm.com/
 local=/gratflix.net/
 local=/greatmodapk.com/
+local=/tracker.greatposterwall.com/
 local=/tk.greedland.net/
 local=/tk2.greedland.net/
 local=/greek-torrent.net/
@@ -4159,6 +4151,7 @@ local=/hd001.org/
 local=/hd4.xyz/
 local=/tracker.hd4fans.org/
 local=/hd4fun.com/
+local=/tracker.hdarea.club/
 local=/tracker.hdarea.co/
 local=/tracker.hdbd.us/
 local=/hdbest.net/
@@ -5197,6 +5190,7 @@ local=/lztr.us/
 local=/tracker.lztr.me/
 local=/tp.m-team.cc/
 local=/tracker.m-team.cc/
+local=/tracker.m-team.io/
 local=/m0vies123.com/
 local=/m2ktalk.com/
 local=/m2v.ru/
@@ -9205,6 +9199,7 @@ local=/vidcloud9.com/
 local=/vidclouds.icu/
 local=/vidembed.net/
 local=/videobin.co/
+local=/videocop.com/
 local=/tracker.videodrugproject.com/
 local=/videoelephantbd.com/
 local=/admin.videoenpoche.info/

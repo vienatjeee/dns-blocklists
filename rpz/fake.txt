@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733532120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733570340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Dec 2024 00:42 UTC
-; Version: 2024.1207.0042.21
+; Last modified: 07 Dec 2024 11:19 UTC
+; Version: 2024.1207.1119.55
 ; Syntax: RPZ
-; Number of entries: 25122
+; Number of entries: 25080
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -1123,8 +1123,6 @@ fessy.co CNAME .
 *.fessy.co CNAME .
 flextrader.co CNAME .
 *.flextrader.co CNAME .
-fnpmarkets.co CNAME .
-*.fnpmarkets.co CNAME .
 fusiontrade.co CNAME .
 *.fusiontrade.co CNAME .
 galagate.co CNAME .
@@ -4469,8 +4467,6 @@ shop.drcherylkam.com CNAME .
 *.shop.drcherylkam.com CNAME .
 dream-cars-it.com CNAME .
 *.dream-cars-it.com CNAME .
-dream-fun.com CNAME .
-*.dream-fun.com CNAME .
 dreamcigarettes.com CNAME .
 *.dreamcigarettes.com CNAME .
 dreamhomeoutlet.com CNAME .
@@ -4529,8 +4525,6 @@ drshoeoutlet.com CNAME .
 *.drshoeoutlet.com CNAME .
 drspharm.com CNAME .
 *.drspharm.com CNAME .
-drybox-innov.com CNAME .
-*.drybox-innov.com CNAME .
 dryredwineshop.com CNAME .
 *.dryredwineshop.com CNAME .
 dryrosewine.com CNAME .
@@ -4803,8 +4797,6 @@ ellada-farmakeio.com CNAME .
 *.ellada-farmakeio.com CNAME .
 ellandroadcapital.com CNAME .
 *.ellandroadcapital.com CNAME .
-ellenawelpenhaus.com CNAME .
-*.ellenawelpenhaus.com CNAME .
 ellerne.com CNAME .
 *.ellerne.com CNAME .
 ellinika-farmakeio.com CNAME .
@@ -4829,8 +4821,6 @@ emhart-holze.com CNAME .
 *.emhart-holze.com CNAME .
 emilemartin.com CNAME .
 *.emilemartin.com CNAME .
-emiliegan.com CNAME .
-*.emiliegan.com CNAME .
 eminage.com CNAME .
 *.eminage.com CNAME .
 eminetfinancesystem.com CNAME .
@@ -5065,8 +5055,6 @@ event-topmedia012.com CNAME .
 *.event-topmedia012.com CNAME .
 eventsmeter.com CNAME .
 *.eventsmeter.com CNAME .
-everestrust.com CNAME .
-*.everestrust.com CNAME .
 evermily.com CNAME .
 *.evermily.com CNAME .
 everyknives.com CNAME .
@@ -5075,8 +5063,6 @@ evewebster.com CNAME .
 *.evewebster.com CNAME .
 eviox24.com CNAME .
 *.eviox24.com CNAME .
-evnedeve02.com CNAME .
-*.evnedeve02.com CNAME .
 evo-house.com CNAME .
 *.evo-house.com CNAME .
 evo-pharmacy.com CNAME .
@@ -5185,8 +5171,6 @@ fahrradkassettede.com CNAME .
 *.fahrradkassettede.com CNAME .
 fahrradkleinteile.com CNAME .
 *.fahrradkleinteile.com CNAME .
-fahrradkoenig.com CNAME .
-*.fahrradkoenig.com CNAME .
 fahrradneuheiten.com CNAME .
 *.fahrradneuheiten.com CNAME .
 fahrradprodukt.com CNAME .
@@ -5491,8 +5475,6 @@ fishingjandh.com CNAME .
 *.fishingjandh.com CNAME .
 fitandelite.com CNAME .
 *.fitandelite.com CNAME .
-fitapotheek.com CNAME .
-*.fitapotheek.com CNAME .
 fitflopromania.com CNAME .
 *.fitflopromania.com CNAME .
 fitnessbox-arena.com CNAME .
@@ -16629,8 +16611,6 @@ unser-eshop.shop.epages.de CNAME .
 *.unser-eshop.shop.epages.de CNAME .
 eradkraft.de CNAME .
 *.eradkraft.de CNAME .
-eradladen.de CNAME .
-*.eradladen.de CNAME .
 eradmarkt.de CNAME .
 *.eradmarkt.de CNAME .
 eradstore.de CNAME .
@@ -16703,8 +16683,6 @@ euronicsdeutschlandshop.de CNAME .
 *.euronicsdeutschlandshop.de CNAME .
 euronicsdirekte.de CNAME .
 *.euronicsdirekte.de CNAME .
-euronicsonlineshop.de CNAME .
-*.euronicsonlineshop.de CNAME .
 euronicspowergame.de CNAME .
 *.euronicspowergame.de CNAME .
 euronicsser.de CNAME .
@@ -16767,8 +16745,6 @@ fahrradhandel-behrendt.de CNAME .
 *.fahrradhandel-behrendt.de CNAME .
 fahrradhandel-kramer.de CNAME .
 *.fahrradhandel-kramer.de CNAME .
-fahrradladen-kornburg.de CNAME .
-*.fahrradladen-kornburg.de CNAME .
 fahrradmarkise.de CNAME .
 *.fahrradmarkise.de CNAME .
 fahrrados.de CNAME .
@@ -16885,8 +16861,6 @@ flakoni-haushalt.de CNAME .
 *.flakoni-haushalt.de CNAME .
 flammenfreude.de CNAME .
 *.flammenfreude.de CNAME .
-flamna.de CNAME .
-*.flamna.de CNAME .
 fleischwolfprada.de CNAME .
 *.fleischwolfprada.de CNAME .
 flexeal-tech.de CNAME .
@@ -21033,8 +21007,6 @@ easyfiles.io CNAME .
 *.easyfiles.io CNAME .
 economix.io CNAME .
 *.economix.io CNAME .
-empos.io CNAME .
-*.empos.io CNAME .
 everlodge.io CNAME .
 *.everlodge.io CNAME .
 ezmarkets.io CNAME .
@@ -21453,6 +21425,8 @@ drmartensjapan.net CNAME .
 *.drmartensjapan.net CNAME .
 drugs247.net CNAME .
 *.drugs247.net CNAME .
+dutchsport.net CNAME .
+*.dutchsport.net CNAME .
 edecon.net CNAME .
 *.edecon.net CNAME .
 edexpress24.net CNAME .
@@ -21485,8 +21459,6 @@ fantomfx.net CNAME .
 *.fantomfx.net CNAME .
 financialfutures.net CNAME .
 *.financialfutures.net CNAME .
-ww7.finotive.net CNAME .
-*.ww7.finotive.net CNAME .
 firmeneintrag.net CNAME .
 *.firmeneintrag.net CNAME .
 firmenklick.net CNAME .
@@ -22439,8 +22411,6 @@ excitement.pro CNAME .
 *.excitement.pro CNAME .
 expertlogistics.pro CNAME .
 *.expertlogistics.pro CNAME .
-finanzwelt.pro CNAME .
-*.finanzwelt.pro CNAME .
 fxwinning.pro CNAME .
 *.fxwinning.pro CNAME .
 gearfactory.pro CNAME .
@@ -22945,8 +22915,6 @@ duronic.shop CNAME .
 *.duronic.shop CNAME .
 dusanboldiwebstore.shop CNAME .
 *.dusanboldiwebstore.shop CNAME .
-dxfamilypanda.shop CNAME .
-*.dxfamilypanda.shop CNAME .
 dynoscooterde.shop CNAME .
 *.dynoscooterde.shop CNAME .
 east-trading.shop CNAME .
@@ -23035,8 +23003,6 @@ fairtailsoutlet.shop CNAME .
 *.fairtailsoutlet.shop CNAME .
 falikersk.shop CNAME .
 *.falikersk.shop CNAME .
-falke-online.shop CNAME .
-*.falke-online.shop CNAME .
 familygiftscode.shop CNAME .
 *.familygiftscode.shop CNAME .
 fantimo.shop CNAME .
@@ -23055,16 +23021,12 @@ ferplastdeutschland.shop CNAME .
 *.ferplastdeutschland.shop CNAME .
 ferrun.shop CNAME .
 *.ferrun.shop CNAME .
-feuerwerk-outlet.shop CNAME .
-*.feuerwerk-outlet.shop CNAME .
 figuredartde.shop CNAME .
 *.figuredartde.shop CNAME .
 fillinger.shop CNAME .
 *.fillinger.shop CNAME .
 filthyfragrance.shop CNAME .
 *.filthyfragrance.shop CNAME .
-fine-liquidsoutlet.shop CNAME .
-*.fine-liquidsoutlet.shop CNAME .
 finnflarede.shop CNAME .
 *.finnflarede.shop CNAME .
 firsthelptech.shop CNAME .
@@ -23079,8 +23041,6 @@ fjallravenstores.shop CNAME .
 *.fjallravenstores.shop CNAME .
 fleuretc.shop CNAME .
 *.fleuretc.shop CNAME .
-at.flexumgel-official.shop CNAME .
-*.at.flexumgel-official.shop CNAME .
 fluidfrerides.shop CNAME .
 *.fluidfrerides.shop CNAME .
 foeger.shop CNAME .
@@ -23117,8 +23077,6 @@ freeshkaov.shop CNAME .
 *.freeshkaov.shop CNAME .
 freeteck.shop CNAME .
 *.freeteck.shop CNAME .
-freshkaamelott.shop CNAME .
-*.freshkaamelott.shop CNAME .
 frey-reifenversand.shop CNAME .
 *.frey-reifenversand.shop CNAME .
 fricke-reifenversand.shop CNAME .
