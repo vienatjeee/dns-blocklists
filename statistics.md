@@ -115,7 +115,7 @@
  24 |      99% |   0% |      1% | Denylist Community Aggressive
  25 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
  26 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
- 27 |      83% |  10% |      7% | Ultimate Extension
+ 27 |      84% |  10% |      6% | Ultimate Extension
  28 |      88% |   6% |      6% | Denylist Aggressive
  29 |      70% |  27% |      3% | Denylist Community Ultimate
 ```

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733616780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733660040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Dec 2024 00:13 UTC
-; Version: 2024.1208.0013.41
+; Last modified: 08 Dec 2024 12:14 UTC
+; Version: 2024.1208.1214.34
 ; Syntax: RPZ
-; Number of entries: 25072
+; Number of entries: 25064
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -6479,8 +6479,6 @@ hairfashionary.com CNAME .
 *.hairfashionary.com CNAME .
 hairive.com CNAME .
 *.hairive.com CNAME .
-hairmpress.com CNAME .
-*.hairmpress.com CNAME .
 haleybaby.com CNAME .
 *.haleybaby.com CNAME .
 hallhuberfr.com CNAME .
@@ -7771,8 +7769,6 @@ kingequipshop.com CNAME .
 *.kingequipshop.com CNAME .
 kingseven-shop.com CNAME .
 *.kingseven-shop.com CNAME .
-kingstonbathroom.com CNAME .
-*.kingstonbathroom.com CNAME .
 kinopolisentertainment.com CNAME .
 *.kinopolisentertainment.com CNAME .
 fr.kiplar.com CNAME .
@@ -8927,8 +8923,6 @@ mlbhungary.com CNAME .
 *.mlbhungary.com CNAME .
 mmatrailers.com CNAME .
 *.mmatrailers.com CNAME .
-mmc-serv.com CNAME .
-*.mmc-serv.com CNAME .
 mmontagnet.com CNAME .
 *.mmontagnet.com CNAME .
 mnlsbjsy.com CNAME .
@@ -16231,8 +16225,6 @@ delwin-tech.de CNAME .
 *.delwin-tech.de CNAME .
 demoniadeutschland.de CNAME .
 *.demoniadeutschland.de CNAME .
-demoniaschuhe.de CNAME .
-*.demoniaschuhe.de CNAME .
 demoniastiefel.de CNAME .
 *.demoniastiefel.de CNAME .
 dent-wellness.de CNAME .
