@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Dec 2024 11:19 UTC
-# Version: 2024.1207.1119.55
+# Last modified: 08 Dec 2024 00:13 UTC
+# Version: 2024.1208.0013.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12540
+# Number of entries: 12536
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -573,7 +573,6 @@ local=/aquariumopt.com/
 local=/aquasportkleidung.com/
 local=/aquaticsarea.com/
 local=/aquaticsart-ebikes.com/
-local=/aquaticscategory.com/
 local=/aquaticsportscp.com/
 local=/aquaticsstoreus.com/
 local=/aquavento.shop/
@@ -711,7 +710,6 @@ local=/atologiesm.com/
 local=/atomicfundvest.ltd/
 local=/aton-invest.com/
 local=/atossy.de/
-local=/atsholz.com/
 local=/attirebaseball.com/
 local=/attirefad.com/
 local=/attiremen.com/
@@ -2187,6 +2185,7 @@ local=/stussyindiastore.co.in/
 local=/tom-ford.co.za/
 local=/uggs-southafrica.co.za/
 local=/vanss.co.at/
+local=/veja.co.at/
 local=/victoriasecretssouthafrica.co.za/
 local=/yeti-southafrica.co.za/
 local=/coach-florian.com/
@@ -3598,7 +3597,6 @@ local=/fadtennis.com/
 local=/fahrrad-barth.com/
 local=/fahrrad-handels.de/
 local=/fahrrad-handels.net/
-local=/fahrrad-herrmans.de/
 local=/fahrrad-komponenten.com/
 local=/fahrrad-moltisanti.com/
 local=/fahrrad-versand.com/
@@ -7082,7 +7080,6 @@ local=/merkel-autoreifen.shop/
 local=/merlin-apotheke.com/
 local=/merlngrant.com/
 local=/meroycollection.store/
-local=/merrell-osterreich.at/
 local=/merrellbarbati.com/
 local=/merrellosterreich.at/
 local=/merrelloutletonline.de/
@@ -8928,7 +8925,6 @@ local=/rabattgabor.de/
 local=/rabattherren.com/
 local=/rabatthope.de/
 local=/rabattkleidung.com/
-local=/rabattleuchten.de/
 local=/rabattlloyd.de/
 local=/rabattloewe.de/
 local=/rabattlouboutin.de/

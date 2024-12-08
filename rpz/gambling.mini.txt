@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733583960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733630340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Dec 2024 15:06 UTC
-; Version: 2024.1207.1506.45
+; Last modified: 08 Dec 2024 03:59 UTC
+; Version: 2024.1208.0359.24
 ; Syntax: RPZ
-; Number of entries: 84204
+; Number of entries: 84206
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -36301,6 +36301,8 @@ k8vip.com CNAME .
 *.k8vip.com CNAME .
 k8vn.com CNAME .
 *.k8vn.com CNAME .
+k8vn138.com CNAME .
+*.k8vn138.com CNAME .
 k8win889.com CNAME .
 *.k8win889.com CNAME .
 k9cc11.com CNAME .

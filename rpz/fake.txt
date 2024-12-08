@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733570340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733616780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Dec 2024 11:19 UTC
-; Version: 2024.1207.1119.55
+; Last modified: 08 Dec 2024 00:13 UTC
+; Version: 2024.1208.0013.41
 ; Syntax: RPZ
-; Number of entries: 25080
+; Number of entries: 25072
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -183,6 +183,8 @@ micheles.co.at CNAME .
 *.micheles.co.at CNAME .
 vanss.co.at CNAME .
 *.vanss.co.at CNAME .
+veja.co.at CNAME .
+*.veja.co.at CNAME .
 coachoutlet.at CNAME .
 *.coachoutlet.at CNAME .
 comme-des-garcons.at CNAME .
@@ -453,8 +455,6 @@ meisterelektrik-24.at CNAME .
 *.meisterelektrik-24.at CNAME .
 mercadolibre.at CNAME .
 *.mercadolibre.at CNAME .
-merrell-osterreich.at CNAME .
-*.merrell-osterreich.at CNAME .
 merrellosterreich.at CNAME .
 *.merrellosterreich.at CNAME .
 michaelkorsosterreich.at CNAME .
@@ -1831,8 +1831,6 @@ aquaticsarea.com CNAME .
 *.aquaticsarea.com CNAME .
 aquaticsart-ebikes.com CNAME .
 *.aquaticsart-ebikes.com CNAME .
-aquaticscategory.com CNAME .
-*.aquaticscategory.com CNAME .
 aquaticsportscp.com CNAME .
 *.aquaticsportscp.com CNAME .
 aquaticsstoreus.com CNAME .
@@ -1963,8 +1961,6 @@ atologiesm.com CNAME .
 *.atologiesm.com CNAME .
 aton-invest.com CNAME .
 *.aton-invest.com CNAME .
-atsholz.com CNAME .
-*.atsholz.com CNAME .
 attirebaseball.com CNAME .
 *.attirebaseball.com CNAME .
 attirefad.com CNAME .
@@ -16735,8 +16731,6 @@ facyline.de CNAME .
 *.facyline.de CNAME .
 fahrrad-handels.de CNAME .
 *.fahrrad-handels.de CNAME .
-fahrrad-herrmans.de CNAME .
-*.fahrrad-herrmans.de CNAME .
 fahrrad-zubehor.de CNAME .
 *.fahrrad-zubehor.de CNAME .
 fahrradgeist.de CNAME .
@@ -19207,8 +19201,6 @@ rabattgabor.de CNAME .
 *.rabattgabor.de CNAME .
 rabatthope.de CNAME .
 *.rabatthope.de CNAME .
-rabattleuchten.de CNAME .
-*.rabattleuchten.de CNAME .
 rabattlloyd.de CNAME .
 *.rabattlloyd.de CNAME .
 rabattloewe.de CNAME .
