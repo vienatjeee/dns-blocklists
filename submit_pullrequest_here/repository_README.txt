@@ -212,7 +212,10 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 >           
 > **Windows/XBox:**          
 > Some Microsoft trackers are blocked in Ultimate, which lead to restrictions, e.g. Windows Spotlight, XBox Live Achievements, Windows Activity History and others. For details and which domains must be unblocked for which function, see: [Microsoft Tracker](share/microsoft.txt).
-
+>                   
+>**Miscellaneous:**          
+> Details on other known issues can be found [here](share/ultimate-known-issues.txt).  
+                   
 **Entries:** ultimate_dh domains/hosts - ultimate_dhc compressed hosts - ultimate_cp compressed domains
 
 | Format | Links | Should be used for |
