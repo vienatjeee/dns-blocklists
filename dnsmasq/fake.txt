@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Dec 2024 12:14 UTC
-# Version: 2024.1208.1214.34
+# Last modified: 09 Dec 2024 00:13 UTC
+# Version: 2024.1209.0013.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12532
+# Number of entries: 12524
 #
 local=/01crypto.com/
 local=/1-stud.net/
@@ -3596,6 +3596,7 @@ local=/fadtennis.com/
 local=/fahrrad-barth.com/
 local=/fahrrad-handels.de/
 local=/fahrrad-handels.net/
+local=/fahrrad-herrmans.de/
 local=/fahrrad-komponenten.com/
 local=/fahrrad-moltisanti.com/
 local=/fahrrad-versand.com/
@@ -4200,7 +4201,6 @@ local=/galeme.com/
 local=/galerieoswald.de/
 local=/gambotmaschinen.com/
 local=/game.toys/
-local=/game-byte.com/
 local=/game-str.com/
 local=/gamebasic-de.com/
 local=/gamebyte.eu/
@@ -4218,7 +4218,6 @@ local=/gamesruslivde.shop/
 local=/gamesstudionuernberg.com/
 local=/gamestopde.de/
 local=/gamestopland.com/
-local=/gamestoponline.de/
 local=/gametimejerseys.com/
 local=/gameverkauf.de/
 local=/gaming-gorilla.de/
@@ -4229,7 +4228,6 @@ local=/gamingonline.store/
 local=/gamingpark.net/
 local=/gamingplanet.eu/
 local=/gamingplaza.de/
-local=/gamingstuhl-de.de/
 local=/gammatech.store/
 local=/ganggeschenk.com/
 local=/immediatesedgeappl-de.ganigie.com/
@@ -4301,7 +4299,6 @@ local=/gartenschritte.de/
 local=/gartensgeschaft.com/
 local=/gartenshop-marsmann.de/
 local=/gartentor.shop/
-local=/gartenunfreizeit.com/
 local=/gartenzon.de/
 local=/gartio.net/
 local=/gartio-shop.com/
@@ -4535,7 +4532,6 @@ local=/gluecksraupe.shop/
 local=/glueckstore.de/
 local=/gluschwein.de/
 local=/gm-portal.co/
-local=/gmbholz.com/
 local=/gmd-koeln.de/
 local=/gmiglfx.com/
 local=/gmm-holzgmbh.com/
@@ -5312,7 +5308,6 @@ local=/hoomir.com/
 local=/hoopur.com/
 local=/hopandpopde.shop/
 local=/hopebikeabout.com/
-local=/hopesport.de/
 local=/horizon-patrimoine.com/
 local=/horizon-shot.com/
 local=/hormanns24.de/
@@ -6607,7 +6602,6 @@ local=/lokalversand.nl/
 local=/lokomofrecund.shop/
 local=/lolamarkt.com/
 local=/lollipoppydoodle.com/
-local=/loloswood.com/
 local=/londonemanagement.com/
 local=/londonglobalmarkets.com/
 local=/londonsunny.com/
@@ -8904,7 +8898,6 @@ local=/rabattbacken.com/
 local=/rabattbademode.com/
 local=/rabattbaukasten.com/
 local=/rabattbike.com/
-local=/rabattcastelli.de/
 local=/rabattchemikalien.com/
 local=/rabattcricut.de/
 local=/rabattdamen.com/
@@ -8919,7 +8912,6 @@ local=/rabattfahrradteile.de/
 local=/rabattfornasetti.de/
 local=/rabattgabor.de/
 local=/rabattherren.com/
-local=/rabatthope.de/
 local=/rabattkleidung.com/
 local=/rabattlloyd.de/
 local=/rabattloewe.de/

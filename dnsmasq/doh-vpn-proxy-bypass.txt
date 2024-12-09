@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Dec 2024 16:17 UTC
-# Version: 2024.1208.1617.23
+# Last modified: 09 Dec 2024 04:23 UTC
+# Version: 2024.1209.0423.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3636
+# Number of entries: 3634
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -1988,8 +1988,6 @@ local=/dnsotls.lab.nic.cl/
 local=/odvr.nic.cz/
 local=/nice-autosurf.com/
 local=/dns.nick-slowinski.de/
-local=/doh-own-recursion.nicolas-dorriere.fr/
-local=/doh-random-upstream.nicolas-dorriere.fr/
 local=/nicsezcheckfbi.gov/
 local=/dns1.nielsdb.be/
 local=/nightowlvpn.com/

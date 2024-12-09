@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733660040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733703180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Dec 2024 12:14 UTC
-; Version: 2024.1208.1214.34
+; Last modified: 09 Dec 2024 00:13 UTC
+; Version: 2024.1209.0013.26
 ; Syntax: RPZ
-; Number of entries: 25064
+; Number of entries: 25048
 ;
 quiz.prosperi.academy CNAME .
 *.quiz.prosperi.academy CNAME .
@@ -5795,8 +5795,6 @@ galeme.com CNAME .
 *.galeme.com CNAME .
 gambotmaschinen.com CNAME .
 *.gambotmaschinen.com CNAME .
-game-byte.com CNAME .
-*.game-byte.com CNAME .
 game-str.com CNAME .
 *.game-str.com CNAME .
 gamebasic-de.com CNAME .
@@ -5883,8 +5881,6 @@ gartenschranke.com CNAME .
 *.gartenschranke.com CNAME .
 gartensgeschaft.com CNAME .
 *.gartensgeschaft.com CNAME .
-gartenunfreizeit.com CNAME .
-*.gartenunfreizeit.com CNAME .
 gartio-shop.com CNAME .
 *.gartio-shop.com CNAME .
 garved.com CNAME .
@@ -6167,8 +6163,6 @@ ch.gluconv.com CNAME .
 *.ch.gluconv.com CNAME .
 gr.gluconv.com CNAME .
 *.gr.gluconv.com CNAME .
-gmbholz.com CNAME .
-*.gmbholz.com CNAME .
 gmiglfx.com CNAME .
 *.gmiglfx.com CNAME .
 gmm-holzgmbh.com CNAME .
@@ -8321,8 +8315,6 @@ lolamarkt.com CNAME .
 *.lolamarkt.com CNAME .
 lollipoppydoodle.com CNAME .
 *.lollipoppydoodle.com CNAME .
-loloswood.com CNAME .
-*.loloswood.com CNAME .
 londonemanagement.com CNAME .
 *.londonemanagement.com CNAME .
 londonglobalmarkets.com CNAME .
@@ -16723,6 +16715,8 @@ facyline.de CNAME .
 *.facyline.de CNAME .
 fahrrad-handels.de CNAME .
 *.fahrrad-handels.de CNAME .
+fahrrad-herrmans.de CNAME .
+*.fahrrad-herrmans.de CNAME .
 fahrrad-zubehor.de CNAME .
 *.fahrrad-zubehor.de CNAME .
 fahrradgeist.de CNAME .
@@ -16995,8 +16989,6 @@ gamesmojo.de CNAME .
 *.gamesmojo.de CNAME .
 gamestopde.de CNAME .
 *.gamestopde.de CNAME .
-gamestoponline.de CNAME .
-*.gamestoponline.de CNAME .
 gameverkauf.de CNAME .
 *.gameverkauf.de CNAME .
 gaming-gorilla.de CNAME .
@@ -17007,8 +16999,6 @@ gamingmarkt.de CNAME .
 *.gamingmarkt.de CNAME .
 gamingplaza.de CNAME .
 *.gamingplaza.de CNAME .
-gamingstuhl-de.de CNAME .
-*.gamingstuhl-de.de CNAME .
 gardena-mawer.de CNAME .
 *.gardena-mawer.de CNAME .
 gardenamawer.de CNAME .
@@ -17555,8 +17545,6 @@ homondo.de CNAME .
 *.homondo.de CNAME .
 honk-projekt.de CNAME .
 *.honk-projekt.de CNAME .
-hopesport.de CNAME .
-*.hopesport.de CNAME .
 hormanns24.de CNAME .
 *.hormanns24.de CNAME .
 hormans.de CNAME .
@@ -19171,8 +19159,6 @@ rabattarkk.de CNAME .
 *.rabattarkk.de CNAME .
 rabattausrustung.de CNAME .
 *.rabattausrustung.de CNAME .
-rabattcastelli.de CNAME .
-*.rabattcastelli.de CNAME .
 rabattcricut.de CNAME .
 *.rabattcricut.de CNAME .
 rabattdamen.de CNAME .
@@ -19191,8 +19177,6 @@ rabattfornasetti.de CNAME .
 *.rabattfornasetti.de CNAME .
 rabattgabor.de CNAME .
 *.rabattgabor.de CNAME .
-rabatthope.de CNAME .
-*.rabatthope.de CNAME .
 rabattlloyd.de CNAME .
 *.rabattlloyd.de CNAME .
 rabattloewe.de CNAME .

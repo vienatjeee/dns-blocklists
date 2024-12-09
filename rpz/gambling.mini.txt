@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733673600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733717040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Dec 2024 16:00 UTC
-; Version: 2024.1208.1600.20
+; Last modified: 09 Dec 2024 04:04 UTC
+; Version: 2024.1209.0404.46
 ; Syntax: RPZ
-; Number of entries: 83870
+; Number of entries: 83816
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -391,8 +391,6 @@ play.gamedownloads.app CNAME .
 *.play.gamedownloads.app CNAME .
 gamesdownload.app CNAME .
 *.gamesdownload.app CNAME .
-gj.app CNAME .
-*.gj.app CNAME .
 go88apk.app CNAME .
 *.go88apk.app CNAME .
 go99.app CNAME .
@@ -5397,8 +5395,6 @@ fresh-casino.cam CNAME .
 *.fresh-casino.cam CNAME .
 freshcasino.cam CNAME .
 *.freshcasino.cam CNAME .
-gamacasino.cam CNAME .
-*.gamacasino.cam CNAME .
 gmsdeluxe-casino.cam CNAME .
 *.gmsdeluxe-casino.cam CNAME .
 gmslots-casino.cam CNAME .
@@ -7539,8 +7535,6 @@ goandplay1.club CNAME .
 *.goandplay1.club CNAME .
 gold-casino.club CNAME .
 *.gold-casino.club CNAME .
-goldcasinos.club CNAME .
-*.goldcasinos.club CNAME .
 goldcasinoz.club CNAME .
 *.goldcasinoz.club CNAME .
 goldeplacasport.club CNAME .
@@ -8257,8 +8251,6 @@ ggbets.co CNAME .
 *.ggbets.co CNAME .
 go88.co CNAME .
 *.go88.co CNAME .
-godjogo.co CNAME .
-*.godjogo.co CNAME .
 goldencasinos.co CNAME .
 *.goldencasinos.co CNAME .
 goldfishka-casino.co CNAME .
@@ -30743,8 +30735,6 @@ garillacasino13.com CNAME .
 *.garillacasino13.com CNAME .
 garillacasino14.com CNAME .
 *.garillacasino14.com CNAME .
-garillacasino6.com CNAME .
-*.garillacasino6.com CNAME .
 garillacasino7.com CNAME .
 *.garillacasino7.com CNAME .
 garillacasino8.com CNAME .
@@ -31443,8 +31433,6 @@ goku189.com CNAME .
 *.goku189.com CNAME .
 gola365.com CNAME .
 *.gola365.com CNAME .
-gold-casinos.com CNAME .
-*.gold-casinos.com CNAME .
 goldbet.com CNAME .
 *.goldbet.com CNAME .
 goldcasino-link.com CNAME .
@@ -31549,22 +31537,6 @@ goldfishka.com CNAME .
 *.goldfishka.com CNAME .
 goldfishka-casino-official.com CNAME .
 *.goldfishka-casino-official.com CNAME .
-goldfishka246.com CNAME .
-*.goldfishka246.com CNAME .
-goldfishka247.com CNAME .
-*.goldfishka247.com CNAME .
-goldfishka248.com CNAME .
-*.goldfishka248.com CNAME .
-goldfishka249.com CNAME .
-*.goldfishka249.com CNAME .
-goldfishka251.com CNAME .
-*.goldfishka251.com CNAME .
-goldfishka252.com CNAME .
-*.goldfishka252.com CNAME .
-goldfishka253.com CNAME .
-*.goldfishka253.com CNAME .
-goldfishka254.com CNAME .
-*.goldfishka254.com CNAME .
 goldfishka266.com CNAME .
 *.goldfishka266.com CNAME .
 goldfishka267.com CNAME .
@@ -58335,10 +58307,6 @@ gamblingwin.info CNAME .
 *.gamblingwin.info CNAME .
 gamerscasino.info CNAME .
 *.gamerscasino.info CNAME .
-gapcasino.info CNAME .
-*.gapcasino.info CNAME .
-geekscasino.info CNAME .
-*.geekscasino.info CNAME .
 generationcasino.info CNAME .
 *.generationcasino.info CNAME .
 getcasinodepositbonus.info CNAME .
@@ -58347,8 +58315,6 @@ ggbet-kazino.info CNAME .
 *.ggbet-kazino.info CNAME .
 gi8.info CNAME .
 *.gi8.info CNAME .
-glowcasino.info CNAME .
-*.glowcasino.info CNAME .
 go-joycasino.info CNAME .
 *.go-joycasino.info CNAME .
 go88.info CNAME .
@@ -59191,8 +59157,6 @@ gmwin.io CNAME .
 *.gmwin.io CNAME .
 godjogo.io CNAME .
 *.godjogo.io CNAME .
-goey.io CNAME .
-*.goey.io CNAME .
 goldcup.io CNAME .
 *.goldcup.io CNAME .
 greenbets.io CNAME .
@@ -66081,8 +66045,6 @@ gambling.org CNAME .
 *.gambling.org CNAME .
 gambling4you.org CNAME .
 *.gambling4you.org CNAME .
-gamblinginfo.org CNAME .
-*.gamblinginfo.org CNAME .
 gamblingplanet.org CNAME .
 *.gamblingplanet.org CNAME .
 gamblingpoker.org CNAME .
@@ -66129,8 +66091,6 @@ go88.org CNAME .
 *.go88.org CNAME .
 goldcasinos.org CNAME .
 *.goldcasinos.org CNAME .
-goldenlioncasino.org CNAME .
-*.goldenlioncasino.org CNAME .
 goodcasinos.org CNAME .
 *.goodcasinos.org CNAME .
 goodmancasino.org CNAME .
@@ -76009,8 +75969,6 @@ g8kdj23.top CNAME .
 *.g8kdj23.top CNAME .
 galaksinocasino.top CNAME .
 *.galaksinocasino.top CNAME .
-gama-casinos.top CNAME .
-*.gama-casinos.top CNAME .
 gamacasino-428.top CNAME .
 *.gamacasino-428.top CNAME .
 ganaencasa-casino.top CNAME .
@@ -76053,8 +76011,6 @@ goiasbets.top CNAME .
 *.goiasbets.top CNAME .
 gold-casinoz.top CNAME .
 *.gold-casinoz.top CNAME .
-goldcasinoz.top CNAME .
-*.goldcasinoz.top CNAME .
 goldencrowncasino.top CNAME .
 *.goldencrowncasino.top CNAME .
 goldenreefcasino.top CNAME .
@@ -76063,8 +76019,6 @@ goldentigercasino.top CNAME .
 *.goldentigercasino.top CNAME .
 goldruncasino.top CNAME .
 *.goldruncasino.top CNAME .
-golds-casinos.top CNAME .
-*.golds-casinos.top CNAME .
 goldwincasino.top CNAME .
 *.goldwincasino.top CNAME .
 google318k.top CNAME .
@@ -80285,8 +80239,6 @@ globaisbet.vip CNAME .
 *.globaisbet.vip CNAME .
 go88.vip CNAME .
 *.go88.vip CNAME .
-gold-casinos.vip CNAME .
-*.gold-casinos.vip CNAME .
 good8813.vip CNAME .
 *.good8813.vip CNAME .
 good8817.vip CNAME .
@@ -81269,16 +81221,12 @@ fun1900.win CNAME .
 *.fun1900.win CNAME .
 fun5566.win CNAME .
 *.fun5566.win CNAME .
-gamacasino1.win CNAME .
-*.gamacasino1.win CNAME .
 game-casino-rating-2023.win CNAME .
 *.game-casino-rating-2023.win CNAME .
 game50.win CNAME .
 *.game50.win CNAME .
 game90.win CNAME .
 *.game90.win CNAME .
-gamecasinoratingofficial1-2023.win CNAME .
-*.gamecasinoratingofficial1-2023.win CNAME .
 gamecasinoratingofficial3-2023.win CNAME .
 *.gamecasinoratingofficial3-2023.win CNAME .
 gamedd.win CNAME .
@@ -81289,8 +81237,6 @@ gamejj.win CNAME .
 *.gamejj.win CNAME .
 games-casino-2023.win CNAME .
 *.games-casino-2023.win CNAME .
-games-casino677.win CNAME .
-*.games-casino677.win CNAME .
 games-casino733.win CNAME .
 *.games-casino733.win CNAME .
 games-casino95.win CNAME .

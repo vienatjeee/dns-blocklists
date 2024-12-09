@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Dec 2024 14:15 UTC
-# Version: 2024.1208.1415.55
+# Last modified: 09 Dec 2024 02:17 UTC
+# Version: 2024.1209.0217.36
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 142119
+# Number of entries: 142332
 #
 0-02.net
 000free.us
@@ -5621,6 +5621,8 @@ yasuo.360.cn
 yule.360.com
 360ads.com
 www.360ads.com
+360dialog.com
+www.360dialog.com
 domcwlxin.360doc.cn
 dtnaximya.360doc.cn
 eclick.360doc.com
@@ -7292,6 +7294,7 @@ a717b6d31e.com
 a5a3b2ce93.a717b6d31e.com
 a7245f3c59.com
 a7f3b65b6b.com
+a8.com
 ad.a8.net
 ad-api.a8.net
 ad-verification.a8.net
@@ -9871,6 +9874,7 @@ www.admaru.com
 admarvel.com
 ads.admarvel.com
 base-cdn.admarvel.com
+admaster.net
 admasters.media
 admatrix.jp
 acq-3pas.admatrix.jp
@@ -10630,6 +10634,7 @@ delivery.adrecover.com
 feedback.adrecover.com
 adregain.com
 adrequest.net
+adresult.jp
 adrevolver.com
 adrgyouguide.com
 analytics.adriadigital.si
@@ -13252,6 +13257,7 @@ log.adywind.com
 adz2you.net
 adzbazar.com
 www.adzbazar.com
+setting.adzcore.com
 adzdgr-wadd2-f1d.com
 engine.adzerk.net
 engine2.adzerk.net
@@ -14908,6 +14914,7 @@ aliwjo.com
 aliyothvoglite.top
 acjs.aliyun.com
 click.aliyun.com
+promotion.aliyun.com
 metric.aliyun-inc.com
 aliyunapi.org
 retcode-sg-lazada.arms.aliyuncs.com
@@ -19804,6 +19811,7 @@ appserver-ap.com
 appservestar.com
 analytics.appservice.tech
 appsfire.com
+appsfire.net
 appsflyer.club
 adrevenue.appsflyer.com
 af-banner-stg.appsflyer.com
@@ -25886,6 +25894,7 @@ aadata.april-international.com
 apritvun.com
 tr.info.aprr.fr
 aprtx.com
+liveops-prod-us-east-1-cdn.coem.aps-awemprod2.com
 apsalar.com
 ad.apsalar.com
 api.apsalar.com
@@ -27387,6 +27396,8 @@ awecre.com
 awecrptjmp.com
 awejmp.com
 awelsorsulte.com
+marktools.awem.com
+support.awem.com
 awembd.com
 awemdia.com
 awempire.com
@@ -28551,6 +28562,7 @@ barbecueappledos.pw
 barbecuedilatefinally.com
 metrics.barclaycardus.com
 tracking.barcodesinc.com
+track.barcoo.com
 barcoopeotomy.com
 analytics.prod.bardeen.ai
 bardicjazzed.com
@@ -29810,12 +29822,57 @@ track.bidgx.com
 bidio.pl
 bidjora.com
 service.bidlab.ai
+bidmachine.io
 api.bidmachine.io
 api-apac.bidmachine.io
 api-eu.bidmachine.io
 api-eu-a.bidmachine.io
 api-us.bidmachine.io
 api-us-was.bidmachine.io
+cta.bidmachine.io
+eu.bidmachine.io
+eu-a.bidmachine.io
+kafka-broker10-int-us.bidmachine.io
+kafka-broker11-int-us.bidmachine.io
+kafka-broker12-int-us.bidmachine.io
+kafka-broker13-int-us.bidmachine.io
+kafka-broker14-int-us.bidmachine.io
+kafka-broker15-int-us.bidmachine.io
+kafka-broker16-int-us.bidmachine.io
+kafka-broker17-int-us.bidmachine.io
+kafka-broker18-int-us.bidmachine.io
+kafka-broker19-int-us.bidmachine.io
+kafka-broker20-int-us.bidmachine.io
+kafka-broker21-int-us.bidmachine.io
+kafka-broker22-int-us.bidmachine.io
+kafka-broker23-int-us.bidmachine.io
+kafka-broker24-int-us.bidmachine.io
+kafka-broker7-int-us.bidmachine.io
+kafka-broker8-int-us.bidmachine.io
+kafka-broker9-int-us.bidmachine.io
+kafka1-int.bidmachine.io
+kafka10-int.bidmachine.io
+kafka11-int.bidmachine.io
+kafka12-int.bidmachine.io
+kafka13-int.bidmachine.io
+kafka14-int.bidmachine.io
+kafka15-int.bidmachine.io
+kafka16-int.bidmachine.io
+kafka17-int.bidmachine.io
+kafka18-int.bidmachine.io
+kafka2-int.bidmachine.io
+kafka3-int.bidmachine.io
+kafka4-int.bidmachine.io
+kafka5-int.bidmachine.io
+kafka6-int.bidmachine.io
+kafka7-int.bidmachine.io
+kafka8-int.bidmachine.io
+kafka9-int.bidmachine.io
+minio-int-us.bidmachine.io
+minio-n.bidmachine.io
+rollouts-int.bidmachine.io
+track-eu-a.bidmachine.io
+zabbix.bidmachine.io
 bidmatic.io
 aux-log.bidmatic.io
 files.bidmatic.io
@@ -29900,6 +29957,7 @@ k8s-ssp.bidster.net
 k8s-tracking.bidster.net
 ssp.bidster.net
 ads.bidstreamserver.com
+bidswitch.com
 bidswitch.net
 acceptance.bidswitch.net
 alertmanager.acceptance.bidswitch.net
@@ -30155,6 +30213,7 @@ user-data-apac-jp.bidswitch.net
 user-data-eu.bidswitch.net
 user-data-us-east.bidswitch.net
 user-data-us-west.bidswitch.net
+www.bidswitch.com
 www.bidswitch.net
 x.bidswitch.net
 bidsxchange.com
@@ -30249,6 +30308,7 @@ bigdick.com
 bigeagle.biz
 analytics.bigfishgames.com
 gdn.bigfishgames.com
+policy.bigfishgames.com
 biggedchocard.com
 lu9xve2c97l898gjjxv4.bigglobaltravel.com
 analytics.biggorilla.app
@@ -30258,6 +30318,7 @@ rfk.biglots.com
 alweb.rfk.biglots.com
 api.rfk.biglots.com
 initjs.rfk.biglots.com
+bigmath.vn
 bigmining.com
 ads-tr.bigmining.com
 c.bigmir.net
@@ -33965,7 +34026,6 @@ caraganaarborescenspendula.com
 caramail.com
 mx00.caramail.com
 mx01.caramail.com
-carambis.com
 carambo.la
 ad-server.carambo.la
 analytics.carambo.la
@@ -40327,7 +40387,151 @@ smetrics.churchill.com
 churchkhela.site
 bb.churchkhela.site
 om.churchofjesuschrist.org
+churnzero.net
 analytics.churnzero.net
+eu1analytics.churnzero.net
+eu1app.churnzero.net
+abtasty.eu1app.churnzero.net
+atera.eu1app.churnzero.net
+cision.eu1app.churnzero.net
+constructionline-co.eu1app.churnzero.net
+e-days.eu1app.churnzero.net
+escribemeetings.eu1app.churnzero.net
+foleon.eu1app.churnzero.net
+kentico.eu1app.churnzero.net
+learnworlds.eu1app.churnzero.net
+reg-uk-t3712.eu1app.churnzero.net
+teletracnavman.eu1app.churnzero.net
+trint-dev.eu1app.churnzero.net
+eu1appx.churnzero.net
+eu2app.churnzero.net
+definitivehc.eu2app.churnzero.net
+kenjo.eu2app.churnzero.net
+testgorilla.eu2app.churnzero.net
+uberall.eu2app.churnzero.net
+eu2appx.churnzero.net
+t.churnzero.net
+us1app.churnzero.net
+acculynx.us1app.churnzero.net
+agencybloc.us1app.churnzero.net
+americalearns.us1app.churnzero.net
+aofl.us1app.churnzero.net
+axerosolutions.us1app.churnzero.net
+bloomfire.us1app.churnzero.net
+blvd.us1app.churnzero.net
+brazen.us1app.churnzero.net
+calltrackingmetrics.us1app.churnzero.net
+canto.us1app.churnzero.net
+cision.us1app.churnzero.net
+cleargov.us1app.churnzero.net
+colabs.us1app.churnzero.net
+combocurve.us1app.churnzero.net
+consumeraffairs.us1app.churnzero.net
+coreview.us1app.churnzero.net
+cz.us1app.churnzero.net
+donorsearch.us1app.churnzero.net
+dtn.us1app.churnzero.net
+ebsco.us1app.churnzero.net
+encircleapp.us1app.churnzero.net
+freewill.us1app.churnzero.net
+freightpop.us1app.churnzero.net
+freightwaves.us1app.churnzero.net
+galaxydigital.us1app.churnzero.net
+getcenter.us1app.churnzero.net
+gocanvas.us1app.churnzero.net
+gofastpath.us1app.churnzero.net
+grubhub.us1app.churnzero.net
+haulhub.us1app.churnzero.net
+icontact.us1app.churnzero.net
+idexx.us1app.churnzero.net
+imagerelay.us1app.churnzero.net
+insellerate.us1app.churnzero.net
+interplaylearning.us1app.churnzero.net
+itpro.us1app.churnzero.net
+justcall.us1app.churnzero.net
+kaleris.us1app.churnzero.net
+kenect.us1app.churnzero.net
+kitcheck.us1app.churnzero.net
+kuali.us1app.churnzero.net
+lawyaw.us1app.churnzero.net
+lightspeedhq-t3511.us1app.churnzero.net
+lightspeedvt.us1app.churnzero.net
+linnworks.us1app.churnzero.net
+loxo.us1app.churnzero.net
+marginedge.us1app.churnzero.net
+masterlibrary.us1app.churnzero.net
+mineraltree.us1app.churnzero.net
+mykaleidoscope.us1app.churnzero.net
+nationaljournal.us1app.churnzero.net
+netchexonline.us1app.churnzero.net
+nuorder.us1app.churnzero.net
+openquire.us1app.churnzero.net
+passageways.us1app.churnzero.net
+pikmykid.us1app.churnzero.net
+pipelinedeals.us1app.churnzero.net
+productplan.us1app.churnzero.net
+redcanary.us1app.churnzero.net
+revenuegrid-dev.us1app.churnzero.net
+revolutionparts.us1app.churnzero.net
+safetyskills.us1app.churnzero.net
+salesintel.us1app.churnzero.net
+schoolstatus.us1app.churnzero.net
+sertifi.us1app.churnzero.net
+skopenow.us1app.churnzero.net
+spinify.us1app.churnzero.net
+stopitsolutions.us1app.churnzero.net
+symplicity.us1app.churnzero.net
+t1034.us1app.churnzero.net
+talentquest.us1app.churnzero.net
+teamsnap.us1app.churnzero.net
+thinkherrmann.us1app.churnzero.net
+truvideo.us1app.churnzero.net
+tza.us1app.churnzero.net
+unanet.us1app.churnzero.net
+untappd.us1app.churnzero.net
+vanillasoft.us1app.churnzero.net
+vectorsolutions.us1app.churnzero.net
+vivvix.us1app.churnzero.net
+welcomehomesoftware.us1app.churnzero.net
+workzone.us1app.churnzero.net
+us1appx.churnzero.net
+us1img.churnzero.net
+us2analytics.churnzero.net
+us2app.churnzero.net
+actionstep.us2app.churnzero.net
+arcoro.us2app.churnzero.net
+axiscare.us2app.churnzero.net
+blocksi.us2app.churnzero.net
+branchingminds.us2app.churnzero.net
+buildout.us2app.churnzero.net
+cloudradial.us2app.churnzero.net
+cloudradial-dev.us2app.churnzero.net
+demandbase.us2app.churnzero.net
+extensis.us2app.churnzero.net
+firstdue.us2app.churnzero.net
+fullbay.us2app.churnzero.net
+getflowpath.us2app.churnzero.net
+getjones.us2app.churnzero.net
+getjones-dev.us2app.churnzero.net
+grayscaleapp.us2app.churnzero.net
+k-care.us2app.churnzero.net
+leasequery.us2app.churnzero.net
+lightboxre.us2app.churnzero.net
+lightspeedhq.us2app.churnzero.net
+nepris.us2app.churnzero.net
+nutrislice.us2app.churnzero.net
+orilearning.us2app.churnzero.net
+otto.us2app.churnzero.net
+profitsolv.us2app.churnzero.net
+rocketdocs.us2app.churnzero.net
+servicetrade.us2app.churnzero.net
+servicetrade-dev.us2app.churnzero.net
+swipesense.us2app.churnzero.net
+syndigo.us2app.churnzero.net
+teramind.us2app.churnzero.net
+truepic.us2app.churnzero.net
+us2appx.churnzero.net
+us2img.churnzero.net
 chushoushijian.cn
 chuzushijian.cn
 chyjobopse.pro
@@ -43201,7 +43405,6 @@ rack.bauermedia.co.uk
 metrics.bax-shop.co.uk
 gn-flagpoles.api.bbci.co.uk
 r.bbci.co.uk
-ati-a1.946d001b783803c1.xhst.bbci.co.uk
 smetrics.beefeater.co.uk
 best-offers.co.il
 ads.bhol.co.il
@@ -43528,6 +43731,7 @@ js.isboost.co.jp
 aclog.itmedia.co.jp
 cx.api.itmedia.co.jp
 fc.itmedia.co.jp
+tb.itmedia.co.jp
 itomedia.co.za
 ad.itweb.co.za
 izmsj.co.jp
@@ -43890,6 +44094,7 @@ metrics.thegrocer.co.uk
 metrics.thegrocergoldawards.co.uk
 analytics.theindependentpharmacy.co.uk
 analytics.theinsurers.co.uk
+theprimead.co.kr
 gcowhi.thesalarycalculator.co.uk
 hvrhgt.thescottishsun.co.uk
 pac.thescottishsun.co.uk
@@ -43999,6 +44204,7 @@ listing.yahoo.co.jp
 logql.yahoo.co.jp
 ov.yahoo.co.jp
 promotionalads.yahoo.co.jp
+feedback.promotionalads.yahoo.co.jp
 yads.yahoo.co.jp
 ybx.yahoo.co.jp
 yeas.yahoo.co.jp
@@ -44134,6 +44340,7 @@ codon.vn
 rp.codon.vn
 piwik.coe.int
 coefficienttolerategravel.com
+liveops.coem-ages.com
 coemmsa.com
 coendouspare.com
 coertiest.click
@@ -47004,6 +47211,7 @@ counterfire.info
 countergeo.com
 counteronline.de
 counters4u.com
+counterscale.dev
 counterstation.de
 countertrck.com
 countessrestrainasks.com
@@ -66883,6 +67091,7 @@ ejdhmed.xyz
 ejdkqclkzq.com
 ejidocinct.top
 ejieban.com
+ejimtyw.top
 ejuiashsateam.info
 ejuiashsateampl.info
 ejyotish.com
@@ -69574,6 +69783,7 @@ confiant-integrations.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
 fyrsbckgi-c.global.ssl.fastly.net
 mjca-yijws.global.ssl.fastly.net
+stripensrq.global.ssl.fastly.net
 vwonwkaqvq-a.global.ssl.fastly.net
 fastly-insights.com
 k.fastly-insights.com
@@ -69757,6 +69967,7 @@ fbtopobtokcwwd.com
 fbvskv3.com
 analytics.fbxsolutions.com
 tracking.prod.fc-union-berlin.de
+affiliate.fc2.com
 cnt.affiliate.fc2.com
 aimg.fc2.com
 analysis.fc2.com
@@ -70325,6 +70536,7 @@ fireads.org
 firearminvoluntary.com
 smetrics.fireballwhisky.com
 affiliate-script-pr.firebaseapp.com
+galaxyattack-de0bd.firebaseio.com
 firecatfilms.com
 firecrafters.top
 qltuh.firecrafters.top
@@ -73359,7 +73571,6 @@ gallopsalmon.com
 advise.gallup.com
 analytics.gallup.com
 gallupcommend.com
-galootsmulcted.shop
 galopelikeantelope.com
 galotop1.com
 galvanize26.fun
@@ -73582,7 +73793,6 @@ gasesgroup.com
 gaskinneepour.com
 gasolinefax.com
 gasolinerent.com
-gasorjohvocl.com
 hijxfm.gaspedaal.nl
 gaspedtowelpitfall.com
 gastersliddry.com
@@ -73638,7 +73848,6 @@ updates.gaylordhotels.com
 gaylordhotelsnews.com
 gaytwddahpave.com
 gayxperience.com
-gazeeniggard.top
 gazehound25.fun
 biv.gazeta.pl
 mklik.gazeta.pl
@@ -73665,7 +73874,6 @@ analysis.gboxlab.com
 gbpkmltxpcsj.xyz
 gbqgwes.icu
 gbqofs.com
-report.a1.gbqofs.io
 report.absa.gbqofs.io
 report.acehardware.gbqofs.io
 report.ageas.gbqofs.io
@@ -73689,7 +73897,6 @@ cdn.gbqofs.com
 cdn2.gbqofs.com
 report.charterspec.gbqofs.io
 report.chartil.gbqofs.io
-report.chemist-wh.gbqofs.io
 report.citi-na-prod.gbqofs.io
 report.citi-na-uat.gbqofs.io
 report.coop-bank.gbqofs.io
@@ -73702,12 +73909,10 @@ report.diabetes.gbqofs.io
 report.dutchboy.gbqofs.io
 report.fedex.gbqofs.io
 report.gb-pov.gbqofs.io
-report.giffgaff.gbqofs.io
 report.govi.gbqofs.io
 report.honeywell.gbqofs.io
 report.horizonblue.gbqofs.io
 report.iec.gbqofs.io
-report.iheartmedia.gbqofs.io
 report.jpm.gbqofs.io
 report.justice.gbqofs.io
 report.landsend.gbqofs.io
@@ -73740,7 +73945,6 @@ report.sheetz.gbqofs.io
 report.shelterinsurance.gbqofs.io
 report.shiseido.gbqofs.io
 report.slimmingworld.gbqofs.io
-report.starbucks.gbqofs.io
 report.stellantis.gbqofs.io
 report.suncor.gbqofs.io
 report.swp.gbqofs.io
@@ -74624,7 +74828,6 @@ ghbdsbfd.com
 analytics.ghdhair.com
 ghgasdb365.shop
 ghgasdt963.shop
-ghhleiaqlm.com
 ghjedashb6.fun
 ghlyrecomemurg.com
 ghnn11.com
@@ -74706,6 +74909,7 @@ gillsapp.com
 gillsisabellaunarmed.com
 analytics-server.gimbal.com
 registration.gimbal.com
+sdk-configuration.gimbal.com
 sdk-info.gimbal.com
 gimme-promo.com
 track.gimme-promo.com
@@ -74796,7 +75000,6 @@ metric.githubusercontent.com
 analytics.raw.githubusercontent.com
 campaign.gitiho.com
 metrics.gitlab.com
-gitsurtithauth.net
 pb.bi.gitv.tv
 appstore.ptmi.gitv.tv
 mixer.cupid.ptqy.gitv.tv
@@ -74984,7 +75187,6 @@ gleerdoacmockuy.xyz
 gleetchisurvey.top
 gleetresis.com
 gleloamseft.xyz
-glelroalso.xyz
 gleneditor.com
 glenmexican.com
 analytics.prod.glera.cloud
@@ -75010,8 +75212,6 @@ gliptoacaft.net
 gliraimsofu.net
 glispa.com
 tt.glispa.com
-glistening-novel.pro
-www.glistening-novel.pro
 glisteningguide.com
 app.glitchtip.com
 glitnoraffiliates.com
@@ -75149,9 +75349,7 @@ gluedpixel.com
 piwik.glueup.com
 glugherg.net
 glugreez.com
-gluilyepacme.shop
 glukropi.com
-glursihi.net
 glutchoaksa.com
 glutenmuttsensuous.com
 gluttonstayaccomplishment.com
@@ -75199,7 +75397,6 @@ minerva-deliver.sp.gmossp-sp.jp
 minerva-js.sp.gmossp-sp.jp
 sp-cdn.gmossp-sp.jp
 gmtdpuo.cc
-gmthhftif.com
 analytics.gmu.edu
 ad.gmw.cn
 channel-analysis-js.gmw.cn
@@ -75252,7 +75449,6 @@ analytics.kemlu.go.id
 plausible.kemnaker.go.id
 weblog.kma.go.kr
 log.go.com
-matomo.menpan.go.id
 log.mofa.go.kr
 posthog.prakerja.go.id
 telemetry.go.dev
@@ -75401,7 +75597,6 @@ gobitta.info
 t.goblackbears.com
 gobletauxiliary.com
 gobletclosed.com
-goblocker.xyz
 gobreadthpopcorn.com
 analytics.gocar.be
 analytics.gocareportal.com
@@ -75431,7 +75626,6 @@ aws.parking.godaddy.com
 api.aws.parking.godaddy.com
 events.parking.godaddy.com
 seal.godaddy.com
-metric.godare.se
 tracking.godatafeed.com
 app.godeacs.com
 t.godeacs.com
@@ -80563,6 +80757,7 @@ r.i0.cz
 i1c.xyz
 i2019.jp
 i2ad.jp
+i2i.jp
 i2idata.com
 ac6.i2idata.com
 ad.i2idata.com
@@ -82534,6 +82729,8 @@ japan.inmobi.com
 pulse.inmobi.com
 carpet.pulse.inmobi.com
 resources.inmobi.net
+sdk.inmobi.com
+crash-metrics.sdk.inmobi.com
 telemetry.sdk.inmobi.cn
 telemetry.sdk.inmobi.com
 unif-id.ssp.inmobi.com
@@ -82627,6 +82824,7 @@ deals.innocode.no
 pixel.innocom.vn
 metric.8.innogames.de
 analytics.innogames.de
+cst.innogames.de
 metric.extern.innogames.de
 metric.foe.innogames.de
 metric.juergen.innogames.de
@@ -86072,7 +86270,6 @@ ittyphlosiona.com
 itukydteamwouk.com
 itundermineoperative.com
 ads.itv.com
-cpt.itv.com
 recommendations.prd.user.itv.com
 itvalleynews.com
 www.itvalleynews.com
@@ -88171,6 +88368,7 @@ metric.kinepolis.lu
 analytics.kinepolisempresas.com
 track.kinetiksoft.com
 adtrack.king.com
+farmheroesmobile.king.com
 servicelayer.king.com
 metrics.king-jouet.com
 king3rsc7ol9e3ge.com
@@ -89280,6 +89478,7 @@ analytics.languageline.com
 analytics.languagetoolplus.com
 languidintentgained.com
 languishnervousroe.com
+insight.langx.io
 lanistaconcepts.com
 lank.ru
 lanknewcomer.com
@@ -92033,6 +92232,7 @@ madnessnumbersantiquity.com
 madnet.ru
 madnna.net
 madopi.com
+data.madovergames.com
 ads.madridiario.es
 madriyelowd.com
 madrogueindulge.com
@@ -92728,6 +92928,7 @@ matching-searchh.jp
 matchingsite.jp
 pc.matchingsite.jp
 matchingundertake.com
+matchinguu.com
 matchjunkie.com
 matchmix.jp
 matchx2.com
@@ -94213,7 +94414,6 @@ analytics.member-center.com
 smetrics.memberdeals.com
 membersattenuatejelly.com
 memberscrisis.com
-cdn.memberspace.com
 analytics.membrain.com
 membrana.media
 amp.membrana.media
@@ -99915,9 +100115,6 @@ pixel.newscgp.com
 au.pixel.newscgp.com
 us.pixel.newscgp.com
 v2.pixel.newscgp.com
-tags.newscgp.com
-au.tags.newscgp.com
-hc.tags.newscgp.com
 us.tags.newscgp.com
 newscode.online
 push.newscraft.io
@@ -107134,6 +107331,7 @@ analytics.playvox.com
 content.analytics.playvox.com
 data.analytics.playvox.com
 cdn.playwire.com
+cdn.video.playwire.com
 playwrightsovietcommentary.com
 playzipgames.co
 matomo.plazz.net
@@ -110830,6 +111028,8 @@ recommend.qubitproducts.com
 stash.qubitproducts.com
 tally-1.qubitproducts.com
 qubjweguszko.com
+fdams.qublixaws.com
+xpromo-cdn.qublixaws.com
 qudaoweiwang.com
 queasydashed.top
 waati.quechoisir.org
@@ -112131,6 +112331,7 @@ events.reddit.com
 metric.ftpcovid19.reddit.com
 w3-reporting.reddit.com
 w3-reporting-nel.reddit.com
+engine.a.redditmedia.com
 events.redditmedia.com
 pixel.redditmedia.com
 reddleops.pro
@@ -115892,6 +116093,7 @@ hubmetric.samsclub.com
 hubmetrics.samsclub.com
 metric.samsclub.com
 metrics.samsclub.com
+promo.webpayments.closeby.internet.apps.samsung.com
 sia.internet.apps.samsung.com
 dls-account.di.atlas.samsung.com
 analytics.bigdata.samsung.com
@@ -119908,7 +120110,6 @@ smallestspoutmuffled.com
 smallfo.com
 smallfunnybears.com
 analytics.smallpdf.com
-smallsrv.com
 analytics.smapone.com
 smapp.work
 14b7aabc63.smapp.work
@@ -121738,6 +121939,7 @@ spywarenuker.com
 spywords.com
 sq59.cn
 sqevnrb.com
+stats.sqlitebrowser.org
 sqqqabg.com
 analytics.sqrd.marketing
 tracker.sqreemtech.com
@@ -121830,10 +122032,12 @@ srwww1.com
 srzpsbf.xyz
 ss0uu1lpirig.com
 tracking.ssab.com
+ssacdn.com
 cf.ssacdn.com
 cx.ssacdn.com
 images-demand.ssacdn.com
 networksdk.ssacdn.com
+platform.ssacdn.com
 static.ssacdn.com
 v.ssacdn.com
 ssdcloudindia.net
@@ -124255,6 +124459,7 @@ tacticsjoan.com
 tacticwane.com
 adserver.tactilews.com
 analytics.tactilews.com
+simonscatpoptime.tactilews.com
 tada-love.jp
 tada1ove.com
 metric.tadaam.be
@@ -126466,6 +126671,7 @@ analytics.thun.com
 incoming-telemetry.thunderbird.net
 thunderdepthsforger.top
 metrics.thunderkick.com
+thunnqyo.com
 log.thuonggiaonline.vn
 thuongmai-dientu.com
 thurnflfant.com
@@ -134832,6 +135038,10 @@ videojj.com
 analytics.videoken.com
 vst.videolink.host
 vst.videolink.site
+videologygroup.com
+inf.videologygroup.com
+ingest-euir.inf.videologygroup.com
+securecdn.videologygroup.com
 videolute.biz
 analytics.videomyjob.com
 videonow.ru
@@ -137944,7 +138154,6 @@ www.wisewire.com
 wisfriendshad.info
 metrics.wish.org
 a.wishabi.com
-b.wishabi.com
 wishesen.com
 wishhoree1890.com
 wishjus.com
@@ -138305,6 +138514,7 @@ member.us.woniu.com
 wonnauseouswheel.com
 wonnedmorling.click
 wooballast.com
+woobi.com
 woocasino.com
 www.woocasino.com
 woodejou.net
@@ -138905,6 +139115,7 @@ wysistat.com
 dc1wrr.wysistat.com
 www.wysistat.com
 wyuwkbe.top
+wyvpkmbj.icu
 wywsdx.com
 wywy.com
 r.wz.de
@@ -139932,6 +140143,7 @@ test.geo.yahoo.com
 analytics.mall.yahoo.com
 marketingsolutions.yahoo.com
 metrics.yahoo.cloud
+soundwave.mobile.yahoo.com
 telemetry.mobile.yahoo.com
 cookiex.ngd.yahoo.com
 noa.yahoo.com
@@ -141424,6 +141636,7 @@ zenback.jp
 w.zenback.jp
 widget.zenback.jp
 analytics.zendesk.com
+awem.zendesk.com
 clarity.zendesk.com
 countly.zendesk.com
 zendplace.pro
