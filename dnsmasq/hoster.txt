@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Dec 2024 15:23 UTC
-# Version: 2024.1207.1523.38
+# Last modified: 10 Dec 2024 04:19 UTC
+# Version: 2024.1210.0419.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1866
+# Number of entries: 1870
 #
 local=/000a.de/
 local=/000space.com/
@@ -744,6 +744,7 @@ local=/dsiblogger.com/
 local=/dslextreme.com/
 local=/dtiblog.com/
 local=/dvd.lc/
+local=/ipfs.dweb.link/
 local=/dynamicboard.de/
 local=/e.gp/
 local=/e-monsite.com/
@@ -829,6 +830,7 @@ local=/flashbuilder.net/
 local=/flazio.com/
 local=/flf.li/
 local=/flirten.info/
+local=/ipfs.flk-ipfs.xyz/
 local=/flu.cc/
 local=/foliodrop-welcome.com/
 local=/footeo.com/
@@ -971,7 +973,6 @@ local=/guest.de/
 local=/guide.lc/
 local=/gynoblog.com/
 local=/h.gp/
-local=/leetgems.h1n.ru/
 local=/happy-couple.com/
 local=/hase.in/
 local=/hashnode.dev/
@@ -1556,6 +1557,7 @@ local=/talk4fun.net/
 local=/tar.hu/
 local=/targetblogs.com/
 local=/tathamservice.com/
+local=/site.tb-hosting.com/
 local=/tblogz.com/
 local=/te4m.de/
 local=/teacup.com/
@@ -1570,6 +1572,7 @@ local=/telecable.es/
 local=/telekom.at/
 local=/telepacific.net/
 local=/telrock.org/
+local=/temporary.site/
 local=/terapad.com/
 local=/test.lc/
 local=/th.gp/
@@ -1692,6 +1695,7 @@ local=/voten.in/
 local=/vpswala.org/
 local=/vxub.com/
 local=/vz.lc/
+local=/ipfs.w3s.link/
 local=/wallinside.blog/
 local=/wallinside.com/
 local=/wallst.ru/

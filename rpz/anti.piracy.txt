@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733584860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733804220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Dec 2024 15:21 UTC
-; Version: 2024.1207.1521.19
+; Last modified: 10 Dec 2024 04:17 UTC
+; Version: 2024.1210.0417.34
 ; Syntax: RPZ
-; Number of entries: 19902
+; Number of entries: 19868
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1951,8 +1951,6 @@ kinoz.co CNAME .
 *.kinoz.co CNAME .
 kuiken.co CNAME .
 *.kuiken.co CNAME .
-layarkita.co CNAME .
-*.layarkita.co CNAME .
 letsupload.co CNAME .
 *.letsupload.co CNAME .
 limetorrents.co CNAME .
@@ -1993,8 +1991,6 @@ moviesgo.co CNAME .
 *.moviesgo.co CNAME .
 movietorrent.co CNAME .
 *.movietorrent.co CNAME .
-moviewetrust.co CNAME .
-*.moviewetrust.co CNAME .
 ln.mtahost.co CNAME .
 *.ln.mtahost.co CNAME .
 newkatcr.co CNAME .
@@ -4549,8 +4545,6 @@ iptvprova.com CNAME .
 *.iptvprova.com CNAME .
 iptvsource.com CNAME .
 *.iptvsource.com CNAME .
-iraniantorrents.com CNAME .
-*.iraniantorrents.com CNAME .
 irwarez.com CNAME .
 *.irwarez.com CNAME .
 isitdownyet.com CNAME .
@@ -5097,8 +5091,6 @@ mojobb.com CNAME .
 *.mojobb.com CNAME .
 ns1.monolithindustries.com CNAME .
 *.ns1.monolithindustries.com CNAME .
-monoschinos.com CNAME .
-*.monoschinos.com CNAME .
 mooslo.com CNAME .
 *.mooslo.com CNAME .
 morpheustvhd.com CNAME .
@@ -5165,8 +5157,6 @@ mp3sparks.com CNAME .
 *.mp3sparks.com CNAME .
 mp4ba.com CNAME .
 *.mp4ba.com CNAME .
-mrdeni.com CNAME .
-*.mrdeni.com CNAME .
 mscracks.com CNAME .
 *.mscracks.com CNAME .
 tracker.msm8916.com CNAME .
@@ -5247,8 +5237,6 @@ tracker.nanyangpt.com CNAME .
 *.tracker.nanyangpt.com CNAME .
 natorrent.com CNAME .
 *.natorrent.com CNAME .
-naturalbd.com CNAME .
-*.naturalbd.com CNAME .
 nbabite.com CNAME .
 *.nbabite.com CNAME .
 nbahdreplay.com CNAME .
@@ -9537,8 +9525,6 @@ itorrent.io CNAME .
 *.itorrent.io CNAME .
 jojoy.io CNAME .
 *.jojoy.io CNAME .
-kinogo.io CNAME .
-*.kinogo.io CNAME .
 kinox.io CNAME .
 *.kinox.io CNAME .
 kukaj.io CNAME .
@@ -9699,8 +9685,6 @@ hydrax.is CNAME .
 *.hydrax.is CNAME .
 hz.is CNAME .
 *.hz.is CNAME .
-libgen.is CNAME .
-*.libgen.is CNAME .
 movie4k.is CNAME .
 *.movie4k.is CNAME .
 movieroom.is CNAME .
@@ -10067,12 +10051,8 @@ ilcorsaronero.link CNAME .
 *.ilcorsaronero.link CNAME .
 tk.leechshield.link CNAME .
 *.tk.leechshield.link CNAME .
-tk4.leechshield.link CNAME .
-*.tk4.leechshield.link CNAME .
 tracker.leechshield.link CNAME .
 *.tracker.leechshield.link CNAME .
-tracker4.leechshield.link CNAME .
-*.tracker4.leechshield.link CNAME .
 mserver.link CNAME .
 *.mserver.link CNAME .
 myflixer.link CNAME .
@@ -12079,8 +12059,6 @@ hebits.net CNAME .
 *.hebits.net CNAME .
 hellenic-world.net CNAME .
 *.hellenic-world.net CNAME .
-hellenicwave.net CNAME .
-*.hellenicwave.net CNAME .
 hitfile.net CNAME .
 *.hitfile.net CNAME .
 hitsfilms.net CNAME .
@@ -12131,8 +12109,6 @@ isrbx.net CNAME .
 *.isrbx.net CNAME .
 itbasebd.net CNAME .
 *.itbasebd.net CNAME .
-tracker.jamesthebard.net CNAME .
-*.tracker.jamesthebard.net CNAME .
 javccdd.net CNAME .
 *.javccdd.net CNAME .
 jetload.net CNAME .
@@ -12209,8 +12185,6 @@ linuxmafia.net CNAME .
 *.linuxmafia.net CNAME .
 livrefilmeshd.net CNAME .
 *.livrefilmeshd.net CNAME .
-loushao.net CNAME .
-*.loushao.net CNAME .
 lovethescene.net CNAME .
 *.lovethescene.net CNAME .
 lrepacks.net CNAME .
@@ -15533,8 +15507,6 @@ eurostreaming.poker CNAME .
 *.eurostreaming.poker CNAME .
 cb01.press CNAME .
 *.cb01.press CNAME .
-ilgeniodellostreaming.press CNAME .
-*.ilgeniodellostreaming.press CNAME .
 thepiratebay.press CNAME .
 *.thepiratebay.press CNAME .
 123moviesto.pro CNAME .
@@ -17015,8 +16987,6 @@ braflix.st CNAME .
 *.braflix.st CNAME .
 extratorrent.st CNAME .
 *.extratorrent.st CNAME .
-movie2k.st CNAME .
-*.movie2k.st CNAME .
 htz3.noho.st CNAME .
 *.htz3.noho.st CNAME .
 sanet.st CNAME .
@@ -19383,8 +19353,6 @@ mid-team.ws CNAME .
 *.mid-team.ws CNAME .
 mkvcage.ws CNAME .
 *.mkvcage.ws CNAME .
-w14.monkrus.ws CNAME .
-*.w14.monkrus.ws CNAME .
 moonline.ws CNAME .
 *.moonline.ws CNAME .
 moviedream.ws CNAME .
@@ -19657,8 +19625,6 @@ ipboot.xyz CNAME .
 *.ipboot.xyz CNAME .
 tracker.iperson.xyz CNAME .
 *.tracker.iperson.xyz CNAME .
-v2.iperson.xyz CNAME .
-*.v2.iperson.xyz CNAME .
 jhalmuri.xyz CNAME .
 *.jhalmuri.xyz CNAME .
 joytorrent.xyz CNAME .

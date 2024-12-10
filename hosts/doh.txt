@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Dec 2024 04:22 UTC
-# Version: 2024.1209.0422.22
+# Last modified: 10 Dec 2024 04:20 UTC
+# Version: 2024.1210.0420.54
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1668
+# Number of entries: 1671
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -340,6 +340,7 @@
 0.0.0.0 dns.cmrg.net
 0.0.0.0 pope.cnblw.me
 0.0.0.0 doh.cnetwork.cloud
+0.0.0.0 adguard.aa4.co.uk
 0.0.0.0 pihole.datamatter.co.za
 0.0.0.0 www.dnsadguard.co.uk
 0.0.0.0 dns.gayanalysing.co.uk
@@ -1148,6 +1149,8 @@
 0.0.0.0 dnsotls.lab.nic.cl
 0.0.0.0 odvr.nic.cz
 0.0.0.0 dns.nick-slowinski.de
+0.0.0.0 doh-own-recursion.nicolas-dorriere.fr
+0.0.0.0 doh-random-upstream.nicolas-dorriere.fr
 0.0.0.0 nicsezcheckfbi.gov
 0.0.0.0 dns1.nielsdb.be
 0.0.0.0 dns.ningkelle.id
