@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Dec 2024 04:22 UTC
-# Version: 2024.1210.0422.05
+# Last modified: 11 Dec 2024 04:18 UTC
+# Version: 2024.1211.0418.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3723
+# Number of entries: 3716
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -611,7 +611,6 @@ local=/us.doh.cloudveil.org/
 local=/dns.cmrg.net/
 local=/pope.cnblw.me/
 local=/doh.cnetwork.cloud/
-local=/adguard.aa4.co.uk/
 local=/akashiro.co.id/
 local=/antidnsvpn.co.cc/
 local=/binhexsolutions.co.uk/
@@ -2453,7 +2452,6 @@ local=/proxy.yt/
 local=/proxy-123.com/
 local=/proxy-2014.com/
 local=/proxy-2015.info/
-local=/proxy-anywhere.com/
 local=/proxy-bypass.com/
 local=/proxy-german.de/
 local=/proxy-n-vpn.com/
@@ -2485,13 +2483,11 @@ local=/proxycloyd.com/
 local=/proxydrop.com/
 local=/proxydude.red/
 local=/proxydude.xyz/
-local=/proxyduke.lol/
 local=/proxyelite.info/
 local=/proxyen.com/
 local=/proxyer.net/
 local=/proxyfactory.io/
 local=/proxyfish.com/
-local=/proxyforfree.eu/
 local=/proxyfree.org/
 local=/proxygate.com/
 local=/proxygizlen.com/
@@ -2505,13 +2501,11 @@ local=/proxylistpro.com/
 local=/proxyload.net/
 local=/proxymaster.me/
 local=/proxymesh.com/
-local=/proxyness.com/
 local=/proxynova.com/
 local=/proxyof.com/
 local=/proxyone.net/
 local=/proxyoutlet.com/
 local=/proxypirates.com/
-local=/proxypremium.top/
 local=/proxypx.com/
 local=/proxypy.org/
 local=/proxyrooms.com/
@@ -2744,7 +2738,6 @@ local=/securevpn.co/
 local=/securevpn.com/
 local=/securevpn.io/
 local=/securewebproxy.net/
-local=/securitales.com/
 local=/securitykiss.com/
 local=/sedirepseh.com/
 local=/seed.st/

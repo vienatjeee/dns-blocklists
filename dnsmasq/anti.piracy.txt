@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Dec 2024 04:17 UTC
-# Version: 2024.1210.0417.34
+# Last modified: 11 Dec 2024 04:13 UTC
+# Version: 2024.1211.0413.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9934
+# Number of entries: 9925
 #
 local=/tracker.guguan.000.pe/
 local=/0123456789nonexistent.com/
@@ -6090,7 +6090,6 @@ local=/piratestreaming.nuovo.live/
 local=/nutorrent.com/
 local=/nw0.info/
 local=/nwanime.tv/
-local=/nxbrew.com/
 local=/nxtgn.org/
 local=/nxtiptv.tv/
 local=/nyaa.eu/
@@ -6176,7 +6175,6 @@ local=/omegastresser.com/
 local=/omgtorrent.com/
 local=/omgtorrent.cz/
 local=/omgtorrent.me/
-local=/omgwtfnzbs.me/
 local=/retracker.omsk.ru/
 local=/ddn.oncast.me/
 local=/onceddl.net/
@@ -6485,7 +6483,6 @@ local=/piratebays.top/
 local=/piratebays.win/
 local=/piratebays.wtf/
 local=/piratebayy.com/
-local=/piratebayz.top/
 local=/piratebits.org/
 local=/piratebrowser.com/
 local=/piratecity.net/
@@ -6705,7 +6702,6 @@ local=/proxy247.art/
 local=/proxybay.bz/
 local=/proxybay.page/
 local=/proxybay.pro/
-local=/proxybay.tech/
 local=/proxybay.xyz/
 local=/proxybit.pics/
 local=/tpb.proxyduck.com/
@@ -6810,9 +6806,7 @@ local=/putlockers.bz/
 local=/putlockers.co/
 local=/putlockers.cr/
 local=/putlockers.cz/
-local=/putlockers.date/
 local=/putlockers.email/
-local=/putlockers.es/
 local=/putlockers.fm/
 local=/putlockers.is/
 local=/putlockers.la/
@@ -6976,7 +6970,6 @@ local=/redditnhlstreams.com/
 local=/redecanais.tv/
 local=/ica1616.redirectme.net/
 local=/marshilltorrents.redirectme.net/
-local=/redlist-ultimate.be/
 local=/redskunk.org/
 local=/redstream.online/
 local=/redump.org/
@@ -7072,7 +7065,6 @@ local=/rojadirectahd.online/
 local=/rojadirectai.me/
 local=/rojadirectaorg.com/
 local=/rojadirectatv.tv/
-local=/rojadirectatvhd.me/
 local=/rom-news.com/
 local=/rom-news.net/
 local=/rom-news.org/
@@ -7261,7 +7253,6 @@ local=/serie-saison-episode.com/
 local=/serie-streaming.biz/
 local=/serie-streaming.net/
 local=/serieflix.biz/
-local=/seriehd.moda/
 local=/serien.cam/
 local=/serien.click/
 local=/serien.dev/

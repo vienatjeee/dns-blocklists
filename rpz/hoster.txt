@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733804340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733890500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Dec 2024 04:19 UTC
-; Version: 2024.1210.0419.55
+; Last modified: 11 Dec 2024 04:15 UTC
+; Version: 2024.1211.0415.57
 ; Syntax: RPZ
-; Number of entries: 3740
+; Number of entries: 3732
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -763,8 +763,6 @@ cloudwaysapps.com CNAME .
 *.cloudwaysapps.com CNAME .
 clubeo.com CNAME .
 *.clubeo.com CNAME .
-cnblogs.com CNAME .
-*.cnblogs.com CNAME .
 blogs.cnn.com CNAME .
 *.blogs.cnn.com CNAME .
 collectblogs.com CNAME .
@@ -2847,10 +2845,6 @@ blogspot.li CNAME .
 *.blogspot.li CNAME .
 flf.li CNAME .
 *.flf.li CNAME .
-ipfs.dweb.link CNAME .
-*.ipfs.dweb.link CNAME .
-ipfs.w3s.link CNAME .
-*.ipfs.w3s.link CNAME .
 ingress-haven.ewp.live CNAME .
 *.ingress-haven.ewp.live CNAME .
 blogas.lt CNAME .
@@ -3739,8 +3733,6 @@ kwid9.appsoft.xyz CNAME .
 *.kwid9.appsoft.xyz CNAME .
 cominbaxz.xyz CNAME .
 *.cominbaxz.xyz CNAME .
-ipfs.flk-ipfs.xyz CNAME .
-*.ipfs.flk-ipfs.xyz CNAME .
 infopoint.xyz CNAME .
 *.infopoint.xyz CNAME .
 kwid9.m-r.xyz CNAME .

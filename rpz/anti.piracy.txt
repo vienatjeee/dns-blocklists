@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733804220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733890380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Dec 2024 04:17 UTC
-; Version: 2024.1210.0417.34
+; Last modified: 11 Dec 2024 04:13 UTC
+; Version: 2024.1211.0413.36
 ; Syntax: RPZ
-; Number of entries: 19868
+; Number of entries: 19850
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -469,8 +469,6 @@ filmpertutti.be CNAME .
 *.filmpertutti.be CNAME .
 ilgeniodellostreaming.be CNAME .
 *.ilgeniodellostreaming.be CNAME .
-redlist-ultimate.be CNAME .
-*.redlist-ultimate.be CNAME .
 serials.be CNAME .
 *.serials.be CNAME .
 sportlemon.be CNAME .
@@ -5393,8 +5391,6 @@ nullscriptfullz.com CNAME .
 *.nullscriptfullz.com CNAME .
 nutorrent.com CNAME .
 *.nutorrent.com CNAME .
-nxbrew.com CNAME .
-*.nxbrew.com CNAME .
 t.nyaatracker.com CNAME .
 *.t.nyaatracker.com CNAME .
 montreal.nyap2p.com CNAME .
@@ -7709,8 +7705,6 @@ altadefinizione.date CNAME .
 *.altadefinizione.date CNAME .
 fmovies.date CNAME .
 *.fmovies.date CNAME .
-putlockers.date CNAME .
-*.putlockers.date CNAME .
 altadefinizione.day CNAME .
 *.altadefinizione.day CNAME .
 eurostreaming.day CNAME .
@@ -8023,8 +8017,6 @@ channelstream.es CNAME .
 *.channelstream.es CNAME .
 freebookspot.es CNAME .
 *.freebookspot.es CNAME .
-putlockers.es CNAME .
-*.putlockers.es CNAME .
 rojadirecta.es CNAME .
 *.rojadirecta.es CNAME .
 sportsbay.es CNAME .
@@ -10787,8 +10779,6 @@ tracker.nrx.me CNAME .
 *.tracker.nrx.me CNAME .
 omgtorrent.me CNAME .
 *.omgtorrent.me CNAME .
-omgwtfnzbs.me CNAME .
-*.omgwtfnzbs.me CNAME .
 ddn.oncast.me CNAME .
 *.ddn.oncast.me CNAME .
 onhax.me CNAME .
@@ -10829,8 +10819,6 @@ rojadirecta.me CNAME .
 *.rojadirecta.me CNAME .
 rojadirectai.me CNAME .
 *.rojadirectai.me CNAME .
-rojadirectatvhd.me CNAME .
-*.rojadirectatvhd.me CNAME .
 scenesource.me CNAME .
 *.scenesource.me CNAME .
 scenex.me CNAME .
@@ -11039,8 +11027,6 @@ tantifilm.mobi CNAME .
 *.tantifilm.mobi CNAME .
 movie.vidmate.mobi CNAME .
 *.movie.vidmate.mobi CNAME .
-seriehd.moda CNAME .
-*.seriehd.moda CNAME .
 t1.aag.moe CNAME .
 *.t1.aag.moe CNAME .
 tr.aag.moe CNAME .
@@ -17231,8 +17217,6 @@ piratebay.tech CNAME .
 *.piratebay.tech CNAME .
 tracker.pmman.tech CNAME .
 *.tracker.pmman.tech CNAME .
-proxybay.tech CNAME .
-*.proxybay.tech CNAME .
 torrentclub.tech CNAME .
 *.torrentclub.tech CNAME .
 wawacity.tech CNAME .
@@ -17919,8 +17903,6 @@ piratebayproxy.top CNAME .
 *.piratebayproxy.top CNAME .
 piratebays.top CNAME .
 *.piratebays.top CNAME .
-piratebayz.top CNAME .
-*.piratebayz.top CNAME .
 pirateproxy.top CNAME .
 *.pirateproxy.top CNAME .
 pressplay.top CNAME .
