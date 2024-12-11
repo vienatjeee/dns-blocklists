@@ -1,6 +1,44 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/pull/4582
+indystar.com
+account.indystar.com
+amp.indystar.com
+archive.indystar.com
+atoms.indystar.com
+blogs.indystar.com
+checkout.indystar.com
+cm.indystar.com
+connect.indystar.com
+data.indystar.com
+databases.indystar.com
+elections16.indystar.com
+eu.indystar.com
+foodandwine.indystar.com
+gdn.indystar.com
+help.indystar.com
+hiring.indystar.com
+ininotes.indystar.com
+ininotesb.indystar.com
+m.indystar.com
+newsfromyou.indystar.com
+photos.indystar.com
+profile-stage.indystar.com
+profile.indystar.com
+rssfeeds.indystar.com
+sp.indystar.com
+stage.indystar.com
+static.indystar.com
+subscribe.indystar.com
+support.indystar.com
+topics.indystar.com
+user.indystar.com
+uw-media.indystar.com
+ux.indystar.com
+www.indystar.com
+www2.indystar.com
+
 # https://github.com/hagezi/dns-blocklists/issues/4537
 forcesafesearch.google.com
 
