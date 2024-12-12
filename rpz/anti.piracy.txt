@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733890380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733977020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Dec 2024 04:13 UTC
-; Version: 2024.1211.0413.36
+; Last modified: 12 Dec 2024 04:17 UTC
+; Version: 2024.1212.0417.04
 ; Syntax: RPZ
-; Number of entries: 19850
+; Number of entries: 19832
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -919,8 +919,6 @@ theoccult.bz CNAME .
 *.theoccult.bz CNAME .
 theplace.bz CNAME .
 *.theplace.bz CNAME .
-thevault.bz CNAME .
-*.thevault.bz CNAME .
 tracker.bz CNAME .
 *.tracker.bz CNAME .
 unblockit.bz CNAME .
@@ -6299,8 +6297,6 @@ streamboox.com CNAME .
 *.streamboox.com CNAME .
 streamcomplet.com CNAME .
 *.streamcomplet.com CNAME .
-streamcouch.com CNAME .
-*.streamcouch.com CNAME .
 streamdor.com CNAME .
 *.streamdor.com CNAME .
 streamees.com CNAME .
@@ -6761,8 +6757,6 @@ torrentspain.com CNAME .
 *.torrentspain.com CNAME .
 torrentspy.com CNAME .
 *.torrentspy.com CNAME .
-torrentsrus.com CNAME .
-*.torrentsrus.com CNAME .
 torrentturk.com CNAME .
 *.torrentturk.com CNAME .
 torrenttyphoon.com CNAME .
@@ -7069,8 +7063,6 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
-videocop.com CNAME .
-*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -9307,8 +9299,6 @@ thepiratebay9.info CNAME .
 *.thepiratebay9.info CNAME .
 thepiratebays.info CNAME .
 *.thepiratebays.info CNAME .
-thzhd.info CNAME .
-*.thzhd.info CNAME .
 time-popcorn.info CNAME .
 *.time-popcorn.info CNAME .
 tnttorrent.info CNAME .
@@ -9401,6 +9391,8 @@ cb01.institute CNAME .
 *.cb01.institute CNAME .
 guardaserie.institute CNAME .
 *.guardaserie.institute CNAME .
+mp4moviez.insure CNAME .
+*.mp4moviez.insure CNAME .
 123putlocker.io CNAME .
 *.123putlocker.io CNAME .
 a2zapk.io CNAME .
@@ -10013,8 +10005,6 @@ seriesflix.life CNAME .
 *.seriesflix.life CNAME .
 streamingcommunity.life CNAME .
 *.streamingcommunity.life CNAME .
-superadultgame.life CNAME .
-*.superadultgame.life CNAME .
 voirseries.life CNAME .
 *.voirseries.life CNAME .
 wiflix.life CNAME .
@@ -11083,8 +11073,6 @@ solarmovie.mom CNAME .
 *.solarmovie.mom CNAME .
 streamingcommunity.mom CNAME .
 *.streamingcommunity.mom CNAME .
-tantifilm.mom CNAME .
-*.tantifilm.mom CNAME .
 yesmovies.mom CNAME .
 *.yesmovies.mom CNAME .
 guardaserie.money CNAME .
@@ -13023,8 +13011,6 @@ unlockpiratebay.net CNAME .
 *.unlockpiratebay.net CNAME .
 uploaded.net CNAME .
 *.uploaded.net CNAME .
-upmovies.net CNAME .
-*.upmovies.net CNAME .
 upstore.net CNAME .
 *.upstore.net CNAME .
 uraltrack.net CNAME .
@@ -17921,8 +17907,6 @@ thepiratebay1.top CNAME .
 *.thepiratebay1.top CNAME .
 unblockit.top CNAME .
 *.unblockit.top CNAME .
-ettv.unblockproject.top CNAME .
-*.ettv.unblockproject.top CNAME .
 veranime.top CNAME .
 *.veranime.top CNAME .
 share.xfapi.top CNAME .
@@ -18715,8 +18699,6 @@ tantifilm.uno CNAME .
 *.tantifilm.uno CNAME .
 torrent9.uno CNAME .
 *.torrent9.uno CNAME .
-torrentkitty.uno CNAME .
-*.torrentkitty.uno CNAME .
 newalbumreleases.unblockit.uno CNAME .
 *.newalbumreleases.unblockit.uno CNAME .
 vedohd.uno CNAME .

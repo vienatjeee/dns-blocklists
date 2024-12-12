@@ -175,7 +175,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 | Domains<br>Subdomains | [Link](lnkgh_d/pro.plus.txt) [Mirror](lnkgl_d/pro.plus.txt) [Cached](lnkjd_d/pro.plus.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](lnkgh_h/pro.plus.txt) [Mirror](lnkgl_h/pro.plus.txt) [Cached](lnkjd_h/pro.plus.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
 | Hosts<br>Compressed | [Link](lnkgh_h/pro.plus-compressed.txt) [Mirror](lnkgl_h/pro.plus-compressed.txt) [Cached](lnkjd_h/pro.plus-compressed.txt) | Hostfile, Linux, Windows |
-| Adblock | [Link](lnkgh_a/pro.plus.txt) [Mirror](lnkgl_a/pro.plus.txt) [Cached](lnkjd_a/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [Link](lnkgh_a/pro.plus.txt) [Mirror](lnkgl_a/pro.plus.txt) [Cached](lnkjd_a/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, AdBlock, Adblock Plus, Opera, Vivaldi, Brave, AdNauseam |
 | DNSMasq | [Link](lnkgh_m/pro.plus.txt) [Mirror](lnkgl_m/pro.plus.txt) [Cached](lnkjd_m/pro.plus.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/pro.plus.txt) [Mirror](lnkgl_w/pro.plus.txt) [Cached](lnkjd_w/pro.plus.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](lnkgh_w/pro.plus-onlydomains.txt) [Mirror](lnkgl_w/pro.plus-onlydomains.txt) [Cached](lnkjd_w/pro.plus-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |

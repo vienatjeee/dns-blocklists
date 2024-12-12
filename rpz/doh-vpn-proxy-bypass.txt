@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733890680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1733977260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Dec 2024 04:18 UTC
-; Version: 2024.1211.0418.06
+; Last modified: 12 Dec 2024 04:21 UTC
+; Version: 2024.1212.0421.36
 ; Syntax: RPZ
-; Number of entries: 7432
+; Number of entries: 7428
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -618,8 +618,6 @@ adb.aadityakushwaha.com CNAME .
 *.adb.aadityakushwaha.com CNAME .
 doh.dns.apple.com.v.aaplimg.com CNAME .
 *.doh.dns.apple.com.v.aaplimg.com CNAME .
-dns.aaytorr.com CNAME .
-*.dns.aaytorr.com CNAME .
 abcproxy.com CNAME .
 *.abcproxy.com CNAME .
 accessmeproxy.com CNAME .
@@ -3400,6 +3398,8 @@ adguard.alu.dog CNAME .
 *.adguard.alu.dog CNAME .
 onion.dog CNAME .
 *.onion.dog CNAME .
+dns.tesem.dog CNAME .
+*.dns.tesem.dog CNAME .
 unblocked2.download CNAME .
 *.unblocked2.download CNAME .
 vpn-free.download CNAME .
@@ -4006,8 +4006,6 @@ skynetwork.info CNAME .
 *.skynetwork.info CNAME .
 surfbytes.info CNAME .
 *.surfbytes.info CNAME .
-vpn.technicule.info CNAME .
-*.vpn.technicule.info CNAME .
 thebestproxy.info CNAME .
 *.thebestproxy.info CNAME .
 login.thegalleryofart.info CNAME .
@@ -6892,8 +6890,6 @@ revelio.top CNAME .
 *.revelio.top CNAME .
 dns.rootlab.top CNAME .
 *.dns.rootlab.top CNAME .
-local.sufly.top CNAME .
-*.local.sufly.top CNAME .
 supervpn.top CNAME .
 *.supervpn.top CNAME .
 vpnmaster.top CNAME .

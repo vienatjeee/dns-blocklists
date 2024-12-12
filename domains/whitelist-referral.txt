@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Dec 2024 23:52 UTC
-# Version: 2024.1210.2352.36
+# Last modified: 11 Dec 2024 23:52 UTC
+# Version: 2024.1211.2352.04
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2135
+# Number of entries: 2138
 #
 l.1mp.ru
 t.1und1.de
@@ -82,6 +82,7 @@ aax-eu.amazon.se
 aax-eu-retail-rtb.amazon.com
 aax-fe.amazon.com
 aax-fe.amazon.sg
+aax-fe-pdx-direct.amazon.com
 aax-fe-retail-rtb.amazon.com
 aax-us-east.amazon.com
 aax-us-east-retail-direct.amazon.com
@@ -109,6 +110,7 @@ aax-ott.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.amazon.com
 aax-us-cpm.amazon-adsystem.amazon.com
+aax-us-east-wtd.amazon-adsystem.amazon.com
 aax-us-ott.amazon-adsystem.amazon.com
 assoc-redirect.amazon.com
 aax-console.corp.amazon.com
@@ -1008,6 +1010,7 @@ mandrillapp.com
 tracker.marinsm.com
 track.mdrctr.com
 media01.eu
+mention-me.com
 action.metaffiliation.com
 micpn.com
 email.microsoft.com
@@ -1046,9 +1049,9 @@ links.mkt61.net
 links.mkt71.net
 links.mkt81.net
 mkto-a0095.com
+mkto-a0224.com
 mkto-a0236.com
 mkto-a0253.com
-mkto-a0279.com
 mkto-a0324.com
 mkto-ab010012.com
 mkto-ab010044.com
@@ -1071,7 +1074,6 @@ mkto-ab030084.com
 mkto-ab030222.com
 mkto-ab030250.com
 mkto-ab040018.com
-mkto-ab040086.com
 mkto-ab040115.com
 mkto-ab040147.com
 mkto-ab050179.com
@@ -1429,7 +1431,6 @@ mkto-h0163.com
 mkto-i0028.com
 mkto-i0106.com
 mkto-i0141.com
-mkto-i0165.com
 mkto-i0201.com
 mkto-i0206.com
 mkto-j0020.com
@@ -1559,6 +1560,7 @@ mkto-sj080048.com
 mkto-sj080120.com
 mkto-sj080126.com
 mkto-sj080172.com
+mkto-sj080251.com
 mkto-sj090063.com
 mkto-sj090132.com
 mkto-sj090157.com
@@ -1877,6 +1879,7 @@ rak7fucab.cc.rs6.net
 rapki9kab.cc.rs6.net
 rayrzagab.cc.rs6.net
 rb6paw8ab.cc.rs6.net
+rblz6kyab.cc.rs6.net
 rbozfpgbb.cc.rs6.net
 rd6m7jbbb.cc.rs6.net
 rdqilixab.cc.rs6.net

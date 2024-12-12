@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Dec 2024 04:13 UTC
-# Version: 2024.1211.0413.36
+# Last modified: 12 Dec 2024 04:17 UTC
+# Version: 2024.1212.0417.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9925
+# Number of entries: 9916
 #
 local=/tracker.guguan.000.pe/
 local=/0123456789nonexistent.com/
@@ -5688,6 +5688,7 @@ local=/mp4hydra.info/
 local=/mp4hydra.org/
 local=/mp4hydra.top/
 local=/mp4mania1.net/
+local=/mp4moviez.insure/
 local=/mrtwig.net/
 local=/mrunblock.bond/
 local=/mrunblock.pro/
@@ -7680,7 +7681,6 @@ local=/streamcomplet.com/
 local=/streamcomplet.io/
 local=/streamcomplet.me/
 local=/streamcomplets.net/
-local=/streamcouch.com/
 local=/streamdeouf.rip/
 local=/streamdor.com/
 local=/streamdreams.org/
@@ -7886,7 +7886,6 @@ local=/sunonlinebd.com/
 local=/sunplex.net/
 local=/super-torrent.pl/
 local=/super-warez.eu/
-local=/superadultgame.life/
 local=/supercanaishd.com/
 local=/supercartoons.net/
 local=/superflix.pro/
@@ -7998,7 +7997,6 @@ local=/tantifilm.makeup/
 local=/tantifilm.me/
 local=/tantifilm.media/
 local=/tantifilm.mobi/
-local=/tantifilm.mom/
 local=/tantifilm.motorcycles/
 local=/tantifilm.net/
 local=/tantifilm.nl/
@@ -8248,7 +8246,6 @@ local=/thesurgeons.org/
 local=/theswarm.me/
 local=/thetracker.org/
 local=/thetradersden.org/
-local=/thevault.bz/
 local=/thewarezscene.org/
 local=/thewatchcartoononline.tv/
 local=/thewtd.com/
@@ -8263,7 +8260,6 @@ local=/thotvids.tv/
 local=/thouvenin.cloud/
 local=/throughput.de/
 local=/thunderstresser.me/
-local=/thzhd.info/
 local=/ti.to/
 local=/tiansha.net/
 local=/tienichmaytinh.com/
@@ -8491,7 +8487,6 @@ local=/torrentkitty.la/
 local=/torrentkitty.me/
 local=/torrentkitty.net/
 local=/torrentkitty.tv/
-local=/torrentkitty.uno/
 local=/torrentkittyurl.com/
 local=/torrentleech.org/
 local=/torrentleech.pl/
@@ -8579,7 +8574,6 @@ local=/torrentsnack.com/
 local=/torrentsnipe.info/
 local=/torrentspain.com/
 local=/torrentspy.com/
-local=/torrentsrus.com/
 local=/alpha.torrenttracker.nl/
 local=/torrentturk.com/
 local=/torrenttyphoon.com/
@@ -9001,7 +8995,6 @@ local=/unblockpiratebay.net/
 local=/unblockproject.icu/
 local=/unblockproject.ink/
 local=/unblockproject.space/
-local=/ettv.unblockproject.top/
 local=/unblocksource.net/
 local=/unblockthe.net/
 local=/unblocktheship.org/
@@ -9052,7 +9045,6 @@ local=/uploadev.org/
 local=/uploadgig.com/
 local=/uploadgig.me/
 local=/uploadrar.com/
-local=/upmovies.net/
 local=/uppit.com/
 local=/vidics.uproxy2.biz/
 local=/upstore.net/
@@ -9173,7 +9165,6 @@ local=/vidcloud9.com/
 local=/vidclouds.icu/
 local=/vidembed.net/
 local=/videobin.co/
-local=/videocop.com/
 local=/tracker.videodrugproject.com/
 local=/videoelephantbd.com/
 local=/admin.videoenpoche.info/

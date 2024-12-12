@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Dec 2024 04:16 UTC
-# Version: 2024.1211.0416.55
+# Last modified: 12 Dec 2024 04:20 UTC
+# Version: 2024.1212.0420.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1492
+# Number of entries: 1490
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -54,7 +54,6 @@ local=/dns.aaflalo.me/
 local=/dns-gcp.aaflalo.me/
 local=/dns-nyc.aaflalo.me/
 local=/doh.dns.apple.com.v.aaplimg.com/
-local=/dns.aaytorr.com/
 local=/adguard.abd.ong/
 local=/dns.abdullahabas.de/
 local=/doh.abraservice.xyz/
@@ -1323,7 +1322,6 @@ local=/dns.stormycloud.org/
 local=/dns.strassmair.org/
 local=/dns.stvsk.ml/
 local=/doh.suche.org/
-local=/local.sufly.top/
 local=/dns.suhaila.dev/
 local=/resolver.sunet.se/
 local=/sunnygyl.com/
@@ -1344,7 +1342,6 @@ local=/dns.t-ipnet.de/
 local=/dns.t53.de/
 local=/tecdrive.site/
 local=/dns1.techeasy.org/
-local=/vpn.technicule.info/
 local=/doh.technochat.in/
 local=/dns.technologycage.com/
 local=/dns.technostriker.com/
@@ -1358,6 +1355,7 @@ local=/sg.teradns.org/
 local=/tx.teradns.org/
 local=/uk.teradns.org/
 local=/dns.soldier.terumi.club/
+local=/dns.tesem.dog/
 local=/cloud.tezoi.com/
 local=/dns.thebuckners.org/
 local=/dns.thegoodsource.net/
