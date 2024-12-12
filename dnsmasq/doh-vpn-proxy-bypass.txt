@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Dec 2024 04:21 UTC
-# Version: 2024.1212.0421.36
+# Last modified: 12 Dec 2024 16:24 UTC
+# Version: 2024.1212.1624.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3714
+# Number of entries: 3713
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -3512,7 +3512,6 @@ local=/vpnreactor.net/
 local=/vpnrice.com/
 local=/vpns.best/
 local=/vpnsecure.me/
-local=/vpnshazam.com/
 local=/vpnshieldapp.com/
 local=/vpnsuper.app/
 local=/vpntraffic.com/

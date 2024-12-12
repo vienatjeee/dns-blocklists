@@ -46,6 +46,7 @@ https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-anno
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hole.cert.pl/domains/v2/domains.txt
+https://hostfiles.frogeye.fr/firstparty-trackers.txt
 https://hosts.tweedge.net/malicious.txt
 https://lists.cyberhost.uk/malware.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt

@@ -46,3 +46,9 @@ log*-checkout*.tiktok*.com
 log*-normal*.tiktok*.com
 log*-platform*.tiktok*.com
 log*-tmp*.tiktok*.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1768
+# https://github.com/hagezi/dns-blocklists/issues/4587
+micro.rubiconproject.com
+digicertwc.rubiconproject.com.edgekey.net
+e8960.e2.akamaiedge.net

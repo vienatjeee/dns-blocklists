@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1733977020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1734020400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Dec 2024 04:17 UTC
-; Version: 2024.1212.0417.04
+; Last modified: 12 Dec 2024 16:20 UTC
+; Version: 2024.1212.1620.20
 ; Syntax: RPZ
-; Number of entries: 19832
+; Number of entries: 19818
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -7317,8 +7317,6 @@ ns-1.x-fins.com CNAME .
 *.ns-1.x-fins.com CNAME .
 x-oo.com CNAME .
 *.x-oo.com CNAME .
-xarcotic.com CNAME .
-*.xarcotic.com CNAME .
 bt.xbox-sky.com CNAME .
 *.bt.xbox-sky.com CNAME .
 xbox360iso.com CNAME .
@@ -11141,8 +11139,6 @@ torrentgalaxy.mx CNAME .
 *.torrentgalaxy.mx CNAME .
 uwatchfree.mx CNAME .
 *.uwatchfree.mx CNAME .
-vumoo.mx CNAME .
-*.vumoo.mx CNAME .
 wiflix.mx CNAME .
 *.wiflix.mx CNAME .
 yts.mx CNAME .
@@ -13093,8 +13089,6 @@ wcostream.net CNAME .
 *.wcostream.net CNAME .
 webbul.net CNAME .
 *.webbul.net CNAME .
-webranger.net CNAME .
-*.webranger.net CNAME .
 webrangers.net CNAME .
 *.webrangers.net CNAME .
 webstress.net CNAME .
@@ -15095,8 +15089,6 @@ vortexnetwork.org CNAME .
 *.vortexnetwork.org CNAME .
 lulz.vpndb.org CNAME .
 *.lulz.vpndb.org CNAME .
-tracker.vrpnet.org CNAME .
-*.tracker.vrpnet.org CNAME .
 vstorrent.org CNAME .
 *.vstorrent.org CNAME .
 warez-bb.org CNAME .
@@ -15127,8 +15119,6 @@ wiflix.org CNAME .
 *.wiflix.org CNAME .
 wild-bytes.org CNAME .
 *.wild-bytes.org CNAME .
-tracker1.wimix.org CNAME .
-*.tracker1.wimix.org CNAME .
 win7dl.org CNAME .
 *.win7dl.org CNAME .
 worldsrc.org CNAME .
@@ -17907,14 +17897,10 @@ thepiratebay1.top CNAME .
 *.thepiratebay1.top CNAME .
 unblockit.top CNAME .
 *.unblockit.top CNAME .
-veranime.top CNAME .
-*.veranime.top CNAME .
 share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
-tr3.ysagin.top CNAME .
-*.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .
 *.ytmp3.top CNAME .
 cb01.tours CNAME .
