@@ -1,0 +1,669 @@
+{
+  "group": {
+    "group": "Huawei Tracker",
+    "action": {
+      "do": 0,
+      "status": 1
+    }
+  },
+  "rules": [
+    {
+      "PK": "0001-metrics1-data-hicloud-com.geac.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dra.op.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dra.op.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dra-op-hicloud-com-dra.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dra-op-hicloud-com-dra.edge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-drcn.op.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dre.op.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dre.op.dbankcloud.com.edgekey.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-dre.op.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adx-drru.op.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "browsercfg-drcn.cloud.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "datacollector-dra.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "datacollector-dra.dt.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "datacollector-drcn.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "datacollector-drcn.dt.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "datacollector-dre.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "datacollector-dre.dt.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "datacollector-drru.dt.dbankcloud.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "datacollector-drru.dt.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "data.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dnkeeper.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dnkeeper.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dnkeeper.platform.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-dbankcloud-cn-dra.edge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-dbankcloud-cn-dra.region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-dbankcloud-com-dra.region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra.op.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-hicloud-com-dra.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dra-op-hicloud-com-dra.edge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-drcn.op.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-drcn.op.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dre.op.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dre.op.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-dre-op-hicloud-com-dre.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-op-hicloud-com-drcn.appacc.dbankedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "events-op-hicloud-com-drcn.appacc-region.dbankedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs.dbankcloud.asia",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-asia-dra.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-com-dra.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-com-dra.appacc-region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-com-dra.edge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-com-dra.region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-com-drcn.wec.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-com-dre.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-com-dre.appacc-region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-com-dre.edge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs-dbankcloud-com-dre.region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs.dbankcloud.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "grs.platform.dbankcloud.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hisearch-dra.dt.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logbak.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice1.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice1.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice-dra.platform.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice-dre.platform.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice-dre.platform.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice-drru.dt.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logservice.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "logtransform.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics1.data.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics1-data-hicloud-com.ge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics1-data-hicloud-com.gere.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics1-drcn.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics5.dt.dbankcloud.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics6.dt.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-dra.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-dra.dt.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-drcn.dt.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-dre.data.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics-dre.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics.dt.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "metrics.dt.hicloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "openlocation-drcn.platform.dbankcloud.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ubacollect-drcn.cloud.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ubacollect-drcn.cloud.dbankcloud.co",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    }
+  ]
+}
