@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Dec 2024 16:24 UTC
-# Version: 2024.1212.1624.47
+# Last modified: 13 Dec 2024 23:47 UTC
+# Version: 2024.1213.2347.24
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3713
 #
@@ -1489,7 +1489,6 @@ local=/dns.hshoe.cn/
 local=/hsselite.com/
 local=/html.cafe/
 local=/httpdserver.info/
-local=/dns.hugo0.moe/
 local=/dns.hujiayucc.cn/
 local=/doth.huque.com/
 local=/dns.huseynov.work/
@@ -2889,6 +2888,7 @@ local=/eu2-browse.startpage.com/
 local=/proxy.startpage.com/
 local=/proxy1.startpage.com/
 local=/proxy2.startpage.com/
+local=/proxy3.startpage.com/
 local=/us-browse.startpage.com/
 local=/us-proxy.startpage.com/
 local=/dns.startupstack.tech/

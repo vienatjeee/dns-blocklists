@@ -4,17 +4,16 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Dec 2024 00:40 UTC
-# Version: 2024.1207.0040.07
+# Last modified: 14 Dec 2024 00:36 UTC
+# Version: 2024.1214.0036.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 190
+# Number of entries: 189
 #
 local=/samsung-com.112.2o7.net/
 local=/metric.account-samsung.com/
 local=/samsungcard.data.adobedc.net/
 local=/samsungads.adsmeasurement.com/
 local=/samsung.appnext.com/
-local=/samsung.attn.tv/
 local=/samsungrum.beusable.net/
 local=/samsungscript.beusable.net/
 local=/samsung.bimtrackapp.co/

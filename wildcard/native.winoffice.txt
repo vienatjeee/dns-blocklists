@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Nov 2024 00:19 UTC
-# Version: 2024.1130.0019.25
+# Last modified: 14 Dec 2024 00:21 UTC
+# Version: 2024.1214.0021.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 343
+# Number of entries: 346
 #
 *.in.appcenter.ms
 *.applicationinsights.azure.com
@@ -88,6 +88,9 @@
 *.pgtmx1-excel-telemetry-vip.officeapps.live.com
 *.pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 *.pgtmx1-word-telemetry-vip.officeapps.live.com
+*.pgtsg1-excel-telemetry-vip.officeapps.live.com
+*.pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
+*.pgtsg1-word-telemetry-vip.officeapps.live.com
 *.pgtus1-excel-telemetry-vip.officeapps.live.com
 *.pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 *.pgtus1-word-telemetry-vip.officeapps.live.com

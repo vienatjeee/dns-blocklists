@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Nov 2024 10:02 UTC
-# Version: 2024.1125.1002.31
+# Last modified: 14 Dec 2024 00:34 UTC
+# Version: 2024.1214.0034.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 372
+# Number of entries: 369
 #
 local=/traffic-media.co.uk/
 local=/ad.intl.xiaomi.com.edgesuite.net/
@@ -128,7 +128,6 @@ local=/flow.sec.miui.com/
 local=/gamebox.sec.miui.com/
 local=/srv.greenguard.sec.miui.com/
 local=/app.greengurad.sec.miui.com/
-local=/info.sec.miui.com/
 local=/info.analysis.kp.sec.miui.com/
 local=/mazu.sec.miui.com/
 local=/nav.sec.miui.com/
@@ -220,7 +219,6 @@ local=/sgp-api.xmpush.global.xiaomi.com/
 local=/vip-api.xmpush.global.xiaomi.com/
 local=/hd.xiaomi.com/
 local=/heyue.xiaomi.com/
-local=/huodong.xiaomi.com/
 local=/huosai.xiaomi.com/
 local=/activity.hybrid.xiaomi.com/
 local=/api.hybrid.xiaomi.com/
@@ -286,7 +284,6 @@ local=/5-c3.bigdata.ctc.neo.xiaomi.com/
 local=/tj1.staging.nfcpay.xiaomi.com/
 local=/3rdupgrade.pandora.xiaomi.com/
 local=/appstore.pandora.xiaomi.com/
-local=/assistant.pandora.xiaomi.com/
 local=/bossadmin.pandora.xiaomi.com/
 local=/box.pandora.xiaomi.com/
 local=/bss.pandora.xiaomi.com/

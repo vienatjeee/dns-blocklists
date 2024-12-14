@@ -60,7 +60,6 @@ https://radar.cloudflare.com/domains
 https://radar.cloudflare.com/email-security
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
 https://raw.githubusercontent.com/2004gixxer600/BlockLists/refs/heads/main/MaliciousDomain.txt
-https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -86,6 +85,7 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
 https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
 https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/gambling.txt
+https://raw.githubusercontent.com/alsyundawy/TrustPositif/main/gambling_indonesia.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt

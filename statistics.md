@@ -16,7 +16,7 @@
   6 |      77% |   0% |     23% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      18% |   0% |     82% | Native Tracker TikTok (Fingerprinting)
-  9 |      34% |   0% |     66% | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      33% |   0% |     67% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      70% |  11% |     19% | Denylist Base
  11 |      99% |   0% |      1% | Basic Extension
  12 |      89% |   7% |      4% | Denylist Community non-Aggressive
@@ -25,8 +25,8 @@
  15 |      93% |   6% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  17 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
- 18 |      93% |   1% |      6% | Native Tracker Xiaomi (Devices)
- 19 |      88% |   2% |     10% | Native Tracker Samsung (Devices)
+ 18 |      94% |   0% |      6% | Native Tracker Xiaomi (Devices)
+ 19 |      90% |   0% |     10% | Native Tracker Samsung (Devices)
  20 |      61% |  35% |      4% | Analytics/Metrics Extension
  21 |      97% |   3% |      0% | Balanced Extension
 ```
@@ -48,12 +48,12 @@
  13 |      75% |  15% |     10% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  14 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  15 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
- 16 |      98% |   1% |      1% | Native Tracker Xiaomi (Devices)
- 17 |      97% |   2% |      1% | Native Tracker Samsung (Devices)
+ 16 |      99% |   0% |      1% | Native Tracker Xiaomi (Devices)
+ 17 |      99% |   0% |      1% | Native Tracker Samsung (Devices)
  18 |      61% |  35% |      4% | Analytics/Metrics Extension
  19 |      97% |   3% |      0% | Balanced Extension
  20 |      80% |  11% |      9% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 21 |      92% |   6% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 21 |      93% |   5% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |      83% |   9% |      8% | Advanced Extension
  23 |      64% |  21% |     15% | Denylist Community Advanced
 ```
@@ -74,16 +74,16 @@
  12 |      92% |   8% |      0% | Denylist Community non-Aggressive
  13 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  14 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
- 15 |      99% |   1% |      0% | Native Tracker Xiaomi (Devices)
- 16 |      98% |   2% |      0% | Native Tracker Samsung (Devices)
+ 15 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
+ 16 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  17 |      61% |  35% |      4% | Analytics/Metrics Extension
  18 |      97% |   3% |      0% | Balanced Extension
  19 |      82% |  11% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 20 |      93% |   6% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 20 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      84% |   9% |      7% | Advanced Extension
  22 |      68% |  21% |     11% | Denylist Community Advanced
  23 |      75% |  17% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 24 |      74% |  16% |     10% | Aggressive Extension
+ 24 |      75% |  16% |      9% | Aggressive Extension
  25 |      99% |   0% |      1% | Denylist Community Aggressive
 ```
 #### ULTIMATE
@@ -102,12 +102,12 @@
  11 |      92% |   8% |      0% | Denylist Community non-Aggressive
  12 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  13 |      98% |   0% |      2% | Native Tracker OPPO/Realme (EXPERIMENTAL)
- 14 |      99% |   1% |      0% | Native Tracker Xiaomi (Devices)
- 15 |      98% |   2% |      0% | Native Tracker Samsung (Devices)
+ 14 |     100% |   0% |      0% | Native Tracker Xiaomi (Devices)
+ 15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |      64% |  35% |      1% | Analytics/Metrics Extension
  17 |      97% |   3% |      0% | Balanced Extension
  18 |      82% |  11% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 19 |      93% |   6% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 19 |      94% |   5% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      85% |   9% |      6% | Advanced Extension
  21 |      68% |  21% |     11% | Denylist Community Advanced
  22 |      75% |  17% |      8% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
