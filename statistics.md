@@ -52,7 +52,7 @@
  17 |      99% |   0% |      1% | Native Tracker Samsung (Devices)
  18 |      61% |  35% |      4% | Analytics/Metrics Extension
  19 |      97% |   3% |      0% | Balanced Extension
- 20 |      80% |  11% |      9% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 20 |      79% |  12% |      9% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  21 |      92% |   6% |      2% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |      83% |   9% |      8% | Advanced Extension
  23 |      64% |  21% |     15% | Denylist Community Advanced
@@ -78,7 +78,7 @@
  16 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  17 |      61% |  35% |      4% | Analytics/Metrics Extension
  18 |      97% |   3% |      0% | Balanced Extension
- 19 |      82% |  11% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 19 |      81% |  12% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  20 |      93% |   6% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      84% |   9% |      7% | Advanced Extension
  22 |      68% |  21% |     11% | Denylist Community Advanced
@@ -106,7 +106,7 @@
  15 |     100% |   0% |      0% | Native Tracker Samsung (Devices)
  16 |      64% |  35% |      1% | Analytics/Metrics Extension
  17 |      97% |   3% |      0% | Balanced Extension
- 18 |      82% |  11% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 18 |      81% |  12% |      7% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  19 |      93% |   6% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      85% |   9% |      6% | Advanced Extension
  21 |      68% |  21% |     11% | Denylist Community Advanced

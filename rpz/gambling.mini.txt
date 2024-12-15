@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1734192120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1734235980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Dec 2024 16:02 UTC
-; Version: 2024.1214.1602.44
+; Last modified: 15 Dec 2024 04:13 UTC
+; Version: 2024.1215.0413.17
 ; Syntax: RPZ
-; Number of entries: 80188
+; Number of entries: 80210
 ;
 blaze.ac CNAME .
 *.blaze.ac CNAME .
@@ -6013,6 +6013,8 @@ sonssolers.cat CNAME .
 *.5401978.cc CNAME .
 55667713.cc CNAME .
 *.55667713.cc CNAME .
+55kbet3r.cc CNAME .
+*.55kbet3r.cc CNAME .
 55xin88.cc CNAME .
 *.55xin88.cc CNAME .
 633lovejili.cc CNAME .
@@ -7843,6 +7845,8 @@ allcasinobet.co CNAME .
 *.allcasinobet.co CNAME .
 amazingshrooms.co CNAME .
 *.amazingshrooms.co CNAME .
+ambimgcdn.co CNAME .
+*.ambimgcdn.co CNAME .
 anonymbet.co CNAME .
 *.anonymbet.co CNAME .
 arab-casino.co CNAME .
@@ -15697,6 +15701,8 @@ m.88vnd.com CNAME .
 *.88wbet.com CNAME .
 88y36onmt.com CNAME .
 *.88y36onmt.com CNAME .
+890022.com CNAME .
+*.890022.com CNAME .
 891495.com CNAME .
 *.891495.com CNAME .
 892-ninewin.com CNAME .
@@ -29839,6 +29845,8 @@ fuvip888.com CNAME .
 *.fuvip888.com CNAME .
 fuwin.com CNAME .
 *.fuwin.com CNAME .
+fv88taiwin.com CNAME .
+*.fv88taiwin.com CNAME .
 fvn9.com CNAME .
 *.fvn9.com CNAME .
 eu.fw-cdn.com CNAME .
@@ -31923,6 +31931,8 @@ happyslots.com CNAME .
 *.happyslots.com CNAME .
 happyspins.com CNAME .
 *.happyspins.com CNAME .
+cdn.happywinapi.com CNAME .
+*.cdn.happywinapi.com CNAME .
 hardlouis.com CNAME .
 *.hardlouis.com CNAME .
 hardmario.com CNAME .
@@ -38691,6 +38701,8 @@ mha479.com CNAME .
 *.mha479.com CNAME .
 mi777a1.com CNAME .
 *.mi777a1.com CNAME .
+miami-8888.com CNAME .
+*.miami-8888.com CNAME .
 miamicasinoclub.com CNAME .
 *.miamicasinoclub.com CNAME .
 miamidice.com CNAME .
@@ -43889,6 +43901,8 @@ ra365p.com CNAME .
 *.ra365p.com CNAME .
 ra6616.com CNAME .
 *.ra6616.com CNAME .
+ra8988.com CNAME .
+*.ra8988.com CNAME .
 rab0na-9980.com CNAME .
 *.rab0na-9980.com CNAME .
 rabona.com CNAME .
@@ -45367,6 +45381,8 @@ s855699.com CNAME .
 *.s855699.com CNAME .
 s88677.com CNAME .
 *.s88677.com CNAME .
+s88plus.com CNAME .
+*.s88plus.com CNAME .
 s99900.com CNAME .
 *.s99900.com CNAME .
 s999b.com CNAME .
@@ -46799,6 +46815,8 @@ slots500.com CNAME .
 *.slots500.com CNAME .
 slots69.com CNAME .
 *.slots69.com CNAME .
+slots69mvp.com CNAME .
+*.slots69mvp.com CNAME .
 slots77.com CNAME .
 *.slots77.com CNAME .
 slots78.com CNAME .
@@ -60023,6 +60041,8 @@ gacorvegas338.me CNAME .
 *.gacorvegas338.me CNAME .
 gamacasino.me CNAME .
 *.gamacasino.me CNAME .
+gametop88.me CNAME .
+*.gametop88.me CNAME .
 hellstore.me CNAME .
 *.hellstore.me CNAME .
 hoppg.me CNAME .
@@ -60085,6 +60105,8 @@ mb6688.me CNAME .
 *.mb6688.me CNAME .
 mobilecasinos.me CNAME .
 *.mobilecasinos.me CNAME .
+moon89.me CNAME .
+*.moon89.me CNAME .
 myan88.me CNAME .
 *.myan88.me CNAME .
 nbet.me CNAME .

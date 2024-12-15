@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Dec 2024 16:21 UTC
-# Version: 2024.1214.1621.49
+# Last modified: 15 Dec 2024 04:32 UTC
+# Version: 2024.1215.0432.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3715
+# Number of entries: 3714
 #
 local=/0000a-fast-proxy.de/
 local=/003153.xyz/
@@ -1561,7 +1561,6 @@ local=/internetbypass.com/
 local=/internetcloak.com/
 local=/intervpn.com/
 local=/intl-alliance.com/
-local=/iot-dns.com/
 local=/ioxy.de/
 local=/ipbuzz.net/
 local=/ipchanging.com/
